@@ -1,0 +1,1432 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>NMQ</name>
+			<longname>Antimasque</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-05-29</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>High Fencing</name>
+			<text>When High Fencing enters, create a Weapon token. (It&apos;s an Equipment with &quot;Equipped creature gets +1/+1&quot; and equip {2})
+Equipment you control are copies of the creature they&apos;re attached to, except they&apos;re Equipment artifacts with equip {2}.</text>
+			<set rarity="rare" picurl="https://mirage-xel.github-io/sets/NMQ-files/img/6_High Fencing.png" num="6">NMQ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Subway Maintenance Tech</name>
+			<text>Activated abilities of Subway Maintenance Tech cost {2} less to activate. This can&apos;t reduce the mana in that cost to less than one mana. (In any zone.)
+Scavenge {X}{R}{R}, exile nine minus X other cards from your graveyard. ({X}{R}{R}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card&apos;s power on target creature. Scavenge only as a sorcery.)</text>
+			<set rarity="rare" picurl="https://mirage-xel.github-io/sets/NMQ-files/img/53_Subway Maintenance Tech.png" num="53">NMQ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Vision Pirate</name>
+			<text>When Vision Pirate enters, conjure a duplicate of target nontoken permanent you control into your graveyard. The duplicate gains unearth {3}. ({3}: Return that card from your graveyard to the battlefield. Exile it at the beginning of the end step or if it would leave the battlefield. Unearth only as a sorcery.)</text>
+			<set rarity="rare" picurl="https://mirage-xel.github-io/sets/NMQ-files/img/42_Vision Pirate.png" num="42">NMQ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vampire Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Plotkeeper</name>
+			<text>At the beginning of combat on your turn, target creature you control and permanents with the same name as it gain &quot;{3}{U}: Create a token that&apos;s a copy of this permanent, then you may return it to its owner&apos;s hand.&quot; until end of turn.</text>
+			<set rarity="rare" picurl="https://mirage-xel.github-io/sets/NMQ-files/img/24_Plotkeeper.png" num="24">NMQ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Toy Spider</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Madsel, Runaway Princess</name>
+			<text>When Madsel, Runaway Princess enters, create X Weapon tokens. (They&apos;re Equipment with &quot;Equipped creature gets +1/+1&quot; and equip {2})
+Whenever Madsel, Runaway Princess attacks, for each Equipment attached to it, conjure a duplicate of target nontoken permanent into its owner&apos;s graveyard.</text>
+			<set rarity="rare" picurl="https://mirage-xel.github-io/sets/NMQ-files/img/9_Madsel, Runaway Princess.png" num="9">NMQ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>XWW</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Idlewild Puppet Theater</name>
+			<text>Create a dynamized 1/1 white Toy creature token. (A dynamized permanent may activate each of its nonloyalty abilities for free once each turn.).
+Exile Idlewild Puppet Theater. When you do, creatures you control gain &quot;{3}{W}: You may cast a copy of Idlewild Puppet Theater. Activate only once.&quot;</text>
+			<set rarity="rare" picurl="https://mirage-xel.github-io/sets/NMQ-files/img/7_Idlewild Puppet Theater.png" num="7">NMQ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ingke, Relucant Thief</name>
+			<text>When Ingke, Relucant Thief enters, conjure a card named Bridge From Below into your hand.
+Creatures you control have &quot;{T}: The next time a card would be put into an opponent&apos;s graveyard this turn, exile it instead.&quot;</text>
+			<set rarity="rare" picurl="https://mirage-xel.github-io/sets/NMQ-files/img/34_Ingke, Relucant Thief.png" num="34">NMQ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Pale</name>
+			<text>Destroy target creature. Its controller creates a token that&apos;s a copy of if, except it&apos;s a 1/1 Insect with &quot;At the beginning of your end step, sacrifice this creature.&quot;</text>
+			<set rarity="rare" picurl="https://mirage-xel.github-io/sets/NMQ-files/img/38_Pale.png" num="38">NMQ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>BB</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Doll Enthusiast</name>
+			<text>Doll Enthusiast enters tapped. When it does, create a dynamized 1/1 white Toy creature token. (A dynamized permanent may activate each of its nonloyalty abilities for free once each turn.).
+{1}: If Doll Enthusiast is in your graveyard, target creature you control gains &quot;{2}: Return target card named Doll Enthusiast from your graveyard o the battlefield.&quot; until end of turn.</text>
+			<set rarity="rare" picurl="https://mirage-xel.github-io/sets/NMQ-files/img/31_Doll Enthusiast.png" num="31">NMQ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Fan</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Display Model</name>
+			<text>Target creature gets +3/+3 and loses its printed activated abilities until end of turn. Dynamize it until end of turn. (A dynamized permanent may activate each of its nonloyalty abilities for free once each turn.).</text>
+			<set rarity="rare" picurl="https://mirage-xel.github-io/sets/NMQ-files/img/62_Display Model.png" num="62">NMQ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Negatiive Capability</name>
+			<text>{2}{G}: If Negatiive Capability isn&apos;t dynamized, put two +1/+1 counters on it and dynamize it. (A dynamized permanent may activate each of its nonloyalty abilities for free once each turn.).</text>
+			<set rarity="rare" picurl="https://mirage-xel.github-io/sets/NMQ-files/img/65_Negatiive Capability.png" num="65">NMQ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Nightmare</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lose It</name>
+			<text>Target creature gains &quot;{2}: This creature gets +2/+2 until end of turn&quot;. until end of turn. It fights target creature you don&apos;t control.</text>
+			<set rarity="rare" picurl="https://mirage-xel.github-io/sets/NMQ-files/img/64_Lose It.png" num="64">NMQ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Bearer Of Visions</name>
+			<text>Each card in a graveyard is a copy of Bearer Of Visions. 
+Scavenge {5} ({5}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card&apos;s power on target creature. Scavenge only as a sorcery.)</text>
+			<set rarity="rare" picurl="https://mirage-xel.github-io/sets/NMQ-files/img/58_Bearer Of Visions.png" num="58">NMQ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>GG</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fatuous Clockworks</name>
+			<text>Fatuous Clockworks enters tapped. When it does, conjure a duplicate of it into your graveyard.
+{T}: Add {U}.
+{5}, Exile Fatuous Clockworks from your graveyard: Draw a card.</text>
+			<set rarity="rare" picurl="https://mirage-xel.github-io/sets/NMQ-files/img/76_Fatuous Clockworks.png" num="76">NMQ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Astrologaster</name>
+			<text>Each other creature or creature card you own in any zone has another instance of its abilities.</text>
+			<set rarity="rare" picurl="https://mirage-xel.github-io/sets/NMQ-files/img/57_Astrologaster.png" num="57">NMQ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Thunderous Clockworks</name>
+			<text>Thunderous Clockworks enters tapped. When it does, conjure a duplicate of it into your graveyard.
+{T}: Add {R}.
+{5}, Exile Thunderous Clockworks from your graveyard: Draw a card.</text>
+			<set rarity="rare" picurl="https://mirage-xel.github-io/sets/NMQ-files/img/80_Thunderous Clockworks.png" num="80">NMQ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Obsequious Clockworks</name>
+			<text>Obsequious Clockworks enters tapped. When it does, conjure a duplicate of it into your graveyard.
+{T}: Add {W}.
+{5}, Exile Obsequious Clockworks from your graveyard: Draw a card.</text>
+			<set rarity="rare" picurl="https://mirage-xel.github-io/sets/NMQ-files/img/78_Obsequious Clockworks.png" num="78">NMQ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Portentious Clockworks</name>
+			<text>Portentious Clockworks enters tapped. When it does, conjure a duplicate of it into your graveyard.
+{T}: Add {B}.
+{5}, Exile Portentious Clockworks from your graveyard: Draw a card.</text>
+			<set rarity="rare" picurl="https://mirage-xel.github-io/sets/NMQ-files/img/79_Portentious Clockworks.png" num="79">NMQ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Melifluous Clockworks</name>
+			<text>Melifluous Clockworks enters tapped. When it does, conjure a duplicate of it into your graveyard.
+{T}: Add {G}.
+{5}, Exile Melifluous Clockworks from your graveyard: Draw a card.</text>
+			<set rarity="rare" picurl="https://mirage-xel.github-io/sets/NMQ-files/img/77_Melifluous Clockworks.png" num="77">NMQ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Fall Out Of Time</name>
+			<text>Fall Out Of Time deals 3 damage to any target. 
+When you cast this spell, target creature you control gains &quot;{3}: Copy target spell named Fall Out Of Time.&quot; (You must choose the same target.&quot;)</text>
+			<set rarity="rare" picurl="https://mirage-xel.github-io/sets/NMQ-files/img/46_Fall Out Of Time.png" num="46">NMQ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Oslana, Robotic Battle Maid</name>
+			<text>You may have other artifacts you control enter as copies of Oslana.
+If Oslana would gain an activated or triggered ability, instead each creature you control named Oslana, Robotic Battle Maid gains that ability.
+{3}{W}: Dynamize Oslana. (A dynamized permanent may activate each of its nonloyalty abilities for free once each turn.).</text>
+			<set rarity="rare" picurl="https://mirage-xel.github-io/sets/NMQ-files/img/13_Oslana, Robotic Battle Maid.png" num="13">NMQ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Toy Soldier Servant</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Courtly Mercenary</name>
+			<text>Courtly Mercenary enters tapped. When it does, create a tapped Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)
+Courtly Mercenary has all activated abilities of artifacts you control, except they cost &quot;Sacrifice this artifact&quot; less to activate.</text>
+			<set rarity="rare" picurl="https://mirage-xel.github-io/sets/NMQ-files/img/45_Courtly Mercenary.png" num="45">NMQ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Mercenary</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Heart Of Fairytale</name>
+			<text>At the beginning of your upkeep, put a loyalty counter on each permanent you control with a loyalty ability.
+{2}, {T}: Each nonland permanent you control gains an additional instance of each nonloyalty activated ability it has, except it&apos;s a loyalty ability that costs [-3].</text>
+			<set rarity="rare" picurl="https://mirage-xel.github-io/sets/NMQ-files/img/71_The Heart Of Fairytale.png" num="71">NMQ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Cold Feet</name>
+			<text>Exile target creature until its controller&apos;s next end step. When it enters, exile it until its controller&apos;s next end step.</text>
+			<set rarity="rare" picurl="https://mirage-xel.github-io/sets/NMQ-files/img/17_Cold Feet.png" num="17">NMQ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Counsel From Nowhere</name>
+			<text>Flying
+{1}: Counsel From Nowhere becomes a copy of another card in your graveyard. (Until it leaves your graveyard.)</text>
+			<set rarity="rare" picurl="https://mirage-xel.github-io/sets/NMQ-files/img/30_Counsel From Nowhere.png" num="30">NMQ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Veteran Ghoulcaller</name>
+			<text>Menace
+Whenever a card in your graveyard is put into your hand, conjure a duplicate of that card into your hand.</text>
+			<set rarity="rare" picurl="https://mirage-xel.github-io/sets/NMQ-files/img/41_Veteran Ghoulcaller.png" num="41">NMQ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Borlian Worthy</name>
+			<text>Prowess
+When Borlian Worthy&apos;s power is 3 or greater, dynamize it. (A dynamized permanent may activate each of its nonloyalty abilities for free once each turn.).</text>
+			<set rarity="rare" picurl="https://mirage-xel.github-io/sets/NMQ-files/img/43_Borlian Worthy.png" num="43">NMQ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Parasitic Vulture</name>
+			<text>Flying
+Whenever one or more cards are put into your graveyard from your hand or library, return one of them to your hand and conjure a duplicate of it into your graveyard.</text>
+			<set rarity="rare" picurl="https://mirage-xel.github-io/sets/NMQ-files/img/39_Parasitic Vulture.png" num="39">NMQ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Harpy Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Flash Of Steel</name>
+			<text>Choose one. If you cast this spell, target opponent copies it and chooses each mode not chosen—
+• Destroy up to one target creature.
+• Return target creature card from your graveyard to your hand.
+Entwine {3}</text>
+			<set rarity="rare" picurl="https://mirage-xel.github-io/sets/NMQ-files/img/33_Flash Of Steel.png" num="33">NMQ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Keeper Of The Rosary</name>
+			<text>Flash
+When Keeper Of The Rosary enters, choose a card name. 
+Activated abilities of sources with the chosen name and of sources without a legal card name can&apos;t be activated.</text>
+			<set rarity="rare" picurl="https://mirage-xel.github-io/sets/NMQ-files/img/8_Keeper Of The Rosary.png" num="8">NMQ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Script Change</name>
+			<text>Counter target spell.
+Create a dynamized 1/1 white Toy creature token. (A dynamized permanent may activate each of its nonloyalty abilities for free once each turn.)</text>
+			<set rarity="rare" picurl="https://mirage-xel.github-io/sets/NMQ-files/img/26_Script Change.png" num="26">NMQ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Sinister Reflections</name>
+			<text>Conjure a duplicate of each of up to two target nontoken creatures you control into your hand.</text>
+			<set rarity="rare" picurl="https://mirage-xel.github-io/sets/NMQ-files/img/28_Sinister Reflections.png" num="28">NMQ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ceremonial Second</name>
+			<text>When Ceremonial Second enters, up to one target creature becomes an Equipment artifact with equip {2}. (Indefinitely)
+If s triggered ability of an equipment attached to Ceremonial Second would trigger, it triggers an additional time.</text>
+			<set rarity="rare" picurl="https://mirage-xel.github-io/sets/NMQ-files/img/16_Ceremonial Second.png" num="16">NMQ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Nupital Page</name>
+			<text>Whenever Nupital Page attacks, creatures you control gain &quot;{R}: This creature gains +1/+0 until end of turn.&quot;</text>
+			<set rarity="rare" picurl="https://mirage-xel.github-io/sets/NMQ-files/img/50_Nupital Page.png" num="50">NMQ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Toy Child Servant</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Abscond</name>
+			<text>Exile target creature. Its controller conjures two basic land cards of their choice into their hand.</text>
+			<set rarity="rare" picurl="https://mirage-xel.github-io/sets/NMQ-files/img/1_Abscond.png" num="1">NMQ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Vendor Of Roses</name>
+			<text>Creatures and artifacts you control have &quot;{T}, Tap an untapped creature you control named Vendor of Roses: Create a Treasure token.&quot;
+Whenever you cast a noncreature spell, untap Vendor Of Roses.</text>
+			<set rarity="rare" picurl="https://mirage-xel.github-io/sets/NMQ-files/img/54_Vendor Of Roses.png" num="54">NMQ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rabbitkeeper</name>
+			<text>When Rabbitkeeper enters, create a dynamized 1/1 white Toy creature token. (A dynamized permanent may activate each of its nonloyalty abilities for free once each turn.).
+Each other creature or creature card you own in any zone has every name.</text>
+			<set rarity="rare" picurl="https://mirage-xel.github-io/sets/NMQ-files/img/67_Rabbitkeeper.png" num="67">NMQ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Orb-Bearer</name>
+			<text>Flying 
+Whenever you cast a noncreature spell, create a 1/1 blue Orb creature token with &quot;{3}: This creature&apos;s base power and toughness become 3/3&quot;
+{4}{U}: Dynamize each Orb token you control.</text>
+			<set rarity="rare" picurl="https://mirage-xel.github-io/sets/NMQ-files/img/22_Orb-Bearer.png" num="22">NMQ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Servant</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Curtsy</name>
+			<text>Return target permanent card from your graveyard to your hand.
+Draw a card.</text>
+			<set rarity="rare" picurl="https://mirage-xel.github-io/sets/NMQ-files/img/61_Curtsy.png" num="61">NMQ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Introduce the Principals</name>
+			<text>As an additional cost to cast this spell, discard a card.
+Conjure two duplicates of the discarded card into your hand.</text>
+			<set rarity="rare" picurl="https://mirage-xel.github-io/sets/NMQ-files/img/48_Introduce the Principals.png" num="48">NMQ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Magisanct Peregrine</name>
+			<text>When Magisanct Peregrine enters, exile target artifact or enchantment until Magisanct Peregrine leaves the battlefield.
+Unearth {W} ({W}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the end step or if it would leave the battlefield. Unearth only as a sorcery.)</text>
+			<set rarity="rare" picurl="https://mirage-xel.github-io/sets/NMQ-files/img/11_Magisanct Peregrine.png" num="11">NMQ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cletic</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Castle Krimnacht</name>
+			<text>{T}: Add {C}.
+{1}, {T}: Add one mana of any color.
+{4}, {T}: Dynamize Castle Krimnacht, (A dynamized permanent may activate each of its nonloyalty abilities for free once each turn.).</text>
+			<set rarity="rare" picurl="https://mirage-xel.github-io/sets/NMQ-files/img/75_Castle Krimnacht.png" num="75">NMQ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Castle Librarian</name>
+			<text>When Castle Librarian enters, create a Clue token. (It&apos;s an artifact with &quot;{2}, Sacrifice this artifact: Draw a card.)
+{4}{U}: Dynamize each artifact you control without a legal name. (A dynamized permanent may activate each of its nonloyalty abilities for free once each turn.).</text>
+			<set rarity="rare" picurl="https://mirage-xel.github-io/sets/NMQ-files/img/15_Castle Librarian.png" num="15">NMQ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Show Must Go On</name>
+			<text>Take an extra turn after tbs one. During that turn, activated abilities you activate cost {2} less to activate. This can&apos;t reduce the mana in that cost to less than one mana.</text>
+			<set rarity="rare" picurl="https://mirage-xel.github-io/sets/NMQ-files/img/27_The Show Must Go On.png" num="27">NMQ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4UUU</manacost>
+				<cmc>7</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Magisanct Binding</name>
+			<text>When Magisanct Binding enters, exile target creature until Magisanct Binding leaves the battlefield.
+{1}{W}: Exile target permanent you control until Magisanct Binding leaves the battlefield.</text>
+			<set rarity="rare" picurl="https://mirage-xel.github-io/sets/NMQ-files/img/10_Magisanct Binding.png" num="10">NMQ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Scrapwork Mutt</name>
+			<text>When this creature enters, you may discard a card. If you do, draw a card.
+Unearth {1}{R}} ({1}{R}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the end step or if it would leave the battlefield. Unearth only as a sorcery.)</text>
+			<set rarity="rare" picurl="https://mirage-xel.github-io/sets/NMQ-files/img/74_Scrapwork Mutt.png" num="74">NMQ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Dog</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Moon&apos;s Request</name>
+			<text>Moon&apos;s Request deals 3 damage to target attacking or blocking creature.
+Exile Moon&apos;s Request and six other cards from your graveyard: Draw a card.</text>
+			<set rarity="rare" picurl="https://mirage-xel.github-io/sets/NMQ-files/img/12_Moon&apos;s Request.png" num="12">NMQ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Darling Rider</name>
+			<text>When Darling Rider enters, create a dynamized 1/1 white Toy creature token. (A dynamized permanent may activate each of its nonloyalty abilities for free once each turn.)
+Creatures you control have &quot;{T}: Target creature gets +1/+1 until end of turn. Activate only as a sorcery.&quot;</text>
+			<set rarity="rare" picurl="https://mirage-xel.github-io/sets/NMQ-files/img/4_Darling Rider.png" num="4">NMQ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Child</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Yen</name>
+			<text>Exile the top two cards of your library, then conjure a duplicate of one of them into your graveyard. Until end of turn, you may play those cards.</text>
+			<set rarity="rare" picurl="https://mirage-xel.github-io/sets/NMQ-files/img/55_Yen.png" num="55">NMQ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Regal Mourner</name>
+			<text>Whenever Regal Mourner attacks, return target creature card from your graveyard to the battlefield. It becomes a 1/1 Bird with flying and loses all abilities.</text>
+			<set rarity="rare" picurl="https://mirage-xel.github-io/sets/NMQ-files/img/40_Regal Mourner.png" num="40">NMQ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Celestial Lowly</name>
+			<text>Flying, vigilance
+{T}: Copy target activated ability. You may choose new targets for the copy. (Mana abilities can&apos;t be targeted.)</text>
+			<set rarity="rare" picurl="https://mirage-xel.github-io/sets/NMQ-files/img/3_Celestial Lowly.png" num="3">NMQ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Angel Servant</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Magisanct Reliquary</name>
+			<text>Create a token that&apos;s a copy of target creature, except it&apos;s an Equipment with equip {2} and &quot;This artifact has no other nonequip abilities unless it&apos;s attached to a creature.&quot;</text>
+			<set rarity="rare" picurl="https://mirage-xel.github-io/sets/NMQ-files/img/20_Magisanct Reliquary.png" num="20">NMQ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Hilda, Magisanct Surperior</name>
+			<text>Once each turn, whenever you activate a nonmana ability, you may create an artifact token with that ability, except it has &quot;Whenever you activate an ability of this artifact for the third time each turn, it becomes a 3/2 Angel creature with flying.&quot;</text>
+			<set rarity="rare" picurl="https://mirage-xel.github-io/sets/NMQ-files/img/19_Hilda, Magisanct Surperior.png" num="19">NMQ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Arbitration Court Angel</name>
+			<text>Flying
+Whenever you exile Arbitration Court Angel or another nontoken creature you control, conjure a duplicate of it into your graveyard.
+Unearth {5}{W} ({5}{W}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the end step or if it would leave the battlefield. Unearth only as a sorcery.)</text>
+			<set rarity="rare" picurl="https://mirage-xel.github-io/sets/NMQ-files/img/2_Arbitration Court Angel.png" num="2">NMQ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Angel Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gossip</name>
+			<text>Draw a card.
+{3}{U}, Exile Gossip from your graveyard: Conjure a card named Gossip into your hand.</text>
+			<set rarity="rare" picurl="https://mirage-xel.github-io/sets/NMQ-files/img/18_Gossip.png" num="18">NMQ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Resolve</name>
+			<text>Target creature you control gains hexproof and indestructible until end of turn. Create two dynamized Weapon tokens attached to it. (They&apos;re Equipment with &quot;Equipped creature gets +1/+1&quot; and equip {2}. A dynamized permanent may activate each of its nonloyalty abilities for free once each turn)</text>
+			<set rarity="rare" picurl="https://mirage-xel.github-io/sets/NMQ-files/img/14_Resolve.png" num="14">NMQ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Magisanct Anchoresss</name>
+			<text>When Magisanct Anchoresss enters create a tapped artifact token named Relic.
+Artifacts you control have &quot;{T}, Pay 2 life: Put a +1/+1 counter on target creature you control named Magisanct Anchoresss.&quot;</text>
+			<set rarity="rare" picurl="https://mirage-xel.github-io/sets/NMQ-files/img/36_Magisanct Anchoresss.png" num="36">NMQ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Plush Gallery</name>
+			<text>Enchant creature 
+Enchanted creature loses all abilities and is a dynamized 1/1 Toy.</text>
+			<set rarity="rare" picurl="https://mirage-xel.github-io/sets/NMQ-files/img/25_Plush Gallery.png" num="25">NMQ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Fan The Collection</name>
+			<text>Fan The Collection deals X damage to any nonplayer target. Create X dynamized Weapon tokens. (They&apos;re Equipment with &quot;Equipped creature gets +1/+1&quot; and equip {2}. A dynamized permanent may activate each of its nonloyalty abilities for free once each turn)</text>
+			<set rarity="rare" picurl="https://mirage-xel.github-io/sets/NMQ-files/img/47_Fan The Collection.png" num="47">NMQ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>XRR</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Overstimulate</name>
+			<text>Destroy target artifact. If it was a token, copy this spell and you may choose new targets for the copy.
+{2}{R}, Discard Overstimulate and another card: Draw two cards.</text>
+			<set rarity="rare" picurl="https://mirage-xel.github-io/sets/NMQ-files/img/51_Overstimulate.png" num="51">NMQ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Armature Wright</name>
+			<text>Whenever Armature Wright attacks, conjure a duplicate of it into your graveyard.
+Scavenge {3}{G}{G} ({3}{G}{G}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card&apos;s power on target creature. Scavenge only as a sorcery.)</text>
+			<set rarity="rare" picurl="https://mirage-xel.github-io/sets/NMQ-files/img/56_Armature Wright.png" num="56">NMQ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Toy Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Brutish Foreigner</name>
+			<text>Whenever you activate an ability of Brutish Foreigner, it deals 2 damage to each opponent.</text>
+			<set rarity="rare" picurl="https://mirage-xel.github-io/sets/NMQ-files/img/44_Brutish Foreigner.png" num="44">NMQ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon Barbarian</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Paradise Mantle</name>
+			<text>Equipped creature has &quot;{T}: Add one mana of any color.&quot; 
+Equip {0}</text>
+			<set rarity="rare" picurl="https://mirage-xel.github-io/sets/NMQ-files/img/72_Paradise Mantle.png" num="72">NMQ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Dreaded Future</name>
+			<text>Target opponent reveals their hand and the top card of their library. Exile two nonland cards from among them, then that player draws a card.</text>
+			<set rarity="rare" picurl="https://mirage-xel.github-io/sets/NMQ-files/img/32_Dreaded Future.png" num="32">NMQ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Raucous Wedding Band</name>
+			<text>Whenever Raucous Wedding Band attacks, target creature you control gains &quot;{3}{G}: Create a token that&apos;s a copy of this creature, except it&apos;s a 3/2 Human Bard named Raucous Wedding Band. Activate only once&quot;. That token gains this ability.</text>
+			<set rarity="rare" picurl="https://mirage-xel.github-io/sets/NMQ-files/img/68_Raucous Wedding Band.png" num="68">NMQ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Bard</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fencing Maester</name>
+			<text>Vigilance
+Whenever Fencing Maester enters or attacks, create a Weapon token attached to target creature you control. It gains all activated abilities of that creature.</text>
+			<set rarity="rare" picurl="https://mirage-xel.github-io/sets/NMQ-files/img/5_Fencing Maester.png" num="5">NMQ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hermit Artist</name>
+			<text>Whenever you activate an ability of a creature, put a +1/+1 counter on it.
+{3}{G}: Draw a card for each +1/+1 counter on target creature you control. Activate only once.</text>
+			<set rarity="rare" picurl="https://mirage-xel.github-io/sets/NMQ-files/img/63_Hermit Artist.png" num="63">NMQ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Bard</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Breach of Decorum</name>
+			<text>Each creature you control gains trample, vigilance, and &quot;{T}: This creature gets +1/+1 until end of turn&quot; until end of turn.</text>
+			<set rarity="rare" picurl="https://mirage-xel.github-io/sets/NMQ-files/img/59_Breach of Decorum.png" num="59">NMQ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Null Witch</name>
+			<text>Activated abilities of creatures can&apos;t be activated.</text>
+			<set rarity="rare" picurl="https://mirage-xel.github-io/sets/NMQ-files/img/21_Null Witch.png" num="21">NMQ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Perfect Little Universe</name>
+			<text>Whenever you activate an ability, if it isn&apos;t a mana ability, copy it twice. You may choose new targets for the copies.</text>
+			<set rarity="rare" picurl="https://mirage-xel.github-io/sets/NMQ-files/img/23_Perfect Little Universe.png" num="23">NMQ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Lines Of Descent</name>
+			<text>Conjure duplicates of up to two target creatures you control and/or creature cards in your graveyard.into your graveyard. Those duplicates gain scavenge {4} ({4}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card&apos;s power on target creature. Scavenge only as a sorcery.)</text>
+			<set rarity="rare" picurl="https://mirage-xel.github-io/sets/NMQ-files/img/35_Lines Of Descent.png" num="35">NMQ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Mirrorbinder</name>
+			<text>Mirrorbinder has all activated abilities of creature cards in your graveyard, except they cost &quot;Exile this card from your graveyard&quot; less to activate.</text>
+			<set rarity="rare" picurl="https://mirage-xel.github-io/sets/NMQ-files/img/37_Mirrorbinder.png" num="37">NMQ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Production Kit</name>
+			<text>{T}: Add {C}.
+{T}: Add {C}{C}. Spend this mana only to activate abilities.</text>
+			<set rarity="rare" picurl="https://mirage-xel.github-io/sets/NMQ-files/img/73_Production Kit.png" num="73">NMQ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Anatomical Student</name>
+			<text>Whenever you sacrifice a creature or artifact, that permanent gains unearth {1}{B}. (In your graveyard. {1}{B}: Return this card from your graveyard to the battlefield. Exile it at the beginning of the end step or if it would leave the battlefield. Unearth only as a sorcery.)</text>
+			<set rarity="rare" picurl="https://mirage-xel.github-io/sets/NMQ-files/img/29_Anatomical Student.png" num="29">NMQ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Doctor</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Court Pharmacist</name>
+			<text>Whenever Court Pharmacist or another nontoken creature you control enters, if it wasn&apos;t cast or if no mana was spent to cast it, put two +1/+1 scouters on it.</text>
+			<set rarity="rare" picurl="https://mirage-xel.github-io/sets/NMQ-files/img/60_Court Pharmacist.png" num="60">NMQ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Doctor</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Garish Bauble</name>
+			<text>Garish Bauble is dynamized. (A dynamized permanent may activate each of its nonloyalty abilities for free once each turn.).
+When Garish Bauble enters, draw a card.</text>
+			<set rarity="rare" picurl="https://mirage-xel.github-io/sets/NMQ-files/img/70_Garish Bauble.png" num="70">NMQ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Sentimental Violinist</name>
+			<text>Sentimental Violinist can&apos;t block.
+Whenever Sentimental Violinist attacks, exile the top card of your library. Target creature or artifact gains &quot;{2}{R}: You may play the exiled card this turn.&quot; until end of turn.</text>
+			<set rarity="rare" picurl="https://mirage-xel.github-io/sets/NMQ-files/img/52_Sentimental Violinist.png" num="52">NMQ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Bard</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Intrusive Thought</name>
+			<text>Trample
+When Intrusive Thought enters, return target instant or sorcery card from your graveyard to your hand.
+Whenever one or more cards leave our graveyard, conjure a duplicate of one of them into exile. You may play it this turn.</text>
+			<set rarity="rare" picurl="https://mirage-xel.github-io/sets/NMQ-files/img/49_Intrusive Thought.png" num="49">NMQ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Nightmare</type>
+				<maintype>Creature</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tear In The Curtain</name>
+			<text>Trample
+When Tear In The Curtain enters, target creature gains &quot;{3}: Conjure a card named Tear In The Curtain into your hand&quot; until end of turn.</text>
+			<set rarity="rare" picurl="https://mirage-xel.github-io/sets/NMQ-files/img/69_Tear In The Curtain.png" num="69">NMQ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Nightmare</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Prop Failure</name>
+			<text>Exile target artifact or enchantment and up to two cards from its owner&apos;s graveyard.
+Discard this card: Target creature gains &quot;{3}, {T}: Draw a card&quot; until end of turn.&quot;</text>
+			<set rarity="rare" picurl="https://mirage-xel.github-io/sets/NMQ-files/img/66_Prop Failure.png" num="66">NMQ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Toy NMQ</name>
+			<text>(A dynamized permanent may activate each of its nonloyalty abilities for free once each turn.).</text>
+			<set rarity="rare" picurl="https://mirage-xel.github-io/sets/NMQ-files/img/2t_Toy.png" num="2">NMQ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Toy</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Weapon NMQ</name>
+			<text>Equipped creature gets +1/+1 
+Equip {2}</text>
+			<set rarity="rare" picurl="https://mirage-xel.github-io/sets/NMQ-files/img/3t_Weapon.png" num="3">NMQ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment Weapon</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Copy NMQ</name>
+			<text>(Use this token to represent a copy of a permanent.)</text>
+			<set rarity="rare" picurl="https://mirage-xel.github-io/sets/NMQ-files/img/1t_Copy.png" num="1">NMQ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token</type>
+				<maintype>Token</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

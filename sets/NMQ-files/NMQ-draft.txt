@@ -1,0 +1,915 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "High Fencing",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/6_High Fencing.png"
+			}
+		},
+		{
+			"name": "Subway Maintenance Tech",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/53_Subway Maintenance Tech.png"
+			}
+		},
+		{
+			"name": "Vision Pirate",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Vampire Wizard",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/42_Vision Pirate.png"
+			}
+		},
+		{
+			"name": "Plotkeeper",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Toy Spider",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/24_Plotkeeper.png"
+			}
+		},
+		{
+			"name": "Madsel, Runaway Princess",
+			"rarity": "special",
+			"mana_cost": "{X}{W}{W}",
+			"type": "Legendary Creature — Human",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/9_Madsel, Runaway Princess.png"
+			}
+		},
+		{
+			"name": "Idlewild Puppet Theater",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/7_Idlewild Puppet Theater.png"
+			}
+		},
+		{
+			"name": "Ingke, Relucant Thief",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Creature — Human Rogue",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/34_Ingke, Relucant Thief.png"
+			}
+		},
+		{
+			"name": "Pale",
+			"rarity": "special",
+			"mana_cost": "{B}{B}",
+			"type": "Instant",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/38_Pale.png"
+			}
+		},
+		{
+			"name": "Doll Enthusiast",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Fan",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/31_Doll Enthusiast.png"
+			}
+		},
+		{
+			"name": "Display Model",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/62_Display Model.png"
+			}
+		},
+		{
+			"name": "Negatiive Capability",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Creature — Nightmare",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/65_Negatiive Capability.png"
+			}
+		},
+		{
+			"name": "Lose It",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/64_Lose It.png"
+			}
+		},
+		{
+			"name": "Bearer Of Visions",
+			"rarity": "special",
+			"mana_cost": "{G}{G}",
+			"type": "Creature — Human Warlock",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/58_Bearer Of Visions.png"
+			}
+		},
+		{
+			"name": "Fatuous Clockworks",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/76_Fatuous Clockworks.png"
+			}
+		},
+		{
+			"name": "Astrologaster",
+			"rarity": "special",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/57_Astrologaster.png"
+			}
+		},
+		{
+			"name": "Thunderous Clockworks",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/80_Thunderous Clockworks.png"
+			}
+		},
+		{
+			"name": "Obsequious Clockworks",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/78_Obsequious Clockworks.png"
+			}
+		},
+		{
+			"name": "Portentious Clockworks",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/79_Portentious Clockworks.png"
+			}
+		},
+		{
+			"name": "Melifluous Clockworks",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/77_Melifluous Clockworks.png"
+			}
+		},
+		{
+			"name": "Fall Out Of Time",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/46_Fall Out Of Time.png"
+			}
+		},
+		{
+			"name": "Oslana, Robotic Battle Maid",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact Creature — Toy Soldier Servant",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/13_Oslana, Robotic Battle Maid.png"
+			}
+		},
+		{
+			"name": "Courtly Mercenary",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Mercenary",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/45_Courtly Mercenary.png"
+			}
+		},
+		{
+			"name": "The Heart Of Fairytale",
+			"rarity": "special",
+			"mana_cost": "{4}",
+			"type": "Legendary Artifact",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/71_The Heart Of Fairytale.png"
+			}
+		},
+		{
+			"name": "Cold Feet",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/17_Cold Feet.png"
+			}
+		},
+		{
+			"name": "Counsel From Nowhere",
+			"rarity": "special",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Demon Advisor",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/30_Counsel From Nowhere.png"
+			}
+		},
+		{
+			"name": "Veteran Ghoulcaller",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/41_Veteran Ghoulcaller.png"
+			}
+		},
+		{
+			"name": "Borlian Worthy",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Noble",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/43_Borlian Worthy.png"
+			}
+		},
+		{
+			"name": "Parasitic Vulture",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Harpy Rogue",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/39_Parasitic Vulture.png"
+			}
+		},
+		{
+			"name": "Flash Of Steel",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/33_Flash Of Steel.png"
+			}
+		},
+		{
+			"name": "Keeper Of The Rosary",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/8_Keeper Of The Rosary.png"
+			}
+		},
+		{
+			"name": "Script Change",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/26_Script Change.png"
+			}
+		},
+		{
+			"name": "Sinister Reflections",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/28_Sinister Reflections.png"
+			}
+		},
+		{
+			"name": "Ceremonial Second",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/16_Ceremonial Second.png"
+			}
+		},
+		{
+			"name": "Nupital Page",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Creature — Toy Child Servant",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/50_Nupital Page.png"
+			}
+		},
+		{
+			"name": "Abscond",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/1_Abscond.png"
+			}
+		},
+		{
+			"name": "Vendor Of Roses",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/54_Vendor Of Roses.png"
+			}
+		},
+		{
+			"name": "Rabbitkeeper",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/67_Rabbitkeeper.png"
+			}
+		},
+		{
+			"name": "Orb-Bearer",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Insect Servant",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/22_Orb-Bearer.png"
+			}
+		},
+		{
+			"name": "Curtsy",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/61_Curtsy.png"
+			}
+		},
+		{
+			"name": "Introduce the Principals",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/48_Introduce the Principals.png"
+			}
+		},
+		{
+			"name": "Magisanct Peregrine",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Cletic",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/11_Magisanct Peregrine.png"
+			}
+		},
+		{
+			"name": "Castle Krimnacht",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/75_Castle Krimnacht.png"
+			}
+		},
+		{
+			"name": "Castle Librarian",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/15_Castle Librarian.png"
+			}
+		},
+		{
+			"name": "The Show Must Go On",
+			"rarity": "special",
+			"mana_cost": "{4}{U}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/27_The Show Must Go On.png"
+			}
+		},
+		{
+			"name": "Magisanct Binding",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/10_Magisanct Binding.png"
+			}
+		},
+		{
+			"name": "Scrapwork Mutt",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Dog",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/74_Scrapwork Mutt.png"
+			}
+		},
+		{
+			"name": "Moon's Request",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/12_Moon's Request.png"
+			}
+		},
+		{
+			"name": "Darling Rider",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Child",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/4_Darling Rider.png"
+			}
+		},
+		{
+			"name": "Yen",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/55_Yen.png"
+			}
+		},
+		{
+			"name": "Regal Mourner",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Noble",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/40_Regal Mourner.png"
+			}
+		},
+		{
+			"name": "Celestial Lowly",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Angel Servant",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/3_Celestial Lowly.png"
+			}
+		},
+		{
+			"name": "Magisanct Reliquary",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/20_Magisanct Reliquary.png"
+			}
+		},
+		{
+			"name": "Hilda, Magisanct Surperior",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Legendary Creature — Human Cleric",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/19_Hilda, Magisanct Surperior.png"
+			}
+		},
+		{
+			"name": "Arbitration Court Angel",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Angel Advisor",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/2_Arbitration Court Angel.png"
+			}
+		},
+		{
+			"name": "Gossip",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/18_Gossip.png"
+			}
+		},
+		{
+			"name": "Resolve",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/14_Resolve.png"
+			}
+		},
+		{
+			"name": "Magisanct Anchoresss",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/36_Magisanct Anchoresss.png"
+			}
+		},
+		{
+			"name": "Plush Gallery",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/25_Plush Gallery.png"
+			}
+		},
+		{
+			"name": "Fan The Collection",
+			"rarity": "special",
+			"mana_cost": "{X}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/47_Fan The Collection.png"
+			}
+		},
+		{
+			"name": "Overstimulate",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/51_Overstimulate.png"
+			}
+		},
+		{
+			"name": "Armature Wright",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Toy Artificer",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/56_Armature Wright.png"
+			}
+		},
+		{
+			"name": "Brutish Foreigner",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Demon Barbarian",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/44_Brutish Foreigner.png"
+			}
+		},
+		{
+			"name": "Paradise Mantle",
+			"rarity": "special",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/72_Paradise Mantle.png"
+			}
+		},
+		{
+			"name": "Dreaded Future",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/32_Dreaded Future.png"
+			}
+		},
+		{
+			"name": "Raucous Wedding Band",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Bard",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/68_Raucous Wedding Band.png"
+			}
+		},
+		{
+			"name": "Fencing Maester",
+			"rarity": "special",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Warrior Advisor",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/5_Fencing Maester.png"
+			}
+		},
+		{
+			"name": "Hermit Artist",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Bard",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/63_Hermit Artist.png"
+			}
+		},
+		{
+			"name": "Breach of Decorum",
+			"rarity": "special",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/59_Breach of Decorum.png"
+			}
+		},
+		{
+			"name": "Null Witch",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Warlock",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/21_Null Witch.png"
+			}
+		},
+		{
+			"name": "Perfect Little Universe",
+			"rarity": "special",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/23_Perfect Little Universe.png"
+			}
+		},
+		{
+			"name": "Lines Of Descent",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/35_Lines Of Descent.png"
+			}
+		},
+		{
+			"name": "Mirrorbinder",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Human Warlock",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/37_Mirrorbinder.png"
+			}
+		},
+		{
+			"name": "Production Kit",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/73_Production Kit.png"
+			}
+		},
+		{
+			"name": "Anatomical Student",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Doctor",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/29_Anatomical Student.png"
+			}
+		},
+		{
+			"name": "Court Pharmacist",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Doctor",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/60_Court Pharmacist.png"
+			}
+		},
+		{
+			"name": "Garish Bauble",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/70_Garish Bauble.png"
+			}
+		},
+		{
+			"name": "Sentimental Violinist",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Bard",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/52_Sentimental Violinist.png"
+			}
+		},
+		{
+			"name": "Intrusive Thought",
+			"rarity": "special",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Nightmare",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/49_Intrusive Thought.png"
+			}
+		},
+		{
+			"name": "Tear In The Curtain",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Nightmare",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/69_Tear In The Curtain.png"
+			}
+		},
+		{
+			"name": "Prop Failure",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/66_Prop Failure.png"
+			}
+		},
+		{
+			"name": "Toy",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Toy",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/2t_Toy.png"
+			}
+		},
+		{
+			"name": "Weapon",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Artifact — Equipment Weapon",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/3t_Weapon.png"
+			}
+		},
+		{
+			"name": "Copy",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/1t_Copy.png"
+			}
+		}
+	]
+
+[cube(15)]
+	1 High Fencing
+	1 Subway Maintenance Tech
+	1 Vision Pirate
+	1 Plotkeeper
+	1 Madsel, Runaway Princess
+	1 Idlewild Puppet Theater
+	1 Ingke, Relucant Thief
+	1 Pale
+	1 Doll Enthusiast
+	1 Display Model
+	1 Negatiive Capability
+	1 Lose It
+	1 Bearer Of Visions
+	1 Fatuous Clockworks
+	1 Astrologaster
+	1 Thunderous Clockworks
+	1 Obsequious Clockworks
+	1 Portentious Clockworks
+	1 Melifluous Clockworks
+	1 Fall Out Of Time
+	1 Oslana, Robotic Battle Maid
+	1 Courtly Mercenary
+	1 The Heart Of Fairytale
+	1 Cold Feet
+	1 Counsel From Nowhere
+	1 Veteran Ghoulcaller
+	1 Borlian Worthy
+	1 Parasitic Vulture
+	1 Flash Of Steel
+	1 Keeper Of The Rosary
+	1 Script Change
+	1 Sinister Reflections
+	1 Ceremonial Second
+	1 Nupital Page
+	1 Abscond
+	1 Vendor Of Roses
+	1 Rabbitkeeper
+	1 Orb-Bearer
+	1 Curtsy
+	1 Introduce the Principals
+	1 Magisanct Peregrine
+	1 Castle Krimnacht
+	1 Castle Librarian
+	1 The Show Must Go On
+	1 Magisanct Binding
+	1 Scrapwork Mutt
+	1 Moon's Request
+	1 Darling Rider
+	1 Yen
+	1 Regal Mourner
+	1 Celestial Lowly
+	1 Magisanct Reliquary
+	1 Hilda, Magisanct Surperior
+	1 Arbitration Court Angel
+	1 Gossip
+	1 Resolve
+	1 Magisanct Anchoresss
+	1 Plush Gallery
+	1 Fan The Collection
+	1 Overstimulate
+	1 Armature Wright
+	1 Brutish Foreigner
+	1 Paradise Mantle
+	1 Dreaded Future
+	1 Raucous Wedding Band
+	1 Fencing Maester
+	1 Hermit Artist
+	1 Breach of Decorum
+	1 Null Witch
+	1 Perfect Little Universe
+	1 Lines Of Descent
+	1 Mirrorbinder
+	1 Production Kit
+	1 Anatomical Student
+	1 Court Pharmacist
+	1 Garish Bauble
+	1 Sentimental Violinist
+	1 Intrusive Thought
+	1 Tear In The Curtain
+	1 Prop Failure
