@@ -717,8 +717,16 @@
         "position": ""
     },
     {
-        "card_name": "Weapon",
+        "card_name": "Relic",
         "number": 3,
+        "shape": "token",
+        "set": "NMQ",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Weapon",
+        "number": 4,
         "shape": "token",
         "set": "NMQ",
         "rotated": false,
@@ -731,9 +739,6 @@
         "set": "NMQ",
         "rotated": false,
         "position": ""
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "e"

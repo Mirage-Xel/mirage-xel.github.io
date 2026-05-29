@@ -34,7 +34,7 @@
 			"name": "Plotkeeper",
 			"rarity": "special",
 			"mana_cost": "{1}{U}",
-			"type": "Creature — Toy Spider",
+			"type": "Creature — Toy Spider Servant",
 			"collector_number": "24",
 			"image_uris": {
 				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/24_Plotkeeper.png"
@@ -364,7 +364,7 @@
 			"name": "Rabbitkeeper",
 			"rarity": "special",
 			"mana_cost": "{2}{G}",
-			"type": "Creature — Human",
+			"type": "Creature — Human Fan",
 			"collector_number": "67",
 			"image_uris": {
 				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/67_Rabbitkeeper.png"
@@ -815,9 +815,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Artifact — Equipment Weapon",
-			"collector_number": "3",
+			"collector_number": "4",
 			"image_uris": {
-				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/3t_Weapon.png"
+				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/4t_Weapon.png"
 			}
 		},
 		{
@@ -828,6 +828,16 @@
 			"collector_number": "1",
 			"image_uris": {
 				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/1t_Copy.png"
+			}
+		},
+		{
+			"name": "Relic",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Artifact",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/3t_Relic.png"
 			}
 		}
 	]

@@ -1,4 +1,115 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+Relic added.
+
+
+High Fencing
+rules_text: When High Fencing enters, create a Weapon token. [i](It's an Equipment with “Equipped creature gets +1/+1” and equip {2})[/i]
+Equipment you control are copies of the creature they're attached to, except they're Equipment artifacts with equip {2}. => When High Fencing enters, create a Weapon token. [i](It's an Equipment with “Equipped creature gets +1/+1” and equip {2}.)[/i]
+Equipment you control are copies of the creature they're attached to, except they're Equipment artifacts with equip {2}.
+
+Subway Maintenance Tech
+rules_text: Activated abilities of Subway Maintenance Tech cost {2} less to activate. This can't reduce the mana in that cost to less than one mana. [i](In any zone.)[/i]
+Scavenge {X}{R}{R}, Exile nine minus X other cards from your graveyard. [i]({X}{R}{R}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)[/i] => Activated abilities of Subway Maintenance Tech cost {2} less to activate. This can't reduce the mana in that cost to less than one mana. [i](In any zone.)[/i]
+Scavenge—{X}{R}{R}, Exile nine minus X other cards from your graveyard. [i]({X}{R}{R}, Exile nine minus X other cards from your graveyard, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)[/i]
+
+Plotkeeper
+type: Creature — Toy Spider => Creature — Toy Spider Servant
+rules_text: At the beginning of combat on your turn, target creature you control and permanents with the same name as it gain “{3}{U}: Create a token that's a copy of this permanent, then you may return it to its owner's hand.” until end of turn. => At the beginning of combat on your turn, target creature you control and permanents with the same name as it gain “{3}{U}: Create a token that's a copy of this permanent, then you may return this permanent to its owner's hand.” until end of turn.
+
+Madsel, Runaway Princess
+
+Idlewild Puppet Theater
+rules_text: Create a dynamized 1/1 white Toy creature token. [i](A dynamized permanent may activate each of its nonloyalty abilities for free once each turn.)[/i].
+Exile Idlewild Puppet Theater. When you do, creatures you control gain “{3}{W}: You may cast a copy of Idlewild Puppet Theater. Activate only once.” => Create a dynamized 1/1 white Toy creature token. [i](A dynamized permanent may activate each of its nonloyalty abilities for free once each turn.)[/i].
+If you cast Idlewild Puppet Theater from your hand, creatures you control gain “{3}{W}: You may cast a copy of Idlewild Puppet Theater. Activate only once and only as a sorcery.”
+
+Ingke, Relucant Thief
+rules_text: When Ingke, Relucant Thief enters, conjure a card named Bridge From Below into your hand.
+Creatures you control have “{T}: The next time a card would be put into an opponent's graveyard this turn, exile it instead.” => When Ingke, Relucant Thief enters, conjure a card named Bridge From Below into your hand.
+Creatures you control have “{T}: The next time one or more cards would be put into an opponent's graveyard this turn, exile them instead.”
+
+Doll Enthusiast
+rules_text: Doll Enthusiast enters tapped. When it does, create a dynamized 1/1 white Toy creature token. [i](A dynamized permanent may activate each of its nonloyalty abilities for free once each turn.)[/i].
+{1}: If Doll Enthusiast is in your graveyard, target creature you control gains “{2}: Return target card named Doll Enthusiast from your graveyard to the battlefield” until end of turn. => Doll Enthusiast enters tapped. When it does, create a dynamized 1/1 white Toy creature token. [i](A dynamized permanent may activate each of its nonloyalty abilities for free once each turn.)[/i].
+{2}: If Doll Enthusiast is in your graveyard, target creature you control gains “{2}: Return target card named Doll Enthusiast from your graveyard to the battlefield” until end of turn.
+
+Display Model
+
+Oslana, Robotic Battle Maid
+rules_text: You may have other artifacts you control enter as copies of Oslana.
+If Oslana would gain an activated or triggered ability, instead each creature you control named Oslana, Robotic Battle Maid gains that ability.
+{3}{W}: Dynamize Oslana. [i](A dynamized permanent may activate each of its nonloyalty abilities for free once each turn.)[/i]. => You may have other artifacts you control enter as copies of Oslana, Robotic Battle Maid.
+Oslana, Robotic Battle Maid has all activated and triggered abilities of other permanents you control named Oslana, Robotic Battle Maid.
+{3}{W}: Dynamize Oslana, Robotic Battle Maid. [i](A dynamized permanent may activate each of its nonloyalty abilities for free once each turn.)[/i].
+
+Courtly Mercenary
+rules_text: Courtly Mercenary enters tapped. When it does, create a tapped Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+Courtly Mercenary has all activated abilities of artifacts you control, except they cost “Sacrifice this artifact” less to activate. => Courtly Mercenary enters tapped. When it does, create a tapped Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+Courtly Mercenary has all activated abilities of artifacts you control, except they cost “Sacrifice this artifact” less to activate. Activate each such ability once each turn.
+
+Counsel From Nowhere
+rules_text: Flying
+{1}: Counsel From Nowhere becomes a copy of another card in your graveyard. [i](Until it leaves your graveyard.)[/i] => Flying
+{1}: If Counsel From Nowhere is in your graveyard, it becomes a copy of another card in your graveyard. [i](Until it leaves your graveyard.)[/i]
+
+Borlian Worthy
+rules_text: Prowess
+When Borlian Worthy's power is 3 or greater, dynamize it. [i](A dynamized permanent may activate each of its nonloyalty abilities for free once each turn.)[/i]. => Prowess
+When Borlian Worthy's power is 3 or greater and it isn't dynamized, dynamize it. [i](A dynamized permanent may activate each of its nonloyalty abilities for free once each turn.)[/i].
+
+Parasitic Vulture
+rules_text: Flying
+Whenever one or more cards are put into your graveyard from your hand or library, return one of them to your hand and conjure a duplicate of it into your graveyard. => Flying
+Once each turn, whenever one or more cards are put into your graveyard from your hand or library, you mat return one of them to your hand and conjure a duplicate of it into your graveyard.
+pt:  => 3/2
+
+Keeper Of The Rosary
+rules_text: Flash
+When Keeper Of The Rosary enters, choose a card name. 
+Activated abilities of sources with the chosen name and of sources without a legal card name can't be activated. => Flash
+When Keeper Of The Rosary enters, choose a nonland card name. 
+Activated abilities of sources with the chosen name and of sources without a legal card name can't be activated.
+
+Nupital Page
+rules_text: Whenever Nupital Page attacks, creatures you control gain “{R}: This creature gains +1/+0 until end of turn.” => Whenever Nupital Page attacks, creatures you control gain “{R}: This creature gains +1/+0 until end of turn.” [i](Indefinitely.)[/i]
+
+Rabbitkeeper
+type: Creature — Human => Creature — Human Fan
+
+The Show Must Go On
+rules_text: Take an extra turn after tbs one. During that turn, activated abilities you activate cost {2} less to activate. This can't reduce the mana in that cost to less than one mana. => Take an extra turn after tbs one. During that turn, activated abilities you activate cost {2} less to activate. This can't reduce the mana in that cost to less than one mana.
+Exile The Show Must Go On.
+
+Regal Mourner
+rules_text: Whenever Regal Mourner attacks, return target creature card from your graveyard to the battlefield. It becomes a 1/1 Bird with flying and loses all abilities. => Whenever Regal Mourner attacks, return target creature card from your graveyard to the battlefield. It enters as a 1/1 Bird with flying and no other abilities
+
+Hilda, Magisanct Surperior
+rules_text: Once each turn, whenever you activate a nonmana ability, you may create an artifact token with that ability, except it has “Whenever you activate an ability of this artifact for the third time each turn, it becomes a 3/2 Angel creature with flying.” => Once each turn, whenever you activate a nonmana ability, you may create an artifact token with that ability, except it has “Whenever you activate an ability of this artifact for the third time each turn, it becomes a 3/2 Angel creature with flying.” [i](Indefinitely.)[/i]
+
+Gossip
+
+Magisanct Anchoresss
+rules_text: When Magisanct Anchoresss enters create a tapped artifact token named Relic.
+Artifacts you control have “{T}, Pay 2 life: Put a +1/+1 counter on target creature you control named Magisanct Anchoresss.” => When Magisanct Anchoresss enters, create a tapped artifact token named Relic.
+Artifacts you control have “{T}, Pay 2 life: Put a +1/+1 counter on target creature you control named Magisanct Anchoresss.”
+
+Raucous Wedding Band
+rules_text: Whenever Raucous Wedding Band attacks, target creature you control gains “{3}{G}: Create a token that's a copy of this creature, except it's a 3/2 Human Bard named Raucous Wedding Band. Activate only once”. That token gains this ability. => Whenever Raucous Wedding Band attacks, target creature you control gains “{3}{G}: Create a token that's a copy of this creature, except it's a 3/2 Human Bard named Raucous Wedding Band. Activate only once.” That token gains this ability.
+
+Fencing Maester
+rules_text: Vigilance
+Whenever Fencing Maester enters or attacks, create a Weapon token attached to target creature you control. It gains all activated abilities of that creature. => Vigilance
+Whenever Fencing Maester enters or attacks, create a Weapon token attached to target creature you control. It gains all activated abilities of that creature. [i](Indefinitely. It's an Equipment with “Equipped creature gets +1/+1” and equip {2}.)[/i]
+
+Anatomical Student
+rules_text: Whenever you sacrifice a creature or artifact, that permanent gains unearth {1}{B}. [i](In your graveyard. {1}{B}: Return this card from your graveyard to the battlefield. Exile it at the beginning of the end step or if it would leave the battlefield. Unearth only as a sorcery.)[/i] => Whenever you sacrifice a creature or artifact, that permanent gains unearth {1}{B}. [i](In your graveyard. {1}{B}: Return that card from your graveyard to the battlefield. Exile it at the beginning of the end step or if it would leave the battlefield. Unearth only as a sorcery.)[/i]
+
+Toy
+
+
+VERSION 2 CHANGELOG
 ====================
 
 Negative Capability added.
