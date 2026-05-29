@@ -101,13 +101,13 @@
 			}
 		},
 		{
-			"name": "Negatiive Capability",
+			"name": "Negative Capability",
 			"rarity": "special",
 			"mana_cost": "{G}",
 			"type": "Creature — Nightmare",
 			"collector_number": "65",
 			"image_uris": {
-				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/65_Negatiive Capability.png"
+				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/65_Negative Capability.png"
 			}
 		},
 		{
@@ -835,75 +835,75 @@
 [cube(15)]
 	1 High Fencing
 	1 Subway Maintenance Tech
-	3 Vision Pirate
-	3 Plotkeeper
+	1 Vision Pirate
+	1 Plotkeeper
 	1 Madsel, Runaway Princess
-	3 Idlewild Puppet Theater
+	1 Idlewild Puppet Theater
 	1 Ingke, Relucant Thief
-	3 Pale
+	1 Pale
 	1 Doll Enthusiast
-	3 Display Model
-	3 Negatiive Capability
-	3 Lose It
-	3 Bearer Of Visions
-	3 Fatuous Clockworks
+	1 Display Model
+	1 Negative Capability
+	1 Lose It
+	1 Bearer Of Visions
+	1 Fatuous Clockworks
 	1 Astrologaster
-	3 Thunderous Clockworks
-	3 Obsequious Clockworks
-	3 Portentious Clockworks
-	3 Melifluous Clockworks
-    3 Fall Out Of Time
+	1 Thunderous Clockworks
+	1 Obsequious Clockworks
+	1 Portentious Clockworks
+	1 Melifluous Clockworks
+	1 Fall Out Of Time
 	1 Oslana, Robotic Battle Maid
 	1 Courtly Mercenary
 	1 The Heart Of Fairytale
-	3 Cold Feet
-	3 Counsel From Nowhere
-	3 Veteran Ghoulcaller
-	3 Borlian Worthy
+	1 Cold Feet
+	1 Counsel From Nowhere
+	1 Veteran Ghoulcaller
+	1 Borlian Worthy
 	1 Parasitic Vulture
 	1 Flash Of Steel
 	1 Keeper Of The Rosary
-	3 Script Change
-	3 Sinister Reflections
-	3 Ceremonial Second
-	3 Nupital Page
-    3 Abscond
-	3 Vendor Of Roses
-	3 Rabbitkeeper
-	3 Orb-Bearer
-	3 Curtsy
-	3 Introduce the Principals
-	3 Magisanct Peregrine
+	1 Script Change
+	1 Sinister Reflections
+	1 Ceremonial Second
+	1 Nupital Page
+	1 Abscond
+	1 Vendor Of Roses
+	1 Rabbitkeeper
+	1 Orb-Bearer
+	1 Curtsy
+	1 Introduce the Principals
+	1 Magisanct Peregrine
 	1 Castle Krimnacht
 	1 Castle Librarian
 	1 The Show Must Go On
-	3 Magisanct Binding
-	3 Scrapwork Mutt
-	3 Moon's Request
-	3 Darling Rider
-	3 Yen
-	3 Regal Mourner
-	3 Celestial Lowly
-	3 Magisanct Reliquary
+	1 Magisanct Binding
+	1 Scrapwork Mutt
+	1 Moon's Request
+	1 Darling Rider
+	1 Yen
+	1 Regal Mourner
+	1 Celestial Lowly
+	1 Magisanct Reliquary
 	1 Hilda, Magisanct Surperior
-	3 Arbitration Court Angel
-	3 Gossip
-	3 Resolve
-	3 Magisanct Anchoresss
-	3 Plush Gallery
-	3 Fan The Collection
-	3 Overstimulate
-	3 Armature Wright
-	3 Brutish Foreigner
+	1 Arbitration Court Angel
+	1 Gossip
+	1 Resolve
+	1 Magisanct Anchoresss
+	1 Plush Gallery
+	1 Fan The Collection
+	1 Overstimulate
+	1 Armature Wright
+	1 Brutish Foreigner
 	1 Paradise Mantle
-	3 Dreaded Future
+	1 Dreaded Future
 	1 Raucous Wedding Band
 	1 Fencing Maester
 	1 Hermit Artist
-	3 Breach of Decorum
+	1 Breach of Decorum
 	1 Null Witch
 	1 Perfect Little Universe
-	3 Lines Of Descent
+	1 Lines Of Descent
 	1 Mirrorbinder
 	1 Production Kit
 	1 Anatomical Student
@@ -911,5 +911,5 @@
 	1 Garish Bauble
 	1 Sentimental Violinist
 	1 Intrusive Thought
-	3 Tear In The Curtain
-	3 Prop Failure
+	1 Tear In The Curtain
+	1 Prop Failure

@@ -1,4 +1,54 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Negative Capability added.
+
+Negatiive Capability removed.
+
+Subway Maintenance Tech
+rules_text: Activated abilities of Subway Maintenance Tech cost {2} less to activate. This can't reduce the mana in that cost to less than one mana. [i](In any zone.)[/i]
+Scavenge {X}{R}{R}, exile nine minus X other cards from your graveyard. [i]({X}{R}{R}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)[/i] => Activated abilities of Subway Maintenance Tech cost {2} less to activate. This can't reduce the mana in that cost to less than one mana. [i](In any zone.)[/i]
+Scavenge {X}{R}{R}, Exile nine minus X other cards from your graveyard. [i]({X}{R}{R}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)[/i]
+
+Pale
+rules_text: Destroy target creature. Its controller creates a token that's a copy of if, except it's a 1/1 Insect with “At the beginning of your end step, sacrifice this creature.” => Destroy target creature. Its controller creates a token that's a copy of it, except it's a 1/1 Insect with “At the beginning of your end step, sacrifice this creature.”
+
+Doll Enthusiast
+rules_text: Doll Enthusiast enters tapped. When it does, create a dynamized 1/1 white Toy creature token. [i](A dynamized permanent may activate each of its nonloyalty abilities for free once each turn.)[/i].
+{1}: If Doll Enthusiast is in your graveyard, target creature you control gains “{2}: Return target card named Doll Enthusiast from your graveyard o the battlefield.” until end of turn. => Doll Enthusiast enters tapped. When it does, create a dynamized 1/1 white Toy creature token. [i](A dynamized permanent may activate each of its nonloyalty abilities for free once each turn.)[/i].
+{1}: If Doll Enthusiast is in your graveyard, target creature you control gains “{2}: Return target card named Doll Enthusiast from your graveyard to the battlefield” until end of turn.
+
+Lose It
+rules_text: Target creature gains “{2}: This creature gets +2/+2 until end of turn”. until end of turn. It fights target creature you don't control. => Target creature gains “{2}: This creature gets +2/+2 until end of turn” until end of turn. It fights target creature you don't control.
+
+Ceremonial Second
+rules_text: When Ceremonial Second enters, up to one target creature becomes an Equipment artifact with equip {2}. [i](Indefinitely)[/i]
+If s triggered ability of an equipment attached to Ceremonial Second would trigger, it triggers an additional time. => When Ceremonial Second enters, up to one target creature becomes an Equipment artifact with equip {2}. [i](Indefinitely.)[/i]
+If s triggered ability of an equipment attached to Ceremonial Second would trigger, it triggers an additional time.
+
+Castle Librarian
+rules_text: When Castle Librarian enters, create a Clue token. [i](It's an artifact with “{2}, Sacrifice this artifact: Draw a card.)[/i]
+{4}{U}: Dynamize each artifact you control without a legal name. [i](A dynamized permanent may activate each of its nonloyalty abilities for free once each turn.)[/i]. => When Castle Librarian enters, create a Clue token. [i](It's an artifact with “{2}, Sacrifice this artifact: Draw a card.)[/i]
+{4}{U}: Dynamize each artifact you control without a legal card name. [i](A dynamized permanent may activate each of its nonloyalty abilities for free once each turn.)[/i].
+
+Scrapwork Mutt
+rules_text: When this creature enters, you may discard a card. If you do, draw a card.
+Unearth {1}{R}} [i]({1}{R}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the end step or if it would leave the battlefield. Unearth only as a sorcery.)[/i] => When this creature enters, you may discard a card. If you do, draw a card.
+Unearth {1}{R} [i]({1}{R}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the end step or if it would leave the battlefield. Unearth only as a sorcery.)[/i]
+
+Plush Gallery
+rules_text: Enchant creature 
+Enchanted creature loses all abilities and is a dynamized 1/1 Toy. => Enchant creature 
+Enchanted creature loses all abilities and is a dynamized 1/1 Toy. [i](A dynamized permanent may activate each of its nonloyalty abilities for free once each turn.)[/i].
+
+Brutish Foreigner
+
+Dreaded Future
+
+Production Kit
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

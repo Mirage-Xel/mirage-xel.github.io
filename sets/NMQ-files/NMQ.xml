@@ -29,7 +29,7 @@ Equipment you control are copies of the creature they&apos;re attached to, excep
 		<card>
 			<name>Subway Maintenance Tech</name>
 			<text>Activated abilities of Subway Maintenance Tech cost {2} less to activate. This can&apos;t reduce the mana in that cost to less than one mana. (In any zone.)
-Scavenge {X}{R}{R}, exile nine minus X other cards from your graveyard. ({X}{R}{R}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card&apos;s power on target creature. Scavenge only as a sorcery.)</text>
+Scavenge {X}{R}{R}, Exile nine minus X other cards from your graveyard. ({X}{R}{R}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card&apos;s power on target creature. Scavenge only as a sorcery.)</text>
 			<set rarity="rare" picurl="https://mirage-xel.github-io/sets/NMQ-files/img/53_Subway Maintenance Tech.png" num="53">NMQ</set>
 			<prop>
 				<layout>normal</layout>
@@ -133,7 +133,7 @@ Creatures you control have &quot;{T}: The next time a card would be put into an 
 		</card>
 		<card>
 			<name>Pale</name>
-			<text>Destroy target creature. Its controller creates a token that&apos;s a copy of if, except it&apos;s a 1/1 Insect with &quot;At the beginning of your end step, sacrifice this creature.&quot;</text>
+			<text>Destroy target creature. Its controller creates a token that&apos;s a copy of it, except it&apos;s a 1/1 Insect with &quot;At the beginning of your end step, sacrifice this creature.&quot;</text>
 			<set rarity="rare" picurl="https://mirage-xel.github-io/sets/NMQ-files/img/38_Pale.png" num="38">NMQ</set>
 			<prop>
 				<layout>normal</layout>
@@ -150,7 +150,7 @@ Creatures you control have &quot;{T}: The next time a card would be put into an 
 		<card>
 			<name>Doll Enthusiast</name>
 			<text>Doll Enthusiast enters tapped. When it does, create a dynamized 1/1 white Toy creature token. (A dynamized permanent may activate each of its nonloyalty abilities for free once each turn.).
-{1}: If Doll Enthusiast is in your graveyard, target creature you control gains &quot;{2}: Return target card named Doll Enthusiast from your graveyard o the battlefield.&quot; until end of turn.</text>
+{1}: If Doll Enthusiast is in your graveyard, target creature you control gains &quot;{2}: Return target card named Doll Enthusiast from your graveyard to the battlefield&quot; until end of turn.</text>
 			<set rarity="rare" picurl="https://mirage-xel.github-io/sets/NMQ-files/img/31_Doll Enthusiast.png" num="31">NMQ</set>
 			<prop>
 				<layout>normal</layout>
@@ -182,9 +182,9 @@ Creatures you control have &quot;{T}: The next time a card would be put into an 
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Negatiive Capability</name>
-			<text>{2}{G}: If Negatiive Capability isn&apos;t dynamized, put two +1/+1 counters on it and dynamize it. (A dynamized permanent may activate each of its nonloyalty abilities for free once each turn.).</text>
-			<set rarity="rare" picurl="https://mirage-xel.github-io/sets/NMQ-files/img/65_Negatiive Capability.png" num="65">NMQ</set>
+			<name>Negative Capability</name>
+			<text>{2}{G}: If Negative Capability isn&apos;t dynamized, put two +1/+1 counters on it and dynamize it. (A dynamized permanent may activate each of its nonloyalty abilities for free once each turn.).</text>
+			<set rarity="rare" picurl="https://mirage-xel.github-io/sets/NMQ-files/img/65_Negative Capability.png" num="65">NMQ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -200,7 +200,7 @@ Creatures you control have &quot;{T}: The next time a card would be put into an 
 		</card>
 		<card>
 			<name>Lose It</name>
-			<text>Target creature gains &quot;{2}: This creature gets +2/+2 until end of turn&quot;. until end of turn. It fights target creature you don&apos;t control.</text>
+			<text>Target creature gains &quot;{2}: This creature gets +2/+2 until end of turn&quot; until end of turn. It fights target creature you don&apos;t control.</text>
 			<set rarity="rare" picurl="https://mirage-xel.github-io/sets/NMQ-files/img/64_Lose It.png" num="64">NMQ</set>
 			<prop>
 				<layout>normal</layout>
@@ -563,7 +563,7 @@ Create a dynamized 1/1 white Toy creature token. (A dynamized permanent may acti
 		</card>
 		<card>
 			<name>Ceremonial Second</name>
-			<text>When Ceremonial Second enters, up to one target creature becomes an Equipment artifact with equip {2}. (Indefinitely)
+			<text>When Ceremonial Second enters, up to one target creature becomes an Equipment artifact with equip {2}. (Indefinitely.)
 If s triggered ability of an equipment attached to Ceremonial Second would trigger, it triggers an additional time.</text>
 			<set rarity="rare" picurl="https://mirage-xel.github-io/sets/NMQ-files/img/16_Ceremonial Second.png" num="16">NMQ</set>
 			<prop>
@@ -738,7 +738,7 @@ Unearth {W} ({W}: Return this card from your graveyard to the battlefield. It ga
 		<card>
 			<name>Castle Librarian</name>
 			<text>When Castle Librarian enters, create a Clue token. (It&apos;s an artifact with &quot;{2}, Sacrifice this artifact: Draw a card.)
-{4}{U}: Dynamize each artifact you control without a legal name. (A dynamized permanent may activate each of its nonloyalty abilities for free once each turn.).</text>
+{4}{U}: Dynamize each artifact you control without a legal card name. (A dynamized permanent may activate each of its nonloyalty abilities for free once each turn.).</text>
 			<set rarity="rare" picurl="https://mirage-xel.github-io/sets/NMQ-files/img/15_Castle Librarian.png" num="15">NMQ</set>
 			<prop>
 				<layout>normal</layout>
@@ -789,7 +789,7 @@ Unearth {W} ({W}: Return this card from your graveyard to the battlefield. It ga
 		<card>
 			<name>Scrapwork Mutt</name>
 			<text>When this creature enters, you may discard a card. If you do, draw a card.
-Unearth {1}{R}} ({1}{R}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the end step or if it would leave the battlefield. Unearth only as a sorcery.)</text>
+Unearth {1}{R} ({1}{R}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the end step or if it would leave the battlefield. Unearth only as a sorcery.)</text>
 			<set rarity="rare" picurl="https://mirage-xel.github-io/sets/NMQ-files/img/74_Scrapwork Mutt.png" num="74">NMQ</set>
 			<prop>
 				<layout>normal</layout>
@@ -995,7 +995,7 @@ Artifacts you control have &quot;{T}, Pay 2 life: Put a +1/+1 counter on target 
 		<card>
 			<name>Plush Gallery</name>
 			<text>Enchant creature 
-Enchanted creature loses all abilities and is a dynamized 1/1 Toy.</text>
+Enchanted creature loses all abilities and is a dynamized 1/1 Toy. (A dynamized permanent may activate each of its nonloyalty abilities for free once each turn.).</text>
 			<set rarity="rare" picurl="https://mirage-xel.github-io/sets/NMQ-files/img/25_Plush Gallery.png" num="25">NMQ</set>
 			<prop>
 				<layout>normal</layout>
