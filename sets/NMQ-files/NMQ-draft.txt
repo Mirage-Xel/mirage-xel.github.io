@@ -7,7 +7,7 @@
 			"type": "Enchantment",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/6_High Fencing.png"
+				"en": "https://mirage-xel.github.io/sets/NMQ-files/img/6_High Fencing.png"
 			}
 		},
 		{
@@ -17,7 +17,7 @@
 			"type": "Creature — Human Rogue",
 			"collector_number": "54",
 			"image_uris": {
-				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/54_Subway Maintenance Tech.png"
+				"en": "https://mirage-xel.github.io/sets/NMQ-files/img/54_Subway Maintenance Tech.png"
 			}
 		},
 		{
@@ -27,7 +27,7 @@
 			"type": "Creature — Vampire Wizard",
 			"collector_number": "43",
 			"image_uris": {
-				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/43_Vision Pirate.png"
+				"en": "https://mirage-xel.github.io/sets/NMQ-files/img/43_Vision Pirate.png"
 			}
 		},
 		{
@@ -37,7 +37,7 @@
 			"type": "Creature — Toy Spider Servant",
 			"collector_number": "24",
 			"image_uris": {
-				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/24_Plotkeeper.png"
+				"en": "https://mirage-xel.github.io/sets/NMQ-files/img/24_Plotkeeper.png"
 			}
 		},
 		{
@@ -47,7 +47,7 @@
 			"type": "Legendary Creature — Human",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/9_Madsel, Runaway Princess.png"
+				"en": "https://mirage-xel.github.io/sets/NMQ-files/img/9_Madsel, Runaway Princess.png"
 			}
 		},
 		{
@@ -57,7 +57,7 @@
 			"type": "Sorcery",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/7_Idlewild Puppet Theater.png"
+				"en": "https://mirage-xel.github.io/sets/NMQ-files/img/7_Idlewild Puppet Theater.png"
 			}
 		},
 		{
@@ -67,7 +67,7 @@
 			"type": "Legendary Creature — Human Rogue",
 			"collector_number": "35",
 			"image_uris": {
-				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/35_Ingke, Relucant Thief.png"
+				"en": "https://mirage-xel.github.io/sets/NMQ-files/img/35_Ingke, Relucant Thief.png"
 			}
 		},
 		{
@@ -77,7 +77,7 @@
 			"type": "Instant",
 			"collector_number": "39",
 			"image_uris": {
-				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/39_Pale.png"
+				"en": "https://mirage-xel.github.io/sets/NMQ-files/img/39_Pale.png"
 			}
 		},
 		{
@@ -87,7 +87,7 @@
 			"type": "Creature — Human Fan",
 			"collector_number": "32",
 			"image_uris": {
-				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/32_Doll Enthusiast.png"
+				"en": "https://mirage-xel.github.io/sets/NMQ-files/img/32_Doll Enthusiast.png"
 			}
 		},
 		{
@@ -97,7 +97,7 @@
 			"type": "Instant",
 			"collector_number": "63",
 			"image_uris": {
-				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/63_Display Model.png"
+				"en": "https://mirage-xel.github.io/sets/NMQ-files/img/63_Display Model.png"
 			}
 		},
 		{
@@ -107,7 +107,7 @@
 			"type": "Creature — Nightmare",
 			"collector_number": "66",
 			"image_uris": {
-				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/66_Negative Capability.png"
+				"en": "https://mirage-xel.github.io/sets/NMQ-files/img/66_Negative Capability.png"
 			}
 		},
 		{
@@ -117,7 +117,7 @@
 			"type": "Sorcery",
 			"collector_number": "65",
 			"image_uris": {
-				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/65_Lose It.png"
+				"en": "https://mirage-xel.github.io/sets/NMQ-files/img/65_Lose It.png"
 			}
 		},
 		{
@@ -127,7 +127,7 @@
 			"type": "Creature — Human Warlock",
 			"collector_number": "59",
 			"image_uris": {
-				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/59_Bearer Of Visions.png"
+				"en": "https://mirage-xel.github.io/sets/NMQ-files/img/59_Bearer Of Visions.png"
 			}
 		},
 		{
@@ -137,7 +137,7 @@
 			"type": "Land",
 			"collector_number": "77",
 			"image_uris": {
-				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/77_Fatuous Clockworks.png"
+				"en": "https://mirage-xel.github.io/sets/NMQ-files/img/77_Fatuous Clockworks.png"
 			}
 		},
 		{
@@ -147,7 +147,7 @@
 			"type": "Creature — Human Wizard",
 			"collector_number": "58",
 			"image_uris": {
-				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/58_Astrologaster.png"
+				"en": "https://mirage-xel.github.io/sets/NMQ-files/img/58_Astrologaster.png"
 			}
 		},
 		{
@@ -157,7 +157,7 @@
 			"type": "Land",
 			"collector_number": "81",
 			"image_uris": {
-				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/81_Thunderous Clockworks.png"
+				"en": "https://mirage-xel.github.io/sets/NMQ-files/img/81_Thunderous Clockworks.png"
 			}
 		},
 		{
@@ -167,7 +167,7 @@
 			"type": "Land",
 			"collector_number": "79",
 			"image_uris": {
-				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/79_Obsequious Clockworks.png"
+				"en": "https://mirage-xel.github.io/sets/NMQ-files/img/79_Obsequious Clockworks.png"
 			}
 		},
 		{
@@ -177,7 +177,7 @@
 			"type": "Land",
 			"collector_number": "80",
 			"image_uris": {
-				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/80_Portentious Clockworks.png"
+				"en": "https://mirage-xel.github.io/sets/NMQ-files/img/80_Portentious Clockworks.png"
 			}
 		},
 		{
@@ -187,7 +187,7 @@
 			"type": "Land",
 			"collector_number": "78",
 			"image_uris": {
-				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/78_Melifluous Clockworks.png"
+				"en": "https://mirage-xel.github.io/sets/NMQ-files/img/78_Melifluous Clockworks.png"
 			}
 		},
 		{
@@ -197,7 +197,7 @@
 			"type": "Instant",
 			"collector_number": "47",
 			"image_uris": {
-				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/47_Fall Out Of Time.png"
+				"en": "https://mirage-xel.github.io/sets/NMQ-files/img/47_Fall Out Of Time.png"
 			}
 		},
 		{
@@ -207,7 +207,7 @@
 			"type": "Artifact Creature — Toy Soldier Servant",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/13_Oslana, Robotic Battle Maid.png"
+				"en": "https://mirage-xel.github.io/sets/NMQ-files/img/13_Oslana, Robotic Battle Maid.png"
 			}
 		},
 		{
@@ -217,7 +217,7 @@
 			"type": "Creature — Human Mercenary",
 			"collector_number": "46",
 			"image_uris": {
-				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/46_Courtly Mercenary.png"
+				"en": "https://mirage-xel.github.io/sets/NMQ-files/img/46_Courtly Mercenary.png"
 			}
 		},
 		{
@@ -227,7 +227,7 @@
 			"type": "Legendary Artifact",
 			"collector_number": "72",
 			"image_uris": {
-				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/72_The Heart Of Fairytale.png"
+				"en": "https://mirage-xel.github.io/sets/NMQ-files/img/72_The Heart Of Fairytale.png"
 			}
 		},
 		{
@@ -237,7 +237,7 @@
 			"type": "Instant",
 			"collector_number": "17",
 			"image_uris": {
-				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/17_Cold Feet.png"
+				"en": "https://mirage-xel.github.io/sets/NMQ-files/img/17_Cold Feet.png"
 			}
 		},
 		{
@@ -247,7 +247,7 @@
 			"type": "Creature — Demon Advisor",
 			"collector_number": "31",
 			"image_uris": {
-				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/31_Counsel From Nowhere.png"
+				"en": "https://mirage-xel.github.io/sets/NMQ-files/img/31_Counsel From Nowhere.png"
 			}
 		},
 		{
@@ -257,7 +257,7 @@
 			"type": "Creature — Human Rogue",
 			"collector_number": "42",
 			"image_uris": {
-				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/42_Veteran Ghoulcaller.png"
+				"en": "https://mirage-xel.github.io/sets/NMQ-files/img/42_Veteran Ghoulcaller.png"
 			}
 		},
 		{
@@ -267,7 +267,7 @@
 			"type": "Creature — Human Noble",
 			"collector_number": "44",
 			"image_uris": {
-				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/44_Borlian Worthy.png"
+				"en": "https://mirage-xel.github.io/sets/NMQ-files/img/44_Borlian Worthy.png"
 			}
 		},
 		{
@@ -277,7 +277,7 @@
 			"type": "Creature — Harpy Rogue",
 			"collector_number": "40",
 			"image_uris": {
-				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/40_Parasitic Vulture.png"
+				"en": "https://mirage-xel.github.io/sets/NMQ-files/img/40_Parasitic Vulture.png"
 			}
 		},
 		{
@@ -287,7 +287,7 @@
 			"type": "Instant",
 			"collector_number": "34",
 			"image_uris": {
-				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/34_Flash Of Steel.png"
+				"en": "https://mirage-xel.github.io/sets/NMQ-files/img/34_Flash Of Steel.png"
 			}
 		},
 		{
@@ -297,7 +297,7 @@
 			"type": "Creature — Human Cleric",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/8_Keeper Of The Rosary.png"
+				"en": "https://mirage-xel.github.io/sets/NMQ-files/img/8_Keeper Of The Rosary.png"
 			}
 		},
 		{
@@ -307,7 +307,7 @@
 			"type": "Instant",
 			"collector_number": "26",
 			"image_uris": {
-				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/26_Script Change.png"
+				"en": "https://mirage-xel.github.io/sets/NMQ-files/img/26_Script Change.png"
 			}
 		},
 		{
@@ -317,7 +317,7 @@
 			"type": "Sorcery",
 			"collector_number": "28",
 			"image_uris": {
-				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/28_Sinister Reflections.png"
+				"en": "https://mirage-xel.github.io/sets/NMQ-files/img/28_Sinister Reflections.png"
 			}
 		},
 		{
@@ -327,7 +327,7 @@
 			"type": "Creature — Human Warrior",
 			"collector_number": "16",
 			"image_uris": {
-				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/16_Ceremonial Second.png"
+				"en": "https://mirage-xel.github.io/sets/NMQ-files/img/16_Ceremonial Second.png"
 			}
 		},
 		{
@@ -337,7 +337,7 @@
 			"type": "Creature — Toy Child Servant",
 			"collector_number": "51",
 			"image_uris": {
-				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/51_Nupital Page.png"
+				"en": "https://mirage-xel.github.io/sets/NMQ-files/img/51_Nupital Page.png"
 			}
 		},
 		{
@@ -347,7 +347,7 @@
 			"type": "Sorcery",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/1_Abscond.png"
+				"en": "https://mirage-xel.github.io/sets/NMQ-files/img/1_Abscond.png"
 			}
 		},
 		{
@@ -357,7 +357,7 @@
 			"type": "Creature — Human Citizen",
 			"collector_number": "55",
 			"image_uris": {
-				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/55_Vendor Of Roses.png"
+				"en": "https://mirage-xel.github.io/sets/NMQ-files/img/55_Vendor Of Roses.png"
 			}
 		},
 		{
@@ -367,7 +367,7 @@
 			"type": "Creature — Human Fan",
 			"collector_number": "68",
 			"image_uris": {
-				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/68_Rabbitkeeper.png"
+				"en": "https://mirage-xel.github.io/sets/NMQ-files/img/68_Rabbitkeeper.png"
 			}
 		},
 		{
@@ -377,7 +377,7 @@
 			"type": "Creature — Insect Servant",
 			"collector_number": "22",
 			"image_uris": {
-				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/22_Orb-Bearer.png"
+				"en": "https://mirage-xel.github.io/sets/NMQ-files/img/22_Orb-Bearer.png"
 			}
 		},
 		{
@@ -387,7 +387,7 @@
 			"type": "Sorcery",
 			"collector_number": "62",
 			"image_uris": {
-				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/62_Curtsy.png"
+				"en": "https://mirage-xel.github.io/sets/NMQ-files/img/62_Curtsy.png"
 			}
 		},
 		{
@@ -397,7 +397,7 @@
 			"type": "Sorcery",
 			"collector_number": "49",
 			"image_uris": {
-				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/49_Introduce the Principals.png"
+				"en": "https://mirage-xel.github.io/sets/NMQ-files/img/49_Introduce the Principals.png"
 			}
 		},
 		{
@@ -407,7 +407,7 @@
 			"type": "Creature — Human Cletic",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/11_Magisanct Peregrine.png"
+				"en": "https://mirage-xel.github.io/sets/NMQ-files/img/11_Magisanct Peregrine.png"
 			}
 		},
 		{
@@ -417,7 +417,7 @@
 			"type": "Land",
 			"collector_number": "76",
 			"image_uris": {
-				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/76_Castle Krimnacht.png"
+				"en": "https://mirage-xel.github.io/sets/NMQ-files/img/76_Castle Krimnacht.png"
 			}
 		},
 		{
@@ -427,7 +427,7 @@
 			"type": "Creature — Human Wizard",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/15_Castle Librarian.png"
+				"en": "https://mirage-xel.github.io/sets/NMQ-files/img/15_Castle Librarian.png"
 			}
 		},
 		{
@@ -437,7 +437,7 @@
 			"type": "Sorcery",
 			"collector_number": "27",
 			"image_uris": {
-				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/27_The Show Must Go On.png"
+				"en": "https://mirage-xel.github.io/sets/NMQ-files/img/27_The Show Must Go On.png"
 			}
 		},
 		{
@@ -447,7 +447,7 @@
 			"type": "Enchantment",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/10_Magisanct Binding.png"
+				"en": "https://mirage-xel.github.io/sets/NMQ-files/img/10_Magisanct Binding.png"
 			}
 		},
 		{
@@ -457,7 +457,7 @@
 			"type": "Artifact Creature — Dog",
 			"collector_number": "75",
 			"image_uris": {
-				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/75_Scrapwork Mutt.png"
+				"en": "https://mirage-xel.github.io/sets/NMQ-files/img/75_Scrapwork Mutt.png"
 			}
 		},
 		{
@@ -467,7 +467,7 @@
 			"type": "Instant",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/12_Moon's Request.png"
+				"en": "https://mirage-xel.github.io/sets/NMQ-files/img/12_Moon's Request.png"
 			}
 		},
 		{
@@ -477,7 +477,7 @@
 			"type": "Creature — Human Child",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/4_Darling Rider.png"
+				"en": "https://mirage-xel.github.io/sets/NMQ-files/img/4_Darling Rider.png"
 			}
 		},
 		{
@@ -487,7 +487,7 @@
 			"type": "Sorcery",
 			"collector_number": "56",
 			"image_uris": {
-				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/56_Yen.png"
+				"en": "https://mirage-xel.github.io/sets/NMQ-files/img/56_Yen.png"
 			}
 		},
 		{
@@ -497,7 +497,7 @@
 			"type": "Creature — Human Noble",
 			"collector_number": "41",
 			"image_uris": {
-				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/41_Regal Mourner.png"
+				"en": "https://mirage-xel.github.io/sets/NMQ-files/img/41_Regal Mourner.png"
 			}
 		},
 		{
@@ -507,7 +507,7 @@
 			"type": "Creature — Angel Servant",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/3_Celestial Lowly.png"
+				"en": "https://mirage-xel.github.io/sets/NMQ-files/img/3_Celestial Lowly.png"
 			}
 		},
 		{
@@ -517,7 +517,7 @@
 			"type": "Sorcery",
 			"collector_number": "20",
 			"image_uris": {
-				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/20_Magisanct Reliquary.png"
+				"en": "https://mirage-xel.github.io/sets/NMQ-files/img/20_Magisanct Reliquary.png"
 			}
 		},
 		{
@@ -527,7 +527,7 @@
 			"type": "Legendary Creature — Human Cleric",
 			"collector_number": "19",
 			"image_uris": {
-				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/19_Hilda, Magisanct Surperior.png"
+				"en": "https://mirage-xel.github.io/sets/NMQ-files/img/19_Hilda, Magisanct Surperior.png"
 			}
 		},
 		{
@@ -537,7 +537,7 @@
 			"type": "Creature — Angel Advisor",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/2_Arbitration Court Angel.png"
+				"en": "https://mirage-xel.github.io/sets/NMQ-files/img/2_Arbitration Court Angel.png"
 			}
 		},
 		{
@@ -547,7 +547,7 @@
 			"type": "Sorcery",
 			"collector_number": "18",
 			"image_uris": {
-				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/18_Gossip.png"
+				"en": "https://mirage-xel.github.io/sets/NMQ-files/img/18_Gossip.png"
 			}
 		},
 		{
@@ -557,7 +557,7 @@
 			"type": "Instant",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/14_Resolve.png"
+				"en": "https://mirage-xel.github.io/sets/NMQ-files/img/14_Resolve.png"
 			}
 		},
 		{
@@ -567,7 +567,7 @@
 			"type": "Creature — Human Cleric",
 			"collector_number": "37",
 			"image_uris": {
-				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/37_Magisanct Anchoresss.png"
+				"en": "https://mirage-xel.github.io/sets/NMQ-files/img/37_Magisanct Anchoresss.png"
 			}
 		},
 		{
@@ -577,7 +577,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "25",
 			"image_uris": {
-				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/25_Plush Gallery.png"
+				"en": "https://mirage-xel.github.io/sets/NMQ-files/img/25_Plush Gallery.png"
 			}
 		},
 		{
@@ -587,7 +587,7 @@
 			"type": "Sorcery",
 			"collector_number": "48",
 			"image_uris": {
-				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/48_Fan The Collection.png"
+				"en": "https://mirage-xel.github.io/sets/NMQ-files/img/48_Fan The Collection.png"
 			}
 		},
 		{
@@ -597,7 +597,7 @@
 			"type": "Sorcery",
 			"collector_number": "52",
 			"image_uris": {
-				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/52_Overstimulate.png"
+				"en": "https://mirage-xel.github.io/sets/NMQ-files/img/52_Overstimulate.png"
 			}
 		},
 		{
@@ -607,7 +607,7 @@
 			"type": "Creature — Toy Artificer",
 			"collector_number": "57",
 			"image_uris": {
-				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/57_Armature Wright.png"
+				"en": "https://mirage-xel.github.io/sets/NMQ-files/img/57_Armature Wright.png"
 			}
 		},
 		{
@@ -617,7 +617,7 @@
 			"type": "Creature — Demon Barbarian",
 			"collector_number": "45",
 			"image_uris": {
-				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/45_Brutish Foreigner.png"
+				"en": "https://mirage-xel.github.io/sets/NMQ-files/img/45_Brutish Foreigner.png"
 			}
 		},
 		{
@@ -627,7 +627,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "73",
 			"image_uris": {
-				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/73_Paradise Mantle.png"
+				"en": "https://mirage-xel.github.io/sets/NMQ-files/img/73_Paradise Mantle.png"
 			}
 		},
 		{
@@ -637,7 +637,7 @@
 			"type": "Sorcery",
 			"collector_number": "33",
 			"image_uris": {
-				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/33_Dreaded Future.png"
+				"en": "https://mirage-xel.github.io/sets/NMQ-files/img/33_Dreaded Future.png"
 			}
 		},
 		{
@@ -647,7 +647,7 @@
 			"type": "Creature — Human Bard",
 			"collector_number": "69",
 			"image_uris": {
-				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/69_Raucous Wedding Band.png"
+				"en": "https://mirage-xel.github.io/sets/NMQ-files/img/69_Raucous Wedding Band.png"
 			}
 		},
 		{
@@ -657,7 +657,7 @@
 			"type": "Creature — Human Warrior Advisor",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/5_Fencing Maester.png"
+				"en": "https://mirage-xel.github.io/sets/NMQ-files/img/5_Fencing Maester.png"
 			}
 		},
 		{
@@ -667,7 +667,7 @@
 			"type": "Creature — Human Bard",
 			"collector_number": "64",
 			"image_uris": {
-				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/64_Hermit Artist.png"
+				"en": "https://mirage-xel.github.io/sets/NMQ-files/img/64_Hermit Artist.png"
 			}
 		},
 		{
@@ -677,7 +677,7 @@
 			"type": "Sorcery",
 			"collector_number": "60",
 			"image_uris": {
-				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/60_Breach of Decorum.png"
+				"en": "https://mirage-xel.github.io/sets/NMQ-files/img/60_Breach of Decorum.png"
 			}
 		},
 		{
@@ -687,7 +687,7 @@
 			"type": "Creature — Human Warlock",
 			"collector_number": "21",
 			"image_uris": {
-				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/21_Null Witch.png"
+				"en": "https://mirage-xel.github.io/sets/NMQ-files/img/21_Null Witch.png"
 			}
 		},
 		{
@@ -697,7 +697,7 @@
 			"type": "Enchantment",
 			"collector_number": "23",
 			"image_uris": {
-				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/23_Perfect Little Universe.png"
+				"en": "https://mirage-xel.github.io/sets/NMQ-files/img/23_Perfect Little Universe.png"
 			}
 		},
 		{
@@ -707,7 +707,7 @@
 			"type": "Sorcery",
 			"collector_number": "36",
 			"image_uris": {
-				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/36_Lines Of Descent.png"
+				"en": "https://mirage-xel.github.io/sets/NMQ-files/img/36_Lines Of Descent.png"
 			}
 		},
 		{
@@ -717,7 +717,7 @@
 			"type": "Creature — Human Warlock",
 			"collector_number": "38",
 			"image_uris": {
-				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/38_Mirrorbinder.png"
+				"en": "https://mirage-xel.github.io/sets/NMQ-files/img/38_Mirrorbinder.png"
 			}
 		},
 		{
@@ -727,7 +727,7 @@
 			"type": "Artifact",
 			"collector_number": "74",
 			"image_uris": {
-				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/74_Production Kit.png"
+				"en": "https://mirage-xel.github.io/sets/NMQ-files/img/74_Production Kit.png"
 			}
 		},
 		{
@@ -737,7 +737,7 @@
 			"type": "Creature — Human Doctor",
 			"collector_number": "29",
 			"image_uris": {
-				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/29_Anatomical Student.png"
+				"en": "https://mirage-xel.github.io/sets/NMQ-files/img/29_Anatomical Student.png"
 			}
 		},
 		{
@@ -747,7 +747,7 @@
 			"type": "Creature — Human Doctor",
 			"collector_number": "61",
 			"image_uris": {
-				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/61_Court Pharmacist.png"
+				"en": "https://mirage-xel.github.io/sets/NMQ-files/img/61_Court Pharmacist.png"
 			}
 		},
 		{
@@ -757,7 +757,7 @@
 			"type": "Artifact",
 			"collector_number": "71",
 			"image_uris": {
-				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/71_Garish Bauble.png"
+				"en": "https://mirage-xel.github.io/sets/NMQ-files/img/71_Garish Bauble.png"
 			}
 		},
 		{
@@ -767,7 +767,7 @@
 			"type": "Creature — Human Bard",
 			"collector_number": "53",
 			"image_uris": {
-				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/53_Sentimental Violinist.png"
+				"en": "https://mirage-xel.github.io/sets/NMQ-files/img/53_Sentimental Violinist.png"
 			}
 		},
 		{
@@ -777,7 +777,7 @@
 			"type": "Creature — Nightmare",
 			"collector_number": "50",
 			"image_uris": {
-				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/50_Intrusive Thought.png"
+				"en": "https://mirage-xel.github.io/sets/NMQ-files/img/50_Intrusive Thought.png"
 			}
 		},
 		{
@@ -787,7 +787,7 @@
 			"type": "Creature — Nightmare",
 			"collector_number": "70",
 			"image_uris": {
-				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/70_Tear In The Curtain.png"
+				"en": "https://mirage-xel.github.io/sets/NMQ-files/img/70_Tear In The Curtain.png"
 			}
 		},
 		{
@@ -797,7 +797,7 @@
 			"type": "Instant",
 			"collector_number": "67",
 			"image_uris": {
-				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/67_Prop Failure.png"
+				"en": "https://mirage-xel.github.io/sets/NMQ-files/img/67_Prop Failure.png"
 			}
 		},
 		{
@@ -807,7 +807,7 @@
 			"type": "Token Creature — Toy",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/2t_Toy.png"
+				"en": "https://mirage-xel.github.io/sets/NMQ-files/img/2t_Toy.png"
 			}
 		},
 		{
@@ -817,7 +817,7 @@
 			"type": "Artifact — Equipment Weapon",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/4t_Weapon.png"
+				"en": "https://mirage-xel.github.io/sets/NMQ-files/img/4t_Weapon.png"
 			}
 		},
 		{
@@ -827,7 +827,7 @@
 			"type": "Token",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/1t_Copy.png"
+				"en": "https://mirage-xel.github.io/sets/NMQ-files/img/1t_Copy.png"
 			}
 		},
 		{
@@ -837,7 +837,7 @@
 			"type": "Token Artifact",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/3t_Relic.png"
+				"en": "https://mirage-xel.github.io/sets/NMQ-files/img/3t_Relic.png"
 			}
 		},
 		{
@@ -847,7 +847,7 @@
 			"type": "Enchantment",
 			"collector_number": "30",
 			"image_uris": {
-				"en": "https://mirage-xel.github-io/sets/NMQ-files/img/30t_Bridge From Below.png"
+				"en": "https://mirage-xel.github.io/sets/NMQ-files/img/30t_Bridge From Below.png"
 			}
 		}
 	]
@@ -855,75 +855,75 @@
 [cube(15)]
 	1 High Fencing
 	1 Subway Maintenance Tech
-	3 Vision Pirate
-	3 Plotkeeper
+	1 Vision Pirate
+	1 Plotkeeper
 	1 Madsel, Runaway Princess
-	3 Idlewild Puppet Theater
+	1 Idlewild Puppet Theater
 	1 Ingke, Relucant Thief
-	3 Pale
+	1 Pale
 	1 Doll Enthusiast
-	3 Display Model
-	3 Negative Capability
-	3 Lose It
-	3 Bearer Of Visions
-	3 Fatuous Clockworks
+	1 Display Model
+	1 Negative Capability
+	1 Lose It
+	1 Bearer Of Visions
+	1 Fatuous Clockworks
 	1 Astrologaster
-	3 Thunderous Clockworks
-	3 Obsequious Clockworks
-	3 Portentious Clockworks
-	3 Melifluous Clockworks
-    3 Fall Out Of Time
+	1 Thunderous Clockworks
+	1 Obsequious Clockworks
+	1 Portentious Clockworks
+	1 Melifluous Clockworks
+	1 Fall Out Of Time
 	1 Oslana, Robotic Battle Maid
 	1 Courtly Mercenary
 	1 The Heart Of Fairytale
-	3 Cold Feet
-	3 Counsel From Nowhere
-	3 Veteran Ghoulcaller
-	3 Borlian Worthy
+	1 Cold Feet
+	1 Counsel From Nowhere
+	1 Veteran Ghoulcaller
+	1 Borlian Worthy
 	1 Parasitic Vulture
 	1 Flash Of Steel
 	1 Keeper Of The Rosary
-	3 Script Change
-	3 Sinister Reflections
-	3 Ceremonial Second
-	3 Nupital Page
-    3 Abscond
-	3 Vendor Of Roses
-	3 Rabbitkeeper
-	3 Orb-Bearer
-	3 Curtsy
-	3 Introduce the Principals
-	3 Magisanct Peregrine
+	1 Script Change
+	1 Sinister Reflections
+	1 Ceremonial Second
+	1 Nupital Page
+	1 Abscond
+	1 Vendor Of Roses
+	1 Rabbitkeeper
+	1 Orb-Bearer
+	1 Curtsy
+	1 Introduce the Principals
+	1 Magisanct Peregrine
 	1 Castle Krimnacht
 	1 Castle Librarian
 	1 The Show Must Go On
-	3 Magisanct Binding
-	3 Scrapwork Mutt
-	3 Moon's Request
-	3 Darling Rider
-	3 Yen
-	3 Regal Mourner
-	3 Celestial Lowly
-	3 Magisanct Reliquary
+	1 Magisanct Binding
+	1 Scrapwork Mutt
+	1 Moon's Request
+	1 Darling Rider
+	1 Yen
+	1 Regal Mourner
+	1 Celestial Lowly
+	1 Magisanct Reliquary
 	1 Hilda, Magisanct Surperior
-	3 Arbitration Court Angel
-	3 Gossip
-	3 Resolve
-	3 Magisanct Anchoresss
-	3 Plush Gallery
-	3 Fan The Collection
-	3 Overstimulate
-	3 Armature Wright
-	3 Brutish Foreigner
+	1 Arbitration Court Angel
+	1 Gossip
+	1 Resolve
+	1 Magisanct Anchoresss
+	1 Plush Gallery
+	1 Fan The Collection
+	1 Overstimulate
+	1 Armature Wright
+	1 Brutish Foreigner
 	1 Paradise Mantle
-	3 Dreaded Future
+	1 Dreaded Future
 	1 Raucous Wedding Band
 	1 Fencing Maester
 	1 Hermit Artist
-	3 Breach of Decorum
+	1 Breach of Decorum
 	1 Null Witch
 	1 Perfect Little Universe
-	3 Lines Of Descent
+	1 Lines Of Descent
 	1 Mirrorbinder
 	1 Production Kit
 	1 Anatomical Student
@@ -931,6 +931,5 @@
 	1 Garish Bauble
 	1 Sentimental Violinist
 	1 Intrusive Thought
-	3 Tear In The Curtain
-	3 Prop Failure
-
+	1 Tear In The Curtain
+	1 Prop Failure
