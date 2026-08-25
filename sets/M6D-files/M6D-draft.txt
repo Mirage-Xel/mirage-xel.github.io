@@ -1,4 +1,4 @@
-﻿[CustomCards]
+[CustomCards]
 	[
 		{
 			"name": "Wheelform Codex",
@@ -1491,13 +1491,13 @@
 			}
 		},
 		{
-			"name": "Cleaver Of Multitudes",
+			"name": "Cleaver of Multitudes",
 			"rarity": "uncommon",
 			"mana_cost": "{R}{W}{B}",
 			"type": "Creature — Angel Boar Devil",
 			"collector_number": "157",
 			"image_uris": {
-				"en": "https://mirage-xel.github.io/sets/M6D-files/img/157_Cleaver Of Multitudes.png"
+				"en": "https://mirage-xel.github.io/sets/M6D-files/img/157_Cleaver of Multitudes.png"
 			}
 		},
 		{
@@ -2482,7 +2482,7 @@
 	5 Bind In Prohibitions
 	5 Grants-A-Perfect-Law
 	5 Keter of Multiplicty
-	5 Cleaver Of Multitudes
+	5 Cleaver of Multitudes
 	5 Blesser of Hearths
 	5 Divvies-Life-For-All-Living
 	5 Balanced Dayan
