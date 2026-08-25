@@ -1,4 +1,41 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+Cleaver of Multitudes added.
+
+Cleaver Of Multitudes removed.
+
+Heavenly Counsel
+
+Keter of Flame
+rules_text: Raiment [i](When this enters, create a 1/1 Angel token with “At the beginning of combat on your turn, you may pay {2}. When you do, this creature's Equipment gain another instance of their abilities until end of turn” attached to it.)[/i]
+Equipped creature gets +1/+0. When it attacks, exile the top card of your library. You may play it this turn.
+Equip {2} => Raiment [i](When this enters, create a 1/1 Angel token with “At the beginning of combat on your turn, you may pay {2}. When you do, this creature's Equipment gain another instance of their abilities until end of turn” attached to it.)[/i]
+Equipped creature gets +1/+0 and has reach. Whenever it attacks, exile the top card of your library. You may play it this turn.
+Equip {2}
+
+rhino
+rules_text: Menace
+{R}, Discard this card, Sacrifice a creature or artifact: It deals 3 damage to any target. => Menace
+{R}, Discard this card, Sacrifice a creature or artifact: It deals 5 damage to any target.
+
+Pulchritude Scribe
+rules_text: Noncreature spells you cast cost {1} less to cast. => Flying
+Noncreature spells you cast cost {1} less to cast.
+pt: 3/3 => 2/2
+
+Preening Hayyah
+rules_text: When this creature enters, put a +1/+1 counter on each creature token you control.
+Basic landcycling {2} [i]({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)[/i] => Flying
+When this creature enters, put a +1/+1 counter on each creature token you control.
+Basic landcycling {2} [i]({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)[/i]
+
+Remembers-Each-Soul
+
+Prophetic Prism
+
+
+VERSION 3 CHANGELOG
 ====================
 
 

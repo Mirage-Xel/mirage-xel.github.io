@@ -729,7 +729,7 @@ Remove a +1/+1 counter from Writes-Account-of-Sin: Add {R}. Activate only if Wri
 		<card>
 			<name>Keter of Flame</name>
 			<text>Raiment (When this enters, create a 1/1 Angel token with &quot;At the beginning of combat on your turn, you may pay {2}. When you do, this creature&apos;s Equipment gain another instance of their abilities until end of turn&quot; attached to it.)
-Equipped creature gets +1/+0. When it attacks, exile the top card of your library. You may play it this turn.
+Equipped creature gets +1/+0 and has reach. Whenever it attacks, exile the top card of your library. You may play it this turn.
 Equip {2}</text>
 			<set rarity="common" picurl="https://mirage-xel.github.io/sets/M6D-files/img/100_Keter of Flame.png" num="100">M6D</set>
 			<prop>
@@ -780,7 +780,7 @@ Equip {2}</text>
 		<card>
 			<name>rhino</name>
 			<text>Menace
-{R}, Discard this card, Sacrifice a creature or artifact: It deals 3 damage to any target.</text>
+{R}, Discard this card, Sacrifice a creature or artifact: It deals 5 damage to any target.</text>
 			<set rarity="common" picurl="https://mirage-xel.github.io/sets/M6D-files/img/106_rhino.png" num="106">M6D</set>
 			<prop>
 				<layout>normal</layout>
@@ -2512,7 +2512,8 @@ Whenever this creature is dealt damage, it deals that much damage to each player
 		</card>
 		<card>
 			<name>Pulchritude Scribe</name>
-			<text>Noncreature spells you cast cost {1} less to cast.</text>
+			<text>Flying
+Noncreature spells you cast cost {1} less to cast.</text>
 			<set rarity="common" picurl="https://mirage-xel.github.io/sets/M6D-files/img/185_Pulchritude Scribe.png" num="185">M6D</set>
 			<prop>
 				<layout>normal</layout>
@@ -2523,7 +2524,7 @@ Whenever this creature is dealt damage, it deals that much damage to each player
 				<cmc>3</cmc>
 				<colors>UG</colors>
 				<coloridentity>UG</coloridentity>
-				<pt>3/3</pt>
+				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -2545,7 +2546,8 @@ Whenever this creature is dealt damage, it deals that much damage to each player
 		</card>
 		<card>
 			<name>Preening Hayyah</name>
-			<text>When this creature enters, put a +1/+1 counter on each creature token you control.
+			<text>Flying
+When this creature enters, put a +1/+1 counter on each creature token you control.
 Basic landcycling {2} ({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)</text>
 			<set rarity="common" picurl="https://mirage-xel.github.io/sets/M6D-files/img/184_Preening Hayyah.png" num="184">M6D</set>
 			<prop>
@@ -2617,10 +2619,10 @@ Equip {3}</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>Cleaver Of Multitudes</name>
+			<name>Cleaver of Multitudes</name>
 			<text>Menace
-Whenever Cleaver Of Multitudes attacks, you may sacrifice another nontoken creature. When you do, create two tokens that are copies of it, except they&apos;re 1/1 Homunculi.</text>
-			<set rarity="uncommon" picurl="https://mirage-xel.github.io/sets/M6D-files/img/157_Cleaver Of Multitudes.png" num="157">M6D</set>
+Whenever Cleaver of Multitudes attacks, you may sacrifice another nontoken creature. When you do, create two tokens that are copies of it, except they&apos;re 1/1 Homunculi.</text>
+			<set rarity="uncommon" picurl="https://mirage-xel.github.io/sets/M6D-files/img/157_Cleaver of Multitudes.png" num="157">M6D</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
