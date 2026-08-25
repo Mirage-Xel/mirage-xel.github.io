@@ -3919,9 +3919,9 @@ When this creature enters, you gain 4 life.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>printer?</name>
+			<name>printer</name>
 			<text>Whenever this artifact enters or you create one or more tokens, this artifact becomes a 4/4 colorless TYPE creature with haste until end of turn.</text>
-			<set rarity="common" picurl="https://mirage-xel.github.io/sets/M6D-files/img/209_printer?.png" num="209">M6D</set>
+			<set rarity="common" picurl="https://mirage-xel.github.io/sets/M6D-files/img/209_printer.png" num="209">M6D</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>

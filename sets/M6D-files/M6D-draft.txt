@@ -2241,13 +2241,13 @@
 			}
 		},
 		{
-			"name": "printer?",
+			"name": "printer",
 			"rarity": "common",
 			"mana_cost": "{4}",
 			"type": "Artifact",
 			"collector_number": "209",
 			"image_uris": {
-				"en": "https://mirage-xel.github.io/sets/M6D-files/img/209_printer?.png"
+				"en": "https://mirage-xel.github.io/sets/M6D-files/img/209_printer.png"
 			}
 		},
 		{
@@ -2596,7 +2596,7 @@
 	5 Prophetic Prism
 	5 Foundation Scribe
 	5 Garden Statuary
-	5 printer?
+	5 printer
 	5 Vessel Of Disrespect
 	5 Almanac of Days
 	5 Austere Tanna

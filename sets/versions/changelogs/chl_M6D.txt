@@ -1,4 +1,14 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+printer added.
+
+printer? removed.
+
+gabriel
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

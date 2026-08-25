@@ -2341,7 +2341,7 @@
             "loyalty": "",
             "artist": "Isis Sangar\u00e9",
             "alias": "",
-            "notes": ""
+            "notes": "!group archangels"
         },
         {
             "card_name": "doomed traveler",
@@ -4263,7 +4263,7 @@
             "notes": ""
         },
         {
-            "card_name": "printer?",
+            "card_name": "printer",
             "color": "",
             "rarity": "common",
             "type": "Artifact",
