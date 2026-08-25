@@ -1,5 +1,45 @@
 ﻿[
     {
+        "card_name": "gabriel",
+        "number": 11,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "uriel",
+        "number": 54,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "raphael",
+        "number": 78,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "michael",
+        "number": 104,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "A Tree Of Life For Those Who Grasp It",
+        "number": 139,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
         "card_name": "For Good",
         "number": 10,
         "shape": "normal",

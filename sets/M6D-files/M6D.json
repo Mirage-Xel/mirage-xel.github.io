@@ -498,7 +498,7 @@
             "loyalty": "",
             "artist": "Isis Sangar\u00e9",
             "alias": "",
-            "notes": "!group archangels"
+            "notes": "!sort archangels"
         },
         {
             "card_name": "Entropic Gurgle",
@@ -2037,7 +2037,7 @@
             "loyalty": "",
             "artist": "Isis Sangar\u00e9",
             "alias": "",
-            "notes": "!group archangels"
+            "notes": "!sort archangels"
         },
         {
             "card_name": "blood artist",
@@ -2113,7 +2113,7 @@
             "loyalty": "",
             "artist": "Peter Mohrbacher",
             "alias": "",
-            "notes": "!group archangels"
+            "notes": "!sort archangels"
         },
         {
             "card_name": "green lifelink",
@@ -2189,7 +2189,7 @@
             "loyalty": "",
             "artist": "Isis Sangar\u00e9",
             "alias": "",
-            "notes": "!group archangels"
+            "notes": "!sort archangels"
         },
         {
             "card_name": "Hail Of Brimstone",
@@ -2341,7 +2341,7 @@
             "loyalty": "",
             "artist": "Isis Sangar\u00e9",
             "alias": "",
-            "notes": "!group archangels"
+            "notes": "!sort archangels"
         },
         {
             "card_name": "doomed traveler",
@@ -4491,5 +4491,5 @@
             "notes": ""
         }
     ],
-    "version": 2
+    "version": 3
 }
