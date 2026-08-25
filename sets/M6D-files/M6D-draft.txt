@@ -2601,3 +2601,29 @@
 	5 Almanac of Days
 	5 Austere Tanna
 	5 Evolving Wilds
+	[dual(1)]  
+	8 RL01
+    8 RL02
+    8 RL03
+    8 RL04
+    8 RL05
+    8 NL01
+    8 NL02
+    8 NL03
+    8 NL04
+    8 NL05
+    8 NL06
+    8 NL07
+    8 NL08
+    8 NL09
+    8 NL10
+    8 Hall of Wisdom
+    8 CL02
+    8 Bloodied Altar
+    8 CL04
+    8 Conserving Garden
+    8 Lesser Throne
+    8 CL07
+    8 CL08
+    8 Productive Smithy
+    8 CL10
