@@ -1,4 +1,75 @@
-﻿VERSION 7 CHANGELOG
+﻿VERSION 8 CHANGELOG
+====================
+
+Lav-Kofe, Serpent In the Garden added.
+Gabbai of Blessing added.
+Drown In Dreamstuff added.
+Numeric Veto added.
+Heavengilt Cameo added.
+Lay Bare the Heart added.
+Mapper of Newborn Land added.
+Valor of Women added.
+Return to Form added.
+A Tree of Life For Those Who Grasp It added.
+Lifeseed Addler added.
+Hail of Brimstone added.
+Seraphic Speech of Secrets added.
+Keeper of Meitohu's Force added.
+Keter of the Moon added.
+Multitude Cleaver added.
+Axe of Perlis added.
+Keter of Libations added.
+Agent of Revealed Truth added.
+Keymaster of Life And Death added.
+Vessel of Disrespect added.
+
+Lav-Kofe, Serpent In The Garden removed.
+host removed.
+talrand's invocation removed.
+Heavenly Vote removed.
+copybuff removed.
+milldraw removed.
+brggur bridge removed.
+Fount Of Psalms removed.
+reanimation removed.
+A Tree Of Life For Those Who Grasp It removed.
+green lifelink removed.
+Hail Of Brimstone removed.
+Seraphic Speech Of Secrets removed.
+Keeper Of Meitohu's Force removed.
+Keter of The Moon removed.
+Cleaver of Multitudes removed.
+Axe Of Ruin removed.
+Keter Of Libations removed.
+Companion Of Mystics removed.
+Those Straying From Light removed.
+Vessel Of Disrespect removed.
+
+Writes-Myriad-Meanings
+rules_text: When Writes-Myriad-Meanings enters, look at the top four cards of your library and exile two of them face up and two of them face-down.
+Whenever an opponent casts a spell, counter that spell unless that player pays {2} or has you put a card exiled with Writes-Myriad-Meanings of their choice into your hand. => When Writes-Myriad-Meanings enters, look at the top four cards of your library and exile two of them face up and two of them face-down.
+Whenever an opponent casts a spell, put a card exiled with Writes-Myriad-Meanings of that player's choice into your hand unless they pay {2}.
+
+A World Lacking Nothing
+rules_text: Creatures you control get +2/+2 and have trample.
+Sacrifice A World Lacking Nothing: Counter target noncreature spell.
+At the beginning of your end step, sacrifice A World Lacking Nothing. => Creatures you control get +2/+2 and have trample.
+Sacrifice this enchantment: Counter target noncreature spell.
+At the beginning of your end step, sacrifice this enchantment.
+
+For Good
+
+War In Heaven
+
+Peaceblossom
+
+Covenant of Truth
+rules_text: Whenever you attack, attacking creatures you control get +1/+0 until end of turn. When you do, if you didn't attack with exactly one creature, sacrifice this artifact.
+You may cast this cards from your graveyard. => Whenever you attack, target creature gets +2/+2 until end of turn. When it does, if you attacked with two or more creatures, sacrifice this artifact.
+You may cast this card from your graveyard.
+
+
+VERSION 7 CHANGELOG
 ====================
 
 Oriyah In Front of Me added.
