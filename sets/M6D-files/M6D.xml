@@ -103,10 +103,10 @@ This creature has lifelink as long as you&apos;ve created a token this turn.</te
 		</card>
 		<card>
 			<name>Keter of Legions</name>
-			<text>Raiment (When this enters, create a 1/1 Angel token with &quot;At the beginning of combat on your turn, you may pay {2}. When you do, this creature&apos;s Equipment gain another instance of their abilities until end of turn&quot; attached to it.)
+			<text>Raiment (When this enters, create a 1/1 Angel token with &quot;At the beginning of your upkeep, you may pay {2}. When you do, this creature&apos;s Equipment gain another instance of their abilities until end of turn&quot; attached to it.)
 Equipped creature has host. (Whenever it attacks, you may create a 1/1 token copy of it that&apos;s tapped and attacking. It has &quot;Once, at your end step, sacrifice a creature&quot; and not host.)
 Equip {2}{W}</text>
-			<set rarity="rare" picurl="https://mirage-xel.github.io/sets/M6D-files/img/19_Keter of Legions.png" num="19">M6D</set>
+			<set rarity="rare" picurl="https://mirage-xel.github.io/sets/M6D-files/img/18_Keter of Legions.png" num="18">M6D</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -121,9 +121,9 @@ Equip {2}{W}</text>
 		</card>
 		<card>
 			<name>host</name>
-			<text>Host (When this creature attacks, you may create a 1/1 token copy of it without host that&apos;s tapped and attacking. At the beginning of the next end step, if you control that token, sacrifice a creature.)
+			<text>Host (When this creature attacks, you may create a 1/1 tapped and attacking token copy of it without host. Sacrifice that token at the beginning of the next end step unles you sacrifice a creature.)
 Flying</text>
-			<set rarity="common" picurl="https://mirage-xel.github.io/sets/M6D-files/img/15_host.png" num="15">M6D</set>
+			<set rarity="common" picurl="https://mirage-xel.github.io/sets/M6D-files/img/14_host.png" num="14">M6D</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -139,10 +139,10 @@ Flying</text>
 		</card>
 		<card>
 			<name>Keter of Judgement</name>
-			<text>Raiment (When this enters, create a 1/1 Angel token with &quot;At the beginning of combat on your turn, you may pay {2}. When you do, this creature&apos;s Equipment gain another instance of their abilities until end of turn&quot; attached to it.)
+			<text>Raiment (When this enters, create a 1/1 Angel token with &quot;At the beginning of your upkeep, you may pay {2}. When you do, this creature&apos;s Equipment gain another instance of their abilities until end of turn&quot; attached to it.)
 Equipped creature gets +1/+1 and has &quot;Whenever this attacks, tap target creature.&quot;
 Equip {3}</text>
-			<set rarity="common" picurl="https://mirage-xel.github.io/sets/M6D-files/img/18_Keter of Judgement.png" num="18">M6D</set>
+			<set rarity="common" picurl="https://mirage-xel.github.io/sets/M6D-files/img/17_Keter of Judgement.png" num="17">M6D</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -157,7 +157,7 @@ Equip {3}</text>
 		</card>
 		<card>
 			<name>4mvtokens</name>
-			<text>Host (When this creature attacks, you may create a 1/1 token copy of it without host that&apos;s tapped and attacking. At the beginning of the next end step, if you control that token, sacrifice a creature.)
+			<text>Host (When this creature attacks, you may create a 1/1 tapped and attacking token copy of it without host. Sacrifice that token at the beginning of the next end step unles you sacrifice a creature.)
 When this creature enters, creatures you control get +1/+0 until end of turn.</text>
 			<set rarity="common" picurl="https://mirage-xel.github.io/sets/M6D-files/img/5_4mvtokens.png" num="5">M6D</set>
 			<prop>
@@ -175,7 +175,7 @@ When this creature enters, creatures you control get +1/+0 until end of turn.</t
 		</card>
 		<card>
 			<name>squire</name>
-			<text>When squire enters, create a Law token (It&apos;s an artifact with &quot;Whenever you attack, attacking creatures you control get +1/+0 until end of turn. When you do, if you didn&apos;t attack with exactly one creature, sacrifice this token.&quot;)</text>
+			<text>When squire enters, create a Law token (It&apos;s an artifact with &quot;Whenever you attack, target creature you control gets +1/+1 until end of turn. When it does, sacrifice this token if you attacked with two or more creatures.&quot;)</text>
 			<set rarity="common" picurl="https://mirage-xel.github.io/sets/M6D-files/img/28_squire.png" num="28">M6D</set>
 			<prop>
 				<layout>normal</layout>
@@ -262,7 +262,7 @@ Creature tokens get -1/-1.</text>
 		<card>
 			<name>talrand&apos;s invocation</name>
 			<text>Tap up to one target nonland permanent and put two stun counters on it, then create two 2/2 blue Angel creature tokens with flying.</text>
-			<set rarity="common" picurl="https://mirage-xel.github.io/sets/M6D-files/img/52_talrand&apos;s invocation.png" num="52">M6D</set>
+			<set rarity="common" picurl="https://mirage-xel.github.io/sets/M6D-files/img/53_talrand&apos;s invocation.png" num="53">M6D</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -311,7 +311,7 @@ Counter target spell unless its controller pays {2} and the additional cost wasn
 		<card>
 			<name>Inspire</name>
 			<text>Create a token copy of target creature you control and a copy of target noncreature artifact you control. (You must control both.)</text>
-			<set rarity="uncommon" picurl="https://mirage-xel.github.io/sets/M6D-files/img/17_Inspire.png" num="17">M6D</set>
+			<set rarity="uncommon" picurl="https://mirage-xel.github.io/sets/M6D-files/img/16_Inspire.png" num="16">M6D</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -344,7 +344,7 @@ Counter target spell unless its controller pays {2} and the additional cost wasn
 		</card>
 		<card>
 			<name>Keter of Might</name>
-			<text>Raiment (When this enters, create a 1/1 Angel token with &quot;At the beginning of combat on your turn, you may pay {2}. When you do, this creature&apos;s Equipment gain another instance of their abilities until end of turn&quot; attached to it.)
+			<text>Raiment (When this enters, create a 1/1 Angel token with &quot;At the beginning of your upkeep, you may pay {2}. When you do, this creature&apos;s Equipment gain another instance of their abilities until end of turn&quot; attached to it.)
 Equipped creature gets +3/+3.
 Equip {1}{G}</text>
 			<set rarity="common" picurl="https://mirage-xel.github.io/sets/M6D-files/img/130_Keter of Might.png" num="130">M6D</set>
@@ -362,8 +362,8 @@ Equip {1}{G}</text>
 		</card>
 		<card>
 			<name>Sanctity&apos;s Allure</name>
-			<text>Draw two cards, then create a Law token. (It&apos;s an artifact with &quot;Whenever you attack, attacking creatures you control get +1/+0 until end of turn. When you do, if you didn&apos;t attack with exactly one creature, sacrifice this token.&quot;)</text>
-			<set rarity="common" picurl="https://mirage-xel.github.io/sets/M6D-files/img/50_Sanctity&apos;s Allure.png" num="50">M6D</set>
+			<text>Draw two cards, then create a Law token. (It&apos;s an artifact with &quot;Whenever you attack, target creature you control gets +1/+1 until end of turn. When it does, sacrifice this token if you attacked with two or more creatures.&quot;)</text>
+			<set rarity="common" picurl="https://mirage-xel.github.io/sets/M6D-files/img/51_Sanctity&apos;s Allure.png" num="51">M6D</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -381,7 +381,7 @@ Equip {1}{G}</text>
 			<text>Enchant creature
 When this enters, tap enchanted creature if you control a colorless Angel.
 Enchanted creature doesn&apos;t untap during its controller&apos;s untap step.</text>
-			<set rarity="common" picurl="https://mirage-xel.github.io/sets/M6D-files/img/48_paralyzing grasp.png" num="48">M6D</set>
+			<set rarity="common" picurl="https://mirage-xel.github.io/sets/M6D-files/img/49_paralyzing grasp.png" num="49">M6D</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -412,7 +412,7 @@ Enchanted creature doesn&apos;t untap during its controller&apos;s untap step.</
 		</card>
 		<card>
 			<name>wub/brg bridge</name>
-			<text>Whenever a creature you control attacks alone, you may pay 2 life. When you do, that creature gets +1/+1 and gains menace until end of turn.</text>
+			<text>Whenever a creature you control attacks alone, you may pay 2 life. When you do, that creature gets +2/+2 and gains menace until end of turn.</text>
 			<set rarity="common" picurl="https://mirage-xel.github.io/sets/M6D-files/img/85_wub/brg bridge.png" num="85">M6D</set>
 			<prop>
 				<layout>normal</layout>
@@ -430,7 +430,7 @@ Enchanted creature doesn&apos;t untap during its controller&apos;s untap step.</
 		<card>
 			<name>Imago Dei</name>
 			<text>If a creature you control would enter, that creature and an additional token copy of it enter instead.</text>
-			<set rarity="rare" picurl="https://mirage-xel.github.io/sets/M6D-files/img/16_Imago Dei.png" num="16">M6D</set>
+			<set rarity="rare" picurl="https://mirage-xel.github.io/sets/M6D-files/img/15_Imago Dei.png" num="15">M6D</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -444,11 +444,11 @@ Enchanted creature doesn&apos;t untap during its controller&apos;s untap step.</
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>uriel</name>
+			<name>Oriyah In Front of Me</name>
 			<text>Flying, trample, ward {2}
-You may cast uriel from exile if it was put there from your graveyard this turn.
-{U}, exile uriel and twelve other cards from your graveyard: Discard your hand, then draw four cards.</text>
-			<set rarity="mythic" picurl="https://mirage-xel.github.io/sets/M6D-files/img/54_uriel.png" num="54">M6D</set>
+You may cast Oriyah In Front of Me from exile if it was put there from your graveyard this turn.
+{U}, Exile Oriyah In Front of Me and twelve other cards from your graveyard: Discard your hand, then draw four cards.</text>
+			<set rarity="mythic" picurl="https://mirage-xel.github.io/sets/M6D-files/img/48_Oriyah In Front of Me.png" num="48">M6D</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -530,7 +530,7 @@ Draw four cards.</text>
 		</card>
 		<card>
 			<name>Keter of Smoke</name>
-			<text>Raiment (When this enters, create a 1/1 Angel token with &quot;At the beginning of combat on your turn, you may pay {2}. When you do, this creature&apos;s Equipment gain another instance of their abilities until end of turn&quot; attached to it.)
+			<text>Raiment (When this enters, create a 1/1 Angel token with &quot;At the beginning of your upkeep, you may pay {2}. When you do, this creature&apos;s Equipment gain another instance of their abilities until end of turn&quot; attached to it.)
 Whenever equipped creature attacks alone, it can&apos;t be blocked except by target creature defending player controls.
 Equip {3}</text>
 			<set rarity="common" picurl="https://mirage-xel.github.io/sets/M6D-files/img/43_Keter of Smoke.png" num="43">M6D</set>
@@ -567,7 +567,7 @@ Equip {3}</text>
 		<card>
 			<name>lawristocrat</name>
 			<text>Flying
-When lawristocrat enters, create a Law token. (It&apos;s an artifact with &quot;Whenever you attack, attacking creatures you control get +1/+0 until end of turn. When you do, if you didn&apos;t attack with exactly one creature, sacrifice this token.&quot;)
+When lawristocrat enters, create a Law token. (It&apos;s an artifact with &quot;Whenever you attack, target creature you control gets +1/+1 until end of turn. When it does, sacrifice this token if you attacked with two or more creatures.&quot;)
 Whenever you sacrifice a creature or artifact, lawristocrat deals 1 damage to each opponent.</text>
 			<set rarity="common" picurl="https://mirage-xel.github.io/sets/M6D-files/img/72_lawristocrat.png" num="72">M6D</set>
 			<prop>
@@ -603,7 +603,7 @@ Whenever you sacrifice a creature or artifact, lawristocrat deals 1 damage to ea
 		</card>
 		<card>
 			<name>Keter of Wisdom</name>
-			<text>Raiment (When this enters, create a 1/1 Angel token with &quot;At the beginning of combat on your turn, you may pay {2}. When you do, this creature&apos;s Equipment gain another instance of their abilities until end of turn&quot; attached to it.)
+			<text>Raiment (When this enters, create a 1/1 Angel token with &quot;At the beginning of your upkeep, you may pay {2}. When you do, this creature&apos;s Equipment gain another instance of their abilities until end of turn&quot; attached to it.)
 Whenever equipped creature deals combat damage to a player, draw a card.
 Equip {2}</text>
 			<set rarity="common" picurl="https://mirage-xel.github.io/sets/M6D-files/img/45_Keter of Wisdom.png" num="45">M6D</set>
@@ -641,7 +641,7 @@ When Void-Magic Binder dies, you draw a card and lose 2 life.</text>
 			<name>tapper i hardly know her</name>
 			<text>Vigilance
 Whenever this creature attacks, tap target creature. Then put a stun counter on that creature if you control a token.</text>
-			<set rarity="common" picurl="https://mirage-xel.github.io/sets/M6D-files/img/53_tapper i hardly know her.png" num="53">M6D</set>
+			<set rarity="common" picurl="https://mirage-xel.github.io/sets/M6D-files/img/54_tapper i hardly know her.png" num="54">M6D</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -675,7 +675,7 @@ Whenever this creature attacks, tap target creature. Then put a stun counter on 
 		<card>
 			<name>lawmaker</name>
 			<text>Reach
-When lawmaker dies, create your choice of a Law token or a Treasure token. (It&apos;s an artifact with &quot;Whenever you attack, attacking creatures you control get +1/+0 until end of turn. When you do, if you didn&apos;t attack with exactly one creature, sacrifice this token.&quot;)</text>
+When lawmaker dies, create your choice of a Law token or a Treasure token. (It&apos;s an artifact with &quot;Whenever you attack, target creature you control gets +1/+1 until end of turn. When it does, sacrifice this token if you attacked with two or more creatures.&quot;)</text>
 			<set rarity="common" picurl="https://mirage-xel.github.io/sets/M6D-files/img/101_lawmaker.png" num="101">M6D</set>
 			<prop>
 				<layout>normal</layout>
@@ -692,7 +692,7 @@ When lawmaker dies, create your choice of a Law token or a Treasure token. (It&a
 		</card>
 		<card>
 			<name>Keter of Briliance</name>
-			<text>Raiment (When this enters, create a 1/1 Angel token with &quot;At the beginning of combat on your turn, you may pay {2}. When you do, this creature&apos;s Equipment gain another instance of their abilities until end of turn&quot; attached to it.)
+			<text>Raiment (When this enters, create a 1/1 Angel token with &quot;At the beginning of your upkeep, you may pay {2}. When you do, this creature&apos;s Equipment gain another instance of their abilities until end of turn&quot; attached to it.)
 Equipped creature has prowess.
 Equip {1}{R}</text>
 			<set rarity="uncommon" picurl="https://mirage-xel.github.io/sets/M6D-files/img/99_Keter of Briliance.png" num="99">M6D</set>
@@ -728,7 +728,7 @@ Remove a +1/+1 counter from Writes-Account-of-Sin: Add {R}. Activate only if Wri
 		</card>
 		<card>
 			<name>Keter of Flame</name>
-			<text>Raiment (When this enters, create a 1/1 Angel token with &quot;At the beginning of combat on your turn, you may pay {2}. When you do, this creature&apos;s Equipment gain another instance of their abilities until end of turn&quot; attached to it.)
+			<text>Raiment (When this enters, create a 1/1 Angel token with &quot;At the beginning of your upkeep, you may pay {2}. When you do, this creature&apos;s Equipment gain another instance of their abilities until end of turn&quot; attached to it.)
 Equipped creature gets +1/+0 and has reach. Whenever it attacks, exile the top card of your library. You may play it this turn.
 Equip {2}</text>
 			<set rarity="common" picurl="https://mirage-xel.github.io/sets/M6D-files/img/100_Keter of Flame.png" num="100">M6D</set>
@@ -764,7 +764,7 @@ Equip {2}</text>
 		<card>
 			<name>Heavenly Trumpet</name>
 			<text>Create three 1/1 white Angel creature tokens.</text>
-			<set rarity="common" picurl="https://mirage-xel.github.io/sets/M6D-files/img/97_Heavenly Trumpet.png" num="97">M6D</set>
+			<set rarity="common" picurl="https://mirage-xel.github.io/sets/M6D-files/img/96_Heavenly Trumpet.png" num="96">M6D</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -814,8 +814,8 @@ Equip {2}</text>
 		<card>
 			<name>Snuff</name>
 			<text>Destroy target creature.
-Create a Law token. (It&apos;s an artifact with &quot;Whenever you attack, attacking creatures you control get +1/+0 until end of turn. When you do, if you didn&apos;t attack with exactly one creature, sacrifice this token.&quot;)</text>
-			<set rarity="common" picurl="https://mirage-xel.github.io/sets/M6D-files/img/81_Snuff.png" num="81">M6D</set>
+Create a Law token. (It&apos;s an artifact with &quot;Whenever you attack, target creature you control gets +1/+1 until end of turn. When it does, sacrifice this token if you attacked with two or more creatures.&quot;)</text>
+			<set rarity="common" picurl="https://mirage-xel.github.io/sets/M6D-files/img/80_Snuff.png" num="80">M6D</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -831,7 +831,7 @@ Create a Law token. (It&apos;s an artifact with &quot;Whenever you attack, attac
 		<card>
 			<name>trumpet blast</name>
 			<text>Creatures you control get +1/+0 until end of turn.
-Create a Law token. (It&apos;s an artifact with &quot;Whenever you attack, attacking creatures you control get +1/+0 until end of turn. When you do, if you didn&apos;t attack with exactly one creature, sacrifice this token.&quot;)</text>
+Create a Law token. (It&apos;s an artifact with &quot;Whenever you attack, target creature you control gets +1/+1 until end of turn. When it does, sacrifice this token if you attacked with two or more creatures.&quot;)</text>
 			<set rarity="common" picurl="https://mirage-xel.github.io/sets/M6D-files/img/111_trumpet blast.png" num="111">M6D</set>
 			<prop>
 				<layout>normal</layout>
@@ -953,7 +953,7 @@ When Sere Rememberancer enters, return target permanent card from your graveyard
 		</card>
 		<card>
 			<name>Orders-the-Planets-And-Stars</name>
-			<text>Host (When this creature attacks, you may create a 1/1 token copy of it without host that&apos;s tapped and attacking. At the beginning of the next end step, if you control that token, sacrifice a creature.)
+			<text>Host (When this creature attacks, you may create a 1/1 tapped and attacking token copy of it without host. Sacrifice that token at the beginning of the next end step unles you sacrifice a creature.)
 Reach
 Orders-the-Planets-And-Stars enters with two +1/+1 counters.</text>
 			<set rarity="common" picurl="https://mirage-xel.github.io/sets/M6D-files/img/136_Orders-the-Planets-And-Stars.png" num="136">M6D</set>
@@ -1007,7 +1007,7 @@ You gain 2 life.</text>
 		<card>
 			<name>Tormented Cry</name>
 			<text>Target creature gains deathtouch and indestructible until end of turn.</text>
-			<set rarity="common" picurl="https://mirage-xel.github.io/sets/M6D-files/img/83_Tormented Cry.png" num="83">M6D</set>
+			<set rarity="common" picurl="https://mirage-xel.github.io/sets/M6D-files/img/82_Tormented Cry.png" num="82">M6D</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1022,7 +1022,7 @@ You gain 2 life.</text>
 		</card>
 		<card>
 			<name>Grafted Taunt</name>
-			<text>Host (When this creature attacks, you may create a 1/1 token copy of it without host that&apos;s tapped and attacking. At the beginning of the next end step, if you control that token, sacrifice a creature.)
+			<text>Host (When this creature attacks, you may create a 1/1 tapped and attacking token copy of it without host. Sacrifice that token at the beginning of the next end step unles you sacrifice a creature.)
 This creature gets +2/+0 and has trample as long as you&apos;ve cast a noncreature spell this turn.</text>
 			<set rarity="common" picurl="https://mirage-xel.github.io/sets/M6D-files/img/125_Grafted Taunt.png" num="125">M6D</set>
 			<prop>
@@ -1104,10 +1104,10 @@ This creature gets +2/+0 and has trample as long as you&apos;ve cast a noncreatu
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>gravecrawler</name>
+			<name>Vivisected Effigy</name>
 			<text>This creature can&apos;t block.
 Fallen — At the beginning of your end step, if you lost life or sacrificed a permanent this turn, you may pay {2}. When you do, return this creature from your graveyard to the battlefield.</text>
-			<set rarity="uncommon" picurl="https://mirage-xel.github.io/sets/M6D-files/img/67_gravecrawler.png" num="67">M6D</set>
+			<set rarity="uncommon" picurl="https://mirage-xel.github.io/sets/M6D-files/img/83_Vivisected Effigy.png" num="83">M6D</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1123,7 +1123,7 @@ Fallen — At the beginning of your end step, if you lost life or sacrificed a p
 		</card>
 		<card>
 			<name>Keter of Death</name>
-			<text>Raiment (When this enters, create a 1/1 Angel token with &quot;At the beginning of combat on your turn, you may pay {2}. When you do, this creature&apos;s Equipment gain another instance of their abilities until end of turn&quot; attached to it.)
+			<text>Raiment (When this enters, create a 1/1 Angel token with &quot;At the beginning of your upkeep, you may pay {2}. When you do, this creature&apos;s Equipment gain another instance of their abilities until end of turn&quot; attached to it.)
 Pay 2 life or sacrifice a nonland permanent: Equipped creature gets +2/+0 until end of turn. Pay each cost only once each turn.
 Equip {3}</text>
 			<set rarity="uncommon" picurl="https://mirage-xel.github.io/sets/M6D-files/img/71_Keter of Death.png" num="71">M6D</set>
@@ -1159,9 +1159,9 @@ When this creature enters, destroy target creature. You lose life equal to its m
 		</card>
 		<card>
 			<name>Redeemer of Heaven&apos;s Blood</name>
-			<text>Host (When this creature attacks, you may create a 1/1 token copy of it without host that&apos;s tapped and attacking. At the beginning of the next end step, if you control that token, sacrifice a creature.)
+			<text>Host (When this creature attacks, you may create a 1/1 tapped and attacking token copy of it without host. Sacrifice that token at the beginning of the next end step unles you sacrifice a creature.)
 Sacrifice a creature or artifact: This creature gets +2/+2 until end of turn.</text>
-			<set rarity="uncommon" picurl="https://mirage-xel.github.io/sets/M6D-files/img/79_Redeemer of Heaven&apos;s Blood.png" num="79">M6D</set>
+			<set rarity="uncommon" picurl="https://mirage-xel.github.io/sets/M6D-files/img/78_Redeemer of Heaven&apos;s Blood.png" num="78">M6D</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1179,7 +1179,7 @@ Sacrifice a creature or artifact: This creature gets +2/+2 until end of turn.</t
 			<name>Shade-Wreathed Bailif</name>
 			<text>When this creature enters, target opponent reveals their hand. You exile a nonland card from it. 
 When this creature dies, create a 2/1 green Homunculus creature token with &quot;When you control this creature for two end steps, sacrifice it.&quot;</text>
-			<set rarity="common" picurl="https://mirage-xel.github.io/sets/M6D-files/img/80_Shade-Wreathed Bailif.png" num="80">M6D</set>
+			<set rarity="common" picurl="https://mirage-xel.github.io/sets/M6D-files/img/79_Shade-Wreathed Bailif.png" num="79">M6D</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1251,7 +1251,7 @@ Target creature you control fights target creature you don&apos;t control.</text
 			<text>Flying 
 Other creatures you control get +1/+1
 As an additional cost to cast this spell, tap five untapped permanents you control.</text>
-			<set rarity="uncommon" picurl="https://mirage-xel.github.io/sets/M6D-files/img/13_Gizbor of Raidance.png" num="13">M6D</set>
+			<set rarity="uncommon" picurl="https://mirage-xel.github.io/sets/M6D-files/img/12_Gizbor of Raidance.png" num="12">M6D</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1426,7 +1426,7 @@ Trample
 		</card>
 		<card>
 			<name>Erase-Will-Not-Erase</name>
-			<text>When this creature enters, create a Law token. (It&apos;s an artifact with &quot;Whenever you attack, attacking creatures you control get +1/+0 until end of turn. When you do, if you didn&apos;t attack with exactly one creature, sacrifice this token.&quot;)
+			<text>When this creature enters, create a Law token. (It&apos;s an artifact with &quot;Whenever you attack, target creature you control gets +1/+1 until end of turn. When it does, sacrifice this token if you attacked with two or more creatures.&quot;)
 {2}, Sacrifice an artifact: Double this creature&apos;s power until end of turn.</text>
 			<set rarity="uncommon" picurl="https://mirage-xel.github.io/sets/M6D-files/img/91_Erase-Will-Not-Erase.png" num="91">M6D</set>
 			<prop>
@@ -1445,7 +1445,7 @@ Trample
 		<card>
 			<name>Mud-Slinging</name>
 			<text>Create two 2/1 green Homunculus creature tokens with &quot;When you control this creature for two end steps, sacrifice it.&quot;</text>
-			<set rarity="uncommon" picurl="https://mirage-xel.github.io/sets/M6D-files/img/105_Mud-Slinging.png" num="105">M6D</set>
+			<set rarity="uncommon" picurl="https://mirage-xel.github.io/sets/M6D-files/img/104_Mud-Slinging.png" num="104">M6D</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1459,9 +1459,9 @@ Trample
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Heavenly Mourner</name>
+			<name>Keening Poet</name>
 			<text>Whenever a nonland source you control causes you to gain or lose life, this creature deals 2 damage to each opponent.</text>
-			<set rarity="uncommon" picurl="https://mirage-xel.github.io/sets/M6D-files/img/96_Heavenly Mourner.png" num="96">M6D</set>
+			<set rarity="uncommon" picurl="https://mirage-xel.github.io/sets/M6D-files/img/97_Keening Poet.png" num="97">M6D</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1477,7 +1477,7 @@ Trample
 		</card>
 		<card>
 			<name>Clearsight Lecturer</name>
-			<text>At the beginning of your upkeep, if you control no Laws, create a Law token. (It&apos;s an artifact with &quot;Whenever you attack, attacking creatures you control get +1/+0 until end of turn. When you do, if you didn&apos;t attack with exactly one creature, sacrifice this token.&quot;)</text>
+			<text>At the beginning of your upkeep, if you control no Laws, create a Law token. (It&apos;s an artifact with &quot;Whenever you attack, target creature you control gets +1/+1 until end of turn. When it does, sacrifice this token if you attacked with two or more creatures.&quot;)</text>
 			<set rarity="uncommon" picurl="https://mirage-xel.github.io/sets/M6D-files/img/89_Clearsight Lecturer.png" num="89">M6D</set>
 			<prop>
 				<layout>normal</layout>
@@ -1595,7 +1595,7 @@ Whenever this creature attacks alone, you may cast a copy of target noncreature,
 		</card>
 		<card>
 			<name>Fount Of Psalms</name>
-			<text>Host (When this creature attacks, you may create a 1/1 token copy of it without host that&apos;s tapped and attacking. At the beginning of the next end step, if you control that token, sacrifice a creature.)
+			<text>Host (When this creature attacks, you may create a 1/1 tapped and attacking token copy of it without host. Sacrifice that token at the beginning of the next end step unles you sacrifice a creature.)
 Flying
 Whenever you cast a noncreature spell, draw a a card, then discard a card.</text>
 			<set rarity="uncommon" picurl="https://mirage-xel.github.io/sets/M6D-files/img/38_Fount Of Psalms.png" num="38">M6D</set>
@@ -1616,7 +1616,7 @@ Whenever you cast a noncreature spell, draw a a card, then discard a card.</text
 			<name>Seraphic Girdle</name>
 			<text>When this enchantment enters, create a 2/2 blue Angel creature token with flying and draw a card.
 Whenever you cast a spell with mana value 5 or greater, return this enchantment to its owner&apos;s hand.</text>
-			<set rarity="uncommon" picurl="https://mirage-xel.github.io/sets/M6D-files/img/51_Seraphic Girdle.png" num="51">M6D</set>
+			<set rarity="uncommon" picurl="https://mirage-xel.github.io/sets/M6D-files/img/52_Seraphic Girdle.png" num="52">M6D</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1632,7 +1632,7 @@ Whenever you cast a spell with mana value 5 or greater, return this enchantment 
 		<card>
 			<name>Deem Forbidden</name>
 			<text>Counter target spell. 
-Create a Law token. (It&apos;s an artifact with &quot;Whenever you attack, attacking creatures you control get +1/+0 until end of turn. When you do, if you didn&apos;t attack with exactly one creature, sacrifice this token.&quot;)</text>
+Create a Law token. (It&apos;s an artifact with &quot;Whenever you attack, target creature you control gets +1/+1 until end of turn. When it does, sacrifice this token if you attacked with two or more creatures.&quot;)</text>
 			<set rarity="uncommon" picurl="https://mirage-xel.github.io/sets/M6D-files/img/34_Deem Forbidden.png" num="34">M6D</set>
 			<prop>
 				<layout>normal</layout>
@@ -1683,7 +1683,7 @@ Whenever Clarity Sage attacks, draw a card. Then discard a card unless you attac
 		</card>
 		<card>
 			<name>Keter of the Firmament</name>
-			<text>Raiment (When this enters, create a 1/1 Angel token with &quot;At the beginning of combat on your turn, you may pay {2}. When you do, this creature&apos;s Equipment gain another instance of their abilities until end of turn&quot; attached to it.)
+			<text>Raiment (When this enters, create a 1/1 Angel token with &quot;At the beginning of your upkeep, you may pay {2}. When you do, this creature&apos;s Equipment gain another instance of their abilities until end of turn&quot; attached to it.)
 Whenever equipped creature attacks, target creature gains flying until end of turn.
 Equip {1}{U}</text>
 			<set rarity="uncommon" picurl="https://mirage-xel.github.io/sets/M6D-files/img/44_Keter of the Firmament.png" num="44">M6D</set>
@@ -1722,7 +1722,7 @@ Players can&apos;t attack with more than one creature each combat.</text>
 			<name>Gives-Absolute-Decrees</name>
 			<text>Flash
 When Gives-Absolute-Decrees enters, target opponent reveals their hand, then exile a nonland card from their hand if it&apos;s your turn or a spell or nonland permanent they control. They may cast it from exile for as long as it remains exiled. it costs {2} more to cast.</text>
-			<set rarity="uncommon" picurl="https://mirage-xel.github.io/sets/M6D-files/img/12_Gives-Absolute-Decrees.png" num="12">M6D</set>
+			<set rarity="uncommon" picurl="https://mirage-xel.github.io/sets/M6D-files/img/11_Gives-Absolute-Decrees.png" num="11">M6D</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1788,7 +1788,7 @@ Tap eight untapped permanents you control: Exile this artifact. Any player may a
 		<card>
 			<name>Raises-From-the-Pit</name>
 			<text>Flying
-Host (When this creature attacks, you may create a 1/1 token copy of it without host that&apos;s tapped and attacking. At the beginning of the next end step, if you control that token, sacrifice a creature.)
+Host (When this creature attacks, you may create a 1/1 tapped and attacking token copy of it without host. Sacrifice that token at the beginning of the next end step unles you sacrifice a creature.)
 When Raises-From-the-Pit leaves the battlefield, return up to two creature cards with mana value 2 or less from your graveyard to the battlefield.</text>
 			<set rarity="uncommon" picurl="https://mirage-xel.github.io/sets/M6D-files/img/24_Raises-From-the-Pit.png" num="24">M6D</set>
 			<prop>
@@ -1807,7 +1807,7 @@ When Raises-From-the-Pit leaves the battlefield, return up to two creature cards
 		<card>
 			<name>Honor</name>
 			<text>Put two +1/+1 counters on target creature. Other creatures you control with the same name as that creature get +1/+1 until end of turn.</text>
-			<set rarity="common" picurl="https://mirage-xel.github.io/sets/M6D-files/img/14_Honor.png" num="14">M6D</set>
+			<set rarity="common" picurl="https://mirage-xel.github.io/sets/M6D-files/img/13_Honor.png" num="13">M6D</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1823,7 +1823,7 @@ When Raises-From-the-Pit leaves the battlefield, return up to two creature cards
 		<card>
 			<name>Test of Paradise</name>
 			<text>Choose target creature. Its controller exiles it unless they exile two other creatures they control.</text>
-			<set rarity="uncommon" picurl="https://mirage-xel.github.io/sets/M6D-files/img/82_Test of Paradise.png" num="82">M6D</set>
+			<set rarity="uncommon" picurl="https://mirage-xel.github.io/sets/M6D-files/img/81_Test of Paradise.png" num="81">M6D</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1854,11 +1854,11 @@ When Raises-From-the-Pit leaves the battlefield, return up to two creature cards
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>raphael</name>
+			<name>Hosniyah Behind Me</name>
 			<text>Flying, lifelink, menace
-You may cast raphael from exile if it was put there from your graveyard this turn.
-{B}, exile raphael and twelve other cards from your graveyard: Whenever a creature with no +1/+1 counters dies under your control this turn, return it to the battlefield with a +1/+1 counter.</text>
-			<set rarity="mythic" picurl="https://mirage-xel.github.io/sets/M6D-files/img/78_raphael.png" num="78">M6D</set>
+You may cast Hosniyah from exile if it was put there from your graveyard this turn.
+{B}, Exile Hosniyah[b] [/b]and twelve other cards from your graveyard: Whenever a creature with no +1/+1 counters dies under your control this turn, return it to the battlefield with a +1/+1 counter.</text>
+			<set rarity="mythic" picurl="https://mirage-xel.github.io/sets/M6D-files/img/68_Hosniyah Behind Me.png" num="68">M6D</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1874,7 +1874,7 @@ You may cast raphael from exile if it was put there from your graveyard this tur
 		</card>
 		<card>
 			<name>blood artist</name>
-			<text>Host (When this creature attacks, you may create a 1/1 token copy of it without host that&apos;s tapped and attacking. At the beginning of the next end step, if you control that token, sacrifice a creature.)
+			<text>Host (When this creature attacks, you may create a 1/1 tapped and attacking token copy of it without host. Sacrifice that token at the beginning of the next end step unles you sacrifice a creature.)
 Whenever another creature you control dies, each opponent loses 1 life and you gain 1 life.</text>
 			<set rarity="common" picurl="https://mirage-xel.github.io/sets/M6D-files/img/59_blood artist.png" num="59">M6D</set>
 			<prop>
@@ -1997,11 +1997,11 @@ Weaver of Storms gets +2/+0 as long as you control an attacking token.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>michael</name>
+			<name>Peleyah At My Right</name>
 			<text>Flying, haste, first strike
-You may cast michael from exile if it was put there from your graveyard this turn.
-{R}, exile michael and twelve other cards from your graveyard: Untap each creature you control. After this phase there is an additional combat phase. Activate only during your turn.</text>
-			<set rarity="mythic" picurl="https://mirage-xel.github.io/sets/M6D-files/img/104_michael.png" num="104">M6D</set>
+You may cast Peleyah from exile if it was put there from your graveyard this turn.
+{R}, Exile Peleyah and twelve other cards from your graveyard: Untap each creature you control. After this phase there is an additional combat phase. Activate only during your turn.</text>
+			<set rarity="mythic" picurl="https://mirage-xel.github.io/sets/M6D-files/img/105_Peleyah At My Right.png" num="105">M6D</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2052,7 +2052,7 @@ At the beginning of your end step, sacrifice each creature token you control.</t
 		</card>
 		<card>
 			<name>Devises-Galaxies-In-Wisdom</name>
-			<text>Host (When this creature attacks, you may create a 1/1 token copy of it without host that&apos;s tapped and attacking. At the beginning of the next end step, if you control that token, sacrifice a creature.)
+			<text>Host (When this creature attacks, you may create a 1/1 tapped and attacking token copy of it without host. Sacrifice that token at the beginning of the next end step unles you sacrifice a creature.)
 Flying
 Whenever you cast a spell from your hand, exile the top card of your library. If it has lesser mana value, you may cast it without paying its mana cost.</text>
 			<set rarity="rare" picurl="https://mirage-xel.github.io/sets/M6D-files/img/90_Devises-Galaxies-In-Wisdom.png" num="90">M6D</set>
@@ -2074,7 +2074,7 @@ Whenever you cast a spell from your hand, exile the top card of your library. If
 			<text>Choose one—
 • Scry 2, then draw a card.
 • Target creature you control get +1/+2 and gains hexproof until end of turn.</text>
-			<set rarity="common" picurl="https://mirage-xel.github.io/sets/M6D-files/img/49_protecc.png" num="49">M6D</set>
+			<set rarity="common" picurl="https://mirage-xel.github.io/sets/M6D-files/img/50_protecc.png" num="50">M6D</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2089,7 +2089,7 @@ Whenever you cast a spell from your hand, exile the top card of your library. If
 		</card>
 		<card>
 			<name>Firmament Swimmer</name>
-			<text>Host (When this creature attacks, you may create a 1/1 token copy of it without host that&apos;s tapped and attacking. At the beginning of the next end step, if you control that token, sacrifice a creature.)
+			<text>Host (When this creature attacks, you may create a 1/1 tapped and attacking token copy of it without host. Sacrifice that token at the beginning of the next end step unles you sacrifice a creature.)
 Firmament Swimmer can&apos;t be blocked if only tokens are attacking.</text>
 			<set rarity="rare" picurl="https://mirage-xel.github.io/sets/M6D-files/img/37_Firmament Swimmer.png" num="37">M6D</set>
 			<prop>
@@ -2126,7 +2126,7 @@ Whenever an opponent casts a spell, counter that spell unless that player pays {
 		<card>
 			<name>Hammer of Strictures</name>
 			<text>Flying
-When this creature enters, if it isn&apos;t a Law, create tokens that are copies of two target nonland permanents you control, except they&apos;re Law artifacts with &quot;Whenever you attack, attacking creatures you control get +1/+0 until end of turn. When you do, if you didn&apos;t attack with exactly one creature, sacrifice this permanent.&quot;</text>
+When this creature enters, if it isn&apos;t a Law, create tokens that are copies of two target nonland permanents you control, except they&apos;re Law artifacts with &quot;Whenever you attack, target creature you control gets +1/+1 until end of turn. When it does, sacrifice this artifact if you attacked with two or more creatures.&quot;</text>
 			<set rarity="mythic" picurl="https://mirage-xel.github.io/sets/M6D-files/img/40_Hammer of Strictures.png" num="40">M6D</set>
 			<prop>
 				<layout>normal</layout>
@@ -2142,11 +2142,11 @@ When this creature enters, if it isn&apos;t a Law, create tokens that are copies
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>gabriel</name>
+			<name>Kokhiyah At My Left</name>
 			<text>Flying, vigilance, double strike
-You may cast gabriel from exile if it was put there from your graveyard this turn.
-{W}, exile gabriel and twelve other cards from your graveyard: Create four Law tokens. (They&apos;re artifacts with &quot;Whenever you attack, attacking creatures you control get +1/+0 until end of turn. When you do, if you didn&apos;t attack with exactly one creature, sacrifice this token.&quot;)</text>
-			<set rarity="mythic" picurl="https://mirage-xel.github.io/sets/M6D-files/img/11_gabriel.png" num="11">M6D</set>
+You may cast Kokhiyah from exile if it was put there from your graveyard this turn.
+{W}, Exile Kokhiyah and twelve other cards from your graveyard: Create four Law tokens. (They&apos;re artifacts with &quot;Whenever you attack, target creature you control gets +1/+1 until end of turn. When it does, sacrifice this token if you attacked with two or more creatures.&quot;)</text>
+			<set rarity="mythic" picurl="https://mirage-xel.github.io/sets/M6D-files/img/20_Kokhiyah At My Left.png" num="20">M6D</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2196,7 +2196,7 @@ You may cast gabriel from exile if it was put there from your graveyard this tur
 		<card>
 			<name>small removal</name>
 			<text>Exile target creature with power 2 or less.
-Create a Law token. (It&apos;s an artifact with &quot;Whenever you attack, attacking creatures you control get +1/+0 until end of turn. When you do, if you didn&apos;t attack with exactly one creature, sacrifice this token.&quot;)</text>
+Create a Law token. (It&apos;s an artifact with &quot;Whenever you attack, target creature you control gets +1/+1 until end of turn. When it does, sacrifice this token if you attacked with two or more creatures.&quot;)</text>
 			<set rarity="common" picurl="https://mirage-xel.github.io/sets/M6D-files/img/27_small removal.png" num="27">M6D</set>
 			<prop>
 				<layout>normal</layout>
@@ -2228,9 +2228,9 @@ Create a Law token. (It&apos;s an artifact with &quot;Whenever you attack, attac
 		</card>
 		<card>
 			<name>Keter-Mother</name>
-			<text>Host (When this creature attacks, you may create a 1/1 token copy of it without host that&apos;s tapped and attacking. At the beginning of the next end step, if you control that token, sacrifice a creature.)
+			<text>Host (When this creature attacks, you may create a 1/1 tapped and attacking token copy of it without host. Sacrifice that token at the beginning of the next end step unles you sacrifice a creature.)
 Whenever Keter-Mother deals combat damage to a player, create a token that&apos;s a copy of each creature token you control.</text>
-			<set rarity="rare" picurl="https://mirage-xel.github.io/sets/M6D-files/img/20_Keter-Mother.png" num="20">M6D</set>
+			<set rarity="rare" picurl="https://mirage-xel.github.io/sets/M6D-files/img/19_Keter-Mother.png" num="19">M6D</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2267,7 +2267,7 @@ Whenever you cast a noncreature spell, if Gives-Wisdom-To-Its-Seekers didn&apos;
 			<text>Flying
 When this creature enters, separate the top seven cards of your library into two piles. Put one pile of an opponent&apos;s choice into your graveyard and exile the other. 
 Pay 3 life: You may cast a card exiled with this creature without paying its mana cost.</text>
-			<set rarity="rare" picurl="https://mirage-xel.github.io/sets/M6D-files/img/68_Herald of the Final Day.png" num="68">M6D</set>
+			<set rarity="rare" picurl="https://mirage-xel.github.io/sets/M6D-files/img/67_Herald of the Final Day.png" num="67">M6D</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2353,7 +2353,7 @@ You may have one creature you control assign combat damage equal to this creatur
 		</card>
 		<card>
 			<name>Keter of The Moon</name>
-			<text>Raiment (When this enters, create a 1/1 Angel token with &quot;At the beginning of combat on your turn, you may pay {2}. When you do, this creature&apos;s Equipment gain another instance of their abilities until end of turn&quot; attached to it.)
+			<text>Raiment (When this enters, create a 1/1 Angel token with &quot;At the beginning of your upkeep, you may pay {2}. When you do, this creature&apos;s Equipment gain another instance of their abilities until end of turn&quot; attached to it.)
 Whenever equipped creature attacks, exile target creature you control, then return it to the battlefield tapped and attacking. As it enters, you may have it become a copy of equipped creature until end of turn.
 Equip {2}</text>
 			<set rarity="uncommon" picurl="https://mirage-xel.github.io/sets/M6D-files/img/178_Keter of The Moon.png" num="178">M6D</set>
@@ -2389,7 +2389,7 @@ Whenever this creature attacks, creatures you control get +1/+0 and gain your ch
 		</card>
 		<card>
 			<name>Avta&apos;s Cast</name>
-			<text>When this artifact enters, create a Law token. (It&apos;s an artifact with &quot;Whenever you attack, attacking creatures you control get +1/+0 until end of turn. When you do, if you didn&apos;t attack with exactly one creature, sacrifice this token.&quot;)
+			<text>When this artifact enters, create a Law token. (It&apos;s an artifact with &quot;Whenever you attack, target creature you control gets +1/+1 until end of turn. When it does, sacrifice this token if you attacked with two or more creatures.&quot;)
 Whenever a creature you control attacks alone, you may cast a copy of this artifact.</text>
 			<set rarity="uncommon" picurl="https://mirage-xel.github.io/sets/M6D-files/img/147_Avta&apos;s Cast.png" num="147">M6D</set>
 			<prop>
@@ -2602,7 +2602,7 @@ If a creature attacking alone would cause an ability of a permanent you control 
 		</card>
 		<card>
 			<name>Keter of Multiplicty</name>
-			<text>Raiment (When this enters, create a 1/1 Angel token with &quot;At the beginning of combat on your turn, you may pay {2}. When you do, this creature&apos;s Equipment gain another instance of their abilities until end of turn&quot; attached to it.)
+			<text>Raiment (When this enters, create a 1/1 Angel token with &quot;At the beginning of your upkeep, you may pay {2}. When you do, this creature&apos;s Equipment gain another instance of their abilities until end of turn&quot; attached to it.)
 Equipped creature gets +2/+1.
 If equipped creature would die, instead remove all damage from it, create a token copy of it, and unattach Keter of Multiplicty from it.
 Equip {3}</text>
@@ -2639,7 +2639,7 @@ Whenever Cleaver of Multitudes attacks, you may sacrifice another nontoken creat
 		</card>
 		<card>
 			<name>Blesser of Hearths</name>
-			<text>Host (When this creature attacks, you may create a 1/1 token copy of it without host that&apos;s tapped and attacking. At the beginning of the next end step, if you control that token, sacrifice a creature.)
+			<text>Host (When this creature attacks, you may create a 1/1 tapped and attacking token copy of it without host. Sacrifice that token at the beginning of the next end step unles you sacrifice a creature.)
 When this creature enters, you draw a card and each player loses 1 life.</text>
 			<set rarity="uncommon" picurl="https://mirage-xel.github.io/sets/M6D-files/img/153_Blesser of Hearths.png" num="153">M6D</set>
 			<prop>
@@ -2675,7 +2675,7 @@ Whenever your life total changes on your turn, put a +1/+1 counter on this creat
 		</card>
 		<card>
 			<name>Scribe&apos;s Keter</name>
-			<text>Raiment. (When this enters, create a 1/1 Angel token with &quot;At the beginning of combat on your turn, you may pay {2}. When you do, this creature&apos;s Equipment gain another instance of their abilities until end of turn&quot; attached to it.)
+			<text>Raiment. (When this enters, create a 1/1 Angel token with &quot;At the beginning of your upkeep, you may pay {2}. When you do, this creature&apos;s Equipment gain another instance of their abilities until end of turn&quot; attached to it.)
 Equipped creature gets +2/+2.
 Whenever a creature you control attacks alone, create a token that&apos;s a copy of target permanent you control with mana value 2 or less.
 Equip {3}</text>
@@ -2694,7 +2694,7 @@ Equip {3}</text>
 		</card>
 		<card>
 			<name>Balanced Dayan</name>
-			<text>When this creature enters, create two Law tokens. (They&apos;re artifacts with &quot;Whenever you attack, attacking creatures you control get +1/+0 until end of turn. When you do, if you didn&apos;t attack with exactly one creature, sacrifice this token.&quot;)
+			<text>When this creature enters, create two Law tokens. (They&apos;re artifacts with &quot;Whenever you attack, target creature you control gets +1/+1 until end of turn. When it does, sacrifice this token if you attacked with two or more creatures.&quot;)
 This creature can&apos;t attack or block. At the beginning of your end step, if two or more nonland permanents died under your control this turn, it loses this ability. (Indefinitely,)</text>
 			<set rarity="uncommon" picurl="https://mirage-xel.github.io/sets/M6D-files/img/149_Balanced Dayan.png" num="149">M6D</set>
 			<prop>
@@ -2712,7 +2712,7 @@ This creature can&apos;t attack or block. At the beginning of your end step, if 
 		</card>
 		<card>
 			<name>Keter of Balance</name>
-			<text>Raiment (When this enters, create a 1/1 Angel token with &quot;At the beginning of combat on your turn, you may pay {2}. When you do, this creature&apos;s Equipment gain another instance of their abilities until end of turn&quot; attached to it.)
+			<text>Raiment (When this enters, create a 1/1 Angel token with &quot;At the beginning of your upkeep, you may pay {2}. When you do, this creature&apos;s Equipment gain another instance of their abilities until end of turn&quot; attached to it.)
 Whenever equipped creature attacks, attacking creatures get +1/+1 until end of turn, then sacrifice a creature if you attacked with two or more creatures.
 Equip {2}</text>
 			<set rarity="uncommon" picurl="https://mirage-xel.github.io/sets/M6D-files/img/174_Keter of Balance.png" num="174">M6D</set>
@@ -2767,7 +2767,7 @@ When this creature enters, other creatures you control gain flying until end of 
 		<card>
 			<name>Solacent Keruv</name>
 			<text>Flying, vigilance
-Host (When this creature attacks, you may create a 1/1 token copy of it without host that&apos;s tapped and attacking. At the beginning of the next end step, if you control that token, sacrifice a creature.)
+Host (When this creature attacks, you may create a 1/1 tapped and attacking token copy of it without host. Sacrifice that token at the beginning of the next end step unles you sacrifice a creature.)
 This creature gets +1/+0 for each token you control.</text>
 			<set rarity="uncommon" picurl="https://mirage-xel.github.io/sets/M6D-files/img/194_Solacent Keruv.png" num="194">M6D</set>
 			<prop>
@@ -2820,7 +2820,7 @@ Whenever a creature you control attacks alone, each player loses 3 life unless t
 		</card>
 		<card>
 			<name>Axe Of Ruin</name>
-			<text>Host (When this creature attacks, you may create a 1/1 token copy of it without host that&apos;s tapped and attacking. At the beginning of the next end step, if you control that token, sacrifice a creature.)
+			<text>Host (When this creature attacks, you may create a 1/1 tapped and attacking token copy of it without host. Sacrifice that token at the beginning of the next end step unles you sacrifice a creature.)
 When Axe Of Ruin dies, it deals 1 damage to target opponent.</text>
 			<set rarity="common" picurl="https://mirage-xel.github.io/sets/M6D-files/img/148_Axe Of Ruin.png" num="148">M6D</set>
 			<prop>
@@ -2872,7 +2872,7 @@ As an additional cost to cast noncreature spells, you may pay {2} and 2 life. Wh
 		</card>
 		<card>
 			<name>Keter Of Libations</name>
-			<text>Raiment (When this enters, create a 1/1 Angel token with &quot;At the beginning of combat on your turn, you may pay {2}. When you do, this creature&apos;s Equipment gain another instance of their abilities until end of turn&quot; attached to it.)
+			<text>Raiment (When this enters, create a 1/1 Angel token with &quot;At the beginning of your upkeep, you may pay {2}. When you do, this creature&apos;s Equipment gain another instance of their abilities until end of turn&quot; attached to it.)
 Whenever your life total changes on your turn, equipped creature gets +1/+0 until end of turn.
 Equip {4}</text>
 			<set rarity="common" picurl="https://mirage-xel.github.io/sets/M6D-files/img/176_Keter Of Libations.png" num="176">M6D</set>
@@ -2997,7 +2997,7 @@ At the beginning of your end step, sacrifice A World Lacking Nothing.</text>
 		</card>
 		<card>
 			<name>Keter of Ingenuity</name>
-			<text>Raiment (When this enters, create a 1/1 Angel token with &quot;At the beginning of combat on your turn, you may pay {2}. When you do, this creature&apos;s Equipment gain another instance of their abilities until end of turn&quot; attached to it.)
+			<text>Raiment (When this enters, create a 1/1 Angel token with &quot;At the beginning of your upkeep, you may pay {2}. When you do, this creature&apos;s Equipment gain another instance of their abilities until end of turn&quot; attached to it.)
 Whenever equipped creature deals combat damage to a player, create a token copy of another target nontoken artifact you control and one of another target artifact token you control. (You must control both.)
 Equip {4}</text>
 			<set rarity="uncommon" picurl="https://mirage-xel.github.io/sets/M6D-files/img/175_Keter of Ingenuity.png" num="175">M6D</set>
@@ -3015,7 +3015,7 @@ Equip {4}</text>
 		</card>
 		<card>
 			<name>Fraying Chacham</name>
-			<text>Host (When this creature attacks, you may create a 1/1 token copy of it without host that&apos;s tapped and attacking. At the beginning of the next end step, if you control that token, sacrifice a creature.)
+			<text>Host (When this creature attacks, you may create a 1/1 tapped and attacking token copy of it without host. Sacrifice that token at the beginning of the next end step unles you sacrifice a creature.)
 As long as Fraying Chacham is attacking, abilities of tokens you control trigger an additional time.</text>
 			<set rarity="rare" picurl="https://mirage-xel.github.io/sets/M6D-files/img/170_Fraying Chacham.png" num="170">M6D</set>
 			<prop>
@@ -3033,7 +3033,7 @@ As long as Fraying Chacham is attacking, abilities of tokens you control trigger
 		</card>
 		<card>
 			<name>Sees-All-Secrets</name>
-			<text>Host (When this creature attacks, you may create a 1/1 token copy of it without host that&apos;s tapped and attacking. At the beginning of the next end step, if you control that token, sacrifice a creature.)
+			<text>Host (When this creature attacks, you may create a 1/1 tapped and attacking token copy of it without host. Sacrifice that token at the beginning of the next end step unles you sacrifice a creature.)
 When Sees-All-Secrets enters, tap target creature.</text>
 			<set rarity="common" picurl="https://mirage-xel.github.io/sets/M6D-files/img/192_Sees-All-Secrets.png" num="192">M6D</set>
 			<prop>
@@ -3177,7 +3177,7 @@ Grandiloquent Teacher costs {2} less if you controlled two or more attacking tok
 		</card>
 		<card>
 			<name>Avenges-In-Envy</name>
-			<text>Host (When this creature attacks, you may create a 1/1 token copy of it without host that&apos;s tapped and attacking. At the beginning of the next end step, if you control that token, sacrifice a creature.)
+			<text>Host (When this creature attacks, you may create a 1/1 tapped and attacking token copy of it without host. Sacrifice that token at the beginning of the next end step unles you sacrifice a creature.)
 Whenever a creature you control attacks alone, it gets +3/+0 until end of turn unless defending player sacrifices a creature.</text>
 			<set rarity="rare" picurl="https://mirage-xel.github.io/sets/M6D-files/img/145_Avenges-In-Envy.png" num="145">M6D</set>
 			<prop>
@@ -3285,7 +3285,7 @@ Tokens you control have &quot;{T}: Add one mana of any color. Spend this mana on
 		</card>
 		<card>
 			<name>Nameless Keter</name>
-			<text>Raiment (When this enters, create a 1/1 Angel token with &quot;At the beginning of combat on your turn, you may pay {2}. When you do, this creature&apos;s Equipment gain another instance of their abilities until end of turn&quot; attached to it.)
+			<text>Raiment (When this enters, create a 1/1 Angel token with &quot;At the beginning of your upkeep, you may pay {2}. When you do, this creature&apos;s Equipment gain another instance of their abilities until end of turn&quot; attached to it.)
 Whenever you sacrifice a creature with one or more creature types, create a 2/2 creature token and put a +1/+1 counter on equipped creature.
 Equip {B}</text>
 			<set rarity="rare" picurl="https://mirage-xel.github.io/sets/M6D-files/img/74_Nameless Keter.png" num="74">M6D</set>
@@ -3410,7 +3410,7 @@ When this creature dies, you may choose a noncreature, nonland permanent you con
 		<card>
 			<name>Olamiyah, Covenantal Scribe</name>
 			<text>Flying, vigilance
-When Olamiyah enters, create X Law tokens. (They&apos;re artifacts with &quot;Whenever you attack, attacking creatures you control get +1/+0 until end of turn. When you do, if you didn&apos;t attack with exactly one creature, sacrifice this token.&quot;)
+When Olamiyah enters, create X Law tokens. (They&apos;re artifacts with &quot;Whenever you attack, target creature you control gets +1/+1 until end of turn. When it does, sacrifice this token if you attacked with two or more creatures.&quot;)
 You can&apos;t sacrifice tokens.</text>
 			<set rarity="mythic" picurl="https://mirage-xel.github.io/sets/M6D-files/img/182_Olamiyah, Covenantal Scribe.png" num="182">M6D</set>
 			<prop>
@@ -3428,7 +3428,7 @@ You can&apos;t sacrifice tokens.</text>
 		</card>
 		<card>
 			<name>The First Key</name>
-			<text>Raiment (When this enters, create a 1/1 Angel token with &quot;At the beginning of combat on your turn, you may pay {2}. When you do, this creature&apos;s Equipment gain another instance of their abilities until end of turn&quot; attached to it.)
+			<text>Raiment (When this enters, create a 1/1 Angel token with &quot;At the beginning of your upkeep, you may pay {2}. When you do, this creature&apos;s Equipment gain another instance of their abilities until end of turn&quot; attached to it.)
 Whenever equipped creature attacks, return target creature card with mana value 3 or less from your graveyard to the battlefield. It becomes an Equipment artifact with equip {2}. 
 Equip {2}</text>
 			<set rarity="mythic" picurl="https://mirage-xel.github.io/sets/M6D-files/img/168_The First Key.png" num="168">M6D</set>
@@ -3876,7 +3876,7 @@ When this creature enters, exile up to two cards from target graveyard.</text>
 		</card>
 		<card>
 			<name>Molten Keter</name>
-			<text>Raiment (When this enters, create a 1/1 Angel token with &quot;At the beginning of combat on your turn, you may pay {2}. When you do, this creature&apos;s Equipment gain another instance of their abilities until end of turn&quot; attached to it.)
+			<text>Raiment (When this enters, create a 1/1 Angel token with &quot;At the beginning of your upkeep, you may pay {2}. When you do, this creature&apos;s Equipment gain another instance of their abilities until end of turn&quot; attached to it.)
 Whenever equipped creature dies, draw a card.
 Equip {2}</text>
 			<set rarity="uncommon" picurl="https://mirage-xel.github.io/sets/M6D-files/img/208_Molten Keter.png" num="208">M6D</set>

@@ -55,9 +55,9 @@
 			"rarity": "rare",
 			"mana_cost": "{W}",
 			"type": "Artifact — Equipment",
-			"collector_number": "19",
+			"collector_number": "18",
 			"image_uris": {
-				"en": "https://mirage-xel.github.io/sets/M6D-files/img/19_Keter of Legions.png"
+				"en": "https://mirage-xel.github.io/sets/M6D-files/img/18_Keter of Legions.png"
 			}
 		},
 		{
@@ -65,9 +65,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Angel Cleric",
-			"collector_number": "15",
+			"collector_number": "14",
 			"image_uris": {
-				"en": "https://mirage-xel.github.io/sets/M6D-files/img/15_host.png"
+				"en": "https://mirage-xel.github.io/sets/M6D-files/img/14_host.png"
 			}
 		},
 		{
@@ -75,9 +75,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Artifact — Equipment",
-			"collector_number": "18",
+			"collector_number": "17",
 			"image_uris": {
-				"en": "https://mirage-xel.github.io/sets/M6D-files/img/18_Keter of Judgement.png"
+				"en": "https://mirage-xel.github.io/sets/M6D-files/img/17_Keter of Judgement.png"
 			}
 		},
 		{
@@ -145,9 +145,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{U}{U}",
 			"type": "Sorcery",
-			"collector_number": "52",
+			"collector_number": "53",
 			"image_uris": {
-				"en": "https://mirage-xel.github.io/sets/M6D-files/img/52_talrand's invocation.png"
+				"en": "https://mirage-xel.github.io/sets/M6D-files/img/53_talrand's invocation.png"
 			}
 		},
 		{
@@ -175,9 +175,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Sorcery",
-			"collector_number": "17",
+			"collector_number": "16",
 			"image_uris": {
-				"en": "https://mirage-xel.github.io/sets/M6D-files/img/17_Inspire.png"
+				"en": "https://mirage-xel.github.io/sets/M6D-files/img/16_Inspire.png"
 			}
 		},
 		{
@@ -205,9 +205,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Sorcery",
-			"collector_number": "50",
+			"collector_number": "51",
 			"image_uris": {
-				"en": "https://mirage-xel.github.io/sets/M6D-files/img/50_Sanctity's Allure.png"
+				"en": "https://mirage-xel.github.io/sets/M6D-files/img/51_Sanctity's Allure.png"
 			}
 		},
 		{
@@ -215,9 +215,9 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Enchantment — Aura",
-			"collector_number": "48",
+			"collector_number": "49",
 			"image_uris": {
-				"en": "https://mirage-xel.github.io/sets/M6D-files/img/48_paralyzing grasp.png"
+				"en": "https://mirage-xel.github.io/sets/M6D-files/img/49_paralyzing grasp.png"
 			}
 		},
 		{
@@ -245,19 +245,19 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{W}",
 			"type": "Enchantment",
-			"collector_number": "16",
+			"collector_number": "15",
 			"image_uris": {
-				"en": "https://mirage-xel.github.io/sets/M6D-files/img/16_Imago Dei.png"
+				"en": "https://mirage-xel.github.io/sets/M6D-files/img/15_Imago Dei.png"
 			}
 		},
 		{
-			"name": "uriel",
+			"name": "Oriyah In Front of Me",
 			"rarity": "mythic",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Legendary Creature — Angel Noble",
-			"collector_number": "54",
+			"collector_number": "48",
 			"image_uris": {
-				"en": "https://mirage-xel.github.io/sets/M6D-files/img/54_uriel.png"
+				"en": "https://mirage-xel.github.io/sets/M6D-files/img/48_Oriyah In Front of Me.png"
 			}
 		},
 		{
@@ -365,9 +365,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Angel Cat Soldier",
-			"collector_number": "53",
+			"collector_number": "54",
 			"image_uris": {
-				"en": "https://mirage-xel.github.io/sets/M6D-files/img/53_tapper i hardly know her.png"
+				"en": "https://mirage-xel.github.io/sets/M6D-files/img/54_tapper i hardly know her.png"
 			}
 		},
 		{
@@ -435,9 +435,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Sorcery",
-			"collector_number": "97",
+			"collector_number": "96",
 			"image_uris": {
-				"en": "https://mirage-xel.github.io/sets/M6D-files/img/97_Heavenly Trumpet.png"
+				"en": "https://mirage-xel.github.io/sets/M6D-files/img/96_Heavenly Trumpet.png"
 			}
 		},
 		{
@@ -465,9 +465,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Instant",
-			"collector_number": "81",
+			"collector_number": "80",
 			"image_uris": {
-				"en": "https://mirage-xel.github.io/sets/M6D-files/img/81_Snuff.png"
+				"en": "https://mirage-xel.github.io/sets/M6D-files/img/80_Snuff.png"
 			}
 		},
 		{
@@ -575,9 +575,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
-			"collector_number": "83",
+			"collector_number": "82",
 			"image_uris": {
-				"en": "https://mirage-xel.github.io/sets/M6D-files/img/83_Tormented Cry.png"
+				"en": "https://mirage-xel.github.io/sets/M6D-files/img/82_Tormented Cry.png"
 			}
 		},
 		{
@@ -631,13 +631,13 @@
 			}
 		},
 		{
-			"name": "gravecrawler",
+			"name": "Vivisected Effigy",
 			"rarity": "uncommon",
 			"mana_cost": "{B}",
 			"type": "Creature — Homunculus Zombie",
-			"collector_number": "67",
+			"collector_number": "83",
 			"image_uris": {
-				"en": "https://mirage-xel.github.io/sets/M6D-files/img/67_gravecrawler.png"
+				"en": "https://mirage-xel.github.io/sets/M6D-files/img/83_Vivisected Effigy.png"
 			}
 		},
 		{
@@ -665,9 +665,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Angel Knight",
-			"collector_number": "79",
+			"collector_number": "78",
 			"image_uris": {
-				"en": "https://mirage-xel.github.io/sets/M6D-files/img/79_Redeemer of Heaven's Blood.png"
+				"en": "https://mirage-xel.github.io/sets/M6D-files/img/78_Redeemer of Heaven's Blood.png"
 			}
 		},
 		{
@@ -675,9 +675,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Angel Devil",
-			"collector_number": "80",
+			"collector_number": "79",
 			"image_uris": {
-				"en": "https://mirage-xel.github.io/sets/M6D-files/img/80_Shade-Wreathed Bailif.png"
+				"en": "https://mirage-xel.github.io/sets/M6D-files/img/79_Shade-Wreathed Bailif.png"
 			}
 		},
 		{
@@ -715,9 +715,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
 			"type": "Creature — Angel Soldier",
-			"collector_number": "13",
+			"collector_number": "12",
 			"image_uris": {
-				"en": "https://mirage-xel.github.io/sets/M6D-files/img/13_Gizbor of Raidance.png"
+				"en": "https://mirage-xel.github.io/sets/M6D-files/img/12_Gizbor of Raidance.png"
 			}
 		},
 		{
@@ -825,19 +825,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
-			"collector_number": "105",
+			"collector_number": "104",
 			"image_uris": {
-				"en": "https://mirage-xel.github.io/sets/M6D-files/img/105_Mud-Slinging.png"
+				"en": "https://mirage-xel.github.io/sets/M6D-files/img/104_Mud-Slinging.png"
 			}
 		},
 		{
-			"name": "Heavenly Mourner",
+			"name": "Keening Poet",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Angel Bard",
-			"collector_number": "96",
+			"collector_number": "97",
 			"image_uris": {
-				"en": "https://mirage-xel.github.io/sets/M6D-files/img/96_Heavenly Mourner.png"
+				"en": "https://mirage-xel.github.io/sets/M6D-files/img/97_Keening Poet.png"
 			}
 		},
 		{
@@ -925,9 +925,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}",
 			"type": "Enchantment",
-			"collector_number": "51",
+			"collector_number": "52",
 			"image_uris": {
-				"en": "https://mirage-xel.github.io/sets/M6D-files/img/51_Seraphic Girdle.png"
+				"en": "https://mirage-xel.github.io/sets/M6D-files/img/52_Seraphic Girdle.png"
 			}
 		},
 		{
@@ -985,9 +985,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Archon",
-			"collector_number": "12",
+			"collector_number": "11",
 			"image_uris": {
-				"en": "https://mirage-xel.github.io/sets/M6D-files/img/12_Gives-Absolute-Decrees.png"
+				"en": "https://mirage-xel.github.io/sets/M6D-files/img/11_Gives-Absolute-Decrees.png"
 			}
 		},
 		{
@@ -1035,9 +1035,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
-			"collector_number": "14",
+			"collector_number": "13",
 			"image_uris": {
-				"en": "https://mirage-xel.github.io/sets/M6D-files/img/14_Honor.png"
+				"en": "https://mirage-xel.github.io/sets/M6D-files/img/13_Honor.png"
 			}
 		},
 		{
@@ -1045,9 +1045,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
-			"collector_number": "82",
+			"collector_number": "81",
 			"image_uris": {
-				"en": "https://mirage-xel.github.io/sets/M6D-files/img/82_Test of Paradise.png"
+				"en": "https://mirage-xel.github.io/sets/M6D-files/img/81_Test of Paradise.png"
 			}
 		},
 		{
@@ -1061,13 +1061,13 @@
 			}
 		},
 		{
-			"name": "raphael",
+			"name": "Hosniyah Behind Me",
 			"rarity": "mythic",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Legendary Creature — Angel Noble",
-			"collector_number": "78",
+			"collector_number": "68",
 			"image_uris": {
-				"en": "https://mirage-xel.github.io/sets/M6D-files/img/78_raphael.png"
+				"en": "https://mirage-xel.github.io/sets/M6D-files/img/68_Hosniyah Behind Me.png"
 			}
 		},
 		{
@@ -1141,13 +1141,13 @@
 			}
 		},
 		{
-			"name": "michael",
+			"name": "Peleyah At My Right",
 			"rarity": "mythic",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Legendary Creature — Angel Noble",
-			"collector_number": "104",
+			"collector_number": "105",
 			"image_uris": {
-				"en": "https://mirage-xel.github.io/sets/M6D-files/img/104_michael.png"
+				"en": "https://mirage-xel.github.io/sets/M6D-files/img/105_Peleyah At My Right.png"
 			}
 		},
 		{
@@ -1185,9 +1185,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "49",
+			"collector_number": "50",
 			"image_uris": {
-				"en": "https://mirage-xel.github.io/sets/M6D-files/img/49_protecc.png"
+				"en": "https://mirage-xel.github.io/sets/M6D-files/img/50_protecc.png"
 			}
 		},
 		{
@@ -1221,13 +1221,13 @@
 			}
 		},
 		{
-			"name": "gabriel",
+			"name": "Kokhiyah At My Left",
 			"rarity": "mythic",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Legendary Creature — Angel Noble",
-			"collector_number": "11",
+			"collector_number": "20",
 			"image_uris": {
-				"en": "https://mirage-xel.github.io/sets/M6D-files/img/11_gabriel.png"
+				"en": "https://mirage-xel.github.io/sets/M6D-files/img/20_Kokhiyah At My Left.png"
 			}
 		},
 		{
@@ -1275,9 +1275,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Creature — Avatar Egg",
-			"collector_number": "20",
+			"collector_number": "19",
 			"image_uris": {
-				"en": "https://mirage-xel.github.io/sets/M6D-files/img/20_Keter-Mother.png"
+				"en": "https://mirage-xel.github.io/sets/M6D-files/img/19_Keter-Mother.png"
 			}
 		},
 		{
@@ -1295,9 +1295,9 @@
 			"rarity": "rare",
 			"mana_cost": "{6}{B}{B}",
 			"type": "Creature — Angel Assassin Soldier",
-			"collector_number": "68",
+			"collector_number": "67",
 			"image_uris": {
-				"en": "https://mirage-xel.github.io/sets/M6D-files/img/68_Herald of the Final Day.png"
+				"en": "https://mirage-xel.github.io/sets/M6D-files/img/67_Herald of the Final Day.png"
 			}
 		},
 		{
@@ -2368,22 +2368,22 @@
 	5 Keter of Legions
 	5 Day of Ire
 	5 Imago Dei
-	5 uriel
+	5 Oriyah In Front of Me
 	5 Division Undoes
 	5 Symmetry Sage
-	5 raphael
+	5 Hosniyah Behind Me
 	5 Divisor of Welfare
 	5 Bneishachat Rise
 	5 A Tree Of Life For Those Who Grasp It
 	5 llanowar tribe 2
-	5 michael
+	5 Peleyah At My Right
 	5 Hail Of Brimstone
 	5 Tselmiyah, Quickener
 	5 Devises-Galaxies-In-Wisdom
 	5 Firmament Swimmer
 	5 Writes-Myriad-Meanings
 	5 Hammer of Strictures
-	5 gabriel
+	5 Kokhiyah At My Left
 	5 Alphabetical Shift
 	5 Seraphic Speech Of Secrets
 	5 Keter-Mother
@@ -2433,7 +2433,7 @@
 	5 Doubtwrack
 	5 Blasphemous Watcher
 	5 Proscribed Seer
-	5 gravecrawler
+	5 Vivisected Effigy
 	5 Keter of Death
 	5 Collect-Will-Collect
 	5 Redeemer of Heaven's Blood
@@ -2449,7 +2449,7 @@
 	5 Meitohu-Wind Artisan
 	5 Erase-Will-Not-Erase
 	5 Mud-Slinging
-	5 Heavenly Mourner
+	5 Keening Poet
 	5 Clearsight Lecturer
 	5 Spiritual Sever
 	5 Forge In Flames

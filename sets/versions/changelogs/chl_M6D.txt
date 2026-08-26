@@ -1,4 +1,344 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+Oriyah In Front of Me added.
+Vivisected Effigy added.
+Keening Poet added.
+Hosniyah Behind Me added.
+Peleyah At My Right added.
+Kokhiyah At My Left added.
+
+uriel removed.
+gravecrawler removed.
+Heavenly Mourner removed.
+raphael removed.
+michael removed.
+gabriel removed.
+
+Keter of Legions
+rules_text: Raiment [i](When this enters, create a 1/1 Angel token with “At the beginning of combat on your turn, you may pay {2}. When you do, this creature's Equipment gain another instance of their abilities until end of turn” attached to it.)[/i]
+Equipped creature has host. [i](Whenever it attacks, you may create a 1/1 token copy of it that's tapped and attacking. It has “Once, at your end step, sacrifice a creature” and not host.)[/i]
+Equip {2}{W} => Raiment [i](When this enters, create a 1/1 Angel token with “At the beginning of your upkeep, you may pay {2}. When you do, this creature's Equipment gain another instance of their abilities until end of turn” attached to it.)[/i]
+Equipped creature has host. [i](Whenever it attacks, you may create a 1/1 token copy of it that's tapped and attacking. It has “Once, at your end step, sacrifice a creature” and not host.)[/i]
+Equip {2}{W}
+
+host
+rules_text: Host [i](When this creature attacks, you may create a 1/1 token copy of it without host that's tapped and attacking. At the beginning of the next end step, if you control that token, sacrifice a creature.)[/i]
+Flying => Host [i](When this creature attacks, you may create a 1/1 tapped and attacking token copy of it without host. Sacrifice that token at the beginning of the next end step unles you sacrifice a creature.)[/i]
+Flying
+
+Keter of Judgement
+rules_text: Raiment [i](When this enters, create a 1/1 Angel token with “At the beginning of combat on your turn, you may pay {2}. When you do, this creature's Equipment gain another instance of their abilities until end of turn” attached to it.)[/i]
+Equipped creature gets +1/+1 and has “Whenever this attacks, tap target creature.”
+Equip {3} => Raiment [i](When this enters, create a 1/1 Angel token with “At the beginning of your upkeep, you may pay {2}. When you do, this creature's Equipment gain another instance of their abilities until end of turn” attached to it.)[/i]
+Equipped creature gets +1/+1 and has “Whenever this attacks, tap target creature.”
+Equip {3}
+
+4mvtokens
+rules_text: Host [i](When this creature attacks, you may create a 1/1 token copy of it without host that's tapped and attacking. At the beginning of the next end step, if you control that token, sacrifice a creature.)[/i]
+When this creature enters, creatures you control get +1/+0 until end of turn. => Host [i](When this creature attacks, you may create a 1/1 tapped and attacking token copy of it without host. Sacrifice that token at the beginning of the next end step unles you sacrifice a creature.)[/i]
+When this creature enters, creatures you control get +1/+0 until end of turn.
+
+squire
+rules_text: When squire enters, create a Law token [i](It's an artifact with “Whenever you attack, attacking creatures you control get +1/+0 until end of turn. When you do, if you didn't attack with exactly one creature, sacrifice this token.”)[/i] => When squire enters, create a Law token [i](It's an artifact with “Whenever you attack, target creature you control gets +1/+1 until end of turn. When it does, sacrifice this token if you attacked with two or more creatures.”)[/i]
+
+Mollify
+
+Day of Ire
+
+Keter of Might
+rules_text: Raiment [i](When this enters, create a 1/1 Angel token with “At the beginning of combat on your turn, you may pay {2}. When you do, this creature's Equipment gain another instance of their abilities until end of turn” attached to it.)[/i]
+Equipped creature gets +3/+3.
+Equip {1}{G} => Raiment [i](When this enters, create a 1/1 Angel token with “At the beginning of your upkeep, you may pay {2}. When you do, this creature's Equipment gain another instance of their abilities until end of turn” attached to it.)[/i]
+Equipped creature gets +3/+3.
+Equip {1}{G}
+
+Sanctity's Allure
+rules_text: Draw two cards, then create a Law token. [i](It's an artifact with “Whenever you attack, attacking creatures you control get +1/+0 until end of turn. When you do, if you didn't attack with exactly one creature, sacrifice this token.”)[/i] => Draw two cards, then create a Law token. [i](It's an artifact with “Whenever you attack, target creature you control gets +1/+1 until end of turn. When it does, sacrifice this token if you attacked with two or more creatures.”)[/i]
+
+wub/brg bridge
+rules_text: Whenever a creature you control attacks alone, you may pay 2 life. When you do, that creature gets +1/+1 and gains menace until end of turn. => Whenever a creature you control attacks alone, you may pay 2 life. When you do, that creature gets +2/+2 and gains menace until end of turn.
+
+Imago Dei
+
+Keter of Smoke
+rules_text: Raiment [i](When this enters, create a 1/1 Angel token with “At the beginning of combat on your turn, you may pay {2}. When you do, this creature's Equipment gain another instance of their abilities until end of turn” attached to it.)[/i]
+Whenever equipped creature attacks alone, it can't be blocked except by target creature defending player controls.
+Equip {3} => Raiment [i](When this enters, create a 1/1 Angel token with “At the beginning of your upkeep, you may pay {2}. When you do, this creature's Equipment gain another instance of their abilities until end of turn” attached to it.)[/i]
+Whenever equipped creature attacks alone, it can't be blocked except by target creature defending player controls.
+Equip {3}
+
+lawristocrat
+rules_text: Flying
+When lawristocrat enters, create a Law token. [i](It's an artifact with “Whenever you attack, attacking creatures you control get +1/+0 until end of turn. When you do, if you didn't attack with exactly one creature, sacrifice this token.”)[/i]
+Whenever you sacrifice a creature or artifact, lawristocrat deals 1 damage to each opponent. => Flying
+When lawristocrat enters, create a Law token. [i](It's an artifact with “Whenever you attack, target creature you control gets +1/+1 until end of turn. When it does, sacrifice this token if you attacked with two or more creatures.”)[/i]
+Whenever you sacrifice a creature or artifact, lawristocrat deals 1 damage to each opponent.
+
+Keter of Wisdom
+rules_text: Raiment [i](When this enters, create a 1/1 Angel token with “At the beginning of combat on your turn, you may pay {2}. When you do, this creature's Equipment gain another instance of their abilities until end of turn” attached to it.)[/i]
+Whenever equipped creature deals combat damage to a player, draw a card.
+Equip {2} => Raiment [i](When this enters, create a 1/1 Angel token with “At the beginning of your upkeep, you may pay {2}. When you do, this creature's Equipment gain another instance of their abilities until end of turn” attached to it.)[/i]
+Whenever equipped creature deals combat damage to a player, draw a card.
+Equip {2}
+
+lawmaker
+rules_text: Reach
+When lawmaker dies, create your choice of a Law token or a Treasure token. [i](It's an artifact with “Whenever you attack, attacking creatures you control get +1/+0 until end of turn. When you do, if you didn't attack with exactly one creature, sacrifice this token.”)[/i] => Reach
+When lawmaker dies, create your choice of a Law token or a Treasure token. [i](It's an artifact with “Whenever you attack, target creature you control gets +1/+1 until end of turn. When it does, sacrifice this token if you attacked with two or more creatures.”)[/i]
+
+Keter of Briliance
+rules_text: Raiment [i](When this enters, create a 1/1 Angel token with “At the beginning of combat on your turn, you may pay {2}. When you do, this creature's Equipment gain another instance of their abilities until end of turn” attached to it.)[/i]
+Equipped creature has prowess.
+Equip {1}{R} => Raiment [i](When this enters, create a 1/1 Angel token with “At the beginning of your upkeep, you may pay {2}. When you do, this creature's Equipment gain another instance of their abilities until end of turn” attached to it.)[/i]
+Equipped creature has prowess.
+Equip {1}{R}
+
+Keter of Flame
+rules_text: Raiment [i](When this enters, create a 1/1 Angel token with “At the beginning of combat on your turn, you may pay {2}. When you do, this creature's Equipment gain another instance of their abilities until end of turn” attached to it.)[/i]
+Equipped creature gets +1/+0 and has reach. Whenever it attacks, exile the top card of your library. You may play it this turn.
+Equip {2} => Raiment [i](When this enters, create a 1/1 Angel token with “At the beginning of your upkeep, you may pay {2}. When you do, this creature's Equipment gain another instance of their abilities until end of turn” attached to it.)[/i]
+Equipped creature gets +1/+0 and has reach. Whenever it attacks, exile the top card of your library. You may play it this turn.
+Equip {2}
+
+Snuff
+rules_text: Destroy target creature.
+Create a Law token. [i](It's an artifact with “Whenever you attack, attacking creatures you control get +1/+0 until end of turn. When you do, if you didn't attack with exactly one creature, sacrifice this token.”)[/i] => Destroy target creature.
+Create a Law token. [i](It's an artifact with “Whenever you attack, target creature you control gets +1/+1 until end of turn. When it does, sacrifice this token if you attacked with two or more creatures.”)[/i]
+
+trumpet blast
+rules_text: Creatures you control get +1/+0 until end of turn.
+Create a Law token. [i](It's an artifact with “Whenever you attack, attacking creatures you control get +1/+0 until end of turn. When you do, if you didn't attack with exactly one creature, sacrifice this token.”)[/i] => Creatures you control get +1/+0 until end of turn.
+Create a Law token. [i](It's an artifact with “Whenever you attack, target creature you control gets +1/+1 until end of turn. When it does, sacrifice this token if you attacked with two or more creatures.”)[/i]
+
+Orders-the-Planets-And-Stars
+rules_text: Host [i](When this creature attacks, you may create a 1/1 token copy of it without host that's tapped and attacking. At the beginning of the next end step, if you control that token, sacrifice a creature.)[/i]
+Reach
+Orders-the-Planets-And-Stars enters with two +1/+1 counters. => Host [i](When this creature attacks, you may create a 1/1 tapped and attacking token copy of it without host. Sacrifice that token at the beginning of the next end step unles you sacrifice a creature.)[/i]
+Reach
+Orders-the-Planets-And-Stars enters with two +1/+1 counters.
+
+Grafted Taunt
+rules_text: Host [i](When this creature attacks, you may create a 1/1 token copy of it without host that's tapped and attacking. At the beginning of the next end step, if you control that token, sacrifice a creature.)[/i]
+This creature gets +2/+0 and has trample as long as you've cast a noncreature spell this turn. => Host [i](When this creature attacks, you may create a 1/1 tapped and attacking token copy of it without host. Sacrifice that token at the beginning of the next end step unles you sacrifice a creature.)[/i]
+This creature gets +2/+0 and has trample as long as you've cast a noncreature spell this turn.
+
+Keter of Death
+rules_text: Raiment [i](When this enters, create a 1/1 Angel token with “At the beginning of combat on your turn, you may pay {2}. When you do, this creature's Equipment gain another instance of their abilities until end of turn” attached to it.)[/i]
+Pay 2 life or sacrifice a nonland permanent: Equipped creature gets +2/+0 until end of turn. Pay each cost only once each turn.
+Equip {3} => Raiment [i](When this enters, create a 1/1 Angel token with “At the beginning of your upkeep, you may pay {2}. When you do, this creature's Equipment gain another instance of their abilities until end of turn” attached to it.)[/i]
+Pay 2 life or sacrifice a nonland permanent: Equipped creature gets +2/+0 until end of turn. Pay each cost only once each turn.
+Equip {3}
+
+Redeemer of Heaven's Blood
+rules_text: Host [i](When this creature attacks, you may create a 1/1 token copy of it without host that's tapped and attacking. At the beginning of the next end step, if you control that token, sacrifice a creature.)[/i]
+Sacrifice a creature or artifact: This creature gets +2/+2 until end of turn. => Host [i](When this creature attacks, you may create a 1/1 tapped and attacking token copy of it without host. Sacrifice that token at the beginning of the next end step unles you sacrifice a creature.)[/i]
+Sacrifice a creature or artifact: This creature gets +2/+2 until end of turn.
+
+Erase-Will-Not-Erase
+rules_text: When this creature enters, create a Law token. [i](It's an artifact with “Whenever you attack, attacking creatures you control get +1/+0 until end of turn. When you do, if you didn't attack with exactly one creature, sacrifice this token.”)[/i]
+{2}, Sacrifice an artifact: Double this creature's power until end of turn. => When this creature enters, create a Law token. [i](It's an artifact with “Whenever you attack, target creature you control gets +1/+1 until end of turn. When it does, sacrifice this token if you attacked with two or more creatures.”)[/i]
+{2}, Sacrifice an artifact: Double this creature's power until end of turn.
+
+Clearsight Lecturer
+rules_text: At the beginning of your upkeep, if you control no Laws, create a Law token. [i](It's an artifact with “Whenever you attack, attacking creatures you control get +1/+0 until end of turn. When you do, if you didn't attack with exactly one creature, sacrifice this token.”)[/i] => At the beginning of your upkeep, if you control no Laws, create a Law token. [i](It's an artifact with “Whenever you attack, target creature you control gets +1/+1 until end of turn. When it does, sacrifice this token if you attacked with two or more creatures.”)[/i]
+
+Keeper of the Faithful
+
+Visions of a Burnt House
+
+Fount Of Psalms
+rules_text: Host [i](When this creature attacks, you may create a 1/1 token copy of it without host that's tapped and attacking. At the beginning of the next end step, if you control that token, sacrifice a creature.)[/i]
+Flying
+Whenever you cast a noncreature spell, draw a a card, then discard a card. => Host [i](When this creature attacks, you may create a 1/1 tapped and attacking token copy of it without host. Sacrifice that token at the beginning of the next end step unles you sacrifice a creature.)[/i]
+Flying
+Whenever you cast a noncreature spell, draw a a card, then discard a card.
+
+Deem Forbidden
+rules_text: Counter target spell. 
+Create a Law token. [i](It's an artifact with “Whenever you attack, attacking creatures you control get +1/+0 until end of turn. When you do, if you didn't attack with exactly one creature, sacrifice this token.”)[/i] => Counter target spell. 
+Create a Law token. [i](It's an artifact with “Whenever you attack, target creature you control gets +1/+1 until end of turn. When it does, sacrifice this token if you attacked with two or more creatures.”)[/i]
+
+Clarity Sage
+
+Keter of the Firmament
+rules_text: Raiment [i](When this enters, create a 1/1 Angel token with “At the beginning of combat on your turn, you may pay {2}. When you do, this creature's Equipment gain another instance of their abilities until end of turn” attached to it.)[/i]
+Whenever equipped creature attacks, target creature gains flying until end of turn.
+Equip {1}{U} => Raiment [i](When this enters, create a 1/1 Angel token with “At the beginning of your upkeep, you may pay {2}. When you do, this creature's Equipment gain another instance of their abilities until end of turn” attached to it.)[/i]
+Whenever equipped creature attacks, target creature gains flying until end of turn.
+Equip {1}{U}
+
+Paradisacal Gate
+
+Contemplative Silence
+
+Raises-From-the-Pit
+rules_text: Flying
+Host [i](When this creature attacks, you may create a 1/1 token copy of it without host that's tapped and attacking. At the beginning of the next end step, if you control that token, sacrifice a creature.)[/i]
+When Raises-From-the-Pit leaves the battlefield, return up to two creature cards with mana value 2 or less from your graveyard to the battlefield. => Flying
+Host [i](When this creature attacks, you may create a 1/1 tapped and attacking token copy of it without host. Sacrifice that token at the beginning of the next end step unles you sacrifice a creature.)[/i]
+When Raises-From-the-Pit leaves the battlefield, return up to two creature cards with mana value 2 or less from your graveyard to the battlefield.
+
+Honor
+
+Test of Paradise
+
+blood artist
+rules_text: Host [i](When this creature attacks, you may create a 1/1 token copy of it without host that's tapped and attacking. At the beginning of the next end step, if you control that token, sacrifice a creature.)[/i]
+Whenever another creature you control dies, each opponent loses 1 life and you gain 1 life. => Host [i](When this creature attacks, you may create a 1/1 tapped and attacking token copy of it without host. Sacrifice that token at the beginning of the next end step unles you sacrifice a creature.)[/i]
+Whenever another creature you control dies, each opponent loses 1 life and you gain 1 life.
+
+Devises-Galaxies-In-Wisdom
+rules_text: Host [i](When this creature attacks, you may create a 1/1 token copy of it without host that's tapped and attacking. At the beginning of the next end step, if you control that token, sacrifice a creature.)[/i]
+Flying
+Whenever you cast a spell from your hand, exile the top card of your library. If it has lesser mana value, you may cast it without paying its mana cost. => Host [i](When this creature attacks, you may create a 1/1 tapped and attacking token copy of it without host. Sacrifice that token at the beginning of the next end step unles you sacrifice a creature.)[/i]
+Flying
+Whenever you cast a spell from your hand, exile the top card of your library. If it has lesser mana value, you may cast it without paying its mana cost.
+
+Firmament Swimmer
+rules_text: Host [i](When this creature attacks, you may create a 1/1 token copy of it without host that's tapped and attacking. At the beginning of the next end step, if you control that token, sacrifice a creature.)[/i]
+Firmament Swimmer can't be blocked if only tokens are attacking. => Host [i](When this creature attacks, you may create a 1/1 tapped and attacking token copy of it without host. Sacrifice that token at the beginning of the next end step unles you sacrifice a creature.)[/i]
+Firmament Swimmer can't be blocked if only tokens are attacking.
+
+Hammer of Strictures
+rules_text: Flying
+When this creature enters, if it isn't a Law, create tokens that are copies of two target nonland permanents you control, except they're Law artifacts with “Whenever you attack, attacking creatures you control get +1/+0 until end of turn. When you do, if you didn't attack with exactly one creature, sacrifice this permanent.” => Flying
+When this creature enters, if it isn't a Law, create tokens that are copies of two target nonland permanents you control, except they're Law artifacts with “Whenever you attack, target creature you control gets +1/+1 until end of turn. When it does, sacrifice this artifact if you attacked with two or more creatures.”
+
+small removal
+rules_text: Exile target creature with power 2 or less.
+Create a Law token. [i](It's an artifact with “Whenever you attack, attacking creatures you control get +1/+0 until end of turn. When you do, if you didn't attack with exactly one creature, sacrifice this token.”)[/i] => Exile target creature with power 2 or less.
+Create a Law token. [i](It's an artifact with “Whenever you attack, target creature you control gets +1/+1 until end of turn. When it does, sacrifice this token if you attacked with two or more creatures.”)[/i]
+
+Keter-Mother
+rules_text: Host [i](When this creature attacks, you may create a 1/1 token copy of it without host that's tapped and attacking. At the beginning of the next end step, if you control that token, sacrifice a creature.)[/i]
+Whenever Keter-Mother deals combat damage to a player, create a token that's a copy of each creature token you control. => Host [i](When this creature attacks, you may create a 1/1 tapped and attacking token copy of it without host. Sacrifice that token at the beginning of the next end step unles you sacrifice a creature.)[/i]
+Whenever Keter-Mother deals combat damage to a player, create a token that's a copy of each creature token you control.
+
+Keter of The Moon
+rules_text: Raiment [i](When this enters, create a 1/1 Angel token with “At the beginning of combat on your turn, you may pay {2}. When you do, this creature's Equipment gain another instance of their abilities until end of turn” attached to it.)[/i]
+Whenever equipped creature attacks, exile target creature you control, then return it to the battlefield tapped and attacking. As it enters, you may have it become a copy of equipped creature until end of turn.
+Equip {2} => Raiment [i](When this enters, create a 1/1 Angel token with “At the beginning of your upkeep, you may pay {2}. When you do, this creature's Equipment gain another instance of their abilities until end of turn” attached to it.)[/i]
+Whenever equipped creature attacks, exile target creature you control, then return it to the battlefield tapped and attacking. As it enters, you may have it become a copy of equipped creature until end of turn.
+Equip {2}
+
+Avta's Cast
+rules_text: When this artifact enters, create a Law token. [i](It's an artifact with “Whenever you attack, attacking creatures you control get +1/+0 until end of turn. When you do, if you didn't attack with exactly one creature, sacrifice this token.”)[/i]
+Whenever a creature you control attacks alone, you may cast a copy of this artifact. => When this artifact enters, create a Law token. [i](It's an artifact with “Whenever you attack, target creature you control gets +1/+1 until end of turn. When it does, sacrifice this token if you attacked with two or more creatures.”)[/i]
+Whenever a creature you control attacks alone, you may cast a copy of this artifact.
+
+Keter of Multiplicty
+rules_text: Raiment [i](When this enters, create a 1/1 Angel token with “At the beginning of combat on your turn, you may pay {2}. When you do, this creature's Equipment gain another instance of their abilities until end of turn” attached to it.)[/i]
+Equipped creature gets +2/+1.
+If equipped creature would die, instead remove all damage from it, create a token copy of it, and unattach Keter of Multiplicty from it.
+Equip {3} => Raiment [i](When this enters, create a 1/1 Angel token with “At the beginning of your upkeep, you may pay {2}. When you do, this creature's Equipment gain another instance of their abilities until end of turn” attached to it.)[/i]
+Equipped creature gets +2/+1.
+If equipped creature would die, instead remove all damage from it, create a token copy of it, and unattach Keter of Multiplicty from it.
+Equip {3}
+
+Blesser of Hearths
+rules_text: Host [i](When this creature attacks, you may create a 1/1 token copy of it without host that's tapped and attacking. At the beginning of the next end step, if you control that token, sacrifice a creature.)[/i]
+When this creature enters, you draw a card and each player loses 1 life. => Host [i](When this creature attacks, you may create a 1/1 tapped and attacking token copy of it without host. Sacrifice that token at the beginning of the next end step unles you sacrifice a creature.)[/i]
+When this creature enters, you draw a card and each player loses 1 life.
+
+Scribe's Keter
+rules_text: Raiment. [i](When this enters, create a 1/1 Angel token with “At the beginning of combat on your turn, you may pay {2}. When you do, this creature's Equipment gain another instance of their abilities until end of turn” attached to it.)[/i]
+Equipped creature gets +2/+2.
+Whenever a creature you control attacks alone, create a token that's a copy of target permanent you control with mana value 2 or less.
+Equip {3} => Raiment. [i](When this enters, create a 1/1 Angel token with “At the beginning of your upkeep, you may pay {2}. When you do, this creature's Equipment gain another instance of their abilities until end of turn” attached to it.)[/i]
+Equipped creature gets +2/+2.
+Whenever a creature you control attacks alone, create a token that's a copy of target permanent you control with mana value 2 or less.
+Equip {3}
+
+Balanced Dayan
+rules_text: When this creature enters, create two Law tokens. [i](They're artifacts with “Whenever you attack, attacking creatures you control get +1/+0 until end of turn. When you do, if you didn't attack with exactly one creature, sacrifice this token.”)[/i]
+This creature can't attack or block. At the beginning of your end step, if two or more nonland permanents died under your control this turn, it loses this ability. [i](Indefinitely,)[/i] => When this creature enters, create two Law tokens. [i](They're artifacts with “Whenever you attack, target creature you control gets +1/+1 until end of turn. When it does, sacrifice this token if you attacked with two or more creatures.”)[/i]
+This creature can't attack or block. At the beginning of your end step, if two or more nonland permanents died under your control this turn, it loses this ability. [i](Indefinitely,)[/i]
+
+Keter of Balance
+rules_text: Raiment [i](When this enters, create a 1/1 Angel token with “At the beginning of combat on your turn, you may pay {2}. When you do, this creature's Equipment gain another instance of their abilities until end of turn” attached to it.)[/i]
+Whenever equipped creature attacks, attacking creatures get +1/+1 until end of turn, then sacrifice a creature if you attacked with two or more creatures.
+Equip {2} => Raiment [i](When this enters, create a 1/1 Angel token with “At the beginning of your upkeep, you may pay {2}. When you do, this creature's Equipment gain another instance of their abilities until end of turn” attached to it.)[/i]
+Whenever equipped creature attacks, attacking creatures get +1/+1 until end of turn, then sacrifice a creature if you attacked with two or more creatures.
+Equip {2}
+
+Solacent Keruv
+rules_text: Flying, vigilance
+Host [i](When this creature attacks, you may create a 1/1 token copy of it without host that's tapped and attacking. At the beginning of the next end step, if you control that token, sacrifice a creature.)[/i]
+This creature gets +1/+0 for each token you control. => Flying, vigilance
+Host [i](When this creature attacks, you may create a 1/1 tapped and attacking token copy of it without host. Sacrifice that token at the beginning of the next end step unles you sacrifice a creature.)[/i]
+This creature gets +1/+0 for each token you control.
+
+Axe Of Ruin
+rules_text: Host [i](When this creature attacks, you may create a 1/1 token copy of it without host that's tapped and attacking. At the beginning of the next end step, if you control that token, sacrifice a creature.)[/i]
+When Axe Of Ruin dies, it deals 1 damage to target opponent. => Host [i](When this creature attacks, you may create a 1/1 tapped and attacking token copy of it without host. Sacrifice that token at the beginning of the next end step unles you sacrifice a creature.)[/i]
+When Axe Of Ruin dies, it deals 1 damage to target opponent.
+
+Keter Of Libations
+rules_text: Raiment [i](When this enters, create a 1/1 Angel token with “At the beginning of combat on your turn, you may pay {2}. When you do, this creature's Equipment gain another instance of their abilities until end of turn” attached to it.)[/i]
+Whenever your life total changes on your turn, equipped creature gets +1/+0 until end of turn.
+Equip {4} => Raiment [i](When this enters, create a 1/1 Angel token with “At the beginning of your upkeep, you may pay {2}. When you do, this creature's Equipment gain another instance of their abilities until end of turn” attached to it.)[/i]
+Whenever your life total changes on your turn, equipped creature gets +1/+0 until end of turn.
+Equip {4}
+
+Keter of Ingenuity
+rules_text: Raiment [i](When this enters, create a 1/1 Angel token with “At the beginning of combat on your turn, you may pay {2}. When you do, this creature's Equipment gain another instance of their abilities until end of turn” attached to it.)[/i]
+Whenever equipped creature deals combat damage to a player, create a token copy of another target nontoken artifact you control and one of another target artifact token you control. [i](You must control both.)[/i]
+Equip {4} => Raiment [i](When this enters, create a 1/1 Angel token with “At the beginning of your upkeep, you may pay {2}. When you do, this creature's Equipment gain another instance of their abilities until end of turn” attached to it.)[/i]
+Whenever equipped creature deals combat damage to a player, create a token copy of another target nontoken artifact you control and one of another target artifact token you control. [i](You must control both.)[/i]
+Equip {4}
+
+Fraying Chacham
+rules_text: Host [i](When this creature attacks, you may create a 1/1 token copy of it without host that's tapped and attacking. At the beginning of the next end step, if you control that token, sacrifice a creature.)[/i]
+As long as Fraying Chacham is attacking, abilities of tokens you control trigger an additional time. => Host [i](When this creature attacks, you may create a 1/1 tapped and attacking token copy of it without host. Sacrifice that token at the beginning of the next end step unles you sacrifice a creature.)[/i]
+As long as Fraying Chacham is attacking, abilities of tokens you control trigger an additional time.
+
+Sees-All-Secrets
+rules_text: Host [i](When this creature attacks, you may create a 1/1 token copy of it without host that's tapped and attacking. At the beginning of the next end step, if you control that token, sacrifice a creature.)[/i]
+When Sees-All-Secrets enters, tap target creature. => Host [i](When this creature attacks, you may create a 1/1 tapped and attacking token copy of it without host. Sacrifice that token at the beginning of the next end step unles you sacrifice a creature.)[/i]
+When Sees-All-Secrets enters, tap target creature.
+
+Avenges-In-Envy
+rules_text: Host [i](When this creature attacks, you may create a 1/1 token copy of it without host that's tapped and attacking. At the beginning of the next end step, if you control that token, sacrifice a creature.)[/i]
+Whenever a creature you control attacks alone, it gets +3/+0 until end of turn unless defending player sacrifices a creature. => Host [i](When this creature attacks, you may create a 1/1 tapped and attacking token copy of it without host. Sacrifice that token at the beginning of the next end step unles you sacrifice a creature.)[/i]
+Whenever a creature you control attacks alone, it gets +3/+0 until end of turn unless defending player sacrifices a creature.
+
+Vindictive Seir
+
+For Good
+
+Nameless Keter
+rules_text: Raiment [i](When this enters, create a 1/1 Angel token with “At the beginning of combat on your turn, you may pay {2}. When you do, this creature's Equipment gain another instance of their abilities until end of turn” attached to it.)[/i]
+Whenever you sacrifice a creature with one or more creature types, create a 2/2 creature token and put a +1/+1 counter on equipped creature.
+Equip {B} => Raiment [i](When this enters, create a 1/1 Angel token with “At the beginning of your upkeep, you may pay {2}. When you do, this creature's Equipment gain another instance of their abilities until end of turn” attached to it.)[/i]
+Whenever you sacrifice a creature with one or more creature types, create a 2/2 creature token and put a +1/+1 counter on equipped creature.
+Equip {B}
+
+Olamiyah, Covenantal Scribe
+rules_text: Flying, vigilance
+When Olamiyah enters, create X Law tokens. [i](They're artifacts with “Whenever you attack, attacking creatures you control get +1/+0 until end of turn. When you do, if you didn't attack with exactly one creature, sacrifice this token.”)[/i]
+You can't sacrifice tokens. => Flying, vigilance
+When Olamiyah enters, create X Law tokens. [i](They're artifacts with “Whenever you attack, target creature you control gets +1/+1 until end of turn. When it does, sacrifice this token if you attacked with two or more creatures.”)[/i]
+You can't sacrifice tokens.
+
+The First Key
+rules_text: Raiment [i](When this enters, create a 1/1 Angel token with “At the beginning of combat on your turn, you may pay {2}. When you do, this creature's Equipment gain another instance of their abilities until end of turn” attached to it.)[/i]
+Whenever equipped creature attacks, return target creature card with mana value 3 or less from your graveyard to the battlefield. It becomes an Equipment artifact with equip {2}. 
+Equip {2} => Raiment [i](When this enters, create a 1/1 Angel token with “At the beginning of your upkeep, you may pay {2}. When you do, this creature's Equipment gain another instance of their abilities until end of turn” attached to it.)[/i]
+Whenever equipped creature attacks, return target creature card with mana value 3 or less from your graveyard to the battlefield. It becomes an Equipment artifact with equip {2}. 
+Equip {2}
+
+Lesser Throne
+
+Molten Keter
+rules_text: Raiment [i](When this enters, create a 1/1 Angel token with “At the beginning of combat on your turn, you may pay {2}. When you do, this creature's Equipment gain another instance of their abilities until end of turn” attached to it.)[/i]
+Whenever equipped creature dies, draw a card.
+Equip {2} => Raiment [i](When this enters, create a 1/1 Angel token with “At the beginning of your upkeep, you may pay {2}. When you do, this creature's Equipment gain another instance of their abilities until end of turn” attached to it.)[/i]
+Whenever equipped creature dies, draw a card.
+Equip {2}
+
+
+VERSION 6 CHANGELOG
 ====================
 
 

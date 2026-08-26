@@ -1,31 +1,31 @@
 ﻿[
     {
-        "card_name": "gabriel",
-        "number": 11,
+        "card_name": "Kokhiyah At My Left",
+        "number": 20,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "uriel",
-        "number": 54,
+        "card_name": "Oriyah In Front of Me",
+        "number": 48,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "raphael",
-        "number": 78,
+        "card_name": "Hosniyah Behind Me",
+        "number": 68,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "michael",
-        "number": 104,
+        "card_name": "Peleyah At My Right",
+        "number": 105,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
@@ -121,7 +121,7 @@
     },
     {
         "card_name": "Imago Dei",
-        "number": 16,
+        "number": 15,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
@@ -161,7 +161,7 @@
     },
     {
         "card_name": "Keter of Legions",
-        "number": 19,
+        "number": 18,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
@@ -201,7 +201,7 @@
     },
     {
         "card_name": "Keter-Mother",
-        "number": 20,
+        "number": 19,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
@@ -217,7 +217,7 @@
     },
     {
         "card_name": "Herald of the Final Day",
-        "number": 68,
+        "number": 67,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
@@ -321,7 +321,7 @@
     },
     {
         "card_name": "Gives-Absolute-Decrees",
-        "number": 12,
+        "number": 11,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
@@ -361,7 +361,7 @@
     },
     {
         "card_name": "Gizbor of Raidance",
-        "number": 13,
+        "number": 12,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
@@ -401,7 +401,7 @@
     },
     {
         "card_name": "Inspire",
-        "number": 17,
+        "number": 16,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
@@ -416,8 +416,8 @@
         "position": ""
     },
     {
-        "card_name": "gravecrawler",
-        "number": 67,
+        "card_name": "Keter of Death",
+        "number": 71,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
@@ -456,8 +456,8 @@
         "position": ""
     },
     {
-        "card_name": "Keter of Death",
-        "number": 71,
+        "card_name": "Master of Artifice",
+        "number": 73,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
@@ -489,23 +489,23 @@
     },
     {
         "card_name": "Seraphic Girdle",
-        "number": 51,
+        "number": 52,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Master of Artifice",
-        "number": 73,
+        "card_name": "Proscribed Seer",
+        "number": 77,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Heavenly Mourner",
-        "number": 96,
+        "card_name": "Keening Poet",
+        "number": 97,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
@@ -536,8 +536,8 @@
         "position": ""
     },
     {
-        "card_name": "Proscribed Seer",
-        "number": 77,
+        "card_name": "Redeemer of Heaven's Blood",
+        "number": 78,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
@@ -576,8 +576,8 @@
         "position": ""
     },
     {
-        "card_name": "Redeemer of Heaven's Blood",
-        "number": 79,
+        "card_name": "Test of Paradise",
+        "number": 81,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
@@ -616,8 +616,8 @@
         "position": ""
     },
     {
-        "card_name": "Test of Paradise",
-        "number": 82,
+        "card_name": "Vivisected Effigy",
+        "number": 83,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
@@ -625,7 +625,7 @@
     },
     {
         "card_name": "Mud-Slinging",
-        "number": 105,
+        "number": 104,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
@@ -721,7 +721,7 @@
     },
     {
         "card_name": "Honor",
-        "number": 14,
+        "number": 13,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
@@ -761,7 +761,7 @@
     },
     {
         "card_name": "host",
-        "number": 15,
+        "number": 14,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
@@ -801,7 +801,7 @@
     },
     {
         "card_name": "Keter of Judgement",
-        "number": 18,
+        "number": 17,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
@@ -825,7 +825,7 @@
     },
     {
         "card_name": "Heavenly Trumpet",
-        "number": 97,
+        "number": 96,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
@@ -889,7 +889,7 @@
     },
     {
         "card_name": "paralyzing grasp",
-        "number": 48,
+        "number": 49,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
@@ -929,7 +929,7 @@
     },
     {
         "card_name": "protecc",
-        "number": 49,
+        "number": 50,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
@@ -937,7 +937,7 @@
     },
     {
         "card_name": "Shade-Wreathed Bailif",
-        "number": 80,
+        "number": 79,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
@@ -969,7 +969,7 @@
     },
     {
         "card_name": "Sanctity's Allure",
-        "number": 50,
+        "number": 51,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
@@ -977,7 +977,7 @@
     },
     {
         "card_name": "Snuff",
-        "number": 81,
+        "number": 80,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
@@ -1009,7 +1009,7 @@
     },
     {
         "card_name": "talrand's invocation",
-        "number": 52,
+        "number": 53,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
@@ -1017,7 +1017,7 @@
     },
     {
         "card_name": "Tormented Cry",
-        "number": 83,
+        "number": 82,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
@@ -1049,7 +1049,7 @@
     },
     {
         "card_name": "tapper i hardly know her",
-        "number": 53,
+        "number": 54,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
