@@ -1267,7 +1267,7 @@
 			"type": "Sorcery",
 			"collector_number": "107",
 			"image_uris": {
-				"en": "https://mirage-xel.github.io/sets/M6D-files/img/107_Seraphic Speech of Secrets.png"
+				"en": "https://mirage-xel.github.io/sets/M6D-files/img/107_Seraphic Speech Of Secrets.png"
 			}
 		},
 		{
