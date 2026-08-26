@@ -1,4 +1,42 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+
+
+Alphabetical Shift
+rules_text: Exile target creature. Its controller may cast a creature spell with equal or lesser mana value without paying its mana cost. => Exile target creature. Its controller may cast a creature spell with equal or lesser mana value from their hand without paying its mana cost.
+
+Pulchritude Scribe
+rules_text: Flying
+Noncreature spells you cast cost {1} less to cast. => Flying
+Noncreature spells without targets you cast cost {1} less to cast.
+
+
+VERSION 5 CHANGELOG
+====================
+
+
+
+Orders-the-Planets-And-Stars
+rules_text: Host [i](When this creature attacks, you may create a 1/1 token copy of it without host that's tapped and attacking. At the beginning of the next end step, if you control that token, sacrifice a creature.)[/i]
+Orders-the-Planets-And-Stars enters with two +1/+1 counters. => Host [i](When this creature attacks, you may create a 1/1 token copy of it without host that's tapped and attacking. At the beginning of the next end step, if you control that token, sacrifice a creature.)[/i]
+Reach
+Orders-the-Planets-And-Stars enters with two +1/+1 counters.
+
+Multifarious Teacher
+rules_text: Vigilance
+Whenever you cast a noncreature spell, add {C}{C}. You can't spend this mana to cast a spell with lesser or equal mana value. => Vigilance, reach
+Whenever you cast a noncreature spell, add {C}{C}. You can't spend this mana to cast a spell with lesser or equal mana value.
+
+battlecryaaa
+rules_text: Flying
+Whenever thiscreature attacks, creatures you control get +1/+0 and gain your choice of trample or first strike until end of turn. Then repeat this for creature tokens you control. => Flying
+Whenever this creature attacks, creatures you control get +1/+0 and gain your choice of trample or first strike until end of turn. Then repeat this for creature tokens you control.
+
+Remembers-Each-Soul
+
+
+VERSION 4 CHANGELOG
 ====================
 
 Cleaver of Multitudes added.

@@ -5,7 +5,7 @@
 			<name>M6D</name>
 			<longname>Mysticism of the Sixth Day</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-08-25</releasedate>
+			<releasedate>2026-08-26</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -954,6 +954,7 @@ When Sere Rememberancer enters, return target permanent card from your graveyard
 		<card>
 			<name>Orders-the-Planets-And-Stars</name>
 			<text>Host (When this creature attacks, you may create a 1/1 token copy of it without host that&apos;s tapped and attacking. At the beginning of the next end step, if you control that token, sacrifice a creature.)
+Reach
 Orders-the-Planets-And-Stars enters with two +1/+1 counters.</text>
 			<set rarity="common" picurl="https://mirage-xel.github.io/sets/M6D-files/img/136_Orders-the-Planets-And-Stars.png" num="136">M6D</set>
 			<prop>
@@ -1316,7 +1317,7 @@ As an additional cost to cast this spell, tap five untapped permanents you contr
 		</card>
 		<card>
 			<name>Multifarious Teacher</name>
-			<text>Vigilance
+			<text>Vigilance, reach
 Whenever you cast a noncreature spell, add {C}{C}. You can&apos;t spend this mana to cast a spell with lesser or equal mana value.</text>
 			<set rarity="uncommon" picurl="https://mirage-xel.github.io/sets/M6D-files/img/135_Multifarious Teacher.png" num="135">M6D</set>
 			<prop>
@@ -2178,7 +2179,7 @@ You may cast gabriel from exile if it was put there from your graveyard this tur
 		</card>
 		<card>
 			<name>Alphabetical Shift</name>
-			<text>Exile target creature. Its controller may cast a creature spell with equal or lesser mana value without paying its mana cost.</text>
+			<text>Exile target creature. Its controller may cast a creature spell with equal or lesser mana value from their hand without paying its mana cost.</text>
 			<set rarity="rare" picurl="https://mirage-xel.github.io/sets/M6D-files/img/6_Alphabetical Shift.png" num="6">M6D</set>
 			<prop>
 				<layout>normal</layout>
@@ -2371,7 +2372,7 @@ Equip {2}</text>
 		<card>
 			<name>battlecryaaa</name>
 			<text>Flying
-Whenever thiscreature attacks, creatures you control get +1/+0 and gain your choice of trample or first strike until end of turn. Then repeat this for creature tokens you control.</text>
+Whenever this creature attacks, creatures you control get +1/+0 and gain your choice of trample or first strike until end of turn. Then repeat this for creature tokens you control.</text>
 			<set rarity="uncommon" picurl="https://mirage-xel.github.io/sets/M6D-files/img/150_battlecryaaa.png" num="150">M6D</set>
 			<prop>
 				<layout>normal</layout>
@@ -2513,7 +2514,7 @@ Whenever this creature is dealt damage, it deals that much damage to each player
 		<card>
 			<name>Pulchritude Scribe</name>
 			<text>Flying
-Noncreature spells you cast cost {1} less to cast.</text>
+Noncreature spells without targets you cast cost {1} less to cast.</text>
 			<set rarity="common" picurl="https://mirage-xel.github.io/sets/M6D-files/img/185_Pulchritude Scribe.png" num="185">M6D</set>
 			<prop>
 				<layout>normal</layout>
