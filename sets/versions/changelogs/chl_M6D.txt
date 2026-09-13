@@ -1,4 +1,196 @@
-﻿VERSION 8 CHANGELOG
+﻿VERSION 9 CHANGELOG
+====================
+
+Ivory-Tower Watcher added.
+Censuskeeper of the Living added.
+Shamash Of Glory added.
+Succumb To License added.
+Polytropic Erel added.
+Celestial Cherem added.
+Smokemirror Sage added.
+Beater of Plowshares added.
+Justifier of Judgement added.
+Mighty of Prattle added.
+Mane of Righteous Kings added.
+Welfare-Book Sofer added.
+Glorified Creation added.
+Reconstructive Operation added.
+Wail Out added.
+Contemplate Ruin added.
+Burrow Into Understanding added.
+Thing of Beauty added.
+Shaping Hand added.
+Indulge in Knowledge added.
+Arbiter of Verdicts added.
+Received Griefmage added.
+Watcher of Consecrations added.
+Drench added.
+Inextensible Doll added.
+Whiten the Face added.
+Spirit Over the Meitohu added.
+Sanctifier of Bloodgifts added.
+Finishing Stroke added.
+The-True-Judge added.
+Nihlist of Matter added.
+Diluvian Prophecyscape added.
+Lofty Prophecyscape added.
+Grieving Prophecyscape added.
+Bustling Prophecyscpe added.
+Vibrant Prophecyscape added.
+Cavernous Prophecyscape added.
+Slick Prophecyscape added.
+Dire Prophecyscape added.
+Fecund Prophecyscape added.
+Imperial Prophecyscape added.
+Wailing Barrens added.
+World Egg added.
+Pillars of Creation added.
+Blasted Refuse added.
+Water-Drawing Site added.
+Foundation Colossus added.
+The Boiler added.
+The Judicary added.
+The Engine Room added.
+The Orchard added.
+The Study Hall added.
+Angel added.
+Equipment added.
+Keter of 248 Organs added.
+Angel added.
+Angel Devil added.
+Angel added.
+Angel Wizard added.
+Meitohu Sludge added.
+Demon added.
+Homunculus added.
+Homunculus Beast added.
+Law added.
+Creature added.
+Conch Horn added.
+Treasure added.
+
+3mv creature removed.
+4mvtokens removed.
+squire removed.
+bounce removed.
+tokenmaker removed.
+paralyzing grasp removed.
+wub/brg bridge removed.
+dockside chef removed.
+lawristocrat removed.
+looter removed.
+tapper i hardly know her removed.
+lawmaker removed.
+rhino removed.
+gleeful demolition removed.
+trumpet blast removed.
+night's whisper removed.
+loot removed.
+ambitious augmenter but a little to the left removed.
+we have ramp at home removed.
+indulgence removed.
+eidolon of rhetoric removed.
+blood artist removed.
+llanowar tribe 2 removed.
+protecc removed.
+doomed traveler removed.
+small removal removed.
+battlecryaaa removed.
+fleshbag removed.
+elementals removed.
+Keymaster of Life And Death removed.
+Overturner of the Earth removed.
+NL02 removed.
+NL01 removed.
+NL03 removed.
+NL09 removed.
+NL07 removed.
+NL10 removed.
+NL08 removed.
+NL06 removed.
+NL04 removed.
+NL05 removed.
+CL02 removed.
+CL04 removed.
+CL07 removed.
+CL08 removed.
+CL10 removed.
+printer removed.
+RL01 removed.
+RL02 removed.
+RL03 removed.
+RL04 removed.
+RL05 removed.
+
+Sere Rememberancer
+pt: 1/2 => 1/3
+
+Doubtwrack
+rules_text: Target opponent reveals their hand. They choose a nonland card from it, then you choose another nonland card from it and they discard that card. 
+You gain 2 life. => Target opponent reveals their hand. They choose a nonland card from it, then you choose another nonland card from it and they discard that card.
+
+Heavengilt Cameo
+
+Lay Bare the Heart
+
+Doyen of Sorcerous Acts
+cost: {1}{G} => {2}{G}
+
+Multifarious Teacher
+rules_text: Vigilance, reach
+Whenever you cast a noncreature spell, add {C}{C}. You can't spend this mana to cast a spell with lesser or equal mana value. => Vigilance, reach
+Whenever you cast a noncreature spell, add {C}{C}. You can't spend this mana to cast a spell with lesser or equal mana value to that spell.
+
+Spiritual Sever
+type: Sorcery => Instant
+cost: {R} => {1}{R}
+
+Keeper of the Faithful
+
+Gives-Absolute-Decrees
+cost: {1}{W} => {2}{W}
+
+Return to Form
+rules_text: Return target creature card with mana value X or less from your graveyard to the battlefield. If X is 4 or greater, instead return target creature card from your graveyard to the battlefield with X +1/+1 counters on it. => Return target creature card with mana value X or less from your graveyard to the battlefield. If X is 4 or greater, instead return target creature card from your graveyard to the battlefield with half X +1/+1 counters on it, rounded down.
+
+A Tree of Life For Those Who Grasp It
+rules_text: You may play an additional land on each of your turns.
+{3}{G}{G}: Exile your graveyard. For the rest of the game, you may play cards put into exile from your graveyard and you can't play cards from your hand. Activate only once. => When A Tree of Life For Those Who Grasp It enters, search your library for a basic land card, reveal it and put it into your hand, then shuffle.
+{3}{G}{G}: Exile your graveyard. For the rest of the game, you may play cards put into exile from your graveyard and you can't play cards from your hand. Activate only once.
+
+Devises-Galaxies-In-Wisdom
+
+Downcast
+
+Ram of the Binding
+type: Creature — Goat => Creature — Sheep
+cost: {R}{G} => {1}{R}{G}
+
+Scribe's Keter
+
+Chaotic Assemblage
+
+Sacrifice
+type: Creature — Goat Bird Incarnation => Creature — Sheep Goat Bird Incarnation
+
+Dreamcast Apprenticeship
+
+Dumiyah, The Only Certainty
+
+Lilyata, First Benshachat
+rules_text: Whenever Lilyata attacks, exile the top card of your library. You may cast any number of copies of it. If it's a permanent card, the copies enter as 2/1 Demons in addition to their other types. => Whenever Lilyata attacks, exile the top card of your library. You may cast any number of copies of it. If it's a permanent card, the copies enter as 2/1 Demon creatures in addition to their other types.
+
+Peaceblossom
+
+Conserving Garden
+
+Productive Smithy
+
+Molten Keter
+cost: {1} => {2}
+
+
+VERSION 8 CHANGELOG
 ====================
 
 Lav-Kofe, Serpent In the Garden added.
