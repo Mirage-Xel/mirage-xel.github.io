@@ -3253,7 +3253,7 @@
             "loyalty": "",
             "artist": "Ramses Mendelez",
             "alias": "",
-            "notes": ""
+            "notes": "!tag wishlist"
         },
         {
             "card_name": "Sees-All-Secrets",
@@ -3586,7 +3586,7 @@
             "number": 161,
             "color_identity": "WUB",
             "cost": "{W}{U}{B}",
-            "rules_text": "Flash\nFlying\nIf one or more cards would leave a graveyard, they remain in that graveyard instead. You can't exile cards from your graveyard this turn unless you pay {1}.",
+            "rules_text": "Flash\nFlying\nCards in graveyards have no names, card types, or abilities.",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -3595,7 +3595,7 @@
             "loyalty": "",
             "artist": "DarKayNess",
             "alias": "",
-            "notes": "!tag wishlist"
+            "notes": ""
         },
         {
             "card_name": "Avta, Prosecutorial Prince",
@@ -4871,5 +4871,5 @@
             "notes": "!tag wishlist"
         }
     ],
-    "version": 10
+    "version": 11
 }

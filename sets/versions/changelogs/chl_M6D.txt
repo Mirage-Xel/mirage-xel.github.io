@@ -1,4 +1,19 @@
-﻿VERSION 10 CHANGELOG
+﻿VERSION 11 CHANGELOG
+====================
+
+
+
+Fraying Chacham
+
+Dumiyah, The Only Certainty
+rules_text: Flash
+Flying
+If one or more cards would leave a graveyard, they remain in that graveyard instead. You can't exile cards from your graveyard this turn unless you pay {1}. => Flash
+Flying
+Cards in graveyards have no names, card types, or abilities.
+
+
+VERSION 10 CHANGELOG
 ====================
 
 A Tree Of Life For Those Who Grasp It added.

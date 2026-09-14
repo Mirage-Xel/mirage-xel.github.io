@@ -3317,7 +3317,7 @@ Equip {B}</text>
 			<name>Dumiyah, The Only Certainty</name>
 			<text>Flash
 Flying
-If one or more cards would leave a graveyard, they remain in that graveyard instead. You can&apos;t exile cards from your graveyard this turn unless you pay {1}.</text>
+Cards in graveyards have no names, card types, or abilities.</text>
 			<set rarity="mythic" picurl="https://mirage-xel.github.io/sets/M6D-files/img/161_Dumiyah, The Only Certainty.png" num="161">M6D</set>
 			<prop>
 				<layout>normal</layout>
