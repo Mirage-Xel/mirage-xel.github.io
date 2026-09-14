@@ -5,7 +5,7 @@
 			<name>M6D</name>
 			<longname>Mysticism of the Sixth Day</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-09-13</releasedate>
+			<releasedate>2026-09-14</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -33,7 +33,7 @@
 • Haste and this creature&apos;s power and toughness.
 • This ability. 
 Sacrifice that token at the beginning of the next end step.</text>
-			<set rarity="rare" picurl="https://mirage-xel.github.io/sets/M6D-files/img/154_Brood Savant.png" num="154">M6D</set>
+			<set rarity="rare" picurl="https://mirage-xel.github.io/sets/M6D-files/img/153_Brood Savant.png" num="153">M6D</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -103,7 +103,7 @@ This creature has lifelink as long as you&apos;ve created a token this turn.</te
 		</card>
 		<card>
 			<name>Keter of Legions</name>
-			<text>Raiment (When this enters, create a 1/1 Angel token with &quot;At the beginning of your upkeep, you may pay {2}. When you do, this creature&apos;s Equipment gain another instance of their abilities until end of turn&quot; attached to it.)
+			<text>Raiment (When this enters, create a 1/1 Angel token with &quot;At the beginning of your upkeep, you may pay {2}. When you do, this creature&apos;s Equipment gain another instance of their abilities until end of turn&quot; and attach this to it.)
 Equipped creature has host. (Whenever it attacks, you may create a 1/1 token copy of it that&apos;s tapped and attacking. It has &quot;Once, at your end step, sacrifice a creature&quot; and not host.)
 Equip {2}{W}</text>
 			<set rarity="rare" picurl="https://mirage-xel.github.io/sets/M6D-files/img/18_Keter of Legions.png" num="18">M6D</set>
@@ -139,7 +139,7 @@ Flying</text>
 		</card>
 		<card>
 			<name>Keter of Judgement</name>
-			<text>Raiment (When this enters, create a 1/1 Angel token with &quot;At the beginning of your upkeep, you may pay {2}. When you do, this creature&apos;s Equipment gain another instance of their abilities until end of turn&quot; attached to it.)
+			<text>Raiment (When this enters, create a 1/1 Angel token with &quot;At the beginning of your upkeep, you may pay {2}. When you do, this creature&apos;s Equipment gain another instance of their abilities until end of turn&quot; and attach this to it.)
 Equipped creature gets +1/+1 and has &quot;Whenever this attacks, tap target creature.&quot;
 Equip {3}</text>
 			<set rarity="common" picurl="https://mirage-xel.github.io/sets/M6D-files/img/17_Keter of Judgement.png" num="17">M6D</set>
@@ -175,7 +175,7 @@ When this creature enters, creatures you control get +1/+0 until end of turn.</t
 		</card>
 		<card>
 			<name>Shamash Of Glory</name>
-			<text>When Shamash Of Glory enters, create a Law token (It&apos;s an artifact with &quot;Whenever you attack, target creature you control gets +1/+1 until end of turn. When it does, sacrifice this token if you attacked with two or more creatures.&quot;)</text>
+			<text>When Shamash of Glory enters, create a Law token. (It&apos;s an artifact with &quot;Whenever you attack, target creature you control gets +1/+1 until end of turn. When it does, sacrifice this token if you attacked with two or more creatures.&quot;)</text>
 			<set rarity="common" picurl="https://mirage-xel.github.io/sets/M6D-files/img/28_Shamash Of Glory.png" num="28">M6D</set>
 			<prop>
 				<layout>normal</layout>
@@ -344,8 +344,8 @@ Counter target spell unless its controller pays {2} and the additional cost wasn
 		</card>
 		<card>
 			<name>Keter of Might</name>
-			<text>Raiment (When this enters, create a 1/1 Angel token with &quot;At the beginning of your upkeep, you may pay {2}. When you do, this creature&apos;s Equipment gain another instance of their abilities until end of turn&quot; attached to it.)
-Equipped creature gets +3/+3.
+			<text>Raiment (When this enters, create a 1/1 Angel token with &quot;At the beginning of your upkeep, you may pay {2}. When you do, this creature&apos;s Equipment gain another instance of their abilities until end of turn&quot; and attach this to it.)
+Equipped creature gets +3/+3. 
 Equip {1}{G}</text>
 			<set rarity="common" picurl="https://mirage-xel.github.io/sets/M6D-files/img/127_Keter of Might.png" num="127">M6D</set>
 			<prop>
@@ -530,7 +530,7 @@ Draw four cards.</text>
 		</card>
 		<card>
 			<name>Keter of Smoke</name>
-			<text>Raiment (When this enters, create a 1/1 Angel token with &quot;At the beginning of your upkeep, you may pay {2}. When you do, this creature&apos;s Equipment gain another instance of their abilities until end of turn&quot; attached to it.)
+			<text>Raiment (When this enters, create a 1/1 Angel token with &quot;At the beginning of your upkeep, you may pay {2}. When you do, this creature&apos;s Equipment gain another instance of their abilities until end of turn&quot; and attach this to it.)
 Whenever equipped creature attacks alone, it can&apos;t be blocked except by target creature defending player controls.
 Equip {3}</text>
 			<set rarity="common" picurl="https://mirage-xel.github.io/sets/M6D-files/img/43_Keter of Smoke.png" num="43">M6D</set>
@@ -586,7 +586,7 @@ Whenever you sacrifice a creature or artifact, Justifier of Judgement deals 1 da
 		<card>
 			<name>Mighty of Prattle</name>
 			<text>Whenever you cast a noncreature spell, draw a card, then discard a card.
-{2}{U}, Exile Mighty of Prattle from your graveyard: Create a 2/2 green Homunculus Beast creature token. Activate only on your turn.</text>
+{2}{U}, Exile Mighty of Prattle from your graveyard: Create a 2/2 green Homunculus Beast creature token. Activate only during your turn.</text>
 			<set rarity="common" picurl="https://mirage-xel.github.io/sets/M6D-files/img/48_Mighty of Prattle.png" num="48">M6D</set>
 			<prop>
 				<layout>normal</layout>
@@ -603,7 +603,7 @@ Whenever you sacrifice a creature or artifact, Justifier of Judgement deals 1 da
 		</card>
 		<card>
 			<name>Keter of Wisdom</name>
-			<text>Raiment (When this enters, create a 1/1 Angel token with &quot;At the beginning of your upkeep, you may pay {2}. When you do, this creature&apos;s Equipment gain another instance of their abilities until end of turn&quot; attached to it.)
+			<text>Raiment (When this enters, create a 1/1 Angel token with &quot;At the beginning of your upkeep, you may pay {2}. When you do, this creature&apos;s Equipment gain another instance of their abilities until end of turn&quot; and attach this to it.)
 Whenever equipped creature deals combat damage to a player, draw a card.
 Equip {2}</text>
 			<set rarity="common" picurl="https://mirage-xel.github.io/sets/M6D-files/img/45_Keter of Wisdom.png" num="45">M6D</set>
@@ -692,7 +692,7 @@ When Welfare-Book Sofer dies, create your choice of a Law token or a Treasure to
 		</card>
 		<card>
 			<name>Keter of Briliance</name>
-			<text>Raiment (When this enters, create a 1/1 Angel token with &quot;At the beginning of your upkeep, you may pay {2}. When you do, this creature&apos;s Equipment gain another instance of their abilities until end of turn&quot; attached to it.)
+			<text>Raiment (When this enters, create a 1/1 Angel token with &quot;At the beginning of your upkeep, you may pay {2}. When you do, this creature&apos;s Equipment gain another instance of their abilities until end of turn&quot; and attach this to it.)
 Equipped creature has prowess.
 Equip {1}{R}</text>
 			<set rarity="uncommon" picurl="https://mirage-xel.github.io/sets/M6D-files/img/100_Keter of Briliance.png" num="100">M6D</set>
@@ -728,7 +728,7 @@ Remove a +1/+1 counter from Writes-Account-of-Sin: Add {R}. Activate only if Wri
 		</card>
 		<card>
 			<name>Keter of Flame</name>
-			<text>Raiment (When this enters, create a 1/1 Angel token with &quot;At the beginning of your upkeep, you may pay {2}. When you do, this creature&apos;s Equipment gain another instance of their abilities until end of turn&quot; attached to it.)
+			<text>Raiment (When this enters, create a 1/1 Angel token with &quot;At the beginning of your upkeep, you may pay {2}. When you do, this creature&apos;s Equipment gain another instance of their abilities until end of turn&quot; and attach this to it.)
 Equipped creature gets +1/+0 and has reach. Whenever it attacks, exile the top card of your library. You may play it this turn.
 Equip {2}</text>
 			<set rarity="common" picurl="https://mirage-xel.github.io/sets/M6D-files/img/101_Keter of Flame.png" num="101">M6D</set>
@@ -830,7 +830,7 @@ Create a Law token. (It&apos;s an artifact with &quot;Whenever you attack, targe
 		</card>
 		<card>
 			<name>Wail Out</name>
-			<text>Creatures you control get +1/+0 until end of turn.
+			<text>Creatures you control get +1/+0 until end of turn. 
 Create a Law token. (It&apos;s an artifact with &quot;Whenever you attack, target creature you control gets +1/+1 until end of turn. When it does, sacrifice this token if you attacked with two or more creatures.&quot;)</text>
 			<set rarity="common" picurl="https://mirage-xel.github.io/sets/M6D-files/img/111_Wail Out.png" num="111">M6D</set>
 			<prop>
@@ -1122,7 +1122,7 @@ Fallen — At the beginning of your end step, if you lost life or sacrificed a p
 		</card>
 		<card>
 			<name>Keter of Death</name>
-			<text>Raiment (When this enters, create a 1/1 Angel token with &quot;At the beginning of your upkeep, you may pay {2}. When you do, this creature&apos;s Equipment gain another instance of their abilities until end of turn&quot; attached to it.)
+			<text>Raiment (When this enters, create a 1/1 Angel token with &quot;At the beginning of your upkeep, you may pay {2}. When you do, this creature&apos;s Equipment gain another instance of their abilities until end of turn&quot; and attach this to it.)
 Pay 2 life or sacrifice a nonland permanent: Equipped creature gets +2/+0 until end of turn. Pay each cost only once each turn.
 Equip {3}</text>
 			<set rarity="uncommon" picurl="https://mirage-xel.github.io/sets/M6D-files/img/72_Keter of Death.png" num="72">M6D</set>
@@ -1266,18 +1266,18 @@ As an additional cost to cast this spell, tap five untapped permanents you contr
 		</card>
 		<card>
 			<name>Bestial Speaker</name>
-			<text>Whenever your life total changes on your turn, put a +1/+1 counter on target creature token you control. If this is the third time this ability has triggered this turn, put a +1/+1 counter on each creature you control instead.</text>
+			<text>Whenever your life total changes during your turn, put a +1/+1 counter on target creature token you control. If this is the third time this ability has triggered this turn, put a +1/+1 counter on each creature you control instead.</text>
 			<set rarity="uncommon" picurl="https://mirage-xel.github.io/sets/M6D-files/img/116_Bestial Speaker.png" num="116">M6D</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature — Angel Devil Druid</type>
 				<maintype>Creature</maintype>
-				<manacost>2G</manacost>
-				<cmc>3</cmc>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
-				<pt>3/2</pt>
+				<pt>2/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -1682,7 +1682,7 @@ Whenever Clarity Sage attacks, draw a card. Then discard a card unless you attac
 		</card>
 		<card>
 			<name>Keter of the Firmament</name>
-			<text>Raiment (When this enters, create a 1/1 Angel token with &quot;At the beginning of your upkeep, you may pay {2}. When you do, this creature&apos;s Equipment gain another instance of their abilities until end of turn&quot; attached to it.)
+			<text>Raiment (When this enters, create a 1/1 Angel token with &quot;At the beginning of your upkeep, you may pay {2}. When you do, this creature&apos;s Equipment gain another instance of their abilities until end of turn&quot; and attach this to it.)
 Whenever equipped creature attacks, target creature gains flying until end of turn.
 Equip {1}{U}</text>
 			<set rarity="uncommon" picurl="https://mirage-xel.github.io/sets/M6D-files/img/44_Keter of the Firmament.png" num="44">M6D</set>
@@ -1925,10 +1925,10 @@ You can&apos;t spend mana from nonland sources.</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>A Tree of Life For Those Who Grasp It</name>
+			<name>A Tree Of Life For Those Who Grasp It</name>
 			<text>When A Tree of Life For Those Who Grasp It enters, search your library for a basic land card, reveal it and put it into your hand, then shuffle.
 {3}{G}{G}: Exile your graveyard. For the rest of the game, you may play cards put into exile from your graveyard and you can&apos;t play cards from your hand. Activate only once.</text>
-			<set rarity="mythic" picurl="https://mirage-xel.github.io/sets/M6D-files/img/139_A Tree of Life For Those Who Grasp It.png" num="139">M6D</set>
+			<set rarity="mythic" picurl="https://mirage-xel.github.io/sets/M6D-files/img/139_A Tree Of Life For Those Who Grasp It.png" num="139">M6D</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2300,7 +2300,7 @@ Pay 3 life: You may cast a card exiled with this creature without paying its man
 		<card>
 			<name>Downcast</name>
 			<text>Counter target spell unless its controller pays {1} for each creature you control.</text>
-			<set rarity="uncommon" picurl="https://mirage-xel.github.io/sets/M6D-files/img/161_Downcast.png" num="161">M6D</set>
+			<set rarity="uncommon" picurl="https://mirage-xel.github.io/sets/M6D-files/img/160_Downcast.png" num="160">M6D</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2317,7 +2317,7 @@ Pay 3 life: You may cast a card exiled with this creature without paying its man
 			<name>Benshachat Praetorian</name>
 			<text>First strike
 Whenever you cast a noncreature spell, create an artifact token named Meitohu Sludge with &quot;As this token enters, it becomes a copy of target creature or artifact you control until end of turn.&quot;</text>
-			<set rarity="uncommon" picurl="https://mirage-xel.github.io/sets/M6D-files/img/151_Benshachat Praetorian.png" num="151">M6D</set>
+			<set rarity="uncommon" picurl="https://mirage-xel.github.io/sets/M6D-files/img/150_Benshachat Praetorian.png" num="150">M6D</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2351,7 +2351,7 @@ You may have one creature you control assign combat damage equal to this creatur
 		</card>
 		<card>
 			<name>Keter of the Moon</name>
-			<text>Raiment (When this enters, create a 1/1 Angel token with &quot;At the beginning of your upkeep, you may pay {2}. When you do, this creature&apos;s Equipment gain another instance of their abilities until end of turn&quot; attached to it.)
+			<text>Raiment (When this enters, create a 1/1 Angel token with &quot;At the beginning of your upkeep, you may pay {2}. When you do, this creature&apos;s Equipment gain another instance of their abilities until end of turn&quot; and attach this to it.)
 Whenever equipped creature attacks, exile target creature you control, then return it to the battlefield tapped and attacking. As it enters, you may have it become a copy of equipped creature until end of turn.
 Equip {2}</text>
 			<set rarity="uncommon" picurl="https://mirage-xel.github.io/sets/M6D-files/img/175_Keter of the Moon.png" num="175">M6D</set>
@@ -2389,7 +2389,7 @@ Whenever this creature attacks, creatures you control get +1/+0 and gain your ch
 			<name>Avta&apos;s Cast</name>
 			<text>When this artifact enters, create a Law token. (It&apos;s an artifact with &quot;Whenever you attack, target creature you control gets +1/+1 until end of turn. When it does, sacrifice this token if you attacked with two or more creatures.&quot;)
 Whenever a creature you control attacks alone, you may cast a copy of this artifact.</text>
-			<set rarity="uncommon" picurl="https://mirage-xel.github.io/sets/M6D-files/img/148_Avta&apos;s Cast.png" num="148">M6D</set>
+			<set rarity="uncommon" picurl="https://mirage-xel.github.io/sets/M6D-files/img/147_Avta&apos;s Cast.png" num="147">M6D</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2427,7 +2427,7 @@ Fallen — At the beginning of your end step, if you lost life or sacrificed a p
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Angel</type>
+				<type>Creature — Angel Cleric</type>
 				<maintype>Creature</maintype>
 				<manacost>1BR</manacost>
 				<cmc>3</cmc>
@@ -2441,7 +2441,7 @@ Fallen — At the beginning of your end step, if you lost life or sacrificed a p
 			<name>Court of Death&apos;s Claim</name>
 			<text>Flying
 Whenever you sacrifice a token, if it it&apos;s the same kind of token as one you control, this creature deals 2 damage to target opponent.</text>
-			<set rarity="uncommon" picurl="https://mirage-xel.github.io/sets/M6D-files/img/157_Court of Death&apos;s Claim.png" num="157">M6D</set>
+			<set rarity="uncommon" picurl="https://mirage-xel.github.io/sets/M6D-files/img/156_Court of Death&apos;s Claim.png" num="156">M6D</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2567,7 +2567,7 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 			<text>Enchant nonland permanent
 You control enchanted permanent.
 Enchanted permanent is a Law artifact and gains &quot;Whenever you attack, attacking creatures you control get +1/+0 until end of turn. When you do, if you didn&apos;t attack with exactly one creature, sacrifice this permanent.&quot; (It&apos;s no longer a creature.)</text>
-			<set rarity="uncommon" picurl="https://mirage-xel.github.io/sets/M6D-files/img/152_Bind In Prohibitions.png" num="152">M6D</set>
+			<set rarity="uncommon" picurl="https://mirage-xel.github.io/sets/M6D-files/img/151_Bind In Prohibitions.png" num="151">M6D</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2600,7 +2600,7 @@ If a creature attacking alone would cause an ability of a permanent you control 
 		</card>
 		<card>
 			<name>Keter of Multiplicty</name>
-			<text>Raiment (When this enters, create a 1/1 Angel token with &quot;At the beginning of your upkeep, you may pay {2}. When you do, this creature&apos;s Equipment gain another instance of their abilities until end of turn&quot; attached to it.)
+			<text>Raiment (When this enters, create a 1/1 Angel token with &quot;At the beginning of your upkeep, you may pay {2}. When you do, this creature&apos;s Equipment gain another instance of their abilities until end of turn&quot; and attach this to it.)
 Equipped creature gets +2/+1.
 If equipped creature would die, instead remove all damage from it, create a token copy of it, and unattach Keter of Multiplicty from it.
 Equip {3}</text>
@@ -2621,7 +2621,7 @@ Equip {3}</text>
 			<name>Multitude Cleaver</name>
 			<text>Menace
 Whenever Multitude Cleaver attacks, you may sacrifice another nontoken creature. When you do, create two tokens that are copies of it, except they&apos;re 1/1 Homunculi.</text>
-			<set rarity="uncommon" picurl="https://mirage-xel.github.io/sets/M6D-files/img/177_Multitude Cleaver.png" num="177">M6D</set>
+			<set rarity="uncommon" picurl="https://mirage-xel.github.io/sets/M6D-files/img/178_Multitude Cleaver.png" num="178">M6D</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2639,7 +2639,7 @@ Whenever Multitude Cleaver attacks, you may sacrifice another nontoken creature.
 			<name>Blesser of Hearths</name>
 			<text>Host (When this creature attacks, you may create a 1/1 tapped and attacking token copy of it without host. Sacrifice that token at the beginning of the next end step unles you sacrifice a creature.)
 When this creature enters, you draw a card and each player loses 1 life.</text>
-			<set rarity="uncommon" picurl="https://mirage-xel.github.io/sets/M6D-files/img/153_Blesser of Hearths.png" num="153">M6D</set>
+			<set rarity="uncommon" picurl="https://mirage-xel.github.io/sets/M6D-files/img/152_Blesser of Hearths.png" num="152">M6D</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2656,8 +2656,8 @@ When this creature enters, you draw a card and each player loses 1 life.</text>
 		<card>
 			<name>Divvies-Life-For-All-Living</name>
 			<text>Trample, haste
-Whenever your life total changes on your turn, put a +1/+1 counter on this creature.</text>
-			<set rarity="uncommon" picurl="https://mirage-xel.github.io/sets/M6D-files/img/160_Divvies-Life-For-All-Living.png" num="160">M6D</set>
+Whenever your life total changes during your turn, put a +1/+1 counter on this creature.</text>
+			<set rarity="uncommon" picurl="https://mirage-xel.github.io/sets/M6D-files/img/159_Divvies-Life-For-All-Living.png" num="159">M6D</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2672,29 +2672,10 @@ Whenever your life total changes on your turn, put a +1/+1 counter on this creat
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Scribe&apos;s Keter</name>
-			<text>Raiment. (When this enters, create a 1/1 Angel token with &quot;At the beginning of your upkeep, you may pay {2}. When you do, this creature&apos;s Equipment gain another instance of their abilities until end of turn&quot; attached to it.)
-Equipped creature gets +2/+2.
-Whenever a creature you control attacks alone, create a token that&apos;s a copy of target permanent you control with mana value 2 or less.
-Equip {3}</text>
-			<set rarity="rare" picurl="https://mirage-xel.github.io/sets/M6D-files/img/190_Scribe&apos;s Keter.png" num="190">M6D</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Artifact — Equipment</type>
-				<maintype>Artifact</maintype>
-				<manacost>1WU</manacost>
-				<cmc>3</cmc>
-				<colors>WU</colors>
-				<coloridentity>WU</coloridentity>
-			</prop>
-			<tablerow>1</tablerow>
-		</card>
-		<card>
 			<name>Balanced Dayan</name>
 			<text>When this creature enters, create two Law tokens. (They&apos;re artifacts with &quot;Whenever you attack, target creature you control gets +1/+1 until end of turn. When it does, sacrifice this token if you attacked with two or more creatures.&quot;)
 This creature can&apos;t attack or block. At the beginning of your end step, if two or more nonland permanents died under your control this turn, it loses this ability. (Indefinitely,)</text>
-			<set rarity="uncommon" picurl="https://mirage-xel.github.io/sets/M6D-files/img/150_Balanced Dayan.png" num="150">M6D</set>
+			<set rarity="uncommon" picurl="https://mirage-xel.github.io/sets/M6D-files/img/149_Balanced Dayan.png" num="149">M6D</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2710,7 +2691,7 @@ This creature can&apos;t attack or block. At the beginning of your end step, if 
 		</card>
 		<card>
 			<name>Keter of Balance</name>
-			<text>Raiment (When this enters, create a 1/1 Angel token with &quot;At the beginning of your upkeep, you may pay {2}. When you do, this creature&apos;s Equipment gain another instance of their abilities until end of turn&quot; attached to it.)
+			<text>Raiment (When this enters, create a 1/1 Angel token with &quot;At the beginning of your upkeep, you may pay {2}. When you do, this creature&apos;s Equipment gain another instance of their abilities until end of turn&quot; and attach this to it.)
 Whenever equipped creature attacks, attacking creatures get +1/+1 until end of turn, then sacrifice a creature if you attacked with two or more creatures.
 Equip {2}</text>
 			<set rarity="uncommon" picurl="https://mirage-xel.github.io/sets/M6D-files/img/171_Keter of Balance.png" num="171">M6D</set>
@@ -2800,7 +2781,7 @@ This creature gets +1/+0 for each token you control.</text>
 		</card>
 		<card>
 			<name>Root of Insolence</name>
-			<text>Root of Insolence has first strike on your turn.
+			<text>Root of Insolence has first strike during your turn.
 Whenever a creature you control attacks alone, each player loses 3 life unless they sacrifice a creature or artifact.</text>
 			<set rarity="common" picurl="https://mirage-xel.github.io/sets/M6D-files/img/187_Root of Insolence.png" num="187">M6D</set>
 			<prop>
@@ -2820,7 +2801,7 @@ Whenever a creature you control attacks alone, each player loses 3 life unless t
 			<name>Axe of Perlis</name>
 			<text>Host (When this creature attacks, you may create a 1/1 tapped and attacking token copy of it without host. Sacrifice that token at the beginning of the next end step unles you sacrifice a creature.)
 When Axe of Perlis dies, it deals 1 damage to target opponent.</text>
-			<set rarity="common" picurl="https://mirage-xel.github.io/sets/M6D-files/img/149_Axe of Perlis.png" num="149">M6D</set>
+			<set rarity="common" picurl="https://mirage-xel.github.io/sets/M6D-files/img/148_Axe of Perlis.png" num="148">M6D</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2870,8 +2851,8 @@ As an additional cost to cast noncreature spells, you may pay {2} and 2 life. Wh
 		</card>
 		<card>
 			<name>Keter of Libations</name>
-			<text>Raiment (When this enters, create a 1/1 Angel token with &quot;At the beginning of your upkeep, you may pay {2}. When you do, this creature&apos;s Equipment gain another instance of their abilities until end of turn&quot; attached to it.)
-Whenever your life total changes on your turn, equipped creature gets +1/+0 until end of turn.
+			<text>Raiment (When this enters, create a 1/1 Angel token with &quot;At the beginning of your upkeep, you may pay {2}. When you do, this creature&apos;s Equipment gain another instance of their abilities until end of turn&quot; and attach this to it.)
+Whenever your life total changes during your turn, equipped creature gets +1/+0 until end of turn.
 Equip {4}</text>
 			<set rarity="common" picurl="https://mirage-xel.github.io/sets/M6D-files/img/173_Keter of Libations.png" num="173">M6D</set>
 			<prop>
@@ -2890,7 +2871,7 @@ Equip {4}</text>
 			<name>Court of Life&apos;s Variety</name>
 			<text>Flying
 Whenever you create a token, if it isn&apos;t the same kind of token as one you control, create a token that&apos;s a copy of it.</text>
-			<set rarity="uncommon" picurl="https://mirage-xel.github.io/sets/M6D-files/img/158_Court of Life&apos;s Variety.png" num="158">M6D</set>
+			<set rarity="uncommon" picurl="https://mirage-xel.github.io/sets/M6D-files/img/157_Court of Life&apos;s Variety.png" num="157">M6D</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2907,7 +2888,7 @@ Whenever you create a token, if it isn&apos;t the same kind of token as one you 
 		<card>
 			<name>Armaments of Heaven</name>
 			<text>Whenever an equipped creature you control attacks, create a tapped and attacking token that&apos;s a copy of it and token copies of each Equipment attached to it attached to that token. Sacrifice each token created this way at end of combat.</text>
-			<set rarity="rare" picurl="https://mirage-xel.github.io/sets/M6D-files/img/145_Armaments of Heaven.png" num="145">M6D</set>
+			<set rarity="rare" picurl="https://mirage-xel.github.io/sets/M6D-files/img/144_Armaments of Heaven.png" num="144">M6D</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2995,7 +2976,7 @@ At the beginning of your end step, sacrifice this enchantment.</text>
 		</card>
 		<card>
 			<name>Keter of Ingenuity</name>
-			<text>Raiment (When this enters, create a 1/1 Angel token with &quot;At the beginning of your upkeep, you may pay {2}. When you do, this creature&apos;s Equipment gain another instance of their abilities until end of turn&quot; attached to it.)
+			<text>Raiment (When this enters, create a 1/1 Angel token with &quot;At the beginning of your upkeep, you may pay {2}. When you do, this creature&apos;s Equipment gain another instance of their abilities until end of turn&quot; and attach this to it.)
 Whenever equipped creature deals combat damage to a player, create a token copy of another target nontoken artifact you control and one of another target artifact token you control. (You must control both.)
 Equip {4}</text>
 			<set rarity="uncommon" picurl="https://mirage-xel.github.io/sets/M6D-files/img/172_Keter of Ingenuity.png" num="172">M6D</set>
@@ -3048,10 +3029,10 @@ When Sees-All-Secrets enters, tap target creature.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Architect Of Perils</name>
+			<name>Dumiyah&apos;s Sofer</name>
 			<text>Fallen — At the beginning of your end step, if you lost life or sacrificed a permanent this turn, you may exile a creature card with mana value 3 or less from your graveyard.
-Once each turn, you may have a creature token you control enter as a copy of a card exiled with Architect Of Perils.</text>
-			<set rarity="rare" picurl="https://mirage-xel.github.io/sets/M6D-files/img/144_Architect Of Perils.png" num="144">M6D</set>
+Once each turn, you may have a creature token you control enter as a copy of a card exiled with Dumiyah&apos;s Sofer.</text>
+			<set rarity="rare" picurl="https://mirage-xel.github.io/sets/M6D-files/img/162_Dumiyah&apos;s Sofer.png" num="162">M6D</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3085,9 +3066,9 @@ Sacrifice two tokens: The-True-Judge gains protection from the color of your cho
 		</card>
 		<card>
 			<name>Chaotic Assemblage</name>
-			<text>Whenever your life total changes on your turn, if Chaotic Assemblage&apos;s base power is 2 or greater, put a chaos counter on it. 
+			<text>Whenever your life total changes during your turn, if Chaotic Assemblage&apos;s base power is 2 or greater, put a chaos counter on it. 
 When Chaotic Assemblage dies, create X tokens that are copies of it, where X is the number of chaos counters on it, except their base power and toughness are each 1 less.</text>
-			<set rarity="rare" picurl="https://mirage-xel.github.io/sets/M6D-files/img/155_Chaotic Assemblage.png" num="155">M6D</set>
+			<set rarity="rare" picurl="https://mirage-xel.github.io/sets/M6D-files/img/154_Chaotic Assemblage.png" num="154">M6D</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3120,10 +3101,10 @@ Whenever this creature enters or attacks, discard a card unless you&apos;ve gain
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Nihlist of Matter</name>
+			<name>Moral Nihlist</name>
 			<text>Trample
 Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn. If that spell has mana value 4 or greater, instead put a +1/+1 counter on this creature.</text>
-			<set rarity="common" picurl="https://mirage-xel.github.io/sets/M6D-files/img/178_Nihlist of Matter.png" num="178">M6D</set>
+			<set rarity="common" picurl="https://mirage-xel.github.io/sets/M6D-files/img/177_Moral Nihlist.png" num="177">M6D</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3141,7 +3122,7 @@ Whenever you cast a noncreature spell, this creature gets +1/+1 until end of tur
 			<name>Destructive Builder</name>
 			<text>This spell can&apos;t be countered.
 Whenever you cast an artifact spell, you may sacrifice any number of artifact tokens. When you do, create that many tokens that are copies of that artifact.</text>
-			<set rarity="rare" picurl="https://mirage-xel.github.io/sets/M6D-files/img/159_Destructive Builder.png" num="159">M6D</set>
+			<set rarity="rare" picurl="https://mirage-xel.github.io/sets/M6D-files/img/158_Destructive Builder.png" num="158">M6D</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3177,7 +3158,7 @@ Grandiloquent Teacher costs {2} less if you controlled two or more attacking tok
 			<name>Avenges-In-Envy</name>
 			<text>Host (When this creature attacks, you may create a 1/1 tapped and attacking token copy of it without host. Sacrifice that token at the beginning of the next end step unles you sacrifice a creature.)
 Whenever a creature you control attacks alone, it gets +3/+0 until end of turn unless defending player sacrifices a creature.</text>
-			<set rarity="rare" picurl="https://mirage-xel.github.io/sets/M6D-files/img/146_Avenges-In-Envy.png" num="146">M6D</set>
+			<set rarity="rare" picurl="https://mirage-xel.github.io/sets/M6D-files/img/145_Avenges-In-Envy.png" num="145">M6D</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3283,7 +3264,7 @@ Tokens you control have &quot;{T}: Add one mana of any color. Spend this mana on
 		</card>
 		<card>
 			<name>Nameless Keter</name>
-			<text>Raiment (When this enters, create a 1/1 Angel token with &quot;At the beginning of your upkeep, you may pay {2}. When you do, this creature&apos;s Equipment gain another instance of their abilities until end of turn&quot; attached to it.)
+			<text>Raiment (When this enters, create a 1/1 Angel token with &quot;At the beginning of your upkeep, you may pay {2}. When you do, this creature&apos;s Equipment gain another instance of their abilities until end of turn&quot; and attach this to it.)
 Whenever you sacrifice a creature with one or more creature types, create a 2/2 creature token and put a +1/+1 counter on equipped creature.
 Equip {B}</text>
 			<set rarity="rare" picurl="https://mirage-xel.github.io/sets/M6D-files/img/74_Nameless Keter.png" num="74">M6D</set>
@@ -3317,7 +3298,7 @@ Equip {B}</text>
 		</card>
 		<card>
 			<name>Engineers of Bodily Form</name>
-			<text>Whenever this creature attacks, create an Equipment artifact token named Keter of 248 Organs with &quot;Equipped creature gets +1/+0 for each artifact you control&quot;, equip {2}, and raiment. (When it enters, create a 1/1 Angel token with &quot;At the beginning of combat on your turn, you may pay {2}. When you do, this creature&apos;s Equipment gain another instance of their abilities until end of turn&quot; attached to it.)</text>
+			<text>Whenever this creature attacks, create an Equipment artifact token named Keter of 248 Organs with &quot;Equipped creature gets +1/+0 for each artifact you control&quot;, equip {2}, and raiment. (When it enters, create a 1/1 Angel token with &quot;At the beginning of your upkeep , you may pay {2}. When you do, this creature&apos;s Equipment gain another instance of their abilities until end of turn&quot; and attach it to it.)</text>
 			<set rarity="mythic" picurl="https://mirage-xel.github.io/sets/M6D-files/img/121_Engineers of Bodily Form.png" num="121">M6D</set>
 			<prop>
 				<layout>normal</layout>
@@ -3336,8 +3317,8 @@ Equip {B}</text>
 			<name>Dumiyah, The Only Certainty</name>
 			<text>Flash
 Flying
-Whenever one or more cards leave a graveyard, return those cards to that graveyard. You can&apos;t exile cards from your graveyard this turn unless you pay {1}.</text>
-			<set rarity="mythic" picurl="https://mirage-xel.github.io/sets/M6D-files/img/162_Dumiyah, The Only Certainty.png" num="162">M6D</set>
+If one or more cards would leave a graveyard, they remain in that graveyard instead. You can&apos;t exile cards from your graveyard this turn unless you pay {1}.</text>
+			<set rarity="mythic" picurl="https://mirage-xel.github.io/sets/M6D-files/img/161_Dumiyah, The Only Certainty.png" num="161">M6D</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3354,7 +3335,7 @@ Whenever one or more cards leave a graveyard, return those cards to that graveya
 		<card>
 			<name>Avta, Prosecutorial Prince</name>
 			<text>Fallen — At the beginning of your end step, if you&apos;ve lost life or sacrificed a permanent this turn, Avta gains &quot;If a permanent dying would cause an ability you control to trigger, that ability triggers an additional time&quot; until your next end step.</text>
-			<set rarity="mythic" picurl="https://mirage-xel.github.io/sets/M6D-files/img/147_Avta, Prosecutorial Prince.png" num="147">M6D</set>
+			<set rarity="mythic" picurl="https://mirage-xel.github.io/sets/M6D-files/img/146_Avta, Prosecutorial Prince.png" num="146">M6D</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3370,8 +3351,7 @@ Whenever one or more cards leave a graveyard, return those cards to that graveya
 		</card>
 		<card>
 			<name>Vine-Fruit Weaver</name>
-			<text>First strike, menace
-At the beginning of your end step, you gain life equal to the amount of life you gained this turn and create a 0/0 black Demon creature token and put X +1/+1 counters on it, where X is the amount of life you lost this turn.</text>
+			<text>At the beginning of your end step, you gain life equal to the amount of life you gained this turn and create a 0/0 black Demon creature token and put X +1/+1 counters on it, where X is the amount of life you lost this turn.</text>
 			<set rarity="mythic" picurl="https://mirage-xel.github.io/sets/M6D-files/img/198_Vine-Fruit Weaver.png" num="198">M6D</set>
 			<prop>
 				<layout>normal</layout>
@@ -3426,7 +3406,7 @@ You can&apos;t sacrifice tokens.</text>
 		</card>
 		<card>
 			<name>The First Key</name>
-			<text>Raiment (When this enters, create a 1/1 Angel token with &quot;At the beginning of your upkeep, you may pay {2}. When you do, this creature&apos;s Equipment gain another instance of their abilities until end of turn&quot; attached to it.)
+			<text>Raiment (When this enters, create a 1/1 Angel token with &quot;At the beginning of your upkeep, you may pay {2}. When you do, this creature&apos;s Equipment gain another instance of their abilities until end of turn&quot; and attach this to it.)
 Whenever equipped creature attacks, return target creature card with mana value 3 or less from your graveyard to the battlefield. It becomes an Equipment artifact with equip {2}. 
 Equip {2}</text>
 			<set rarity="mythic" picurl="https://mirage-xel.github.io/sets/M6D-files/img/166_The First Key.png" num="166">M6D</set>
@@ -3444,7 +3424,7 @@ Equip {2}</text>
 		</card>
 		<card>
 			<name>Lilyata, First Benshachat</name>
-			<text>Whenever Lilyata attacks, exile the top card of your library. You may cast any number of copies of it. If it&apos;s a permanent card, the copies enter as 2/1 Demon creatures in addition to their other types.</text>
+			<text>Whenever Lilyata attacks, exile the top card of your library. You may cast any number of copies of it. They cost {1} more to cast. If it&apos;s a permanent card, the copies enter as 2/1 Demon creatures in addition to their other types.</text>
 			<set rarity="mythic" picurl="https://mirage-xel.github.io/sets/M6D-files/img/102_Lilyata, First Benshachat.png" num="102">M6D</set>
 			<prop>
 				<layout>normal</layout>
@@ -3464,7 +3444,7 @@ Equip {2}</text>
 			<text>You may activate one of Chaytiv&apos;s loyalty abilities two additional times per turn. They cost an additional &quot;Sacrifice a nonland permanent&quot; to activate for each time past the first.
 [+1 ]: Discard a card, then draw a card.
 [-2]: Creatures you control get +1/+1 until end of turn.</text>
-			<set rarity="mythic" picurl="https://mirage-xel.github.io/sets/M6D-files/img/156_Chaytiv, Who Chose To Know.png" num="156">M6D</set>
+			<set rarity="mythic" picurl="https://mirage-xel.github.io/sets/M6D-files/img/155_Chaytiv, Who Chose To Know.png" num="155">M6D</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3497,7 +3477,7 @@ Equip {2}</text>
 		</card>
 		<card>
 			<name>Peaceblossom</name>
-			<text>At the beginning of your upkeep, you lose 2 life and create an Equipment token with &quot;Equipped creature gets +1/+0 as long as it&apos;s attacking&quot;, equip {2}, and raiment. (When it enters, create a 1/1 Angel token with &quot;At the beginning of combat on your turn, you may pay {2}. When you do, this creature&apos;s Equipment gain another instance of their abilities until end of turn&quot; attached to it.)</text>
+			<text>At the beginning of your upkeep, you lose 2 life and create an Equipment token with &quot;Equipped creature gets +1/+0 as long as it&apos;s attacking&quot;, equip {2}, and raiment. (When it enters, create a 1/1 Angel token with &quot;At the beginning of your upkeep, you may pay {2}. When you do, this creature&apos;s Equipment gain another instance of their abilities until end of turn&quot; attached to it.)</text>
 			<set rarity="mythic" picurl="https://mirage-xel.github.io/sets/M6D-files/img/75_Peaceblossom.png" num="75">M6D</set>
 			<prop>
 				<layout>normal</layout>
@@ -3874,7 +3854,7 @@ When this creature enters, exile up to two cards from target graveyard.</text>
 		</card>
 		<card>
 			<name>Molten Keter</name>
-			<text>Raiment (When this enters, create a 1/1 Angel token with &quot;At the beginning of your upkeep, you may pay {2}. When you do, this creature&apos;s Equipment gain another instance of their abilities until end of turn&quot; attached to it.)
+			<text>Raiment (When this enters, create a 1/1 Angel token with &quot;At the beginning of your upkeep, you may pay {2}. When you do, this creature&apos;s Equipment gain another instance of their abilities until end of turn&quot; and attach this to it.)
 Whenever equipped creature dies, draw a card.
 Equip {2}</text>
 			<set rarity="uncommon" picurl="https://mirage-xel.github.io/sets/M6D-files/img/209_Molten Keter.png" num="209">M6D</set>
@@ -3948,9 +3928,9 @@ When this creature enters, you gain 4 life.</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>Vessel of Disrespect</name>
+			<name>Vessel Of Disrespect</name>
 			<text>When this creature dies, create a 2/1 green Homunculus creature token with &quot;When you control this creature for two end steps, sacrifice it.&quot;</text>
-			<set rarity="common" picurl="https://mirage-xel.github.io/sets/M6D-files/img/3_Vessel of Disrespect.png" num="3">M6D</set>
+			<set rarity="common" picurl="https://mirage-xel.github.io/sets/M6D-files/img/3_Vessel Of Disrespect.png" num="3">M6D</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4129,7 +4109,7 @@ When this creature enters, if you attacked with exactly one creature this turn, 
 		<card>
 			<name>Equipment M6D</name>
 			<text>Raiment
-Equipped creature gets +1/+0 as long as it&apos;s attacking.
+Equipped creature gets +1/+0 as long as it&apos;s attacking. 
 Equip {2}</text>
 			<set rarity="common" picurl="https://mirage-xel.github.io/sets/M6D-files/img/11t_Equipment.png" num="11">M6D</set>
 			<prop>
@@ -4437,6 +4417,25 @@ This creature can&apos;t block.</text>
 			</prop>
 			<tablerow>1</tablerow>
 			<token>1</token>
+		</card>
+		<card>
+			<name>Scribe&apos;s Keter</name>
+			<text>Raiment. (When this enters, create a 1/1 Angel token with &quot;At the beginning of your upkeep, you may pay {2}. When you do, this creature&apos;s Equipment gain another instance of their abilities until end of turn&quot; and attach this to it.)
+Equipped creature gets +1/+1.
+Whenever a creature you control attacks alone, create a token that&apos;s a copy of target nonland permanent you control with mana value 2 or less.
+Equip {3}</text>
+			<set rarity="rare" picurl="https://mirage-xel.github.io/sets/M6D-files/img/190_Scribe&apos;s Keter.png" num="190">M6D</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>1WU</manacost>
+				<cmc>3</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
 		</card>
 	</cards>
 </cockatrice_carddatabase>

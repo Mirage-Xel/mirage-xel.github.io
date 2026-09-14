@@ -32,7 +32,7 @@
         "position": ""
     },
     {
-        "card_name": "A Tree of Life For Those Who Grasp It",
+        "card_name": "A Tree Of Life For Those Who Grasp It",
         "number": 139,
         "shape": "normal",
         "set": "M6D",
@@ -1150,7 +1150,7 @@
     },
     {
         "card_name": "Chaotic Assemblage",
-        "number": 155,
+        "number": 154,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
@@ -1158,7 +1158,7 @@
     },
     {
         "card_name": "Destructive Builder",
-        "number": 159,
+        "number": 158,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
@@ -1199,7 +1199,7 @@
     },
     {
         "card_name": "Downcast",
-        "number": 161,
+        "number": 160,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
@@ -1240,7 +1240,7 @@
     },
     {
         "card_name": "Court of Death's Claim",
-        "number": 157,
+        "number": 156,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
@@ -1300,7 +1300,7 @@
     },
     {
         "card_name": "Axe of Perlis",
-        "number": 149,
+        "number": 148,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
@@ -1337,8 +1337,8 @@
         "position": ""
     },
     {
-        "card_name": "Nihlist of Matter",
-        "number": 178,
+        "card_name": "Moral Nihlist",
+        "number": 177,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
@@ -1378,7 +1378,7 @@
     },
     {
         "card_name": "Chaytiv, Who Chose To Know",
-        "number": 156,
+        "number": 155,
         "shape": "planeswalker",
         "set": "M6D",
         "rotated": false,
@@ -1386,15 +1386,15 @@
     },
     {
         "card_name": "Armaments of Heaven",
-        "number": 145,
+        "number": 144,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Architect Of Perils",
-        "number": 144,
+        "card_name": "Dumiyah's Sofer",
+        "number": 162,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
@@ -1411,7 +1411,7 @@
     },
     {
         "card_name": "Brood Savant",
-        "number": 154,
+        "number": 153,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
@@ -1436,7 +1436,7 @@
     },
     {
         "card_name": "Court of Life's Variety",
-        "number": 158,
+        "number": 157,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
@@ -1444,7 +1444,7 @@
     },
     {
         "card_name": "Avta's Cast",
-        "number": 148,
+        "number": 147,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
@@ -1469,7 +1469,7 @@
     },
     {
         "card_name": "Balanced Dayan",
-        "number": 150,
+        "number": 149,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
@@ -1579,7 +1579,7 @@
     },
     {
         "card_name": "Dumiyah, The Only Certainty",
-        "number": 162,
+        "number": 161,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
@@ -1609,7 +1609,7 @@
     },
     {
         "card_name": "Avenges-In-Envy",
-        "number": 146,
+        "number": 145,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
@@ -1639,7 +1639,7 @@
     },
     {
         "card_name": "Bind In Prohibitions",
-        "number": 152,
+        "number": 151,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
@@ -1650,7 +1650,7 @@
     },
     {
         "card_name": "Blesser of Hearths",
-        "number": 153,
+        "number": 152,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
@@ -1680,7 +1680,7 @@
     },
     {
         "card_name": "Divvies-Life-For-All-Living",
-        "number": 160,
+        "number": 159,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
@@ -1744,7 +1744,7 @@
     },
     {
         "card_name": "Avta, Prosecutorial Prince",
-        "number": 147,
+        "number": 146,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
@@ -1802,7 +1802,7 @@
     },
     {
         "card_name": "Benshachat Praetorian",
-        "number": 151,
+        "number": 150,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
@@ -1819,7 +1819,7 @@
     },
     {
         "card_name": "Multitude Cleaver",
-        "number": 177,
+        "number": 178,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
@@ -1921,7 +1921,7 @@
         "position": ""
     },
     {
-        "card_name": "Vessel of Disrespect",
+        "card_name": "Vessel Of Disrespect",
         "number": 3,
         "shape": "normal",
         "set": "M6D",

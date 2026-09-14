@@ -1,4 +1,213 @@
-﻿VERSION 9 CHANGELOG
+﻿VERSION 10 CHANGELOG
+====================
+
+A Tree Of Life For Those Who Grasp It added.
+Dumiyah's Sofer added.
+Moral Nihlist added.
+Vessel Of Disrespect added.
+
+A Tree of Life For Those Who Grasp It removed.
+Architect Of Perils removed.
+Nihlist of Matter removed.
+Vessel of Disrespect removed.
+
+Keter of Legions
+rules_text: Raiment [i](When this enters, create a 1/1 Angel token with “At the beginning of your upkeep, you may pay {2}. When you do, this creature's Equipment gain another instance of their abilities until end of turn” attached to it.)[/i]
+Equipped creature has host. [i](Whenever it attacks, you may create a 1/1 token copy of it that's tapped and attacking. It has “Once, at your end step, sacrifice a creature” and not host.)[/i]
+Equip {2}{W} => Raiment [i](When this enters, create a 1/1 Angel token with “At the beginning of your upkeep, you may pay {2}. When you do, this creature's Equipment gain another instance of their abilities until end of turn” and attach this to it.)[/i]
+Equipped creature has host. [i](Whenever it attacks, you may create a 1/1 token copy of it that's tapped and attacking. It has “Once, at your end step, sacrifice a creature” and not host.)[/i]
+Equip {2}{W}
+
+Keter of Judgement
+rules_text: Raiment [i](When this enters, create a 1/1 Angel token with “At the beginning of your upkeep, you may pay {2}. When you do, this creature's Equipment gain another instance of their abilities until end of turn” attached to it.)[/i]
+Equipped creature gets +1/+1 and has “Whenever this attacks, tap target creature.”
+Equip {3} => Raiment [i](When this enters, create a 1/1 Angel token with “At the beginning of your upkeep, you may pay {2}. When you do, this creature's Equipment gain another instance of their abilities until end of turn” and attach this to it.)[/i]
+Equipped creature gets +1/+1 and has “Whenever this attacks, tap target creature.”
+Equip {3}
+
+Shamash Of Glory
+rules_text: When Shamash Of Glory enters, create a Law token [i](It's an artifact with “Whenever you attack, target creature you control gets +1/+1 until end of turn. When it does, sacrifice this token if you attacked with two or more creatures.”)[/i] => When Shamash of Glory enters, create a Law token. [i](It's an artifact with “Whenever you attack, target creature you control gets +1/+1 until end of turn. When it does, sacrifice this token if you attacked with two or more creatures.”)[/i]
+
+Keter of Might
+rules_text: Raiment [i](When this enters, create a 1/1 Angel token with “At the beginning of your upkeep, you may pay {2}. When you do, this creature's Equipment gain another instance of their abilities until end of turn” attached to it.)[/i]
+Equipped creature gets +3/+3.
+Equip {1}{G} => Raiment [i](When this enters, create a 1/1 Angel token with “At the beginning of your upkeep, you may pay {2}. When you do, this creature's Equipment gain another instance of their abilities until end of turn” and attach this to it.)[/i]
+Equipped creature gets +3/+3. 
+Equip {1}{G}
+
+Keter of Smoke
+rules_text: Raiment [i](When this enters, create a 1/1 Angel token with “At the beginning of your upkeep, you may pay {2}. When you do, this creature's Equipment gain another instance of their abilities until end of turn” attached to it.)[/i]
+Whenever equipped creature attacks alone, it can't be blocked except by target creature defending player controls.
+Equip {3} => Raiment [i](When this enters, create a 1/1 Angel token with “At the beginning of your upkeep, you may pay {2}. When you do, this creature's Equipment gain another instance of their abilities until end of turn” and attach this to it.)[/i]
+Whenever equipped creature attacks alone, it can't be blocked except by target creature defending player controls.
+Equip {3}
+
+Mighty of Prattle
+rules_text: Whenever you cast a noncreature spell, draw a card, then discard a card.
+{2}{U}, Exile Mighty of Prattle from your graveyard: Create a 2/2 green Homunculus Beast creature token. Activate only on your turn. => Whenever you cast a noncreature spell, draw a card, then discard a card.
+{2}{U}, Exile Mighty of Prattle from your graveyard: Create a 2/2 green Homunculus Beast creature token. Activate only during your turn.
+
+Keter of Wisdom
+rules_text: Raiment [i](When this enters, create a 1/1 Angel token with “At the beginning of your upkeep, you may pay {2}. When you do, this creature's Equipment gain another instance of their abilities until end of turn” attached to it.)[/i]
+Whenever equipped creature deals combat damage to a player, draw a card.
+Equip {2} => Raiment [i](When this enters, create a 1/1 Angel token with “At the beginning of your upkeep, you may pay {2}. When you do, this creature's Equipment gain another instance of their abilities until end of turn” and attach this to it.)[/i]
+Whenever equipped creature deals combat damage to a player, draw a card.
+Equip {2}
+
+Keter of Briliance
+rules_text: Raiment [i](When this enters, create a 1/1 Angel token with “At the beginning of your upkeep, you may pay {2}. When you do, this creature's Equipment gain another instance of their abilities until end of turn” attached to it.)[/i]
+Equipped creature has prowess.
+Equip {1}{R} => Raiment [i](When this enters, create a 1/1 Angel token with “At the beginning of your upkeep, you may pay {2}. When you do, this creature's Equipment gain another instance of their abilities until end of turn” and attach this to it.)[/i]
+Equipped creature has prowess.
+Equip {1}{R}
+
+Keter of Flame
+rules_text: Raiment [i](When this enters, create a 1/1 Angel token with “At the beginning of your upkeep, you may pay {2}. When you do, this creature's Equipment gain another instance of their abilities until end of turn” attached to it.)[/i]
+Equipped creature gets +1/+0 and has reach. Whenever it attacks, exile the top card of your library. You may play it this turn.
+Equip {2} => Raiment [i](When this enters, create a 1/1 Angel token with “At the beginning of your upkeep, you may pay {2}. When you do, this creature's Equipment gain another instance of their abilities until end of turn” and attach this to it.)[/i]
+Equipped creature gets +1/+0 and has reach. Whenever it attacks, exile the top card of your library. You may play it this turn.
+Equip {2}
+
+Wail Out
+rules_text: Creatures you control get +1/+0 until end of turn.
+Create a Law token. [i](It's an artifact with “Whenever you attack, target creature you control gets +1/+1 until end of turn. When it does, sacrifice this token if you attacked with two or more creatures.”)[/i] => Creatures you control get +1/+0 until end of turn. 
+Create a Law token. [i](It's an artifact with “Whenever you attack, target creature you control gets +1/+1 until end of turn. When it does, sacrifice this token if you attacked with two or more creatures.”)[/i]
+
+Keter of Death
+rules_text: Raiment [i](When this enters, create a 1/1 Angel token with “At the beginning of your upkeep, you may pay {2}. When you do, this creature's Equipment gain another instance of their abilities until end of turn” attached to it.)[/i]
+Pay 2 life or sacrifice a nonland permanent: Equipped creature gets +2/+0 until end of turn. Pay each cost only once each turn.
+Equip {3} => Raiment [i](When this enters, create a 1/1 Angel token with “At the beginning of your upkeep, you may pay {2}. When you do, this creature's Equipment gain another instance of their abilities until end of turn” and attach this to it.)[/i]
+Pay 2 life or sacrifice a nonland permanent: Equipped creature gets +2/+0 until end of turn. Pay each cost only once each turn.
+Equip {3}
+
+Bestial Speaker
+cost: {2}{G} => {1}{G}
+rules_text: Whenever your life total changes on your turn, put a +1/+1 counter on target creature token you control. If this is the third time this ability has triggered this turn, put a +1/+1 counter on each creature you control instead. => Whenever your life total changes during your turn, put a +1/+1 counter on target creature token you control. If this is the third time this ability has triggered this turn, put a +1/+1 counter on each creature you control instead.
+pt: 3/2 => 2/1
+
+Keter of the Firmament
+rules_text: Raiment [i](When this enters, create a 1/1 Angel token with “At the beginning of your upkeep, you may pay {2}. When you do, this creature's Equipment gain another instance of their abilities until end of turn” attached to it.)[/i]
+Whenever equipped creature attacks, target creature gains flying until end of turn.
+Equip {1}{U} => Raiment [i](When this enters, create a 1/1 Angel token with “At the beginning of your upkeep, you may pay {2}. When you do, this creature's Equipment gain another instance of their abilities until end of turn” and attach this to it.)[/i]
+Whenever equipped creature attacks, target creature gains flying until end of turn.
+Equip {1}{U}
+
+Keter of the Moon
+rules_text: Raiment [i](When this enters, create a 1/1 Angel token with “At the beginning of your upkeep, you may pay {2}. When you do, this creature's Equipment gain another instance of their abilities until end of turn” attached to it.)[/i]
+Whenever equipped creature attacks, exile target creature you control, then return it to the battlefield tapped and attacking. As it enters, you may have it become a copy of equipped creature until end of turn.
+Equip {2} => Raiment [i](When this enters, create a 1/1 Angel token with “At the beginning of your upkeep, you may pay {2}. When you do, this creature's Equipment gain another instance of their abilities until end of turn” and attach this to it.)[/i]
+Whenever equipped creature attacks, exile target creature you control, then return it to the battlefield tapped and attacking. As it enters, you may have it become a copy of equipped creature until end of turn.
+Equip {2}
+
+Sanctifier of Bloodgifts
+type: Creature — Angel => Creature — Angel Cleric
+
+Keter of Multiplicty
+rules_text: Raiment [i](When this enters, create a 1/1 Angel token with “At the beginning of your upkeep, you may pay {2}. When you do, this creature's Equipment gain another instance of their abilities until end of turn” attached to it.)[/i]
+Equipped creature gets +2/+1.
+If equipped creature would die, instead remove all damage from it, create a token copy of it, and unattach Keter of Multiplicty from it.
+Equip {3} => Raiment [i](When this enters, create a 1/1 Angel token with “At the beginning of your upkeep, you may pay {2}. When you do, this creature's Equipment gain another instance of their abilities until end of turn” and attach this to it.)[/i]
+Equipped creature gets +2/+1.
+If equipped creature would die, instead remove all damage from it, create a token copy of it, and unattach Keter of Multiplicty from it.
+Equip {3}
+
+Divvies-Life-For-All-Living
+rules_text: Trample, haste
+Whenever your life total changes on your turn, put a +1/+1 counter on this creature. => Trample, haste
+Whenever your life total changes during your turn, put a +1/+1 counter on this creature.
+
+Keter of Balance
+rules_text: Raiment [i](When this enters, create a 1/1 Angel token with “At the beginning of your upkeep, you may pay {2}. When you do, this creature's Equipment gain another instance of their abilities until end of turn” attached to it.)[/i]
+Whenever equipped creature attacks, attacking creatures get +1/+1 until end of turn, then sacrifice a creature if you attacked with two or more creatures.
+Equip {2} => Raiment [i](When this enters, create a 1/1 Angel token with “At the beginning of your upkeep, you may pay {2}. When you do, this creature's Equipment gain another instance of their abilities until end of turn” and attach this to it.)[/i]
+Whenever equipped creature attacks, attacking creatures get +1/+1 until end of turn, then sacrifice a creature if you attacked with two or more creatures.
+Equip {2}
+
+Root of Insolence
+rules_text: Root of Insolence has first strike on your turn.
+Whenever a creature you control attacks alone, each player loses 3 life unless they sacrifice a creature or artifact. => Root of Insolence has first strike during your turn.
+Whenever a creature you control attacks alone, each player loses 3 life unless they sacrifice a creature or artifact.
+
+Keter of Libations
+rules_text: Raiment [i](When this enters, create a 1/1 Angel token with “At the beginning of your upkeep, you may pay {2}. When you do, this creature's Equipment gain another instance of their abilities until end of turn” attached to it.)[/i]
+Whenever your life total changes on your turn, equipped creature gets +1/+0 until end of turn.
+Equip {4} => Raiment [i](When this enters, create a 1/1 Angel token with “At the beginning of your upkeep, you may pay {2}. When you do, this creature's Equipment gain another instance of their abilities until end of turn” and attach this to it.)[/i]
+Whenever your life total changes during your turn, equipped creature gets +1/+0 until end of turn.
+Equip {4}
+
+Keter of Ingenuity
+rules_text: Raiment [i](When this enters, create a 1/1 Angel token with “At the beginning of your upkeep, you may pay {2}. When you do, this creature's Equipment gain another instance of their abilities until end of turn” attached to it.)[/i]
+Whenever equipped creature deals combat damage to a player, create a token copy of another target nontoken artifact you control and one of another target artifact token you control. [i](You must control both.)[/i]
+Equip {4} => Raiment [i](When this enters, create a 1/1 Angel token with “At the beginning of your upkeep, you may pay {2}. When you do, this creature's Equipment gain another instance of their abilities until end of turn” and attach this to it.)[/i]
+Whenever equipped creature deals combat damage to a player, create a token copy of another target nontoken artifact you control and one of another target artifact token you control. [i](You must control both.)[/i]
+Equip {4}
+
+Chaotic Assemblage
+rules_text: Whenever your life total changes on your turn, if Chaotic Assemblage's base power is 2 or greater, put a chaos counter on it. 
+When Chaotic Assemblage dies, create X tokens that are copies of it, where X is the number of chaos counters on it, except their base power and toughness are each 1 less. => Whenever your life total changes during your turn, if Chaotic Assemblage's base power is 2 or greater, put a chaos counter on it. 
+When Chaotic Assemblage dies, create X tokens that are copies of it, where X is the number of chaos counters on it, except their base power and toughness are each 1 less.
+
+Nameless Keter
+rules_text: Raiment [i](When this enters, create a 1/1 Angel token with “At the beginning of your upkeep, you may pay {2}. When you do, this creature's Equipment gain another instance of their abilities until end of turn” attached to it.)[/i]
+Whenever you sacrifice a creature with one or more creature types, create a 2/2 creature token and put a +1/+1 counter on equipped creature.
+Equip {B} => Raiment [i](When this enters, create a 1/1 Angel token with “At the beginning of your upkeep, you may pay {2}. When you do, this creature's Equipment gain another instance of their abilities until end of turn” and attach this to it.)[/i]
+Whenever you sacrifice a creature with one or more creature types, create a 2/2 creature token and put a +1/+1 counter on equipped creature.
+Equip {B}
+
+Engineers of Bodily Form
+rules_text: Whenever this creature attacks, create an Equipment artifact token named Keter of 248 Organs with “Equipped creature gets +1/+0 for each artifact you control”, equip {2}, and raiment. [i](When it enters, create a 1/1 Angel token with “At the beginning of combat on your turn, you may pay {2}. When you do, this creature's Equipment gain another instance of their abilities until end of turn” attached to it.)[/i] => Whenever this creature attacks, create an Equipment artifact token named Keter of 248 Organs with “Equipped creature gets +1/+0 for each artifact you control”, equip {2}, and raiment. [i](When it enters, create a 1/1 Angel token with “At the beginning of your upkeep , you may pay {2}. When you do, this creature's Equipment gain another instance of their abilities until end of turn” and attach it to it.)[/i]
+
+Dumiyah, The Only Certainty
+rules_text: Flash
+Flying
+Whenever one or more cards leave a graveyard, return those cards to that graveyard. You can't exile cards from your graveyard this turn unless you pay {1}. => Flash
+Flying
+If one or more cards would leave a graveyard, they remain in that graveyard instead. You can't exile cards from your graveyard this turn unless you pay {1}.
+
+Vine-Fruit Weaver
+rules_text: First strike, menace
+At the beginning of your end step, you gain life equal to the amount of life you gained this turn and create a 0/0 black Demon creature token and put X +1/+1 counters on it, where X is the amount of life you lost this turn. => At the beginning of your end step, you gain life equal to the amount of life you gained this turn and create a 0/0 black Demon creature token and put X +1/+1 counters on it, where X is the amount of life you lost this turn.
+
+The First Key
+rules_text: Raiment [i](When this enters, create a 1/1 Angel token with “At the beginning of your upkeep, you may pay {2}. When you do, this creature's Equipment gain another instance of their abilities until end of turn” attached to it.)[/i]
+Whenever equipped creature attacks, return target creature card with mana value 3 or less from your graveyard to the battlefield. It becomes an Equipment artifact with equip {2}. 
+Equip {2} => Raiment [i](When this enters, create a 1/1 Angel token with “At the beginning of your upkeep, you may pay {2}. When you do, this creature's Equipment gain another instance of their abilities until end of turn” and attach this to it.)[/i]
+Whenever equipped creature attacks, return target creature card with mana value 3 or less from your graveyard to the battlefield. It becomes an Equipment artifact with equip {2}. 
+Equip {2}
+
+Lilyata, First Benshachat
+rules_text: Whenever Lilyata attacks, exile the top card of your library. You may cast any number of copies of it. If it's a permanent card, the copies enter as 2/1 Demon creatures in addition to their other types. => Whenever Lilyata attacks, exile the top card of your library. You may cast any number of copies of it. They cost {1} more to cast. If it's a permanent card, the copies enter as 2/1 Demon creatures in addition to their other types.
+
+Peaceblossom
+rules_text: At the beginning of your upkeep, you lose 2 life and create an Equipment token with “Equipped creature gets +1/+0 as long as it's attacking”, equip {2}, and raiment. [i](When it enters, create a 1/1 Angel token with “At the beginning of combat on your turn, you may pay {2}. When you do, this creature's Equipment gain another instance of their abilities until end of turn” attached to it.)[/i] => At the beginning of your upkeep, you lose 2 life and create an Equipment token with “Equipped creature gets +1/+0 as long as it's attacking”, equip {2}, and raiment. [i](When it enters, create a 1/1 Angel token with “At the beginning of your upkeep, you may pay {2}. When you do, this creature's Equipment gain another instance of their abilities until end of turn” attached to it.)[/i]
+
+Foundation Scribe
+
+Molten Keter
+rules_text: Raiment [i](When this enters, create a 1/1 Angel token with “At the beginning of your upkeep, you may pay {2}. When you do, this creature's Equipment gain another instance of their abilities until end of turn” attached to it.)[/i]
+Whenever equipped creature dies, draw a card.
+Equip {2} => Raiment [i](When this enters, create a 1/1 Angel token with “At the beginning of your upkeep, you may pay {2}. When you do, this creature's Equipment gain another instance of their abilities until end of turn” and attach this to it.)[/i]
+Whenever equipped creature dies, draw a card.
+Equip {2}
+
+Equipment
+rules_text: Raiment
+Equipped creature gets +1/+0 as long as it's attacking.
+Equip {2} => Raiment
+Equipped creature gets +1/+0 as long as it's attacking. 
+Equip {2}
+
+Scribe's Keter
+rules_text: Raiment. [i](When this enters, create a 1/1 Angel token with “At the beginning of your upkeep, you may pay {2}. When you do, this creature's Equipment gain another instance of their abilities until end of turn” attached to it.)[/i]
+Equipped creature gets +2/+2.
+Whenever a creature you control attacks alone, create a token that's a copy of target permanent you control with mana value 2 or less.
+Equip {3} => Raiment. [i](When this enters, create a 1/1 Angel token with “At the beginning of your upkeep, you may pay {2}. When you do, this creature's Equipment gain another instance of their abilities until end of turn” and attach this to it.)[/i]
+Equipped creature gets +1/+1.
+Whenever a creature you control attacks alone, create a token that's a copy of target nonland permanent you control with mana value 2 or less.
+Equip {3}
+
+
+VERSION 9 CHANGELOG
 ====================
 
 Ivory-Tower Watcher added.
