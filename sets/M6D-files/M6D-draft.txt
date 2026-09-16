@@ -5,9 +5,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Artifact — Book",
-			"collector_number": "29",
+			"collector_number": "30",
 			"image_uris": {
-				"en": "https://mirage-xel.github.io/sets/M6D-files/img/29_Wheelform Codex.png"
+				"en": "https://mirage-xel.github.io/sets/M6D-files/img/30_Wheelform Codex.png"
 			}
 		},
 		{
@@ -25,9 +25,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}{R}{G}",
 			"type": "Legendary Creature — Archon Snake Devil",
-			"collector_number": "176",
+			"collector_number": "177",
 			"image_uris": {
-				"en": "https://mirage-xel.github.io/sets/M6D-files/img/176_Lav-Kofe, Serpent In the Garden.png"
+				"en": "https://mirage-xel.github.io/sets/M6D-files/img/177_Lav-Kofe, Serpent In the Garden.png"
 			}
 		},
 		{
@@ -45,9 +45,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Angel Soldier",
-			"collector_number": "16",
+			"collector_number": "17",
 			"image_uris": {
-				"en": "https://mirage-xel.github.io/sets/M6D-files/img/16_Ivory-Tower Watcher.png"
+				"en": "https://mirage-xel.github.io/sets/M6D-files/img/17_Ivory-Tower Watcher.png"
 			}
 		},
 		{
@@ -55,9 +55,9 @@
 			"rarity": "rare",
 			"mana_cost": "{W}",
 			"type": "Artifact — Equipment",
-			"collector_number": "18",
+			"collector_number": "19",
 			"image_uris": {
-				"en": "https://mirage-xel.github.io/sets/M6D-files/img/18_Keter of Legions.png"
+				"en": "https://mirage-xel.github.io/sets/M6D-files/img/19_Keter of Legions.png"
 			}
 		},
 		{
@@ -65,9 +65,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Angel Cleric",
-			"collector_number": "9",
+			"collector_number": "11",
 			"image_uris": {
-				"en": "https://mirage-xel.github.io/sets/M6D-files/img/9_Gabbai of Blessing.png"
+				"en": "https://mirage-xel.github.io/sets/M6D-files/img/11_Gabbai of Blessing.png"
 			}
 		},
 		{
@@ -75,9 +75,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Artifact — Equipment",
-			"collector_number": "17",
+			"collector_number": "18",
 			"image_uris": {
-				"en": "https://mirage-xel.github.io/sets/M6D-files/img/17_Keter of Judgement.png"
+				"en": "https://mirage-xel.github.io/sets/M6D-files/img/18_Keter of Judgement.png"
 			}
 		},
 		{
@@ -85,9 +85,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Angel Advisor",
-			"collector_number": "6",
+			"collector_number": "7",
 			"image_uris": {
-				"en": "https://mirage-xel.github.io/sets/M6D-files/img/6_Censuskeeper of the Living.png"
+				"en": "https://mirage-xel.github.io/sets/M6D-files/img/7_Censuskeeper of the Living.png"
 			}
 		},
 		{
@@ -95,9 +95,9 @@
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Creature — Angel Knight",
-			"collector_number": "28",
+			"collector_number": "29",
 			"image_uris": {
-				"en": "https://mirage-xel.github.io/sets/M6D-files/img/28_Shamash Of Glory.png"
+				"en": "https://mirage-xel.github.io/sets/M6D-files/img/29_Shamash Of Glory.png"
 			}
 		},
 		{
@@ -115,9 +115,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Enchantment",
-			"collector_number": "21",
+			"collector_number": "22",
 			"image_uris": {
-				"en": "https://mirage-xel.github.io/sets/M6D-files/img/21_Mollify.png"
+				"en": "https://mirage-xel.github.io/sets/M6D-files/img/22_Mollify.png"
 			}
 		},
 		{
@@ -135,9 +135,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
-			"collector_number": "26",
+			"collector_number": "27",
 			"image_uris": {
-				"en": "https://mirage-xel.github.io/sets/M6D-files/img/26_Reforge From Dross.png"
+				"en": "https://mirage-xel.github.io/sets/M6D-files/img/27_Reforge From Dross.png"
 			}
 		},
 		{
@@ -173,11 +173,11 @@
 		{
 			"name": "Inspire",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{W}",
+			"mana_cost": "{2}{W}",
 			"type": "Sorcery",
-			"collector_number": "15",
+			"collector_number": "16",
 			"image_uris": {
-				"en": "https://mirage-xel.github.io/sets/M6D-files/img/15_Inspire.png"
+				"en": "https://mirage-xel.github.io/sets/M6D-files/img/16_Inspire.png"
 			}
 		},
 		{
@@ -185,9 +185,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{W}",
 			"type": "Creature — Avatar",
-			"collector_number": "24",
+			"collector_number": "25",
 			"image_uris": {
-				"en": "https://mirage-xel.github.io/sets/M6D-files/img/24_Polytropic Erel.png"
+				"en": "https://mirage-xel.github.io/sets/M6D-files/img/25_Polytropic Erel.png"
 			}
 		},
 		{
@@ -245,9 +245,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{W}",
 			"type": "Enchantment",
-			"collector_number": "13",
+			"collector_number": "14",
 			"image_uris": {
-				"en": "https://mirage-xel.github.io/sets/M6D-files/img/13_Imago Dei.png"
+				"en": "https://mirage-xel.github.io/sets/M6D-files/img/14_Imago Dei.png"
 			}
 		},
 		{
@@ -503,7 +503,7 @@
 		{
 			"name": "Thing of Beauty",
 			"rarity": "common",
-			"mana_cost": "{G}",
+			"mana_cost": "{1}{G}",
 			"type": "Creature — Elk",
 			"collector_number": "138",
 			"image_uris": {
@@ -711,13 +711,13 @@
 			}
 		},
 		{
-			"name": "Gizbor of Raidance",
+			"name": "Gizbor of Radiance",
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
 			"type": "Creature — Angel Soldier",
-			"collector_number": "11",
+			"collector_number": "13",
 			"image_uris": {
-				"en": "https://mirage-xel.github.io/sets/M6D-files/img/11_Gizbor of Raidance.png"
+				"en": "https://mirage-xel.github.io/sets/M6D-files/img/13_Gizbor of Radiance.png"
 			}
 		},
 		{
@@ -793,7 +793,7 @@
 		{
 			"name": "Meitohu-Wind Artisan",
 			"rarity": "uncommon",
-			"mana_cost": "{G}",
+			"mana_cost": "{1}{G}",
 			"type": "Creature — Angel Artificer",
 			"collector_number": "132",
 			"image_uris": {
@@ -955,9 +955,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Artifact",
-			"collector_number": "22",
+			"collector_number": "23",
 			"image_uris": {
-				"en": "https://mirage-xel.github.io/sets/M6D-files/img/22_Nefeshef Phial.png"
+				"en": "https://mirage-xel.github.io/sets/M6D-files/img/23_Nefeshef Phial.png"
 			}
 		},
 		{
@@ -973,11 +973,11 @@
 		{
 			"name": "Arbiter of Verdicts",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{W}{W}",
+			"mana_cost": "{2}{W}{W}",
 			"type": "Creature — Angel Advisor",
-			"collector_number": "5",
+			"collector_number": "6",
 			"image_uris": {
-				"en": "https://mirage-xel.github.io/sets/M6D-files/img/5_Arbiter of Verdicts.png"
+				"en": "https://mirage-xel.github.io/sets/M6D-files/img/6_Arbiter of Verdicts.png"
 			}
 		},
 		{
@@ -985,9 +985,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Archon",
-			"collector_number": "10",
+			"collector_number": "12",
 			"image_uris": {
-				"en": "https://mirage-xel.github.io/sets/M6D-files/img/10_Gives-Absolute-Decrees.png"
+				"en": "https://mirage-xel.github.io/sets/M6D-files/img/12_Gives-Absolute-Decrees.png"
 			}
 		},
 		{
@@ -995,19 +995,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{X}{W}",
 			"type": "Sorcery",
-			"collector_number": "27",
+			"collector_number": "28",
 			"image_uris": {
-				"en": "https://mirage-xel.github.io/sets/M6D-files/img/27_Return to Form.png"
+				"en": "https://mirage-xel.github.io/sets/M6D-files/img/28_Return to Form.png"
 			}
 		},
 		{
 			"name": "Paradisacal Gate",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{W}",
+			"mana_cost": "{2}{W}",
 			"type": "Artifact",
-			"collector_number": "23",
+			"collector_number": "24",
 			"image_uris": {
-				"en": "https://mirage-xel.github.io/sets/M6D-files/img/23_Paradisacal Gate.png"
+				"en": "https://mirage-xel.github.io/sets/M6D-files/img/24_Paradisacal Gate.png"
 			}
 		},
 		{
@@ -1015,9 +1015,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
 			"type": "Sorcery",
-			"collector_number": "7",
+			"collector_number": "9",
 			"image_uris": {
-				"en": "https://mirage-xel.github.io/sets/M6D-files/img/7_Contemplative Silence.png"
+				"en": "https://mirage-xel.github.io/sets/M6D-files/img/9_Contemplative Silence.png"
 			}
 		},
 		{
@@ -1025,19 +1025,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}{W}",
 			"type": "Creature — Archon",
-			"collector_number": "25",
+			"collector_number": "26",
 			"image_uris": {
-				"en": "https://mirage-xel.github.io/sets/M6D-files/img/25_Raises-From-the-Pit.png"
+				"en": "https://mirage-xel.github.io/sets/M6D-files/img/26_Raises-From-the-Pit.png"
 			}
 		},
 		{
-			"name": "Honor",
+			"name": "Cite",
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
-			"collector_number": "12",
+			"collector_number": "8",
 			"image_uris": {
-				"en": "https://mirage-xel.github.io/sets/M6D-files/img/12_Honor.png"
+				"en": "https://mirage-xel.github.io/sets/M6D-files/img/8_Cite.png"
 			}
 		},
 		{
@@ -1203,7 +1203,7 @@
 		{
 			"name": "Writes-Myriad-Meanings",
 			"rarity": "rare",
-			"mana_cost": "{1}{U}{U}",
+			"mana_cost": "{2}{U}{U}",
 			"type": "Creature — Archon Sphinx",
 			"collector_number": "57",
 			"image_uris": {
@@ -1225,9 +1225,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Legendary Creature — Angel Noble",
-			"collector_number": "20",
+			"collector_number": "21",
 			"image_uris": {
-				"en": "https://mirage-xel.github.io/sets/M6D-files/img/20_Kokhiyah At My Left.png"
+				"en": "https://mirage-xel.github.io/sets/M6D-files/img/21_Kokhiyah At My Left.png"
 			}
 		},
 		{
@@ -1235,9 +1235,9 @@
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Creature — Homunculus",
-			"collector_number": "14",
+			"collector_number": "15",
 			"image_uris": {
-				"en": "https://mirage-xel.github.io/sets/M6D-files/img/14_Inextensible Doll.png"
+				"en": "https://mirage-xel.github.io/sets/M6D-files/img/15_Inextensible Doll.png"
 			}
 		},
 		{
@@ -1245,25 +1245,25 @@
 			"rarity": "rare",
 			"mana_cost": "{W}",
 			"type": "Sorcery",
-			"collector_number": "4",
+			"collector_number": "5",
 			"image_uris": {
-				"en": "https://mirage-xel.github.io/sets/M6D-files/img/4_Alphabetical Shift.png"
+				"en": "https://mirage-xel.github.io/sets/M6D-files/img/5_Alphabetical Shift.png"
 			}
 		},
 		{
-			"name": "Whiten the Face",
+			"name": "Abase",
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
-			"collector_number": "30",
+			"collector_number": "4",
 			"image_uris": {
-				"en": "https://mirage-xel.github.io/sets/M6D-files/img/30_Whiten the Face.png"
+				"en": "https://mirage-xel.github.io/sets/M6D-files/img/4_Abase.png"
 			}
 		},
 		{
 			"name": "Seraphic Speech of Secrets",
 			"rarity": "rare",
-			"mana_cost": "{1}{R}",
+			"mana_cost": "{R}",
 			"type": "Sorcery",
 			"collector_number": "106",
 			"image_uris": {
@@ -1275,9 +1275,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Creature — Avatar Egg",
-			"collector_number": "19",
+			"collector_number": "20",
 			"image_uris": {
-				"en": "https://mirage-xel.github.io/sets/M6D-files/img/19_Keter-Mother.png"
+				"en": "https://mirage-xel.github.io/sets/M6D-files/img/20_Keter-Mother.png"
 			}
 		},
 		{
@@ -1345,9 +1345,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}{W}{U}",
 			"type": "Artifact — Equipment",
-			"collector_number": "175",
+			"collector_number": "176",
 			"image_uris": {
-				"en": "https://mirage-xel.github.io/sets/M6D-files/img/175_Keter of the Moon.png"
+				"en": "https://mirage-xel.github.io/sets/M6D-files/img/176_Keter of the Moon.png"
 			}
 		},
 		{
@@ -1415,9 +1415,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{G}",
 			"type": "Creature — Angel Artificer",
-			"collector_number": "179",
+			"collector_number": "180",
 			"image_uris": {
-				"en": "https://mirage-xel.github.io/sets/M6D-files/img/179_Noble Keterweaver.png"
+				"en": "https://mirage-xel.github.io/sets/M6D-files/img/180_Noble Keterweaver.png"
 			}
 		},
 		{
@@ -1425,9 +1425,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{G}",
 			"type": "Creature — Sheep",
-			"collector_number": "184",
+			"collector_number": "185",
 			"image_uris": {
-				"en": "https://mirage-xel.github.io/sets/M6D-files/img/184_Ram of the Binding.png"
+				"en": "https://mirage-xel.github.io/sets/M6D-files/img/185_Ram of the Binding.png"
 			}
 		},
 		{
@@ -1435,9 +1435,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}{U}",
 			"type": "Creature — Angel Druid",
-			"collector_number": "183",
+			"collector_number": "184",
 			"image_uris": {
-				"en": "https://mirage-xel.github.io/sets/M6D-files/img/183_Pulchritude Scribe.png"
+				"en": "https://mirage-xel.github.io/sets/M6D-files/img/184_Pulchritude Scribe.png"
 			}
 		},
 		{
@@ -1455,9 +1455,9 @@
 			"rarity": "common",
 			"mana_cost": "{G}{W}{U}",
 			"type": "Creature — Angel Beast",
-			"collector_number": "182",
+			"collector_number": "183",
 			"image_uris": {
-				"en": "https://mirage-xel.github.io/sets/M6D-files/img/182_Preening Hayyah.png"
+				"en": "https://mirage-xel.github.io/sets/M6D-files/img/183_Preening Hayyah.png"
 			}
 		},
 		{
@@ -1475,9 +1475,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{U}{B}",
 			"type": "Creature — Archon Cleric",
-			"collector_number": "170",
+			"collector_number": "171",
 			"image_uris": {
-				"en": "https://mirage-xel.github.io/sets/M6D-files/img/170_Grants-A-Perfect-Law.png"
+				"en": "https://mirage-xel.github.io/sets/M6D-files/img/171_Grants-A-Perfect-Law.png"
 			}
 		},
 		{
@@ -1485,9 +1485,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{W}{B}",
 			"type": "Artifact — Equipment",
-			"collector_number": "174",
+			"collector_number": "175",
 			"image_uris": {
-				"en": "https://mirage-xel.github.io/sets/M6D-files/img/174_Keter of Multiplicty.png"
+				"en": "https://mirage-xel.github.io/sets/M6D-files/img/175_Keter of Multiplicty.png"
 			}
 		},
 		{
@@ -1495,9 +1495,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}{W}{B}",
 			"type": "Creature — Angel Boar Devil",
-			"collector_number": "178",
+			"collector_number": "179",
 			"image_uris": {
-				"en": "https://mirage-xel.github.io/sets/M6D-files/img/178_Multitude Cleaver.png"
+				"en": "https://mirage-xel.github.io/sets/M6D-files/img/179_Multitude Cleaver.png"
 			}
 		},
 		{
@@ -1535,9 +1535,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}{B}",
 			"type": "Artifact — Equipment",
-			"collector_number": "171",
+			"collector_number": "172",
 			"image_uris": {
-				"en": "https://mirage-xel.github.io/sets/M6D-files/img/171_Keter of Balance.png"
+				"en": "https://mirage-xel.github.io/sets/M6D-files/img/172_Keter of Balance.png"
 			}
 		},
 		{
@@ -1545,9 +1545,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}{B}",
 			"type": "Creature — Archon Wraith",
-			"collector_number": "186",
+			"collector_number": "187",
 			"image_uris": {
-				"en": "https://mirage-xel.github.io/sets/M6D-files/img/186_Remembers-Each-Soul.png"
+				"en": "https://mirage-xel.github.io/sets/M6D-files/img/187_Remembers-Each-Soul.png"
 			}
 		},
 		{
@@ -1555,9 +1555,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{W}{U}",
 			"type": "Creature — Angel Soldier",
-			"collector_number": "168",
+			"collector_number": "169",
 			"image_uris": {
-				"en": "https://mirage-xel.github.io/sets/M6D-files/img/168_Glory-Cloaked Zealot.png"
+				"en": "https://mirage-xel.github.io/sets/M6D-files/img/169_Glory-Cloaked Zealot.png"
 			}
 		},
 		{
@@ -1585,9 +1585,9 @@
 			"rarity": "common",
 			"mana_cost": "{W}{B}",
 			"type": "Creature — Avatar Worm Devil",
-			"collector_number": "187",
+			"collector_number": "188",
 			"image_uris": {
-				"en": "https://mirage-xel.github.io/sets/M6D-files/img/187_Root of Insolence.png"
+				"en": "https://mirage-xel.github.io/sets/M6D-files/img/188_Root of Insolence.png"
 			}
 		},
 		{
@@ -1625,9 +1625,9 @@
 			"rarity": "common",
 			"mana_cost": "{R}{G}",
 			"type": "Artifact — Equipment",
-			"collector_number": "173",
+			"collector_number": "174",
 			"image_uris": {
-				"en": "https://mirage-xel.github.io/sets/M6D-files/img/173_Keter of Libations.png"
+				"en": "https://mirage-xel.github.io/sets/M6D-files/img/174_Keter of Libations.png"
 			}
 		},
 		{
@@ -1665,9 +1665,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}{W}{B}",
 			"type": "Creature — Archon Assassin",
-			"collector_number": "185",
+			"collector_number": "186",
 			"image_uris": {
-				"en": "https://mirage-xel.github.io/sets/M6D-files/img/185_Reaps-With-Loving-Care.png"
+				"en": "https://mirage-xel.github.io/sets/M6D-files/img/186_Reaps-With-Loving-Care.png"
 			}
 		},
 		{
@@ -1675,9 +1675,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}{R}{G}",
 			"type": "Creature — Angel Devil Artificer",
-			"collector_number": "180",
+			"collector_number": "181",
 			"image_uris": {
-				"en": "https://mirage-xel.github.io/sets/M6D-files/img/180_Nova Alchemist.png"
+				"en": "https://mirage-xel.github.io/sets/M6D-files/img/181_Nova Alchemist.png"
 			}
 		},
 		{
@@ -1695,9 +1695,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{U}",
 			"type": "Artifact",
-			"collector_number": "172",
+			"collector_number": "173",
 			"image_uris": {
-				"en": "https://mirage-xel.github.io/sets/M6D-files/img/172_Keter of Ingenuity.png"
+				"en": "https://mirage-xel.github.io/sets/M6D-files/img/173_Keter of Ingenuity.png"
 			}
 		},
 		{
@@ -1765,9 +1765,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}{G}",
 			"type": "Creature — Angel Devil",
-			"collector_number": "177",
+			"collector_number": "178",
 			"image_uris": {
-				"en": "https://mirage-xel.github.io/sets/M6D-files/img/177_Moral Nihlist.png"
+				"en": "https://mirage-xel.github.io/sets/M6D-files/img/178_Moral Nihlist.png"
 			}
 		},
 		{
@@ -1785,9 +1785,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{G}{U}",
 			"type": "Creature — Angel Giant",
-			"collector_number": "169",
+			"collector_number": "170",
 			"image_uris": {
-				"en": "https://mirage-xel.github.io/sets/M6D-files/img/169_Grandiloquent Teacher.png"
+				"en": "https://mirage-xel.github.io/sets/M6D-files/img/170_Grandiloquent Teacher.png"
 			}
 		},
 		{
@@ -1821,13 +1821,13 @@
 			}
 		},
 		{
-			"name": "Sacrifice",
+			"name": "Generosity",
 			"rarity": "rare",
 			"mana_cost": "{G}{W}{U}",
 			"type": "Creature — Sheep Goat Bird Incarnation",
-			"collector_number": "188",
+			"collector_number": "168",
 			"image_uris": {
-				"en": "https://mirage-xel.github.io/sets/M6D-files/img/188_Sacrifice.png"
+				"en": "https://mirage-xel.github.io/sets/M6D-files/img/168_Generosity.png"
 			}
 		},
 		{
@@ -1835,15 +1835,15 @@
 			"rarity": "mythic",
 			"mana_cost": "{W}{W}",
 			"type": "Sorcery",
-			"collector_number": "8",
+			"collector_number": "10",
 			"image_uris": {
-				"en": "https://mirage-xel.github.io/sets/M6D-files/img/8_For Good.png"
+				"en": "https://mirage-xel.github.io/sets/M6D-files/img/10_For Good.png"
 			}
 		},
 		{
 			"name": "Dreamcast Apprenticeship",
 			"rarity": "rare",
-			"mana_cost": "{3}{U}",
+			"mana_cost": "{4}{U}",
 			"type": "Sorcery",
 			"collector_number": "35",
 			"image_uris": {
@@ -1925,9 +1925,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{X}{G}{W}{U}",
 			"type": "Legendary Creature — Angel",
-			"collector_number": "181",
+			"collector_number": "182",
 			"image_uris": {
-				"en": "https://mirage-xel.github.io/sets/M6D-files/img/181_Olamiyah, Covenantal Scribe.png"
+				"en": "https://mirage-xel.github.io/sets/M6D-files/img/182_Olamiyah, Covenantal Scribe.png"
 			}
 		},
 		{
@@ -2355,9 +2355,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Angel",
-			"collector_number": "1",
+			"collector_number": "2",
 			"image_uris": {
-				"en": "https://mirage-xel.github.io/sets/M6D-files/img/1t_Angel.png"
+				"en": "https://mirage-xel.github.io/sets/M6D-files/img/2t_Angel.png"
 			}
 		},
 		{
@@ -2375,9 +2375,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Equipment",
-			"collector_number": "12",
+			"collector_number": "13",
 			"image_uris": {
-				"en": "https://mirage-xel.github.io/sets/M6D-files/img/12t_Keter of 248 Organs.png"
+				"en": "https://mirage-xel.github.io/sets/M6D-files/img/13t_Keter of 248 Organs.png"
 			}
 		},
 		{
@@ -2425,9 +2425,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact",
-			"collector_number": "14",
+			"collector_number": "15",
 			"image_uris": {
-				"en": "https://mirage-xel.github.io/sets/M6D-files/img/14t_Meitohu Sludge.png"
+				"en": "https://mirage-xel.github.io/sets/M6D-files/img/15t_Meitohu Sludge.png"
 			}
 		},
 		{
@@ -2515,19 +2515,19 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Law",
-			"collector_number": "13",
+			"collector_number": "14",
 			"image_uris": {
-				"en": "https://mirage-xel.github.io/sets/M6D-files/img/13t_Law.png"
+				"en": "https://mirage-xel.github.io/sets/M6D-files/img/14t_Law.png"
 			}
 		},
 		{
-			"name": "Creature",
+			"name": "",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature",
-			"collector_number": "2",
+			"collector_number": "1",
 			"image_uris": {
-				"en": "https://mirage-xel.github.io/sets/M6D-files/img/2t_Creature.png"
+				"en": "https://mirage-xel.github.io/sets/M6D-files/img/1t_.png"
 			}
 		},
 		{
@@ -2545,9 +2545,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Treasure",
-			"collector_number": "15",
+			"collector_number": "16",
 			"image_uris": {
-				"en": "https://mirage-xel.github.io/sets/M6D-files/img/15t_Treasure.png"
+				"en": "https://mirage-xel.github.io/sets/M6D-files/img/16t_Treasure.png"
 			}
 		},
 		{
@@ -2558,6 +2558,16 @@
 			"collector_number": "190",
 			"image_uris": {
 				"en": "https://mirage-xel.github.io/sets/M6D-files/img/190_Scribe's Keter.png"
+			}
+		},
+		{
+			"name": "First Thing",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://mirage-xel.github.io/sets/M6D-files/img/12t_First Thing.png"
 			}
 		}
 	]
@@ -2601,7 +2611,7 @@
 	2 Destructive Builder
 	2 Avenges-In-Envy
 	2 Vindictive Seir
-	2 Sacrifice
+	2 Generosity
 	1 For Good
 	2 Dreamcast Apprenticeship
 	2 Nameless Keter
@@ -2639,7 +2649,7 @@
 	4 Redeemer of Heaven's Blood
 	4 Indulge in Knowledge
 	4 Master of Artifice
-	4 Gizbor of Raidance
+	4 Gizbor of Radiance
 	4 Bestial Speaker
 	4 Doyen of Sorcerous Acts
 	4 Double Exigesis
@@ -2761,13 +2771,13 @@
 	8 Spins-A-World-From-Water
 	8 Clarity Sage
 	8 Nefeshef Phial
-	8 Honor
+	8 Cite
 	8 Received Griefmage
 	8 Lifeseed Addler
 	8 Weaver of Storms
 	8 Drench
 	8 Inextensible Doll
-	8 Whiten the Face
+	8 Abase
 	8 Sanctifier of Bloodgifts
 	8 Pulchritude Scribe
 	8 Preening Hayyah
@@ -2854,13 +2864,13 @@
 	8 Spins-A-World-From-Water
 	8 Clarity Sage
 	8 Nefeshef Phial
-	8 Honor
+	8 Cite
 	8 Received Griefmage
 	8 Lifeseed Addler
 	8 Weaver of Storms
 	8 Drench
 	8 Inextensible Doll
-	8 Whiten the Face
+	8 Abase
 	8 Sanctifier of Bloodgifts
 	8 Pulchritude Scribe
 	8 Preening Hayyah
@@ -2966,7 +2976,7 @@
 	6 Indulge in Knowledge
 	12 Churlish Mockery
 	6 Master of Artifice
-	6 Gizbor of Raidance
+	6 Gizbor of Radiance
 	6 Bestial Speaker
 	6 Doyen of Sorcerous Acts
 	6 Double Exigesis
@@ -2998,7 +3008,7 @@
 	6 Paradisacal Gate
 	6 Contemplative Silence
 	6 Raises-From-the-Pit
-	12 Honor
+	12 Cite
 	6 Test of Paradise
 	6 Cackling Shedata
 	1 Hosniyah Behind Me
@@ -3020,7 +3030,7 @@
 	1 Kokhiyah At My Left
 	12 Inextensible Doll
 	2 Alphabetical Shift
-	12 Whiten the Face
+	12 Abase
 	2 Seraphic Speech of Secrets
 	2 Keter-Mother
 	2 Gives-Wisdom-To-Its-Seekers
@@ -3077,7 +3087,7 @@
 	2 Avenges-In-Envy
 	2 Vindictive Seir
 	12 Enacts-Signs-And-Wonders
-	2 Sacrifice
+	2 Generosity
 	1 For Good
 	2 Dreamcast Apprenticeship
 	2 Nameless Keter
@@ -3203,7 +3213,7 @@
 	15 Indulge in Knowledge
 	6 Churlish Mockery
 	15 Master of Artifice
-	15 Gizbor of Raidance
+	15 Gizbor of Radiance
 	15 Bestial Speaker
 	15 Doyen of Sorcerous Acts
 	15 Double Exigesis
@@ -3235,7 +3245,7 @@
 	15 Paradisacal Gate
 	15 Contemplative Silence
 	15 Raises-From-the-Pit
-	6 Honor
+	6 Cite
 	15 Test of Paradise
 	15 Cackling Shedata
 	4 Hosniyah Behind Me
@@ -3257,7 +3267,7 @@
 	4 Kokhiyah At My Left
 	6 Inextensible Doll
 	7 Alphabetical Shift
-	6 Whiten the Face
+	6 Abase
 	7 Seraphic Speech of Secrets
 	7 Keter-Mother
 	7 Gives-Wisdom-To-Its-Seekers
@@ -3314,7 +3324,7 @@
 	7 Avenges-In-Envy
 	7 Vindictive Seir
 	6 Enacts-Signs-And-Wonders
-	7 Sacrifice
+	7 Generosity
 	4 For Good
 	7 Dreamcast Apprenticeship
 	7 Nameless Keter

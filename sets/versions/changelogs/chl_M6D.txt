@@ -1,4 +1,580 @@
-﻿VERSION 11 CHANGELOG
+﻿VERSION 13 CHANGELOG
+====================
+
+First Thing added.
+
+Creature removed.
+Artifact removed.
+
+Keening Poet
+rules_text: Whenever a nonland source you control causes you to gain or lose life, each opponent loses 2 life. => Whenever your life total changes during your turn, each opponent loses 2 life.
+
+Nameless Keter
+rules_text: Raiment [i](When this enters, create a 1/1 Angel token with “At the beginning of your upkeep, you may pay {2}. When you do, this creature's Equipment gain another instance of their abilities until end of turn” and attach this to it.)[/i]
+Whenever you sacrifice a creature with one or more creature types, create a 2/2 creature token and put a +1/+1 counter on equipped creature.
+Equip {B} => Raiment [i](When this enters, create a 1/1 Angel token with “At the beginning of your upkeep, you may pay {2}. When you do, this creature's Equipment gain another instance of their abilities until end of turn” and attach this to it.)[/i]
+Whenever you sacrifice a creature with one or more creature types, create a 2/2 creature token with no name and put a +1/+1 counter on equipped creature.
+Equip {B}
+
+Olamiyah, Covenantal Scribe
+rules_text: Flying, vigilance
+When Olamiyah enters, create X artifact tokens with “Whenever you attack, attacking creatures you control get +1/+0 until end of turn. When you do, if you didn't attack with exactly one creature, sacrifice this token.”
+You can't sacrifice tokens. => Flying, vigilance
+When Olamiyah enters, create X artifact tokens named First Thing with “Whenever you attack, attacking creatures you control get +1/+0 until end of turn. When you do, if you didn't attack with exactly one creature, sacrifice this token.”
+You can't sacrifice tokens.
+
+Bewailing Effigies
+rules_text: As an additional cost to cast noncreature spells, you may discard a card, sacrifice a nonland permanent, and/or pay 3 life. Copy those spells if you paid one or more of those costs, then target opponent does if you paid exactly one. Players may choose new targets for the copies. => As an additional cost to cast noncreature spells, you may discard a card, sacrifice a nonland permanent, and/or pay 3 life. When you do, copy those spells if you paid one or more of those costs, then target opponent does unless you paid two or more. Players may choose new targets for the copies.
+
+The Boiler
+rules_text: This land enters with two depletion counters.
+{T}: Add {W}.
+{T}, Remove a depletion counter from this land: Add {U} or {B}. => This land enters with two depletion counters and enters tapped unless you pay 2 life.
+{T}: Add {W}.
+{T}, Remove a depletion counter from this land: Add {U} or {B}.
+
+The Judicary
+rules_text: This land enters tapped with two depletion counters.
+{T}: Add {B}.
+{T}, Remove a depletion counter from this land: Add {W} or {R}. => This land enters with two depletion counters and enters tapped unless you pay 2 life.
+{T}: Add {B}.
+{T}, Remove a depletion counter from this land: Add {W} or {R}.
+
+The Engine Room
+rules_text: This land enters tapped with two depletion counters.
+{T}: Add {R}.
+{T}, Remove a depletion counter from this land: Add {B} or {G}. => This land enters with two depletion counters and enters tapped unless you pay 2 life.
+{T}: Add {R}.
+{T}, Remove a depletion counter from this land: Add {B} or {G}.
+
+The Orchard
+rules_text: This land enters with two depletion counters.
+{T}: Add {U}.
+{T}, Remove a depletion counter from this land: Add {R} or {G}. => This land enters with two depletion counters and enters tapped unless you pay 2 life.
+{T}: Add {U}.
+{T}, Remove a depletion counter from this land: Add {R} or {G}.
+
+The Study Hall
+rules_text: This land enters tapped with two depletion counters.
+{T}: Add {U}.
+{T}, Remove a depletion counter from this land: Add {G} or {W}. => This land enters with two depletion counters and enters tapped unless you pay 2 life.
+{T}: Add {U}.
+{T}, Remove a depletion counter from this land: Add {G} or {W}.
+
+
+type: Artifact — Book => Token Creature
+cost: {1}{W} => 
+rules_text: When this artifact enters, exile target creature with mana value 3 or less until this artifact leaves the battlefield.
+{1}{W}: Exile target creature you control until this artifact leaves the battlefield.
+{3}{W}: Exile this artifact, then return it to the battlefield under your control. => 
+pt:  => 2/2
+
+
+VERSION 12 CHANGELOG
+====================
+
+Gizbor of Radiance added.
+Cite added.
+Abase added.
+Generosity added.
+Artifact added.
+
+Gizbor of Raidance removed.
+Honor removed.
+Whiten the Face removed.
+Sacrifice removed.
+
+Wheelform Codex
+rules_text: When Wheelform Codex enters, exile target creature with mana value 3 or less until Wheelform Codex leaves the battlefield.
+{1}{W}: Exile target creature you control until Wheelform Codex leaves the battlefield.
+{3}{W}: Exile Wheelform Codex, then return it to the battlefield under your control. => When this artifact enters, exile target creature with mana value 3 or less until this artifact leaves the battlefield.
+{1}{W}: Exile target creature you control until this artifact leaves the battlefield.
+{3}{W}: Exile this artifact, then return it to the battlefield under your control.
+
+Keter of Legions
+rules_text: Raiment [i](When this enters, create a 1/1 Angel token with “At the beginning of your upkeep, you may pay {2}. When you do, this creature's Equipment gain another instance of their abilities until end of turn” and attach this to it.)[/i]
+Equipped creature has host. [i](Whenever it attacks, you may create a 1/1 token copy of it that's tapped and attacking. It has “Once, at your end step, sacrifice a creature” and not host.)[/i]
+Equip {2}{W} => Raiment [i](When this enters, create a 1/1 Angel token with “At the beginning of your upkeep, you may pay {2}. When you do, this creature's Equipment gain another instance of their abilities until end of turn” and attach this to it.)[/i]
+Equipped creature has host. [i](Whenever it attacks, you may create a 1/1 tapped and attacking token copy of it without host. Sacrifice that token at the beginning of the next end step unless you sacrifice a creature.)[/i]
+Equip {2}{W}
+
+Gabbai of Blessing
+rules_text: Host [i](When this creature attacks, you may create a 1/1 tapped and attacking token copy of it without host. Sacrifice that token at the beginning of the next end step unles you sacrifice a creature.)[/i]
+Flying => Host [i](When this creature attacks, you may create a 1/1 tapped and attacking token copy of it without host. Sacrifice that token at the beginning of the next end step unless you sacrifice a creature.)[/i]
+Flying
+
+Censuskeeper of the Living
+rules_text: Host [i](When this creature attacks, you may create a 1/1 tapped and attacking token copy of it without host. Sacrifice that token at the beginning of the next end step unles you sacrifice a creature.)[/i]
+When this creature enters, creatures you control get +1/+0 until end of turn. => Host [i](When this creature attacks, you may create a 1/1 tapped and attacking token copy of it without host. Sacrifice that token at the beginning of the next end step unless you sacrifice a creature.)[/i]
+When this creature enters, creatures you control get +1/+0 until end of turn.
+
+Mollify
+rules_text: When Mollify enters, exile target creature until Mollify leaves the battlefield.
+Whenever a creature you control enters, you gain 1 life. => When this enchantment enters, exile target creature until this enchantment leaves the battlefield.
+Whenever a creature you control enters, you gain 1 life.
+
+Reforge From Dross
+rules_text: Choose one—
+• Exile target artifact. 
+• Exile target enchantment
+• Exile target graveyard. => Choose one—
+• Exile target artifact. 
+• Exile target enchantment
+• Exile target player's graveyard.
+
+Succumb To License
+rules_text: Return target nonland permanent to its owner's hand. If it was a token, copy this spell and choose a new nontoken target for the copy. => Return target nonland permanent to its owner's hand. If it was a token, you may copy this spell. Choose a new nontoken target for the copy.
+
+Inspire
+cost: {1}{W} => {2}{W}
+
+Celestial Cherem
+rules_text: Enchant creature
+When this enters, tap enchanted creature if you control an Angel.
+Enchanted creature doesn't untap during its controller's untap step. => Enchant creature
+When this enchantment enters, tap enchanted creature if you control an Angel.
+Enchanted creature doesn't untap during its controller's untap step.
+
+Imago Dei
+rules_text: If a creature you control would enter, that creature and an additional token copy of it enter instead. => If you would create one or more creature tokens, creature twice that many tokens instead.
+{1}, Sacrifice a nontoken creature: Create a token that's a copy of it.
+
+Oriyah In Front of Me
+rules_text: Flying, trample, ward {2}
+You may cast Oriyah In Front of Me from exile if it was put there from your graveyard this turn.
+{U}, Exile Oriyah In Front of Me and twelve other cards from your graveyard: Discard your hand, then draw four cards. => Flying, trample, ward {2}
+You may cast Oriyah from exile if it was put there from your graveyard this turn.
+{U}, Exile Oriyah and twelve other cards from your graveyard: Discard your hand, then draw four cards.
+
+Justifier of Judgement
+rules_text: Flying
+When Justifier of Judgement enters, create a Law token. [i](It's an artifact with “Whenever you attack, target creature you control gets +1/+1 until end of turn. When it does, sacrifice this token if you attacked with two or more creatures.”)[/i]
+Whenever you sacrifice a creature or artifact, Justifier of Judgement deals 1 damage to each opponent. => Flying
+When this creature enters, create a Law token. [i](It's an artifact with “Whenever you attack, target creature you control gets +1/+1 until end of turn. When it does, sacrifice this token if you attacked with two or more creatures.”)[/i]
+Whenever you sacrifice a creature or artifact, this creature deals 1 damage to each opponent.
+
+Mighty of Prattle
+rules_text: Whenever you cast a noncreature spell, draw a card, then discard a card.
+{2}{U}, Exile Mighty of Prattle from your graveyard: Create a 2/2 green Homunculus Beast creature token. Activate only during your turn. => Prowess
+{2}{U}, Exile this card from your graveyard: Create a 2/2 green Homunculus Beast creature token. Activate only during your turn.
+
+Void-Magic Binder
+rules_text: Flying
+When Void-Magic Binder dies, you draw a card and lose 2 life. => Flying
+When this creature dies, you draw a card and lose 2 life.
+
+Mane of Righteous Kings
+rules_text: Vigilance
+Whenever this creature attacks, tap target creature. Then put a stun counter on that creature if you control a token. => Vigilance
+Whenever this creature attacks, tap target creature, then put a stun counter on that creature if you control a token.
+
+Judges-Measure-For-Measure
+rules_text: [i][i]Fallen[/i][/i] — At the beginning of your end step, if you lost life or sacrificed a permanent this turn, return Judges-Measure-For-Measure from your graveyard to your hand. => [i][i]Fallen[/i][/i] — At the beginning of your end step, if you lost life or sacrificed a permanent this turn, you may pay {B}. If you do, return this card from your graveyard to your hand.
+
+Glorified Creation
+rules_text: Menace
+{R}, Discard this card, Sacrifice a creature or artifact: It deals 5 damage to any target. => Menace
+{R}, Discard this card, Sacrifice a creature or artifact: This card deals 5 damage to any target.
+
+Contemplate Ruin
+rules_text: You draw two cards and you lose 2 life.
+[i][i]Fallen[/i][/i] — At the beginning of your end step, if you lost life or sacrificed a permanent this turn, you may pay {1}{B} and exile Contemplate Ruin from your graveyard. If you do, create a 1/2 Angel Devil creature token with deathtouch that can't block. => You draw two cards and you lose 2 life.
+[i][i]Fallen[/i][/i] — At the beginning of your end step, if you lost life or sacrificed a permanent this turn, you may pay {1}{B} and exile this card from your graveyard. If you do, create a 1/2 Angel Devil creature token with deathtouch that can't block.
+
+Thing of Beauty
+cost: {G} => {1}{G}
+
+Division Undoes
+rules_text: Choose one—
+• Each player sacrifices X noncreature, nonland permanents.
+• Create X 2/1 green Homunculus creature tokens with “When you control this creature for two end steps, sacrifice it.” => Choose one—
+• Each player sacrifices X noncreature, nonland permanents.
+• Create X 2/1 green Homunculus creature tokens with “At the beginning of your end step, if this creature didn't enter this turn, sacrifice it.”
+
+Orders-the-Planets-And-Stars
+rules_text: Host [i](When this creature attacks, you may create a 1/1 tapped and attacking token copy of it without host. Sacrifice that token at the beginning of the next end step unles you sacrifice a creature.)[/i]
+Reach
+Orders-the-Planets-And-Stars enters with two +1/+1 counters. => Host [i](When this creature attacks, you may create a 1/1 tapped and attacking token copy of it without host. Sacrifice that token at the beginning of the next end step unless you sacrifice a creature.)[/i]
+Reach
+Orders-the-Planets-And-Stars enters with a +1/+1 counter.
+pt: 1/0 => 2/1
+
+Grafted Taunt
+rules_text: Host [i](When this creature attacks, you may create a 1/1 tapped and attacking token copy of it without host. Sacrifice that token at the beginning of the next end step unles you sacrifice a creature.)[/i]
+This creature gets +2/+0 and has trample as long as you've cast a noncreature spell this turn. => Host [i](When this creature attacks, you may create a 1/1 tapped and attacking token copy of it without host. Sacrifice that token at the beginning of the next end step unless you sacrifice a creature.)[/i]
+This creature gets +2/+0 and has trample as long as you've cast a noncreature spell this turn.
+
+Redeemer of Heaven's Blood
+rules_text: Host [i](When this creature attacks, you may create a 1/1 tapped and attacking token copy of it without host. Sacrifice that token at the beginning of the next end step unles you sacrifice a creature.)[/i]
+Sacrifice a creature or artifact: This creature gets +2/+2 until end of turn. => Host [i](When this creature attacks, you may create a 1/1 tapped and attacking token copy of it without host. Sacrifice that token at the beginning of the next end step unless you sacrifice a creature.)[/i]
+Sacrifice a creature or artifact: This creature gets +2/+2 until end of turn.
+
+Shade-Wreathed Bailif
+rules_text: When this creature enters, target opponent reveals their hand. You exile a nonland card from it. 
+When this creature dies, create a 2/1 green Homunculus creature token with “When you control this creature for two end steps, sacrifice it.” => When this creature enters, target opponent reveals their hand. You exile a nonland card from it. 
+When this creature dies, create a 2/1 green Homunculus creature token with “At the beginning of your end step, if this creature didn't enter this turn, sacrifice it.”
+
+Master of Artifice
+rules_text: Whenever an artifact you control enters, this creature deals 2 damage to each opponent.
+{2}{B}, Sacrifice an artifact: Return this card from your graveyard to your hand. => Whenever an artifact you control enters, this creature deals 1 damage to each opponent.
+{2}{B}, Sacrifice an artifact: Return this card from your graveyard to your hand.
+
+Meitohu-Wind Artisan
+cost: {G} => {1}{G}
+rules_text: As long as you control four or more lands, this card's mana cost is {3}{G}{G} and its base power and toughness are 5/4 in any zone. 
+Trample
+{T}: Add {G}. => As long as you control five or more lands, this card's mana cost is {3}{G}{G} and its base power and toughness are 5/4 in any zone. 
+Trample
+{T}: Add {G}.
+
+Mud-Slinging
+rules_text: Create two 2/1 green Homunculus creature tokens with “When you control this creature for two end steps, sacrifice it.” => Create two 2/1 green Homunculus creature tokens with “At the beginning of your end step, if this creature didn't enter this turn, sacrifice it..”
+
+Keening Poet
+rules_text: Whenever a nonland source you control causes you to gain or lose life, this creature deals 2 damage to each opponent. => Whenever a nonland source you control causes you to gain or lose life, each opponent loses 2 life.
+
+Visions of a Burnt House
+rules_text: Look at the top seven cards of your library. Put two into your hand and any number into your graveyard, then shuffle and discard a card. => Look at the top five cards of your library. Put two into your hand and the rest into your graveyard, then discard a card.
+
+Vivacous Meitohu
+rules_text: Whenever this creature attacks, add {U}{U}, then you may cast an artifact or enchantment spell. [i](Ignoring timing restrictions.)[/i] => Whenever this creature attacks, add {U}{U}, then you may cast an artifact or enchantment spell from your hand. [i](Ignoring timing restrictions.)[/i]
+
+Valor of Women
+rules_text: Host [i](When this creature attacks, you may create a 1/1 tapped and attacking token copy of it without host. Sacrifice that token at the beginning of the next end step unles you sacrifice a creature.)[/i]
+Flying
+Whenever you cast a noncreature spell, draw a a card, then discard a card. => Host [i](When this creature attacks, you may create a 1/1 tapped and attacking token copy of it without host. Sacrifice that token at the beginning of the next end step unless you sacrifice a creature.)[/i]
+Flying
+Whenever you cast a noncreature spell, draw a a card, then discard a card.
+
+Clarity Sage
+rules_text: Vigilance
+Whenever Clarity Sage attacks, draw a card. Then discard a card unless you attacked with three or more creatures this turn. => Vigilance
+Whenever this creature attacks, draw a card. Then discard a card unless you attacked with three or more creatures this turn.
+
+Arbiter of Verdicts
+cost: {1}{W}{W} => {2}{W}{W}
+
+Gives-Absolute-Decrees
+rules_text: Flash
+When Gives-Absolute-Decrees enters, target opponent reveals their hand, then exile a nonland card from their hand if it's your turn or a spell or nonland permanent they control. They may cast it from exile for as long as it remains exiled. it costs {2} more to cast. => Flash
+When Gives-Absolute-Decrees enters, target opponent reveals their hand, then exile a nonland card from their hand if it's your turn or target spell they control. They may cast it from exile for as long as it remains exiled. It costs {2} more to cast.
+
+Paradisacal Gate
+cost: {1}{W} => {2}{W}
+rules_text: If a creature would enter and it wasn't cast from its owner's hand for an amount of mana equal to its mana value, exile it instead.
+Tap eight untapped permanents you control: Exile this artifact. Any player may activate this ability. => If a creature would enter and it wasn't cast from its owner's hand for an amount of mana equal to its mana value, exile it instead.
+Tap six untapped permanents you control: Exile this artifact. Any player may activate this ability.
+
+Contemplative Silence
+rules_text: Players can't cast spells from their hands until your next upkeep. During that time, each player may cast a single permanent spell from their graveyard. => Players can't cast spells from their hands until your next upkeep. Until your next upkeep, each player may cast a single permanent spell from their graveyard.
+
+Raises-From-the-Pit
+rules_text: Flying
+Host [i](When this creature attacks, you may create a 1/1 tapped and attacking token copy of it without host. Sacrifice that token at the beginning of the next end step unles you sacrifice a creature.)[/i]
+When Raises-From-the-Pit leaves the battlefield, return up to two creature cards with mana value 2 or less from your graveyard to the battlefield. => Flying
+Host [i](When this creature attacks, you may create a 1/1 tapped and attacking token copy of it without host. Sacrifice that token at the beginning of the next end step unless you sacrifice a creature.)[/i]
+When Raises-From-the-Pit leaves the battlefield, return up to two creature cards with mana value 2 or less from your graveyard to the battlefield.
+
+Received Griefmage
+rules_text: Host [i](When this creature attacks, you may create a 1/1 tapped and attacking token copy of it without host. Sacrifice that token at the beginning of the next end step unles you sacrifice a creature.)[/i]
+Whenever another creature you control dies, each opponent loses 1 life and you gain 1 life. => Host [i](When this creature attacks, you may create a 1/1 tapped and attacking token copy of it without host. Sacrifice that token at the beginning of the next end step unless you sacrifice a creature.)[/i]
+Whenever another creature you control dies, each opponent loses 1 life and you gain 1 life.
+
+Bneishachat Rise
+rules_text: At the beginning of combat on your turn, put a chaos counter on this enchantment, then exile a creature card in your graveyard with mana value less than or equal to the number of chaos counters on this enchantment. Create a token that's a copy of that creature, except it's a 2/1 Homunculus with “When you control this creature for two end steps, sacrifice it.” => At the beginning of combat on your turn, put a chaos counter on this enchantment, then exile a creature card in your graveyard with mana value less than or equal to the number of chaos counters on this enchantment. Create a token that's a copy of that creature, except it's a 2/2 Homunculus Beast.
+
+Lifeseed Addler
+rules_text: Once on each of your turns, whenever you gain or lose life, create a 2/1 green Homunculus creature token with “When you control this creature for two end steps, sacrifice it.” => When Lifeseed Addler enters, if you've gained or lost life this turn, create a 2/1 green Homunculus creature token with “At the beginning of your end step, if this creature didn't enter this turn, sacrifice it.”
+
+Tselmiyah, Quickener
+rules_text: Whenever Tselmiyah, Quickener attacks, create a token that's a copy of each creature token you control. Those tokens enter tapped and attacking.
+At the beginning of your end step, sacrifice each creature token you control. => Creature tokens you control have haste.
+Whenever Tselmiyah, Quickener attacks, create a token that's a copy of each creature token you control. Those tokens enter tapped and attacking.
+At the beginning of your end step, sacrifice each creature token you control.
+
+Devises-Galaxies-In-Wisdom
+rules_text: Host [i](When this creature attacks, you may create a 1/1 tapped and attacking token copy of it without host. Sacrifice that token at the beginning of the next end step unles you sacrifice a creature.)[/i]
+Flying
+Whenever you cast a spell from your hand, exile the top card of your library. If it has lesser mana value, you may cast it without paying its mana cost. => Host [i](When this creature attacks, you may create a 1/1 tapped and attacking token copy of it without host. Sacrifice that token at the beginning of the next end step unless you sacrifice a creature.)[/i]
+Flying
+Whenever you cast a spell from your hand, exile the top card of your library. If it has lesser mana value, you may cast it without paying its mana cost.
+
+Firmament Swimmer
+rules_text: Host [i](When this creature attacks, you may create a 1/1 tapped and attacking token copy of it without host. Sacrifice that token at the beginning of the next end step unles you sacrifice a creature.)[/i]
+Firmament Swimmer can't be blocked if only tokens are attacking. => Host [i](When this creature attacks, you may create a 1/1 tapped and attacking token copy of it without host. Sacrifice that token at the beginning of the next end step unless you sacrifice a creature.)[/i]
+Firmament Swimmer can't be blocked if only tokens are attacking.
+
+Writes-Myriad-Meanings
+cost: {1}{U}{U} => {2}{U}{U}
+pt: 3/2 => 3/3
+
+Hammer of Strictures
+rules_text: Flying
+When this creature enters, if it isn't a Law, create tokens that are copies of two target nonland permanents you control, except they're Law artifacts with “Whenever you attack, target creature you control gets +1/+1 until end of turn. When it does, sacrifice this artifact if you attacked with two or more creatures.” => Flying
+When this creature enters, if it it was cast, create tokens that are copies of two target nonland permanents you control, except they're Law artifacts with “Whenever you attack, target creature you control gets +1/+1 until end of turn. When it does, sacrifice this artifact if you attacked with two or more creatures.”
+pt: 3/3 => 2/2
+
+Inextensible Doll
+rules_text: When Inextensible Doll dies tapped, create a 2/2 green Homunculus Beast creature token. => When this creature dies, if it's tapped, create a 2/2 green Homunculus Beast creature token.
+
+Seraphic Speech of Secrets
+cost: {1}{R} => {R}
+
+Keter-Mother
+rules_text: Host [i](When this creature attacks, you may create a 1/1 tapped and attacking token copy of it without host. Sacrifice that token at the beginning of the next end step unles you sacrifice a creature.)[/i]
+Whenever Keter-Mother deals combat damage to a player, create a token that's a copy of each creature token you control. => Host [i](When this creature attacks, you may create a 1/1 tapped and attacking token copy of it without host. Sacrifice that token at the beginning of the next end step unless you sacrifice a creature.)[/i]
+Whenever this creature deals combat damage to a player, create a token that's a copy of each creature token you control.
+
+Bind In Prohibitions
+rules_text: Enchant nonland permanent
+You control enchanted permanent.
+Enchanted permanent is a Law artifact and gains “Whenever you attack, attacking creatures you control get +1/+0 until end of turn. When you do, if you didn't attack with exactly one creature, sacrifice this permanent.” [i](It's no longer a creature.)[/i] => Enchant nonland permanent
+You control enchanted permanent.
+Enchanted permanent is a Law artifact and gains “Whenever you attack, target creature you control gets +1/+1 until end of turn. When it does, sacrifice this token if you attacked with two or more creatures.” [i](It's no longer a creature.)[/i]
+
+Blesser of Hearths
+rules_text: Host [i](When this creature attacks, you may create a 1/1 tapped and attacking token copy of it without host. Sacrifice that token at the beginning of the next end step unles you sacrifice a creature.)[/i]
+When this creature enters, you draw a card and each player loses 1 life. => Host [i](When this creature attacks, you may create a 1/1 tapped and attacking token copy of it without host. Sacrifice that token at the beginning of the next end step unless you sacrifice a creature.)[/i]
+When this creature enters, you draw a card and each player loses 1 life.
+
+Solacent Keruv
+rules_text: Flying, vigilance
+Host [i](When this creature attacks, you may create a 1/1 tapped and attacking token copy of it without host. Sacrifice that token at the beginning of the next end step unles you sacrifice a creature.)[/i]
+This creature gets +1/+0 for each token you control. => Flying, vigilance
+Host [i](When this creature attacks, you may create a 1/1 tapped and attacking token copy of it without host. Sacrifice that token at the beginning of the next end step unless you sacrifice a creature.)[/i]
+This creature gets +1/+0 for each token you control.
+
+Axe of Perlis
+rules_text: Host [i](When this creature attacks, you may create a 1/1 tapped and attacking token copy of it without host. Sacrifice that token at the beginning of the next end step unles you sacrifice a creature.)[/i]
+When Axe of Perlis dies, it deals 1 damage to target opponent. => Host [i](When this creature attacks, you may create a 1/1 tapped and attacking token copy of it without host. Sacrifice that token at the beginning of the next end step unless you sacrifice a creature.)[/i]
+When Axe of Perlis dies, it deals 1 damage to target opponent.
+
+Witchcraft Whisperer
+rules_text: Trample
+As an additional cost to cast noncreature spells, you may pay {2} and 2 life. When you do, copy them. [i](Copies of permanent spells become tokens.)[/i] => Trample
+As an additional cost to cast noncreature spells, you may pay {2} and 2 life. When you do, copy those spells. You may choose new targets for the copies. [i](Copies of permanent spells become tokens.)[/i]
+
+Fraying Chacham
+rules_text: Host [i](When this creature attacks, you may create a 1/1 tapped and attacking token copy of it without host. Sacrifice that token at the beginning of the next end step unles you sacrifice a creature.)[/i]
+As long as Fraying Chacham is attacking, abilities of tokens you control trigger an additional time. => Host [i](When this creature attacks, you may create a 1/1 tapped and attacking token copy of it without host. Sacrifice that token at the beginning of the next end step unless you sacrifice a creature.)[/i]
+As long as Fraying Chacham is attacking, abilities of tokens you control trigger an additional time.
+
+Sees-All-Secrets
+rules_text: Host [i](When this creature attacks, you may create a 1/1 tapped and attacking token copy of it without host. Sacrifice that token at the beginning of the next end step unles you sacrifice a creature.)[/i]
+When Sees-All-Secrets enters, tap target creature. => Host [i](When this creature attacks, you may create a 1/1 tapped and attacking token copy of it without host. Sacrifice that token at the beginning of the next end step unless you sacrifice a creature.)[/i]
+When Sees-All-Secrets enters, tap target creature.
+
+The-True-Judge
+rules_text: Haste, flying, lifelink
+Sacrifice two tokens: The-True-Judge gains protection from the color of your choice until end of turn. [i](This creature can't be blocked, targeted, dealt damage, enchanted, or equipped by anything of that color until end of turn..)[/i] => Flying, lifelink, haste
+Sacrifice two tokens: This creature gains protection from the color of your choice until end of turn. [i](This creature can't be blocked, targeted, dealt damage, enchanted, or equipped by anything of that color until end of turn..)[/i]
+pt: 5/5 => 4/4
+
+Evil Inclination
+rules_text: Menace
+Whenever this creature enters or attacks, discard a card unless you've gained life this turn, then you lose 3 life unless you've lost life this turn. Then draw two cards. => Menace
+Whenever this creature enters or attacks, discard a card unless you've gained life this turn, then you lose 3 life unless you've lost life this turn. Then draw a card.
+
+Avenges-In-Envy
+rules_text: Host [i](When this creature attacks, you may create a 1/1 tapped and attacking token copy of it without host. Sacrifice that token at the beginning of the next end step unles you sacrifice a creature.)[/i]
+Whenever a creature you control attacks alone, it gets +3/+0 until end of turn unless defending player sacrifices a creature. => Host [i](When this creature attacks, you may create a 1/1 tapped and attacking token copy of it without host. Sacrifice that token at the beginning of the next end step unless you sacrifice a creature.)[/i]
+Whenever a creature you control attacks alone, it gets +3/+0 until end of turn unless defending player sacrifices a creature.
+
+Vindictive Seir
+
+Dreamcast Apprenticeship
+cost: {3}{U} => {4}{U}
+rules_text: Choose three. You may choose the same mode more than once.
+• Draw a card, then discard a card.
+• Create a token that's a copy of target creature you control, then exile the token.
+• Return an instant or sorcery card from your graveyard to your hand.
+• Tap or untap target permanent. => Choose three. You may choose the same mode more than once.
+• Target player creates two 1/1 white Angel creature tokens.
+• Create a token that's a copy of target creature you control, then exile the token.
+• Return target instant or sorcery card from your graveyard to your hand.
+• Tap or untap target permanent.
+
+Dumiyah, The Only Certainty
+rules_text: Flash
+Flying
+Cards in graveyards have no names, card types, or abilities. => Flash
+Flying
+Cards in graveyards lose all names, card types, and abilities.
+
+Olamiyah, Covenantal Scribe
+rules_text: Flying, vigilance
+When Olamiyah enters, create X Law tokens. [i](They're artifacts with “Whenever you attack, target creature you control gets +1/+1 until end of turn. When it does, sacrifice this token if you attacked with two or more creatures.”)[/i]
+You can't sacrifice tokens. => Flying, vigilance
+When Olamiyah enters, create X artifact tokens with “Whenever you attack, attacking creatures you control get +1/+0 until end of turn. When you do, if you didn't attack with exactly one creature, sacrifice this token.”
+You can't sacrifice tokens.
+
+Bewailing Effigies
+rules_text: As an additional cost to cast noncreature spells, you may discard a card, sacrifice a permanent, and/or pay 3 life. Copy them once for each cost paid. => As an additional cost to cast noncreature spells, you may discard a card, sacrifice a nonland permanent, and/or pay 3 life. Copy those spells if you paid one or more of those costs, then target opponent does if you paid exactly one. Players may choose new targets for the copies.
+
+Peaceblossom
+rules_text: At the beginning of your upkeep, you lose 2 life and create an Equipment token with “Equipped creature gets +1/+0 as long as it's attacking”, equip {2}, and raiment. [i](When it enters, create a 1/1 Angel token with “At the beginning of your upkeep, you may pay {2}. When you do, this creature's Equipment gain another instance of their abilities until end of turn” attached to it.)[/i] => At the beginning of your upkeep, you lose 1 life and create an Equipment token with “Equipped creature gets +1/+0 as long as it's attacking”, equip {2}, and raiment. [i](When it enters, create a 1/1 Angel token with “At the beginning of your upkeep, you may pay {2}. When you do, this creature's Equipment gain another instance of their abilities until end of turn” attached to it.)[/i]
+
+Diluvian Prophecyscape
+rules_text: Diluvian Prophecyscape enters tapped.
+{T}: Add {U} or {B}.
+{2}, {T}, Sacrifice Diluvian Prophecyscape and a nonland permanent: Draw a card. Activate only during your turn. => This land enters tapped. When it does, mill a card, then you may pay {1} and discard a card. If you do, the milled card into your hand.
+{T}: Add {U} or {B}.
+
+Lofty Prophecyscape
+rules_text: Lofty Prophecyscape enters tapped.
+{T}: Add {W} or {U}.
+{2}, {T}, Sacrifice Lofty Prophecyscape and a nonland permanent: Draw a card. Activate only during your turn. => This land enters tapped. When it does, mill a card, then you may pay {1} and discard a card. If you do, the milled card into your hand.
+{T}: Add {W} or {U}.
+
+Grieving Prophecyscape
+rules_text: Grieving Prophecyscape enters tapped.
+{T}: Add {B} or {R}.
+{2}, {T}, Sacrifice Grieving Prophecyscape and a nonland permanent: Draw a card. Activate only during your turn. => This land enters tapped. When it does, mill a card, then you may pay {1} and discard a card. If you do, the milled card into your hand.
+{T}: Add {B} or {R}.
+
+Bustling Prophecyscpe
+rules_text: Bustling Prophecyscpe enters tapped.
+{T}: Add {R} or {W}.
+{2}, {T}, Sacrifice Bustling Prophecyscpe and a nonland permanent: Draw a card. Activate only during your turn. => This land enters tapped. When it does, mill a card, then you may pay {1} and discard a card. If you do, the milled card into your hand.
+{T}: Add {R} or {W}.
+
+Vibrant Prophecyscape
+rules_text: Vibrant Prophecyscape enters tapped.
+{T}: Add {U} or {R}.
+{2}, {T}, Sacrifice Vibrant Prophecyscape and a nonland permanent: Draw a card. Activate only during your turn. => This land enters tapped. When it does, mill a card, then you may pay {1} and discard a card. If you do, the milled card into your hand.
+{T}: Add {U} or {R}.
+
+Cavernous Prophecyscape
+rules_text: Cavernous Prophecyscape enters tapped.
+{T}: Add {G} or {U}.
+{2}, {T}, Sacrifice Cavernous Prophecyscape and a nonland permanent: Draw a card. Activate only during your turn. => This land enters tapped. When it does, mill a card, then you may pay {1} and discard a card. If you do, the milled card into your hand.
+{T}: Add {G} or {U}.
+
+Slick Prophecyscape
+rules_text: Slick Prophecyscape enters tapped.
+{T}: Add {B} or {G}.
+{2}, {T}, Sacrifice Slick Prophecyscape and a nonland permanent: Draw a card. Activate only during your turn. => This land enters tapped. When it does, mill a card, then you may pay {1} and discard a card. If you do, the milled card into your hand.
+{T}: Add {B} or {G}.
+
+Dire Prophecyscape
+rules_text: Dire Prophecyscape enters tapped.
+{T}: Add {W} or {B}.
+{2}, {T}, Sacrifice Dire Prophecyscape and a nonland permanent: Draw a card. Activate only during your turn. => This land enters tapped. When it does, mill a card, then you may pay {1} and discard a card. If you do, the milled card into your hand.
+{T}: Add {W} or {B}.
+
+Fecund Prophecyscape
+rules_text: Fecund Prophecyscape enters tapped.
+{T}: Add {R} or {G}.
+{2}, {T}, Sacrifice Fecund Prophecyscape and a nonland permanent: Draw a card. Activate only during your turn. => This land enters tapped. When it does, mill a card, then you may pay {1} and discard a card. If you do, the milled card into your hand.
+{T}: Add {R} or {G}.
+
+Imperial Prophecyscape
+rules_text: Imperial Prophecyscape enters tapped.
+{T}: Add {G} or {W}.
+{2}, {T}, Sacrifice Imperial Prophecyscape and a nonland permanent: Draw a card. Activate only during your turn. => This land enters tapped. When it does, mill a card, then you may pay {1} and discard a card. If you do, the milled card into your hand.
+{T}: Add {G} or {W}.
+
+Hall of Wisdom
+rules_text: Hall of Wisdom enters tapped unless you control two or more nonland permanents.
+{T}: Add {W} or {U}. => This land enters tapped unless you control two or more nonland permanents.
+{T}: Add {W} or {U}.
+
+Wailing Barrens
+rules_text: Wailing Barrens enters tapped unless you control two or more nonland permanents.
+{T}: Add {B} or {G}. => This land enters tapped unless you control two or more nonland permanents.
+{T}: Add {B} or {G}.
+
+Bloodied Altar
+rules_text: Bloodied Altar enters tapped unless you control two or more nonland permanents.
+{T}: Add {B} or {R}. => This land enters tapped unless you control two or more nonland permanents.
+{T}: Add {B} or {R}.
+
+World Egg
+rules_text: World Egg enters tapped unless you control two or more nonland permanents.
+{T}: Add {R} or {G}. => This land enters tapped unless you control two or more nonland permanents.
+{T}: Add {R} or {G}.
+
+Conserving Garden
+rules_text: Conserving Garden enters tapped unless you control two or more nonland permanents.
+{T}: Add {G} or {W}. => This land enters tapped unless you control two or more nonland permanents.
+{T}: Add {G} or {W}.
+
+Lesser Throne
+rules_text: Lesser Throne enters tapped unless you control two or more nonland permanents.
+{T}: Add {W} or {B}. => This land enters tapped unless you control two or more nonland permanents.
+{T}: Add {W} or {B}.
+
+Pillars of Creation
+rules_text: Pillars of Creation enters tapped unless you control two or more nonland permanents.
+{T}: Add {U} or {R}. => This land enters tapped unless you control two or more nonland permanents.
+{T}: Add {U} or {R}.
+
+Blasted Refuse
+rules_text: Blasted Refuse enters tapped unless you control two or more nonland permanents.
+{T}: Add {U} or {B}. => This land enters tapped unless you control two or more nonland permanents.
+{T}: Add {U} or {B}.
+
+Productive Smithy
+rules_text: Productive Smithy enters tapped unless you control two or more nonland permanents.
+{T}: Add {R} or {W}. => This land enters tapped unless you control two or more nonland permanents.
+{T}: Add {R} or {W}.
+
+Water-Drawing Site
+rules_text: Water-Drawing Site enters tapped unless you control two or more nonland permanents.
+{T}: Add {G} or {U}. => This land enters tapped unless you control two or more nonland permanents.
+{T}: Add {G} or {U}.
+
+Foundation Scribe
+rules_text: Flying
+When this creature enters, exile up to two cards from target graveyard. => Flying
+When this creature enters, exile up to two cards from target player's graveyard.
+
+Harp of Sin
+rules_text: At the beginning of each player's draw step, if this artifact is untapped, that player draws a card and loses 2 life. => At the beginning of each player's draw step, if this artifact is untapped, that player draws a card and loses 1 life.
+
+Vessel Of Disrespect
+rules_text: When this creature dies, create a 2/1 green Homunculus creature token with “When you control this creature for two end steps, sacrifice it.” => When this creature dies, create a 2/1 green Homunculus creature token with “At the beginning of your end step, if this creature didn't enter this turn, sacrifice it.”
+
+The Boiler
+rules_text: The Boiler enters tapped with two depletion counters.
+{T}: Add {W}.
+{T}, Remove a depletion counter from The Boiler: Add {U} or {B}. => This land enters with two depletion counters.
+{T}: Add {W}.
+{T}, Remove a depletion counter from this land: Add {U} or {B}.
+
+The Judicary
+rules_text: The Judicary enters tapped with two depletion counters.
+{T}: Add {B}.
+{T}, Remove a depletion counter from The Judicary: Add {W} or {R}. => This land enters tapped with two depletion counters.
+{T}: Add {B}.
+{T}, Remove a depletion counter from this land: Add {W} or {R}.
+
+The Engine Room
+rules_text: The Engine Room enters tapped with two depletion counters.
+{T}: Add {R}.
+{T}, Remove a depletion counter from The Engine Room: Add {B} or {G}. => This land enters tapped with two depletion counters.
+{T}: Add {R}.
+{T}, Remove a depletion counter from this land: Add {B} or {G}.
+
+The Orchard
+rules_text: The Orchard enters tapped with two depletion counters.
+{T}: Add {U}.
+{T}, Remove a depletion counter from The Orchard: Add {R} or {G}. => This land enters with two depletion counters.
+{T}: Add {U}.
+{T}, Remove a depletion counter from this land: Add {R} or {G}.
+
+The Study Hall
+rules_text: The Study Hall enters tapped with two depletion counters.
+{T}: Add {U}.
+{T}, Remove a depletion counter from The Study Hall: Add {G} or {W}. => This land enters tapped with two depletion counters.
+{T}: Add {U}.
+{T}, Remove a depletion counter from this land: Add {G} or {W}.
+
+Homunculus
+rules_text: When you control this creature for two end steps, sacrifice it. => At the beginning of your end step, if this creature didn't enter this turn, sacrifice it.
+
+
+VERSION 11 CHANGELOG
 ====================
 
 
