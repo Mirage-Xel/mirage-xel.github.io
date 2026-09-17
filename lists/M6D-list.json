@@ -40,408 +40,8 @@
         "position": ""
     },
     {
-        "card_name": "Abase",
-        "number": 4,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Austere Tanna",
-        "number": 31,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Beater of Plowshares",
-        "number": 58,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Anatomism",
-        "number": 86,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Beast of Folded Wings",
-        "number": 115,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Alphabetical Shift",
-        "number": 5,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Celestial Cherem",
-        "number": 32,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Blasphemous Watcher",
-        "number": 59,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Bewailing Effigies",
-        "number": 87,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Bestial Speaker",
-        "number": 116,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Arbiter of Verdicts",
-        "number": 6,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Clarity Sage",
-        "number": 33,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Bneishachat Rise",
-        "number": 60,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Burrow Into Understanding",
-        "number": 88,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Churlish Mockery",
-        "number": 117,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Censuskeeper of the Living",
-        "number": 7,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Deem Forbidden",
-        "number": 34,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Collect-Will-Collect",
-        "number": 61,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Cackling Shedata",
-        "number": 89,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Division Undoes",
-        "number": 118,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Cite",
-        "number": 8,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Dreamcast Apprenticeship",
-        "number": 35,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Contemplate Ruin",
-        "number": 62,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Clearsight Lecturer",
-        "number": 90,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Double Exigesis",
-        "number": 119,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Contemplative Silence",
-        "number": 9,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Drench",
-        "number": 36,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Day of Ire",
-        "number": 63,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Devises-Galaxies-In-Wisdom",
-        "number": 91,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Doyen of Sorcerous Acts",
-        "number": 120,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
         "card_name": "For Good",
         "number": 10,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Drown In Dreamstuff",
-        "number": 37,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Divisor of Welfare",
-        "number": 64,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Erase-Will-Not-Erase",
-        "number": 92,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Engineers of Bodily Form",
-        "number": 121,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Gabbai of Blessing",
-        "number": 11,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Engraver of Form",
-        "number": 38,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Doubtwrack",
-        "number": 65,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Flayer of Words",
-        "number": 93,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Grafted Taunt",
-        "number": 122,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Gives-Absolute-Decrees",
-        "number": 12,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Firmament Swimmer",
-        "number": 39,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Entropic Gurgle",
-        "number": 66,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Forge In Flames",
-        "number": 94,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Heavengilt Cameo",
-        "number": 123,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Gizbor of Radiance",
-        "number": 13,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Gives-Wisdom-To-Its-Seekers",
-        "number": 40,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Herald of the Final Day",
-        "number": 67,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Glorified Creation",
-        "number": 95,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Hymnal Naturalist",
-        "number": 124,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Imago Dei",
-        "number": 14,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
@@ -456,240 +56,40 @@
         "position": ""
     },
     {
-        "card_name": "Ignominous Fall",
-        "number": 69,
+        "card_name": "Bneishachat Rise",
+        "number": 60,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Hail of Brimstone",
-        "number": 96,
+        "card_name": "Bewailing Effigies",
+        "number": 87,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Indulge in Knowledge",
-        "number": 125,
+        "card_name": "Engineers of Bodily Form",
+        "number": 121,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Inextensible Doll",
-        "number": 15,
+        "card_name": "Alphabetical Shift",
+        "number": 5,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Heavenly Counsel",
-        "number": 42,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Judges-Measure-For-Measure",
-        "number": 70,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Heavenly Trumpet",
-        "number": 97,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Keeper of Meitohu's Force",
-        "number": 126,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Inspire",
-        "number": 16,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Keter of Smoke",
-        "number": 43,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Justifier of Judgement",
-        "number": 71,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Keening Poet",
-        "number": 98,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Keter of Might",
-        "number": 127,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Ivory-Tower Watcher",
-        "number": 17,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Keter of the Firmament",
-        "number": 44,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Keter of Death",
-        "number": 72,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Keeper of the Faithful",
-        "number": 99,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Lay Bare the Heart",
-        "number": 128,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Keter of Judgement",
-        "number": 18,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Keter of Wisdom",
-        "number": 45,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Master of Artifice",
-        "number": 73,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Keter of Briliance",
-        "number": 100,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Letters of Life",
-        "number": 129,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Keter of Legions",
-        "number": 19,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Mane of Righteous Kings",
-        "number": 46,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Nameless Keter",
-        "number": 74,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Keter of Flame",
-        "number": 101,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Lifeseed Addler",
-        "number": 130,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Keter-Mother",
-        "number": 20,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Meitohu Chorister",
-        "number": 47,
+        "card_name": "Dreamcast Apprenticeship",
+        "number": 35,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
@@ -712,112 +112,152 @@
         "position": ""
     },
     {
-        "card_name": "Mapper of Newborn Land",
-        "number": 131,
+        "card_name": "Division Undoes",
+        "number": 118,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Mollify",
-        "number": 22,
+        "card_name": "Imago Dei",
+        "number": 14,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Mighty of Prattle",
-        "number": 48,
+        "card_name": "Firmament Swimmer",
+        "number": 39,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Proscribed Seer",
-        "number": 76,
+        "card_name": "Day of Ire",
+        "number": 63,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Mud-Slinging",
-        "number": 103,
+        "card_name": "War In Heaven",
+        "number": 112,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Meitohu-Wind Artisan",
-        "number": 132,
+        "card_name": "Keeper of Meitohu's Force",
+        "number": 126,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Nefeshef Phial",
-        "number": 23,
+        "card_name": "Keter of Legions",
+        "number": 19,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Numeric Veto",
-        "number": 49,
+        "card_name": "Gives-Wisdom-To-Its-Seekers",
+        "number": 40,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Received Griefmage",
-        "number": 77,
+        "card_name": "Divisor of Welfare",
+        "number": 64,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Reconstructive Operation",
-        "number": 105,
+        "card_name": "Devises-Galaxies-In-Wisdom",
+        "number": 91,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Multifarious Teacher",
-        "number": 133,
+        "card_name": "Symmetry Sage",
+        "number": 137,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Paradisacal Gate",
-        "number": 24,
+        "card_name": "Keter-Mother",
+        "number": 20,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Sanctity's Allure",
-        "number": 51,
+        "card_name": "Writes-Myriad-Meanings",
+        "number": 57,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Redeemer of Heaven's Blood",
-        "number": 78,
+        "card_name": "Herald of the Final Day",
+        "number": 67,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Hail of Brimstone",
+        "number": 96,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Watcher of Consecrations",
+        "number": 140,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Arbiter of Verdicts",
+        "number": 6,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Deem Forbidden",
+        "number": 34,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Nameless Keter",
+        "number": 74,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
@@ -832,16 +272,176 @@
         "position": ""
     },
     {
-        "card_name": "Orders-the-Planets-And-Stars",
-        "number": 134,
+        "card_name": "Beast of Folded Wings",
+        "number": 115,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Polytropic Erel",
-        "number": 25,
+        "card_name": "Contemplative Silence",
+        "number": 9,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Engraver of Form",
+        "number": 38,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Blasphemous Watcher",
+        "number": 59,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Tselmiyah, Quickener",
+        "number": 110,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Bestial Speaker",
+        "number": 116,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Gives-Absolute-Decrees",
+        "number": 12,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Heavenly Counsel",
+        "number": 42,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Collect-Will-Collect",
+        "number": 61,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Cackling Shedata",
+        "number": 89,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Double Exigesis",
+        "number": 119,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Gizbor of Radiance",
+        "number": 13,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Keter of the Firmament",
+        "number": 44,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Doubtwrack",
+        "number": 65,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Clearsight Lecturer",
+        "number": 90,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Doyen of Sorcerous Acts",
+        "number": 120,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Inspire",
+        "number": 16,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Meitohu Chorister",
+        "number": 47,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Keter of Death",
+        "number": 72,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Erase-Will-Not-Erase",
+        "number": 92,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Hymnal Naturalist",
+        "number": 124,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Paradisacal Gate",
+        "number": 24,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
@@ -856,24 +456,24 @@
         "position": ""
     },
     {
-        "card_name": "Shade-Wreathed Bailif",
-        "number": 79,
+        "card_name": "Master of Artifice",
+        "number": 73,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Spins-A-World-From-Water",
-        "number": 107,
+        "card_name": "Forge In Flames",
+        "number": 94,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Sere Rememberancer",
-        "number": 135,
+        "card_name": "Indulge in Knowledge",
+        "number": 125,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
@@ -888,46 +488,6 @@
         "position": ""
     },
     {
-        "card_name": "Succumb To License",
-        "number": 53,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Smokemirror Sage",
-        "number": 80,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Spiritual Sever",
-        "number": 108,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Shaping Hand",
-        "number": 136,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Reforge From Dross",
-        "number": 27,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
         "card_name": "Valor of Women",
         "number": 54,
         "shape": "normal",
@@ -936,24 +496,24 @@
         "position": ""
     },
     {
-        "card_name": "Snuff",
-        "number": 81,
+        "card_name": "Proscribed Seer",
+        "number": 76,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Splat",
-        "number": 109,
+        "card_name": "Keening Poet",
+        "number": 98,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Symmetry Sage",
-        "number": 137,
+        "card_name": "Letters of Life",
+        "number": 129,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
@@ -976,6 +536,46 @@
         "position": ""
     },
     {
+        "card_name": "Redeemer of Heaven's Blood",
+        "number": 78,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Keeper of the Faithful",
+        "number": 99,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Meitohu-Wind Artisan",
+        "number": 132,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Wheelform Codex",
+        "number": 30,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Vivacous Meitohu",
+        "number": 56,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
         "card_name": "Test of Paradise",
         "number": 82,
         "shape": "normal",
@@ -984,8 +584,448 @@
         "position": ""
     },
     {
-        "card_name": "Tselmiyah, Quickener",
-        "number": 110,
+        "card_name": "Keter of Briliance",
+        "number": 100,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Multifarious Teacher",
+        "number": 133,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Abase",
+        "number": 4,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Austere Tanna",
+        "number": 31,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Vivisected Effigy",
+        "number": 84,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Mud-Slinging",
+        "number": 103,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Churlish Mockery",
+        "number": 117,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Censuskeeper of the Living",
+        "number": 7,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Celestial Cherem",
+        "number": 32,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Beater of Plowshares",
+        "number": 58,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Spiritual Sever",
+        "number": 108,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Grafted Taunt",
+        "number": 122,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Cite",
+        "number": 8,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Clarity Sage",
+        "number": 33,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Contemplate Ruin",
+        "number": 62,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Anatomism",
+        "number": 86,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Heavengilt Cameo",
+        "number": 123,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Gabbai of Blessing",
+        "number": 11,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Drench",
+        "number": 36,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Entropic Gurgle",
+        "number": 66,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Burrow Into Understanding",
+        "number": 88,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Keter of Might",
+        "number": 127,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Inextensible Doll",
+        "number": 15,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Drown In Dreamstuff",
+        "number": 37,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Ignominous Fall",
+        "number": 69,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Flayer of Words",
+        "number": 93,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Lay Bare the Heart",
+        "number": 128,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Ivory-Tower Watcher",
+        "number": 17,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Keter of Smoke",
+        "number": 43,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Judges-Measure-For-Measure",
+        "number": 70,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Glorified Creation",
+        "number": 95,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Lifeseed Addler",
+        "number": 130,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Keter of Judgement",
+        "number": 18,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Keter of Wisdom",
+        "number": 45,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Justifier of Judgement",
+        "number": 71,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Heavenly Trumpet",
+        "number": 97,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Mapper of Newborn Land",
+        "number": 131,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Mollify",
+        "number": 22,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Mane of Righteous Kings",
+        "number": 46,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Received Griefmage",
+        "number": 77,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Keter of Flame",
+        "number": 101,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Orders-the-Planets-And-Stars",
+        "number": 134,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Nefeshef Phial",
+        "number": 23,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Mighty of Prattle",
+        "number": 48,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Shade-Wreathed Bailif",
+        "number": 79,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Reconstructive Operation",
+        "number": 105,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Sere Rememberancer",
+        "number": 135,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Polytropic Erel",
+        "number": 25,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Numeric Veto",
+        "number": 49,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Smokemirror Sage",
+        "number": 80,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Spins-A-World-From-Water",
+        "number": 107,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Shaping Hand",
+        "number": 136,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Reforge From Dross",
+        "number": 27,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Sanctity's Allure",
+        "number": 51,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Snuff",
+        "number": 81,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Splat",
+        "number": 109,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
@@ -1008,8 +1048,8 @@
         "position": ""
     },
     {
-        "card_name": "Vivacous Meitohu",
-        "number": 56,
+        "card_name": "Succumb To License",
+        "number": 53,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
@@ -1026,46 +1066,6 @@
     {
         "card_name": "Wail Out",
         "number": 111,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Watcher of Consecrations",
-        "number": 140,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Wheelform Codex",
-        "number": 30,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Writes-Myriad-Meanings",
-        "number": 57,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Vivisected Effigy",
-        "number": 84,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "War In Heaven",
-        "number": 112,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
@@ -1138,68 +1138,8 @@
     },
     "a->gold",
     {
-        "card_name": "Downcast",
-        "number": 160,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Agents of the Chariot",
-        "number": 143,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Destructive Builder",
-        "number": 158,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "e"
-    },
-    {
         "card_name": "Fraying Chacham",
         "number": 167,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Axe of Perlis",
-        "number": 148,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Keter of Libations",
-        "number": 174,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Glory-Cloaked Zealot",
-        "number": 169,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
@@ -1217,8 +1157,8 @@
         "position": ""
     },
     {
-        "card_name": "Moral Nihlist",
-        "number": 178,
+        "card_name": "Destructive Builder",
+        "number": 158,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
@@ -1239,36 +1179,6 @@
         "card_name": "e"
     },
     {
-        "card_name": "Court of Death's Claim",
-        "number": 156,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Noble Keterweaver",
-        "number": 180,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Sees-All-Secrets",
-        "number": 191,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "e"
-    },
-    {
         "card_name": "Evil Inclination",
         "number": 164,
         "shape": "normal",
@@ -1277,8 +1187,38 @@
         "position": ""
     },
     {
-        "card_name": "Ram of the Binding",
-        "number": 185,
+        "card_name": "Weaver of Harsh Decrees",
+        "number": 199,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Downcast",
+        "number": 160,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Agents of the Chariot",
+        "number": 143,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Noble Keterweaver",
+        "number": 180,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
@@ -1299,16 +1239,16 @@
         "card_name": "e"
     },
     {
-        "card_name": "Sanctifier of Bloodgifts",
-        "number": 189,
+        "card_name": "Court of Death's Claim",
+        "number": 156,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Weaver of Harsh Decrees",
-        "number": 199,
+        "card_name": "Ram of the Binding",
+        "number": 185,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
@@ -1348,7 +1288,64 @@
         "card_name": "e"
     },
     {
-        "card_name": "er"
+        "card_name": "Glory-Cloaked Zealot",
+        "number": 169,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Axe of Perlis",
+        "number": 148,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Keter of Libations",
+        "number": 174,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Sees-All-Secrets",
+        "number": 191,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Sanctifier of Bloodgifts",
+        "number": 189,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Moral Nihlist",
+        "number": 178,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "er"
@@ -1363,8 +1360,11 @@
         "card_name": "er"
     },
     {
-        "card_name": "Avta's Cast",
-        "number": 147,
+        "card_name": "er"
+    },
+    {
+        "card_name": "The First Key",
+        "number": 166,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
@@ -1393,8 +1393,8 @@
         "position": ""
     },
     {
-        "card_name": "Balanced Dayan",
-        "number": 149,
+        "card_name": "Dumiyah's Sofer",
+        "number": 162,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
@@ -1418,8 +1418,8 @@
         "position": ""
     },
     {
-        "card_name": "Dumiyah's Sofer",
-        "number": 162,
+        "card_name": "The-True-Judge",
+        "number": 196,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
@@ -1443,8 +1443,8 @@
         "position": ""
     },
     {
-        "card_name": "The First Key",
-        "number": 166,
+        "card_name": "Avta's Cast",
+        "number": 147,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
@@ -1460,8 +1460,33 @@
         "card_name": "e"
     },
     {
-        "card_name": "Grandiloquent Teacher",
-        "number": 170,
+        "card_name": "Keter of Ingenuity",
+        "number": 173,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Balanced Dayan",
+        "number": 149,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "A World Lacking Nothing",
+        "number": 202,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
@@ -1485,8 +1510,8 @@
         "card_name": "e"
     },
     {
-        "card_name": "Keter of Ingenuity",
-        "number": 173,
+        "card_name": "Grandiloquent Teacher",
+        "number": 170,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
@@ -1535,31 +1560,6 @@
         "card_name": "e"
     },
     {
-        "card_name": "A World Lacking Nothing",
-        "number": 202,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "The-True-Judge",
-        "number": 196,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
         "card_name": "e"
     },
     {
@@ -1578,8 +1578,8 @@
         "card_name": "er"
     },
     {
-        "card_name": "Agent of Revealed Truth",
-        "number": 142,
+        "card_name": "Dumiyah, The Only Certainty",
+        "number": 161,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
@@ -1589,8 +1589,8 @@
         "card_name": "e"
     },
     {
-        "card_name": "Blesser of Hearths",
-        "number": 152,
+        "card_name": "Vine-Fruit Weaver",
+        "number": 198,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
@@ -1600,8 +1600,8 @@
         "card_name": "e"
     },
     {
-        "card_name": "Generosity",
-        "number": 168,
+        "card_name": "Olamiyah, Covenantal Scribe",
+        "number": 182,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
@@ -1610,36 +1610,6 @@
     {
         "card_name": "Avenges-In-Envy",
         "number": 145,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Divvies-Life-For-All-Living",
-        "number": 159,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Keter of the Moon",
-        "number": 176,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Bind In Prohibitions",
-        "number": 151,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
@@ -1660,16 +1630,76 @@
         "card_name": "e"
     },
     {
-        "card_name": "Olamiyah, Covenantal Scribe",
-        "number": 182,
+        "card_name": "Generosity",
+        "number": 168,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Dumiyah, The Only Certainty",
-        "number": 161,
+        "card_name": "Bind In Prohibitions",
+        "number": 151,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Blesser of Hearths",
+        "number": 152,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Keter of the Moon",
+        "number": 176,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Grants-A-Perfect-Law",
+        "number": 171,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Divvies-Life-For-All-Living",
+        "number": 159,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Spirit Over the Meitohu",
+        "number": 194,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Agent of Revealed Truth",
+        "number": 142,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
@@ -1692,36 +1722,6 @@
     {
         "card_name": "Preening Hayyah",
         "number": 183,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Grants-A-Perfect-Law",
-        "number": 171,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Vine-Fruit Weaver",
-        "number": 198,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Spirit Over the Meitohu",
-        "number": 194,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
@@ -1751,83 +1751,8 @@
         "position": ""
     },
     {
-        "card_name": "Benshachat Praetorian",
-        "number": 150,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Keter of Multiplicty",
-        "number": 175,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Enacts-Signs-And-Wonders",
-        "number": 163,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Multitude Cleaver",
-        "number": 179,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Finishing Stroke",
-        "number": 165,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Reaps-With-Loving-Care",
-        "number": 186,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Sunrise Seraph",
-        "number": 195,
+        "card_name": "Ziz, King Under Heaven",
+        "number": 203,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
@@ -1851,8 +1776,83 @@
         "position": ""
     },
     {
-        "card_name": "Ziz, King Under Heaven",
-        "number": 203,
+        "card_name": "Finishing Stroke",
+        "number": 165,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Keter of Multiplicty",
+        "number": 175,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Benshachat Praetorian",
+        "number": 150,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Multitude Cleaver",
+        "number": 179,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Sunrise Seraph",
+        "number": 195,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Reaps-With-Loving-Care",
+        "number": 186,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Enacts-Signs-And-Wonders",
+        "number": 163,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
@@ -1889,6 +1889,30 @@
         "position": ""
     },
     {
+        "card_name": "Covenant of Truth",
+        "number": 205,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Harp of Sin",
+        "number": 208,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Molten Keter",
+        "number": 209,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
         "card_name": "Foundation Scribe",
         "number": 2,
         "shape": "normal",
@@ -1913,14 +1937,6 @@
         "position": ""
     },
     {
-        "card_name": "Covenant of Truth",
-        "number": 205,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
         "card_name": "Foundation Colossus",
         "number": 206,
         "shape": "normal",
@@ -1931,22 +1947,6 @@
     {
         "card_name": "Garden Statuary",
         "number": 207,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Harp of Sin",
-        "number": 208,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Molten Keter",
-        "number": 209,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
@@ -1976,46 +1976,6 @@
         "card_name": "er"
     },
     {
-        "card_name": "Hall of Wisdom",
-        "number": 223,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Blasted Refuse",
-        "number": 211,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Bloodied Altar",
-        "number": 212,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Fecund Prophecyscape",
-        "number": 221,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Conserving Garden",
-        "number": 216,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
         "card_name": "Lofty Prophecyscape",
         "number": 227,
         "shape": "normal",
@@ -2040,8 +2000,8 @@
         "position": ""
     },
     {
-        "card_name": "World Egg",
-        "number": 236,
+        "card_name": "Fecund Prophecyscape",
+        "number": 221,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
@@ -2050,6 +2010,46 @@
     {
         "card_name": "Imperial Prophecyscape",
         "number": 224,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Hall of Wisdom",
+        "number": 223,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Blasted Refuse",
+        "number": 211,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Bloodied Altar",
+        "number": 212,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "World Egg",
+        "number": 236,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Conserving Garden",
+        "number": 216,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
@@ -2079,8 +2079,8 @@
         "position": ""
     },
     {
-        "card_name": "Pillars of Creation",
-        "number": 229,
+        "card_name": "Vibrant Prophecyscape",
+        "number": 233,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
@@ -2119,8 +2119,8 @@
         "position": ""
     },
     {
-        "card_name": "Vibrant Prophecyscape",
-        "number": 233,
+        "card_name": "Pillars of Creation",
+        "number": 229,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,
@@ -2182,14 +2182,6 @@
         "position": ""
     },
     {
-        "card_name": "Evolving Wilds",
-        "number": 220,
-        "shape": "normal",
-        "set": "M6D",
-        "rotated": false,
-        "position": ""
-    },
-    {
         "card_name": "The Judicary",
         "number": 225,
         "shape": "normal",
@@ -2208,6 +2200,14 @@
     {
         "card_name": "The Study Hall",
         "number": 232,
+        "shape": "normal",
+        "set": "M6D",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Evolving Wilds",
+        "number": 220,
         "shape": "normal",
         "set": "M6D",
         "rotated": false,

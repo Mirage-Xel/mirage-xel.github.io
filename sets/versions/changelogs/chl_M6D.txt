@@ -1,4 +1,520 @@
-﻿VERSION 16 CHANGELOG
+﻿VERSION 17 CHANGELOG
+====================
+
+
+
+Wheelform Codex
+
+Brood Savant
+
+Lav-Kofe, Serpent In the Garden
+
+Beast of Folded Wings
+
+Ivory-Tower Watcher
+
+Keter of Legions
+
+Gabbai of Blessing
+
+Keter of Judgement
+
+Censuskeeper of the Living
+
+Shamash Of Glory
+
+Splat
+
+Mollify
+
+Day of Ire
+
+Reforge From Dross
+
+Drown In Dreamstuff
+
+Numeric Veto
+
+Succumb To License
+
+Inspire
+
+Polytropic Erel
+
+Keter of Might
+
+Sanctity's Allure
+
+Celestial Cherem
+
+Ignominous Fall
+
+Smokemirror Sage
+
+Imago Dei
+
+Oriyah In Front of Me
+
+Entropic Gurgle
+
+Anatomism
+
+Meitohu Chorister
+
+Heavenly Counsel
+
+Keter of Smoke
+
+Beater of Plowshares
+
+Justifier of Judgement
+
+Mighty of Prattle
+
+Keter of Wisdom
+
+Void-Magic Binder
+
+Mane of Righteous Kings
+
+Judges-Measure-For-Measure
+
+Welfare-Book Sofer
+
+Keter of Briliance
+
+Writes-Account-of-Sin
+
+Keter of Flame
+
+Flayer of Words
+
+Heavenly Trumpet
+
+Glorified Creation
+
+Reconstructive Operation
+
+Snuff
+
+Wail Out
+
+Contemplate Ruin
+
+Burrow Into Understanding
+
+Thing of Beauty
+
+Division Undoes
+
+Symmetry Sage
+
+Sere Rememberancer
+
+Orders-the-Planets-And-Stars
+
+Doubtwrack
+
+Blasphemous Watcher
+
+Tormented Cry
+
+Grafted Taunt
+
+Heavengilt Cameo
+
+Shaping Hand
+
+Lay Bare the Heart
+
+Proscribed Seer
+
+Vivisected Effigy
+
+Keter of Death
+
+Collect-Will-Collect
+
+Redeemer of Heaven's Blood
+
+Shade-Wreathed Bailif
+
+Indulge in Knowledge
+
+Churlish Mockery
+
+Master of Artifice
+
+Gizbor of Radiance
+
+Bestial Speaker
+
+Doyen of Sorcerous Acts
+
+Double Exigesis
+
+Multifarious Teacher
+
+Letters of Life
+
+Mapper of Newborn Land
+
+Hymnal Naturalist
+
+Meitohu-Wind Artisan
+
+Spins-A-World-From-Water
+
+Erase-Will-Not-Erase
+
+Mud-Slinging
+
+Keening Poet
+
+Clearsight Lecturer
+
+Spiritual Sever
+
+Forge In Flames
+
+Keeper of the Faithful
+
+Visions of a Burnt House
+
+Vivacous Meitohu
+
+Engraver of Form
+
+Valor of Women
+
+Seraphic Girdle
+
+Deem Forbidden
+
+Clarity Sage
+
+Nefeshef Phial
+
+Keter of the Firmament
+
+Arbiter of Verdicts
+
+Gives-Absolute-Decrees
+
+Return to Form
+
+Paradisacal Gate
+
+Contemplative Silence
+
+Raises-From-the-Pit
+
+Cite
+
+Test of Paradise
+
+Cackling Shedata
+
+Hosniyah Behind Me
+
+Received Griefmage
+
+Divisor of Welfare
+
+Bneishachat Rise
+
+A Tree Of Life For Those Who Grasp It
+
+Lifeseed Addler
+
+Weaver of Storms
+
+Watcher of Consecrations
+
+Peleyah At My Right
+
+Hail of Brimstone
+
+Tselmiyah, Quickener
+
+Devises-Galaxies-In-Wisdom
+
+Drench
+
+Firmament Swimmer
+
+Writes-Myriad-Meanings
+
+Hammer of Strictures
+
+Kokhiyah At My Left
+
+Inextensible Doll
+
+Alphabetical Shift
+
+Abase
+
+Seraphic Speech of Secrets
+
+Keter-Mother
+
+Gives-Wisdom-To-Its-Seekers
+
+Herald of the Final Day
+
+Keeper of Meitohu's Force
+
+Downcast
+
+Benshachat Praetorian
+
+Sunrise Seraph
+
+Keter of the Moon
+
+Spirit Over the Meitohu
+
+Avta's Cast
+
+Agents of the Chariot
+
+Sanctifier of Bloodgifts
+
+Court of Death's Claim
+
+Weaver of Harsh Decrees
+
+Noble Keterweaver
+
+Ram of the Binding
+
+Pulchritude Scribe
+
+Finishing Stroke
+
+Preening Hayyah
+
+Bind In Prohibitions
+
+Grants-A-Perfect-Law
+
+Keter of Multiplicty
+
+Multitude Cleaver
+
+Blesser of Hearths
+
+Divvies-Life-For-All-Living
+
+Balanced Dayan
+
+Keter of Balance
+
+Remembers-Each-Soul
+
+Glory-Cloaked Zealot
+
+Solacent Keruv
+
+Sets-The-Sun-To-Rise-Each-Day
+
+Root of Insolence
+
+Axe of Perlis
+
+Were It Not Written
+
+Witchcraft Whisperer
+
+Keter of Libations
+
+Court of Life's Variety
+
+Armaments of Heaven
+
+Agent of Revealed Truth
+
+Reaps-With-Loving-Care
+
+Nova Alchemist
+
+A World Lacking Nothing
+
+Keter of Ingenuity
+
+Fraying Chacham
+
+Sees-All-Secrets
+
+Dumiyah's Sofer
+
+The-True-Judge
+
+Chaotic Assemblage
+
+Evil Inclination
+
+Moral Nihlist
+
+Destructive Builder
+
+Grandiloquent Teacher
+
+Avenges-In-Envy
+
+Vindictive Seir
+
+Enacts-Signs-And-Wonders
+
+Generosity
+
+For Good
+
+Dreamcast Apprenticeship
+
+Nameless Keter
+
+War In Heaven
+
+Engineers of Bodily Form
+
+Dumiyah, The Only Certainty
+
+Avta, Prosecutorial Prince
+
+Vine-Fruit Weaver
+
+Ziz, King Under Heaven
+
+Olamiyah, Covenantal Scribe
+
+The First Key
+
+Lilyata, First Benshachat
+
+Chaytiv, Who Chose To Know
+
+Bewailing Effigies
+
+Peaceblossom
+
+Diluvian Prophecyscape
+
+Lofty Prophecyscape
+
+Grieving Prophecyscape
+
+Bustling Prophecyscpe
+
+Vibrant Prophecyscape
+
+Cavernous Prophecyscape
+
+Slick Prophecyscape
+
+Dire Prophecyscape
+
+Fecund Prophecyscape
+
+Imperial Prophecyscape
+
+Hall of Wisdom
+
+Wailing Barrens
+
+Bloodied Altar
+
+World Egg
+
+Conserving Garden
+
+Lesser Throne
+
+Pillars of Creation
+
+Blasted Refuse
+
+Productive Smithy
+
+Water-Drawing Site
+
+Prophetic Prism
+
+Foundation Scribe
+
+Molten Keter
+
+Covenant of Truth
+
+Garden Statuary
+
+Foundation Colossus
+
+Harp of Sin
+
+Vessel Of Disrespect
+
+Empty One
+
+Almanac of Days
+
+The Boiler
+
+The Judicary
+
+The Engine Room
+
+The Orchard
+
+The Study Hall
+
+Austere Tanna
+
+Evolving Wilds
+
+Angel
+
+Equipment
+
+Keter of 248 Organs
+
+Angel
+
+Angel Devil
+
+Angel
+
+Angel Wizard
+
+Meitohu Sludge
+
+Demon
+
+Homunculus
+
+Homunculus Beast
+
+Law
+
+
+type: Artifact — Book => Token Creature
+cost: {1}{W} => 
+rules_text: When this artifact enters, exile target creature with mana value 3 or less until this artifact leaves the battlefield.
+{1}{W}: Exile target creature you control until this artifact leaves the battlefield.
+{3}{W}: Exile this artifact, then return it to the battlefield under your control. => 
+pt:  => 2/2
+
+Conch Horn
+
+Treasure
+
+Scribe's Keter
+
+First Thing
+
+
+VERSION 16 CHANGELOG
 ====================
 
 
