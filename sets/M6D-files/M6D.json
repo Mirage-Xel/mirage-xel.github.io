@@ -966,7 +966,7 @@
             "cost": "{1}{G}",
             "rules_text": "Whenever you cast a noncreature spell, put a +1/+1 counter on this creature.",
             "flavor_text": "[i]\u201cCreation is impressive, but it feels to me like a wedding feast without the bride.\u201d\n\u2014Avta, Prosecutorial Prince[/i]",
-            "pt": "0/1",
+            "pt": "1/1",
             "special_text": "",
             "shape": "normal",
             "set": "M6D",
@@ -4890,5 +4890,5 @@
             "notes": ""
         }
     ],
-    "version": 14
+    "version": 15
 }

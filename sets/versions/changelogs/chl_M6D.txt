@@ -1,4 +1,21 @@
-﻿VERSION 14 CHANGELOG
+﻿VERSION 15 CHANGELOG
+====================
+
+
+
+Thing of Beauty
+pt: 0/1 => 1/1
+
+
+type: Artifact — Book => Token Creature
+cost: {1}{W} => 
+rules_text: When this artifact enters, exile target creature with mana value 3 or less until this artifact leaves the battlefield.
+{1}{W}: Exile target creature you control until this artifact leaves the battlefield.
+{3}{W}: Exile this artifact, then return it to the battlefield under your control. => 
+pt:  => 2/2
+
+
+VERSION 14 CHANGELOG
 ====================
 
 
