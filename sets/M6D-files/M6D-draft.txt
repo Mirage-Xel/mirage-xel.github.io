@@ -1,4 +1,4 @@
-﻿[CustomCards]
+[CustomCards]
 	[
 		{
 			"name": "Wheelform Codex",
@@ -2553,7 +2553,7 @@
 		{
 			"name": "Scribe's Keter",
 			"rarity": "rare",
-			"mana_cost": "{1}{W}{U}",
+			"mana_cost": "{2}{W}{U}",
 			"type": "Artifact — Equipment",
 			"collector_number": "190",
 			"image_uris": {

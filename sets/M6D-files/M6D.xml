@@ -5,7 +5,7 @@
 			<name>M6D</name>
 			<longname>Mysticism of the Sixth Day</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-09-17</releasedate>
+			<releasedate>2026-09-23</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -1721,7 +1721,7 @@ Players can&apos;t attack with more than one creature each combat.</text>
 		<card>
 			<name>Gives-Absolute-Decrees</name>
 			<text>Flash
-When this creature enters, target opponent reveals their hand, then exile a nonland card from their hand if it&apos;s your turn or target spell they control. They may cast it from exile for as long as it remains exiled. It costs {2} more to cast.</text>
+When this creature enters, target opponent reveals their hand, then exile a nonland card from their hand if it&apos;s your turn or target spell they control. They may cast it from exile for as long as it remains exiled for {2} rather than its mana cost.</text>
 			<set rarity="uncommon" picurl="https://mirage-xel.github.io/sets/M6D-files/img/12_Gives-Absolute-Decrees.png" num="12">M6D</set>
 			<prop>
 				<layout>normal</layout>
@@ -1754,7 +1754,7 @@ When this creature enters, target opponent reveals their hand, then exile a nonl
 		</card>
 		<card>
 			<name>Paradisacal Gate</name>
-			<text>If a creature would enter and it wasn&apos;t cast from its owner&apos;s hand for an amount of mana equal to its mana value, exile it instead.
+			<text>If a nontoken creature would enter and it wasn&apos;t cast from its owner&apos;s hand for an amount of mana equal to its mana value, exile it instead.
 Tap six untapped permanents you control: Exile this artifact. Any player may activate this ability.</text>
 			<set rarity="uncommon" picurl="https://mirage-xel.github.io/sets/M6D-files/img/24_Paradisacal Gate.png" num="24">M6D</set>
 			<prop>
@@ -1886,7 +1886,7 @@ Whenever another creature you control dies, each opponent loses 1 life and you g
 				<cmc>2</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
-				<pt>1/1</pt>
+				<pt>0/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -3250,7 +3250,8 @@ Tokens you control have &quot;{T}: Add one mana of any color. Spend this mana on
 • Target player creates two 1/1 white Angel creature tokens.
 • Create a token that&apos;s a copy of target creature you control, then exile the token.
 • Return target instant or sorcery card from your graveyard to your hand.
-• Tap or untap target permanent.</text>
+• Tap or untap target permanent. 
+Exile Dreamcast Apprenticeship.</text>
 			<set rarity="rare" picurl="https://mirage-xel.github.io/sets/M6D-files/img/35_Dreamcast Apprenticeship.png" num="35">M6D</set>
 			<prop>
 				<layout>normal</layout>
@@ -3353,7 +3354,7 @@ Cards in graveyards lose all names, card types, and abilities.</text>
 		</card>
 		<card>
 			<name>Vine-Fruit Weaver</name>
-			<text>At the beginning of your end step, you gain life equal to the amount of life you gained this turn and create a 0/0 black Demon creature token and put X +1/+1 counters on it, where X is the amount of life you lost this turn.</text>
+			<text>At the beginning of your end step, you gain life equal to the amount of life you gained this turn and create a 0/0 black Demon creature token and put X +1/+1 counters on it, where X is half the amount of life you lost this turn, rounded down.</text>
 			<set rarity="mythic" picurl="https://mirage-xel.github.io/sets/M6D-files/img/198_Vine-Fruit Weaver.png" num="198">M6D</set>
 			<prop>
 				<layout>normal</layout>
@@ -4415,15 +4416,15 @@ This creature can&apos;t block.</text>
 			<text>Raiment. (When this enters, create a 1/1 Angel token with &quot;At the beginning of your upkeep, you may pay {2}. When you do, this creature&apos;s Equipment gain another instance of their abilities until end of turn&quot; and attach this to it.)
 Equipped creature gets +1/+1.
 Whenever a creature you control attacks alone, create a token that&apos;s a copy of target nonland permanent you control with mana value 2 or less.
-Equip {3}</text>
+Equip {2}</text>
 			<set rarity="rare" picurl="https://mirage-xel.github.io/sets/M6D-files/img/190_Scribe&apos;s Keter.png" num="190">M6D</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Artifact — Equipment</type>
 				<maintype>Artifact</maintype>
-				<manacost>1WU</manacost>
-				<cmc>3</cmc>
+				<manacost>2WU</manacost>
+				<cmc>4</cmc>
 				<colors>WU</colors>
 				<coloridentity>WU</coloridentity>
 			</prop>

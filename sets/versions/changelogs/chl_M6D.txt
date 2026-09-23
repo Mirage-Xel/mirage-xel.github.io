@@ -1,4 +1,136 @@
-﻿VERSION 17 CHANGELOG
+﻿VERSION 18 CHANGELOG
+====================
+
+
+
+Keter of Legions
+
+Gabbai of Blessing
+
+Shamash Of Glory
+
+Splat
+
+Drown In Dreamstuff
+
+Numeric Veto
+
+Ignominous Fall
+
+Heavenly Counsel
+
+Glorified Creation
+
+Division Undoes
+
+Symmetry Sage
+
+Doubtwrack
+
+Blasphemous Watcher
+
+Collect-Will-Collect
+
+Shade-Wreathed Bailif
+
+Indulge in Knowledge
+
+Gizbor of Radiance
+
+Spiritual Sever
+
+Visions of a Burnt House
+
+Gives-Absolute-Decrees
+rules_text: Flash
+When this creature enters, target opponent reveals their hand, then exile a nonland card from their hand if it's your turn or target spell they control. They may cast it from exile for as long as it remains exiled. It costs {2} more to cast. => Flash
+When this creature enters, target opponent reveals their hand, then exile a nonland card from their hand if it's your turn or target spell they control. They may cast it from exile for as long as it remains exiled for {2} rather than its mana cost.
+
+Return to Form
+
+Paradisacal Gate
+rules_text: If a creature would enter and it wasn't cast from its owner's hand for an amount of mana equal to its mana value, exile it instead.
+Tap six untapped permanents you control: Exile this artifact. Any player may activate this ability. => If a nontoken creature would enter and it wasn't cast from its owner's hand for an amount of mana equal to its mana value, exile it instead.
+Tap six untapped permanents you control: Exile this artifact. Any player may activate this ability.
+
+Raises-From-the-Pit
+
+Cackling Shedata
+
+Received Griefmage
+pt: 1/1 => 0/1
+
+Lifeseed Addler
+
+Hail of Brimstone
+
+Devises-Galaxies-In-Wisdom
+
+Firmament Swimmer
+
+Writes-Myriad-Meanings
+
+Hammer of Strictures
+
+Alphabetical Shift
+
+Seraphic Speech of Secrets
+
+Gives-Wisdom-To-Its-Seekers
+
+Herald of the Final Day
+
+Chaotic Assemblage
+
+Dreamcast Apprenticeship
+rules_text: Choose three. You may choose the same mode more than once.
+• Target player creates two 1/1 white Angel creature tokens.
+• Create a token that's a copy of target creature you control, then exile the token.
+• Return target instant or sorcery card from your graveyard to your hand.
+• Tap or untap target permanent. => Choose three. You may choose the same mode more than once.
+• Target player creates two 1/1 white Angel creature tokens.
+• Create a token that's a copy of target creature you control, then exile the token.
+• Return target instant or sorcery card from your graveyard to your hand.
+• Tap or untap target permanent. 
+Exile Dreamcast Apprenticeship.
+
+Nameless Keter
+
+Dumiyah, The Only Certainty
+
+Vine-Fruit Weaver
+rules_text: At the beginning of your end step, you gain life equal to the amount of life you gained this turn and create a 0/0 black Demon creature token and put X +1/+1 counters on it, where X is the amount of life you lost this turn. => At the beginning of your end step, you gain life equal to the amount of life you gained this turn and create a 0/0 black Demon creature token and put X +1/+1 counters on it, where X is half the amount of life you lost this turn, rounded down.
+
+Ziz, King Under Heaven
+
+Olamiyah, Covenantal Scribe
+
+The First Key
+
+Bewailing Effigies
+
+Peaceblossom
+
+
+type: Artifact — Book => Token Creature
+cost: {1}{W} => 
+rules_text: When this artifact enters, exile target creature with mana value 3 or less until this artifact leaves the battlefield.
+{1}{W}: Exile target creature you control until this artifact leaves the battlefield.
+{3}{W}: Exile this artifact, then return it to the battlefield under your control. => 
+pt:  => 2/2
+
+Scribe's Keter
+cost: {1}{W}{U} => {2}{W}{U}
+rules_text: Raiment. [i](When this enters, create a 1/1 Angel token with “At the beginning of your upkeep, you may pay {2}. When you do, this creature's Equipment gain another instance of their abilities until end of turn” and attach this to it.)[/i]
+Equipped creature gets +1/+1.
+Whenever a creature you control attacks alone, create a token that's a copy of target nonland permanent you control with mana value 2 or less.
+Equip {3} => Raiment. [i](When this enters, create a 1/1 Angel token with “At the beginning of your upkeep, you may pay {2}. When you do, this creature's Equipment gain another instance of their abilities until end of turn” and attach this to it.)[/i]
+Equipped creature gets +1/+1.
+Whenever a creature you control attacks alone, create a token that's a copy of target nonland permanent you control with mana value 2 or less.
+Equip {2}
+
+
+VERSION 17 CHANGELOG
 ====================
 
 

@@ -118,7 +118,7 @@
             "loyalty": "",
             "artist": "Zencultist",
             "alias": "",
-            "notes": ""
+            "notes": "!tag aggro-threat"
         },
         {
             "card_name": "Gabbai of Blessing",
@@ -137,7 +137,7 @@
             "loyalty": "",
             "artist": "Carlos Quevedo",
             "alias": "",
-            "notes": ""
+            "notes": "!tag aggro-threat"
         },
         {
             "card_name": "Keter of Judgement",
@@ -194,7 +194,7 @@
             "loyalty": "",
             "artist": "Nekro",
             "alias": "",
-            "notes": "!exportname Shamash Of Glory"
+            "notes": "!exportname Shamash Of Glory\n!tag aggro-threat"
         },
         {
             "card_name": "Splat",
@@ -213,7 +213,7 @@
             "loyalty": "",
             "artist": "DarKayNess",
             "alias": "",
-            "notes": ""
+            "notes": "!tag removal"
         },
         {
             "card_name": "Mollify",
@@ -289,7 +289,7 @@
             "loyalty": "",
             "artist": "Alex Out",
             "alias": "",
-            "notes": ""
+            "notes": "!tag counterspell"
         },
         {
             "card_name": "Numeric Veto",
@@ -308,7 +308,7 @@
             "loyalty": "",
             "artist": "Carlos Quevedo",
             "alias": "",
-            "notes": ""
+            "notes": "!tag counterspell"
         },
         {
             "card_name": "Succumb To License",
@@ -441,7 +441,7 @@
             "loyalty": "",
             "artist": "DarKayNess",
             "alias": "",
-            "notes": "!tag spotlight"
+            "notes": "!tag spotlight\n!tag removal"
         },
         {
             "card_name": "Smokemirror Sage",
@@ -574,7 +574,7 @@
             "loyalty": "",
             "artist": "Ruberman Rodriguez",
             "alias": "",
-            "notes": ""
+            "notes": "!tag draw"
         },
         {
             "card_name": "Keter of Smoke",
@@ -859,7 +859,7 @@
             "loyalty": "",
             "artist": "Nekro",
             "alias": "",
-            "notes": ""
+            "notes": "!tag removal"
         },
         {
             "card_name": "Reconstructive Operation",
@@ -992,7 +992,7 @@
             "loyalty": "",
             "artist": "Isis Sangar\u00e9",
             "alias": "",
-            "notes": ""
+            "notes": "!tag sideboard"
         },
         {
             "card_name": "Symmetry Sage",
@@ -1011,7 +1011,7 @@
             "loyalty": "",
             "artist": "Ormius",
             "alias": "",
-            "notes": ""
+            "notes": "!tag topend-threat"
         },
         {
             "card_name": "Sere Rememberancer",
@@ -1068,7 +1068,7 @@
             "loyalty": "",
             "artist": "Deihasth",
             "alias": "",
-            "notes": ""
+            "notes": "!tag discard"
         },
         {
             "card_name": "Blasphemous Watcher",
@@ -1087,7 +1087,7 @@
             "loyalty": "",
             "artist": "gaihal Aslam",
             "alias": "",
-            "notes": ""
+            "notes": "!tag value-threat\n!tag wishlist"
         },
         {
             "card_name": "Tormented Cry",
@@ -1258,7 +1258,7 @@
             "loyalty": "",
             "artist": "hadriiiart",
             "alias": "",
-            "notes": ""
+            "notes": "!tag interactive-threat\n!tag removal"
         },
         {
             "card_name": "Redeemer of Heaven's Blood",
@@ -1296,7 +1296,7 @@
             "loyalty": "",
             "artist": "BASTIEN LECOUFFE DEHARME",
             "alias": "",
-            "notes": ""
+            "notes": "!tag discard"
         },
         {
             "card_name": "Indulge in Knowledge",
@@ -1315,7 +1315,7 @@
             "loyalty": "",
             "artist": "Lois van Baarle",
             "alias": "",
-            "notes": ""
+            "notes": "!tag sideboard"
         },
         {
             "card_name": "Churlish Mockery",
@@ -1372,7 +1372,7 @@
             "loyalty": "",
             "artist": "oy The Art",
             "alias": "",
-            "notes": ""
+            "notes": "!tag cheatout-threat"
         },
         {
             "card_name": "Bestial Speaker",
@@ -1638,7 +1638,7 @@
             "loyalty": "",
             "artist": "Ormius",
             "alias": "",
-            "notes": ""
+            "notes": "!tag removal"
         },
         {
             "card_name": "Forge In Flames",
@@ -1695,7 +1695,7 @@
             "loyalty": "",
             "artist": "Soufiane Idrassi",
             "alias": "",
-            "notes": "!tag spotlight"
+            "notes": "!tag spotlight\n!tag cantrip"
         },
         {
             "card_name": "Vivacous Meitohu",
@@ -1876,7 +1876,7 @@
             "number": 12,
             "color_identity": "W",
             "cost": "{2}{W}",
-            "rules_text": "Flash\nWhen this creature enters, target opponent reveals their hand, then exile a nonland card from their hand if it's your turn or target spell they control. They may cast it from exile for as long as it remains exiled. It costs {2} more to cast.",
+            "rules_text": "Flash\nWhen this creature enters, target opponent reveals their hand, then exile a nonland card from their hand if it's your turn or target spell they control. They may cast it from exile for as long as it remains exiled for {2} rather than its mana cost.",
             "flavor_text": "[i][/i]",
             "pt": "3/1",
             "special_text": "",
@@ -1885,7 +1885,7 @@
             "loyalty": "",
             "artist": "Nino Vecia",
             "alias": "",
-            "notes": ""
+            "notes": "!tag interactive-threat\n!tag counterspell\n!tag discard"
         },
         {
             "card_name": "Return to Form",
@@ -1904,7 +1904,7 @@
             "loyalty": "",
             "artist": "Carlos Quevedo",
             "alias": "",
-            "notes": ""
+            "notes": "!tag mana-cheating"
         },
         {
             "card_name": "Paradisacal Gate",
@@ -1914,7 +1914,7 @@
             "number": 24,
             "color_identity": "W",
             "cost": "{2}{W}",
-            "rules_text": "If a creature would enter and it wasn't cast from its owner's hand for an amount of mana equal to its mana value, exile it instead.\nTap six untapped permanents you control: Exile this artifact. Any player may activate this ability.",
+            "rules_text": "If a nontoken creature would enter and it wasn't cast from its owner's hand for an amount of mana equal to its mana value, exile it instead.\nTap six untapped permanents you control: Exile this artifact. Any player may activate this ability.",
             "flavor_text": "[i]\u201cDoes a mortal king make a palace door to keep it shut up?\u201d\n\u2014Peleyah[/i]",
             "pt": "",
             "special_text": "",
@@ -1961,7 +1961,7 @@
             "loyalty": "",
             "artist": "Sygdom",
             "alias": "",
-            "notes": ""
+            "notes": "!tag mana-cheating"
         },
         {
             "card_name": "Cite",
@@ -2018,7 +2018,7 @@
             "loyalty": "",
             "artist": "Zuz \"Spikulec\" Gruzlewska",
             "alias": "",
-            "notes": ""
+            "notes": "!tag cheatout-threat"
         },
         {
             "card_name": "Hosniyah Behind Me",
@@ -2049,14 +2049,14 @@
             "cost": "{1}{B}",
             "rules_text": "Host [i](When this creature attacks, you may create a 1/1 tapped and attacking token copy of it without host. Sacrifice that token at the beginning of the next end step unless you sacrifice a creature.)[/i]\nWhenever another creature you control dies, each opponent loses 1 life and you gain 1 life.",
             "flavor_text": "[i][/i]",
-            "pt": "1/1",
+            "pt": "0/1",
             "special_text": "",
             "shape": "normal",
             "set": "M6D",
             "loyalty": "",
             "artist": "Soufiane Idrassi",
             "alias": "",
-            "notes": ""
+            "notes": "!tag aggro-threat"
         },
         {
             "card_name": "Divisor of Welfare",
@@ -2124,7 +2124,7 @@
             "color_identity": "G",
             "cost": "{2}{G}",
             "rules_text": "When this creature enters, if you've gained or lost life this turn, create a 2/1 green Homunculus creature token with \u201cAt the beginning of your end step, if this creature didn't enter this turn, sacrifice it.\u201d",
-            "flavor_text": "[i]The purpose of the Bneishachat rapidly became an army to invade Heaven[/i]",
+            "flavor_text": "[i]The purpose of the Bneishachat rapidly became an army to invade Heaven.[/i]",
             "pt": "3/2",
             "special_text": "",
             "shape": "normal",
@@ -2208,7 +2208,7 @@
             "loyalty": "",
             "artist": "Isis Sangar\u00e9",
             "alias": "",
-            "notes": "!tag spotlight"
+            "notes": "!tag spotlight\n!tag sweeper"
         },
         {
             "card_name": "Tselmiyah, Quickener",
@@ -2246,7 +2246,7 @@
             "loyalty": "",
             "artist": "Saeran Moore",
             "alias": "",
-            "notes": ""
+            "notes": "!tag topend-threat"
         },
         {
             "card_name": "Drench",
@@ -2284,7 +2284,7 @@
             "loyalty": "",
             "artist": "Deihasth",
             "alias": "",
-            "notes": ""
+            "notes": "!tag aggro-threat\n!tag wishlist"
         },
         {
             "card_name": "Writes-Myriad-Meanings",
@@ -2303,7 +2303,7 @@
             "loyalty": "",
             "artist": "Artur Nakhodkin",
             "alias": "",
-            "notes": ""
+            "notes": "!tag value"
         },
         {
             "card_name": "Hammer of Strictures",
@@ -2322,7 +2322,7 @@
             "loyalty": "",
             "artist": "Saarl",
             "alias": "",
-            "notes": ""
+            "notes": "!tag topend-threat"
         },
         {
             "card_name": "Kokhiyah At My Left",
@@ -2379,7 +2379,7 @@
             "loyalty": "",
             "artist": "Carlos Quevedo",
             "alias": "",
-            "notes": ""
+            "notes": "!tag removal"
         },
         {
             "card_name": "Abase",
@@ -2417,7 +2417,7 @@
             "loyalty": "",
             "artist": "Isis Sangar\u00e9",
             "alias": "",
-            "notes": ""
+            "notes": "!tag draw"
         },
         {
             "card_name": "Keter-Mother",
@@ -2455,7 +2455,7 @@
             "loyalty": "",
             "artist": "Christian Klement",
             "alias": "",
-            "notes": ""
+            "notes": "!tag topend-threat"
         },
         {
             "card_name": "Herald of the Final Day",
@@ -2474,7 +2474,7 @@
             "loyalty": "",
             "artist": "RedBirdPainte",
             "alias": "",
-            "notes": ""
+            "notes": "!tag cheatout-threat"
         },
         {
             "card_name": "Keeper of Meitohu's Force",
@@ -3329,7 +3329,7 @@
             "loyalty": "",
             "artist": "Gabriel Varz",
             "alias": "",
-            "notes": "!tag wishlist"
+            "notes": ""
         },
         {
             "card_name": "Evil Inclination",
@@ -3510,7 +3510,7 @@
             "number": 35,
             "color_identity": "U",
             "cost": "{4}{U}",
-            "rules_text": "Choose three. You may choose the same mode more than once.\n\u2022 Target player creates two 1/1 white Angel creature tokens.\n\u2022 Create a token that's a copy of target creature you control, then exile the token.\n\u2022 Return target instant or sorcery card from your graveyard to your hand.\n\u2022 Tap or untap target permanent.",
+            "rules_text": "Choose three. You may choose the same mode more than once.\n\u2022 Target player creates two 1/1 white Angel creature tokens.\n\u2022 Create a token that's a copy of target creature you control, then exile the token.\n\u2022 Return target instant or sorcery card from your graveyard to your hand.\n\u2022 Tap or untap target permanent. \nExile Dreamcast Apprenticeship.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3538,7 +3538,7 @@
             "loyalty": "",
             "artist": "Patricia Manzarraga",
             "alias": "",
-            "notes": ""
+            "notes": "!tag value threat"
         },
         {
             "card_name": "War In Heaven",
@@ -3595,7 +3595,7 @@
             "loyalty": "",
             "artist": "DarKayNess",
             "alias": "",
-            "notes": ""
+            "notes": "!tag sideboard"
         },
         {
             "card_name": "Avta, Prosecutorial Prince",
@@ -3624,7 +3624,7 @@
             "number": 198,
             "color_identity": "BRG",
             "cost": "{B}{R}{G}",
-            "rules_text": "At the beginning of your end step, you gain life equal to the amount of life you gained this turn and create a 0/0 black Demon creature token and put X +1/+1 counters on it, where X is the amount of life you lost this turn.",
+            "rules_text": "At the beginning of your end step, you gain life equal to the amount of life you gained this turn and create a 0/0 black Demon creature token and put X +1/+1 counters on it, where X is half the amount of life you lost this turn, rounded down.",
             "flavor_text": "[i]\u201cHismel said: Wine is central at festive tables, but it is laced with Avta's perfume.\u201d\n\u2014Ethics of the Elders 3:1[/i]",
             "pt": "3/3",
             "special_text": "",
@@ -3652,7 +3652,7 @@
             "loyalty": "",
             "artist": "Aurore Folny",
             "alias": "",
-            "notes": ""
+            "notes": "!tag topend-threat"
         },
         {
             "card_name": "Olamiyah, Covenantal Scribe",
@@ -3671,7 +3671,7 @@
             "loyalty": "",
             "artist": "Anato Finnstark",
             "alias": "",
-            "notes": ""
+            "notes": "!tag topend-threat"
         },
         {
             "card_name": "The First Key",
@@ -3690,7 +3690,7 @@
             "loyalty": "",
             "artist": "Tristan Alexander (edited)",
             "alias": "",
-            "notes": ""
+            "notes": "!tag wishlist"
         },
         {
             "card_name": "Lilyata, First Benshachat",
@@ -3747,7 +3747,7 @@
             "loyalty": "",
             "artist": "Isis Sangar\u00e9",
             "alias": "",
-            "notes": ""
+            "notes": "!tag topend-threat"
         },
         {
             "card_name": "Peaceblossom",
@@ -3766,7 +3766,7 @@
             "loyalty": "",
             "artist": "Carlos Quevedo",
             "alias": "",
-            "notes": "!tag wishlist"
+            "notes": "!tag aggro-threat"
         },
         {
             "card_name": "Diluvian Prophecyscape",
@@ -4858,8 +4858,8 @@
             "type": "Artifact \u2014 Equipment",
             "number": 190,
             "color_identity": "WU",
-            "cost": "{1}{W}{U}",
-            "rules_text": "Raiment. [i](When this enters, create a 1/1 Angel token with \u201cAt the beginning of your upkeep, you may pay {2}. When you do, this creature's Equipment gain another instance of their abilities until end of turn\u201d and attach this to it.)[/i]\nEquipped creature gets +1/+1.\nWhenever a creature you control attacks alone, create a token that's a copy of target nonland permanent you control with mana value 2 or less.\nEquip {3}",
+            "cost": "{2}{W}{U}",
+            "rules_text": "Raiment. [i](When this enters, create a 1/1 Angel token with \u201cAt the beginning of your upkeep, you may pay {2}. When you do, this creature's Equipment gain another instance of their abilities until end of turn\u201d and attach this to it.)[/i]\nEquipped creature gets +1/+1.\nWhenever a creature you control attacks alone, create a token that's a copy of target nonland permanent you control with mana value 2 or less.\nEquip {2}",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4868,7 +4868,7 @@
             "loyalty": "",
             "artist": "Magdalena Radziej,",
             "alias": "",
-            "notes": "!tag wishlist"
+            "notes": ""
         },
         {
             "card_name": "First Thing",
