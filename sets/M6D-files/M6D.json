@@ -1876,7 +1876,7 @@
             "number": 12,
             "color_identity": "W",
             "cost": "{2}{W}",
-            "rules_text": "Flash\nWhen this creature enters, target opponent reveals their hand, then exile a nonland card from their hand if it's your turn or target spell they control. They may cast it from exile for as long as it remains exiled for {2} rather than its mana cost.",
+            "rules_text": "Flash\nWhen this creature enters, exile target spell or nonland permanent target opponent controls. They may cast it from exile for as long as it remains exiled by paying {2} rather than its mana cost.",
             "flavor_text": "[i][/i]",
             "pt": "3/1",
             "special_text": "",
@@ -1885,7 +1885,7 @@
             "loyalty": "",
             "artist": "Nino Vecia",
             "alias": "",
-            "notes": "!tag interactive-threat\n!tag counterspell\n!tag discard"
+            "notes": "!tag interactive-threat\n!tag counterspell"
         },
         {
             "card_name": "Return to Form",
@@ -4890,5 +4890,5 @@
             "notes": ""
         }
     ],
-    "version": 18
+    "version": 19
 }

@@ -1721,7 +1721,7 @@ Players can&apos;t attack with more than one creature each combat.</text>
 		<card>
 			<name>Gives-Absolute-Decrees</name>
 			<text>Flash
-When this creature enters, target opponent reveals their hand, then exile a nonland card from their hand if it&apos;s your turn or target spell they control. They may cast it from exile for as long as it remains exiled for {2} rather than its mana cost.</text>
+When this creature enters, exile target spell or nonland permanent target opponent controls. They may cast it from exile for as long as it remains exiled by paying {2} rather than its mana cost.</text>
 			<set rarity="uncommon" picurl="https://mirage-xel.github.io/sets/M6D-files/img/12_Gives-Absolute-Decrees.png" num="12">M6D</set>
 			<prop>
 				<layout>normal</layout>
