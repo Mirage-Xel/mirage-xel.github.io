@@ -17,8 +17,11 @@
             "loyalty": "",
             "artist": "Tina Fulton",
             "alias": "",
+            "position": "0",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Brood Savant",
@@ -37,8 +40,11 @@
             "loyalty": "",
             "artist": "V\u00e1radi Paszk\u00e1l",
             "alias": "",
+            "position": "1",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Lav-Kofe, Serpent In the Garden",
@@ -57,8 +63,11 @@
             "loyalty": "",
             "artist": "Gaia Degl'Innocenti",
             "alias": "",
+            "position": "2",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Beast of Folded Wings",
@@ -77,8 +86,11 @@
             "loyalty": "",
             "artist": "Juan Caparas",
             "alias": "",
+            "position": "3",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ivory-Tower Watcher",
@@ -97,8 +109,11 @@
             "loyalty": "",
             "artist": "GRMM",
             "alias": "",
+            "position": "4",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Keter of Legions",
@@ -108,7 +123,7 @@
             "number": 19,
             "color_identity": "W",
             "cost": "{W}",
-            "rules_text": "Raiment [i](When this enters, create a 1/1 Angel token with \u201cAfter your draw step, you may pay {2}. When you do, this creature's Equipment gain another instance of their abilities until end of turn\u201d and attach this to it.)[/i]\nEquipped creature has host. [i](Whenever it attacks, you may create a 1/1 tapped and attacking token copy of it without host. Sacrifice that token at the beginning of the next end step unless you sacrifice a creature.)[/i]\nEquip {2}{W}",
+            "rules_text": "Raiment [i](When this enters, create a 1/1 Angel token with \u201cAfter your draw step, you may pay {2}. When you do, this creature's Equipment gain another instance of their abilities until end of turn\u201d and attach this to it.)[/i]\nEquipped creature has host. [i](When it attacks, create a 1/1 tapped and attacking token copy of it with \u201cOnce, at your end step, sacrifice a creature\u201d and without host.)[/i]\nEquip {2}{W}",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -117,8 +132,11 @@
             "loyalty": "",
             "artist": "Zencultist",
             "alias": "",
+            "position": "5",
+            "rotated": false,
             "notes": "!tag aggro-threat",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Gabbai of Blessing",
@@ -128,7 +146,7 @@
             "number": 11,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "Host [i](When this creature attacks, you may create a 1/1 tapped and attacking token copy of it without host. Sacrifice that token at the beginning of the next end step unless you sacrifice a creature.)[/i]\nFlying",
+            "rules_text": "Host [i](When this creature attacks, create a 1/1 tapped and attacking token copy of it with \u201cOnce, at your end step, sacrifice a creature\u201d and without host. )[/i]\nFlying",
             "flavor_text": "[i][/i]",
             "pt": "1/2",
             "special_text": "",
@@ -137,8 +155,11 @@
             "loyalty": "",
             "artist": "Carlos Quevedo",
             "alias": "",
+            "position": "6",
+            "rotated": false,
             "notes": "!tag aggro-threat",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Keter of Judgement",
@@ -157,8 +178,11 @@
             "loyalty": "",
             "artist": "Peter Mohrbacher",
             "alias": "",
+            "position": "7",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Censuskeeper of the Living",
@@ -168,7 +192,7 @@
             "number": 7,
             "color_identity": "W",
             "cost": "{3}{W}",
-            "rules_text": "Host [i](When this creature attacks, you may create a 1/1 tapped and attacking token copy of it without host. Sacrifice that token at the beginning of the next end step unless you sacrifice a creature.)[/i]\nWhen this creature enters, creatures you control get +1/+0 until end of turn.",
+            "rules_text": "Host [i](When this creature attacks, create a 1/1 tapped and attacking token copy of it with \u201cOnce, at your end step, sacrifice a creature\u201d and without host. )[/i]\nWhen this creature enters, creatures you control get +1/+0 until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "1/4",
             "special_text": "",
@@ -177,8 +201,11 @@
             "loyalty": "",
             "artist": "Christel Michaels",
             "alias": "",
+            "position": "8",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Shamash Of Glory",
@@ -188,7 +215,7 @@
             "number": 29,
             "color_identity": "W",
             "cost": "{W}",
-            "rules_text": "When this creature enters, create a Law token. [i](It's an artifact with \u201cWhenever you attack, target creature you control gets +1/+1 until end of turn. When it does, sacrifice this token if you attacked with two or more creatures.\u201d)[/i]",
+            "rules_text": "When this creature enters, create a Law token. [i](It's an artifact with \u201cWhen you attack, target creature you control gets +1/+1 until end of turn. Sacrifice this token at the next end step if you attacked with two or more creatures.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -197,8 +224,11 @@
             "loyalty": "",
             "artist": "Nekro",
             "alias": "",
+            "position": "9",
+            "rotated": false,
             "notes": "!exportname Shamash Of Glory\n!tag aggro-threat",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Splat",
@@ -217,8 +247,11 @@
             "loyalty": "",
             "artist": "DarKayNess",
             "alias": "",
+            "position": "10",
+            "rotated": false,
             "notes": "!tag removal",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mollify",
@@ -237,8 +270,11 @@
             "loyalty": "",
             "artist": "Deihasth",
             "alias": "",
+            "position": "11",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Day of Ire",
@@ -257,8 +293,11 @@
             "loyalty": "",
             "artist": "Alex Out",
             "alias": "",
+            "position": "12",
+            "rotated": false,
             "notes": "!tag spotlight",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Reforge From Dross",
@@ -267,7 +306,7 @@
             "type": "Instant",
             "number": 27,
             "color_identity": "W",
-            "cost": "{1}{W}",
+            "cost": "{2}{W}",
             "rules_text": "Choose one\u2013\n\u2022 Exile target artifact. \n\u2022 Exile target enchantment\n\u2022 Exile target player's graveyard.",
             "flavor_text": "[i]\u201cIf evil as as inevitable as you say, Avta, let you and your cohort be the first to hold it to account.\u201d[/i]",
             "pt": "",
@@ -277,8 +316,11 @@
             "loyalty": "",
             "artist": "Deihasth",
             "alias": "",
+            "position": "13",
+            "rotated": false,
             "notes": "!tag spotlight",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Drown In Dreamstuff",
@@ -297,8 +339,11 @@
             "loyalty": "",
             "artist": "Alex Out",
             "alias": "",
+            "position": "14",
+            "rotated": false,
             "notes": "!tag counterspell",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Numeric Veto",
@@ -317,8 +362,11 @@
             "loyalty": "",
             "artist": "Carlos Quevedo",
             "alias": "",
+            "position": "15",
+            "rotated": false,
             "notes": "!tag counterspell",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Succumb To License",
@@ -337,8 +385,11 @@
             "loyalty": "",
             "artist": "Ruberman Rodriguez",
             "alias": "",
+            "position": "16",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Inspire",
@@ -357,8 +408,11 @@
             "loyalty": "",
             "artist": "Nekro",
             "alias": "",
+            "position": "17",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Polytropic Erel",
@@ -377,8 +431,11 @@
             "loyalty": "",
             "artist": "Deihasth",
             "alias": "",
+            "position": "18",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Keter of Might",
@@ -397,8 +454,11 @@
             "loyalty": "",
             "artist": "Gaia Degl'Innocenti",
             "alias": "",
+            "position": "19",
+            "rotated": false,
             "notes": "gur",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Sanctity's Allure",
@@ -408,7 +468,7 @@
             "number": 51,
             "color_identity": "U",
             "cost": "{2}{U}",
-            "rules_text": "Draw two cards, then create a Law token. [i](It's an artifact with \u201cWhenever you attack, target creature you control gets +1/+1 until end of turn. When it does, sacrifice this token if you attacked with two or more creatures.\u201d)[/i]",
+            "rules_text": "Draw two cards, then create a Law token. [i](It's an artifact with \u201cWhen you attack, target creature you control gets +1/+1 until end of turn. Sacrifice this token at the next end step if you attacked with two or more creatures.\u201d)[/i]",
             "flavor_text": "[i]Aspartus the Shaper was in the habit of consuming planes fresh from the cradle, and Jeshurim's potent energy drew him like a moth to a flame.[/i]",
             "pt": "",
             "special_text": "",
@@ -417,8 +477,11 @@
             "loyalty": "",
             "artist": "DarKayNess",
             "alias": "",
+            "position": "20",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Celestial Cherem",
@@ -437,8 +500,11 @@
             "loyalty": "",
             "artist": "Carlos Quevedo",
             "alias": "",
+            "position": "21",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ignominous Fall",
@@ -457,8 +523,11 @@
             "loyalty": "",
             "artist": "DarKayNess",
             "alias": "",
+            "position": "22",
+            "rotated": false,
             "notes": "!tag spotlight\n!tag removal",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Smokemirror Sage",
@@ -477,8 +546,11 @@
             "loyalty": "",
             "artist": "Martina Fackova",
             "alias": "",
+            "position": "23",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Imago Dei",
@@ -497,8 +569,11 @@
             "loyalty": "",
             "artist": "Deihasth",
             "alias": "",
+            "position": "24",
+            "rotated": false,
             "notes": "!tag spotlight",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Oriyah In Front of Me",
@@ -517,8 +592,11 @@
             "loyalty": "",
             "artist": "Isis Sangar\u00e9",
             "alias": "",
+            "position": "25",
+            "rotated": false,
             "notes": "!sort archangels",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Entropic Gurgle",
@@ -537,8 +615,11 @@
             "loyalty": "",
             "artist": "Ormius",
             "alias": "",
+            "position": "26",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Anatomism",
@@ -557,8 +638,11 @@
             "loyalty": "",
             "artist": "Ormius",
             "alias": "",
+            "position": "27",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Meitohu Chorister",
@@ -567,18 +651,21 @@
             "type": "Creature \u2013 Angel Bard",
             "number": 47,
             "color_identity": "U",
-            "cost": "{2}{U}",
+            "cost": "{1}{U}",
             "rules_text": "Whenever a creature you control attacks alone, create an artifact token named Conch Horn with \u201c{1}, {T}, Sacrifice this artifact: Draw two cards, then put a card from your hand on top of your library.\u201d",
             "flavor_text": "[i][/i]",
-            "pt": "3/2",
+            "pt": "2/2",
             "special_text": "",
             "shape": "normal",
             "set": "M6D",
             "loyalty": "",
             "artist": "itinogi",
             "alias": "",
+            "position": "28",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Heavenly Counsel",
@@ -597,8 +684,11 @@
             "loyalty": "",
             "artist": "Ruberman Rodriguez",
             "alias": "",
+            "position": "29",
+            "rotated": false,
             "notes": "!tag draw",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Keter of Smoke",
@@ -617,8 +707,11 @@
             "loyalty": "",
             "artist": "Oliver Weter",
             "alias": "",
+            "position": "30",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Beater of Plowshares",
@@ -637,8 +730,11 @@
             "loyalty": "",
             "artist": "Soufiane Idrassi",
             "alias": "",
+            "position": "31",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Justifier of Judgement",
@@ -648,7 +744,7 @@
             "number": 71,
             "color_identity": "B",
             "cost": "{2}{B}",
-            "rules_text": "Flying\nWhen this creature enters, create a Law token. [i](It's an artifact with \u201cWhenever you attack, target creature you control gets +1/+1 until end of turn. When it does, sacrifice this token if you attacked with two or more creatures.\u201d)[/i]\nWhenever you sacrifice a creature or artifact, this creature deals 1 damage to each opponent.",
+            "rules_text": "Flying\nWhen this creature enters, create a Law token. [i](It's an artifact with \u201cWhen you attack, target creature you control gets +1/+1 until end of turn. Sacrifice this token at the next end step if you attacked with two or more creatures.\u201d)[/i]\nWhenever you sacrifice a creature or artifact, this creature deals 1 damage to each opponent.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -657,8 +753,11 @@
             "loyalty": "",
             "artist": "Elisa Knopp",
             "alias": "",
+            "position": "32",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mighty of Prattle",
@@ -677,8 +776,11 @@
             "loyalty": "",
             "artist": ".Matias Lazaro",
             "alias": "",
+            "position": "33",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Keter of Wisdom",
@@ -697,8 +799,11 @@
             "loyalty": "",
             "artist": "Oliver Wetter",
             "alias": "",
+            "position": "34",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Void-Magic Binder",
@@ -717,8 +822,11 @@
             "loyalty": "",
             "artist": "Allen Widby",
             "alias": "",
+            "position": "35",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mane of Righteous Kings",
@@ -737,8 +845,11 @@
             "loyalty": "",
             "artist": "Onihime",
             "alias": "",
+            "position": "36",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Judges-Measure-For-Measure",
@@ -757,8 +868,11 @@
             "loyalty": "",
             "artist": "Ormius",
             "alias": "",
+            "position": "37",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Welfare-Book Sofer",
@@ -767,8 +881,8 @@
             "type": "Creature \u2013 Angel Soldier",
             "number": 113,
             "color_identity": "R",
-            "cost": "{1}{R}",
-            "rules_text": "Reach\nWhen this creature dies, create your choice of a Law token or a Treasure token. [i](It's an artifact with \u201cWhenever you attack, target creature you control gets +1/+1 until end of turn. When it does, sacrifice this token if you attacked with two or more creatures.\u201d)[/i]",
+            "cost": "{R}",
+            "rules_text": "Reach\nWhen this creature dies, create your choice of a Law token or a Treasure token. [i](It's an artifact with \u201cWhen you attack, target creature you control gets +1/+1 until end of turn. Sacrifice this token at the next end step if you attacked with two or more creatures.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "1/2",
             "special_text": "",
@@ -777,8 +891,11 @@
             "loyalty": "",
             "artist": "Floriane \"Hypoflyse\" Habbak",
             "alias": "",
+            "position": "38",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Keter of Briliance",
@@ -797,8 +914,11 @@
             "loyalty": "",
             "artist": "Carlos Quevedo",
             "alias": "",
+            "position": "39",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Writes-Account-of-Sin",
@@ -817,8 +937,11 @@
             "loyalty": "",
             "artist": "Juluurkhan Khalgaev",
             "alias": "",
+            "position": "40",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Keter of Flame",
@@ -837,8 +960,11 @@
             "loyalty": "",
             "artist": "Daimen Pape",
             "alias": "",
+            "position": "41",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Flayer of Words",
@@ -857,8 +983,11 @@
             "loyalty": "",
             "artist": "Ormius",
             "alias": "",
+            "position": "42",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Heavenly Trumpet",
@@ -877,8 +1006,11 @@
             "loyalty": "",
             "artist": "Harshanand Singh",
             "alias": "",
+            "position": "43",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Glorified Creation",
@@ -897,17 +1029,20 @@
             "loyalty": "",
             "artist": "Nekro",
             "alias": "",
+            "position": "44",
+            "rotated": false,
             "notes": "!tag removal",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Reconstructive Operation",
             "color": "R",
             "rarity": "common",
-            "type": "Instant",
+            "type": "Sorcery",
             "number": 105,
             "color_identity": "R",
-            "cost": "{1}{R}",
+            "cost": "{R}",
             "rules_text": "Destroy target artifact. If you controlled it, create two 1/1 white Angel creature tokens and Reconstructive Operation deals 2 damage to any target.",
             "flavor_text": "[i]Avta's rebels accepted their ketarim being reforged in grace and love.[/i]",
             "pt": "",
@@ -917,8 +1052,11 @@
             "loyalty": "",
             "artist": "Niko J. Pope",
             "alias": "",
+            "position": "45",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Snuff",
@@ -928,7 +1066,7 @@
             "number": 81,
             "color_identity": "B",
             "cost": "{3}{B}",
-            "rules_text": "Destroy target creature.\nCreate a Law token. [i](It's an artifact with \u201cWhenever you attack, target creature you control gets +1/+1 until end of turn. When it does, sacrifice this token if you attacked with two or more creatures.\u201d)[/i]",
+            "rules_text": "Destroy target creature.\nCreate a Law token. [i](It's an artifact with \u201cWhen you attack, target creature you control gets +1/+1 until end of turn. Sacrifice this token at the next end step if you attacked with two or more creatures.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -937,8 +1075,11 @@
             "loyalty": "",
             "artist": "Victor Hugo Harmatiuk",
             "alias": "",
+            "position": "46",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Wail Out",
@@ -948,7 +1089,7 @@
             "number": 111,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "Creatures you control get +1/+0 until end of turn. \nCreate a Law token. [i](It's an artifact with \u201cWhenever you attack, target creature you control gets +1/+1 until end of turn. When it does, sacrifice this token if you attacked with two or more creatures.\u201d)[/i]",
+            "rules_text": "Creatures you control get +1/+0 until end of turn. \nCreate a Law token. [i](It's an artifact with \u201cWhen you attack, target creature you control gets +1/+1 until end of turn. Sacrifice this token at the next end step if you attacked with two or more creatures.\u201d)[/i]",
             "flavor_text": "[i]The gates of grief are never locked.[/i]",
             "pt": "",
             "special_text": "",
@@ -957,8 +1098,11 @@
             "loyalty": "",
             "artist": "Niko J. Pope",
             "alias": "",
+            "position": "47",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Contemplate Ruin",
@@ -977,8 +1121,11 @@
             "loyalty": "",
             "artist": "Carlos Quevedo",
             "alias": "",
+            "position": "48",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Burrow Into Understanding",
@@ -997,8 +1144,11 @@
             "loyalty": "",
             "artist": "Christian Angel",
             "alias": "",
+            "position": "49",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Thing of Beauty",
@@ -1017,8 +1167,11 @@
             "loyalty": "",
             "artist": "Christel Michaels",
             "alias": "",
+            "position": "50",
+            "rotated": false,
             "notes": "rgu",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Division Undoes",
@@ -1037,8 +1190,11 @@
             "loyalty": "",
             "artist": "Isis Sangar\u00e9",
             "alias": "",
+            "position": "51",
+            "rotated": false,
             "notes": "!tag sideboard",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Symmetry Sage",
@@ -1057,8 +1213,11 @@
             "loyalty": "",
             "artist": "Ormius",
             "alias": "",
+            "position": "52",
+            "rotated": false,
             "notes": "!tag topend-threat",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Sere Rememberancer",
@@ -1077,8 +1236,11 @@
             "loyalty": "",
             "artist": "Ter-Jaiden",
             "alias": "",
+            "position": "53",
+            "rotated": false,
             "notes": "gwu",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Orders-the-Planets-And-Stars",
@@ -1088,7 +1250,7 @@
             "number": 134,
             "color_identity": "G",
             "cost": "{2}{G}",
-            "rules_text": "Host [i](When this creature attacks, you may create a 1/1 tapped and attacking token copy of it without host. Sacrifice that token at the beginning of the next end step unless you sacrifice a creature.)[/i]\nReach\nThis creature enters with a +1/+1 counter.",
+            "rules_text": "Host [i](When this creature attacks, create a 1/1 tapped and attacking token copy of it with \u201cOnce, at your end step, sacrifice a creature\u201d and without host. )[/i]\nReach\nThis creature enters with a +1/+1 counter.",
             "flavor_text": "[i][/i]",
             "pt": "2/1",
             "special_text": "",
@@ -1097,8 +1259,11 @@
             "loyalty": "",
             "artist": "DarKayNess",
             "alias": "",
+            "position": "54",
+            "rotated": false,
             "notes": "gwu",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Doubtwrack",
@@ -1117,8 +1282,11 @@
             "loyalty": "",
             "artist": "Deihasth",
             "alias": "",
+            "position": "55",
+            "rotated": false,
             "notes": "!tag discard",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Blasphemous Watcher",
@@ -1137,8 +1305,11 @@
             "loyalty": "",
             "artist": "gaihal Aslam",
             "alias": "",
+            "position": "56",
+            "rotated": false,
             "notes": "!tag value-threat\n!tag wishlist",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Tormented Cry",
@@ -1157,8 +1328,11 @@
             "loyalty": "",
             "artist": "Isis Sangar\u00e9",
             "alias": "",
+            "position": "57",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Grafted Taunt",
@@ -1168,7 +1342,7 @@
             "number": 122,
             "color_identity": "G",
             "cost": "{5}{G}",
-            "rules_text": "Host [i](When this creature attacks, you may create a 1/1 tapped and attacking token copy of it without host. Sacrifice that token at the beginning of the next end step unless you sacrifice a creature.)[/i]\nThis creature gets +2/+0 and has trample as long as you've cast a noncreature spell this turn.",
+            "rules_text": "Host [i](When this creature attacks, create a 1/1 tapped and attacking token copy of it with \u201cOnce, at your end step, sacrifice a creature\u201d and without host. )[/i]\nThis creature gets +2/+0 and has trample as long as you've cast a noncreature spell this turn.",
             "flavor_text": "[i]\u201cThis is not an attempt to create Man! This is mockery!\u201d\n\u2014Peleyah[/i]",
             "pt": "4/5",
             "special_text": "",
@@ -1177,8 +1351,11 @@
             "loyalty": "",
             "artist": "Ormius",
             "alias": "",
+            "position": "58",
+            "rotated": false,
             "notes": "gwu / gur bridge",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Heavengilt Cameo",
@@ -1197,8 +1374,11 @@
             "loyalty": "",
             "artist": "Carlos Quevedo",
             "alias": "",
+            "position": "59",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Shaping Hand",
@@ -1217,8 +1397,11 @@
             "loyalty": "",
             "artist": "Carlos Quevedo",
             "alias": "",
+            "position": "60",
+            "rotated": false,
             "notes": "brg / gur bridge",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Lay Bare the Heart",
@@ -1237,8 +1420,11 @@
             "loyalty": "",
             "artist": "Carlos Quevedo",
             "alias": "",
+            "position": "61",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Proscribed Seer",
@@ -1257,8 +1443,11 @@
             "loyalty": "",
             "artist": "Eldritchblep",
             "alias": "",
+            "position": "62",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Vivisected Effigy",
@@ -1277,8 +1466,11 @@
             "loyalty": "",
             "artist": "ska_Studios",
             "alias": "",
+            "position": "63",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Keter of Death",
@@ -1297,8 +1489,11 @@
             "loyalty": "",
             "artist": "Carlos Quevedo",
             "alias": "",
+            "position": "64",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Collect-Will-Collect",
@@ -1317,8 +1512,11 @@
             "loyalty": "",
             "artist": "hadriiiart",
             "alias": "",
+            "position": "65",
+            "rotated": false,
             "notes": "!tag interactive-threat\n!tag removal",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Redeemer of Heaven's Blood",
@@ -1328,7 +1526,7 @@
             "number": 78,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "Host [i](When this creature attacks, you may create a 1/1 tapped and attacking token copy of it without host. Sacrifice that token at the beginning of the next end step unless you sacrifice a creature.)[/i]\nSacrifice a creature or artifact: This creature gets +2/+2 until end of turn.",
+            "rules_text": "Host [i](When this creature attacks, create a 1/1 tapped and attacking token copy of it with \u201cOnce, at your end step, sacrifice a creature\u201d and without host. )[/i]\nSacrifice a creature or artifact: This creature gets +2/+2 until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "2/1",
             "special_text": "",
@@ -1337,8 +1535,11 @@
             "loyalty": "",
             "artist": "Jun Kim",
             "alias": "",
+            "position": "66",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Shade-Wreathed Bailif",
@@ -1357,8 +1558,11 @@
             "loyalty": "",
             "artist": "BASTIEN LECOUFFE DEHARME",
             "alias": "",
+            "position": "67",
+            "rotated": false,
             "notes": "!tag discard",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Indulge in Knowledge",
@@ -1377,8 +1581,11 @@
             "loyalty": "",
             "artist": "Lois van Baarle",
             "alias": "",
+            "position": "68",
+            "rotated": false,
             "notes": "!tag sideboard",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Churlish Mockery",
@@ -1397,8 +1604,11 @@
             "loyalty": "",
             "artist": "DarKayNess",
             "alias": "",
+            "position": "69",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Master of Artifice",
@@ -1417,8 +1627,11 @@
             "loyalty": "",
             "artist": "Zhange",
             "alias": "",
+            "position": "70",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Gizbor of Radiance",
@@ -1428,17 +1641,20 @@
             "number": 13,
             "color_identity": "W",
             "cost": "{W}",
-            "rules_text": "Flying \nOther creatures you control get +1/+1\nAs an additional cost to cast this spell, tap five untapped permanents you control.",
+            "rules_text": "Flying \nOther creatures you control get +2/+2. \nAs an additional cost to cast this spell, tap six untapped permanents you control.",
             "flavor_text": "[i]The light that sprung from the hammer of the Exalted shaping the meitohu is too bright and too precious to be given freely.[/i]",
             "pt": "3/3",
             "special_text": "",
             "shape": "normal",
             "set": "M6D",
             "loyalty": "",
-            "artist": "oy The Art",
+            "artist": "Roy The Art",
             "alias": "",
+            "position": "71",
+            "rotated": false,
             "notes": "!tag cheatout-threat",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Bestial Speaker",
@@ -1457,8 +1673,11 @@
             "loyalty": "",
             "artist": "Mingzhu Yang",
             "alias": "",
+            "position": "72",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Doyen of Sorcerous Acts",
@@ -1477,8 +1696,11 @@
             "loyalty": "",
             "artist": "Zi Mo",
             "alias": "",
+            "position": "73",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Double Exigesis",
@@ -1497,8 +1719,11 @@
             "loyalty": "",
             "artist": "Peter Mohrbacher",
             "alias": "",
+            "position": "74",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Multifarious Teacher",
@@ -1517,8 +1742,11 @@
             "loyalty": "",
             "artist": "papalatipetel",
             "alias": "",
+            "position": "75",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Letters of Life",
@@ -1537,8 +1765,11 @@
             "loyalty": "",
             "artist": "Yury Sontzev",
             "alias": "",
+            "position": "76",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mapper of Newborn Land",
@@ -1557,8 +1788,11 @@
             "loyalty": "",
             "artist": "carlos Quevedo",
             "alias": "",
+            "position": "77",
+            "rotated": false,
             "notes": "brg / gur bridge",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Hymnal Naturalist",
@@ -1577,8 +1811,11 @@
             "loyalty": "",
             "artist": "Ruberman Rodriguez",
             "alias": "",
+            "position": "78",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Meitohu-Wind Artisan",
@@ -1597,8 +1834,11 @@
             "loyalty": "",
             "artist": "Temmaru1",
             "alias": "",
+            "position": "79",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Spins-A-World-From-Water",
@@ -1617,8 +1857,11 @@
             "loyalty": "",
             "artist": "Ormius",
             "alias": "",
+            "position": "80",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Erase-Will-Not-Erase",
@@ -1628,7 +1871,7 @@
             "number": 92,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "When this creature enters, create a Law token. [i](It's an artifact with \u201cWhenever you attack, target creature you control gets +1/+1 until end of turn. When it does, sacrifice this token if you attacked with two or more creatures.\u201d)[/i]\n{2}, Sacrifice an artifact: Double this creature's power until end of turn.",
+            "rules_text": "When this creature enters, create a Law token. [i](It's an artifact with \u201cWhen you attack, target creature you control gets +1/+1 until end of turn. Sacrifice this token at the next end step if you attacked with two or more creatures.\u201d)[/i]\n{2}, Sacrifice an artifact: Double this creature's power until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "1/2",
             "special_text": "",
@@ -1637,8 +1880,11 @@
             "loyalty": "",
             "artist": "Gabriel Varz",
             "alias": "",
+            "position": "81",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mud-Slinging",
@@ -1657,8 +1903,11 @@
             "loyalty": "",
             "artist": "Darkayness",
             "alias": "",
+            "position": "82",
+            "rotated": false,
             "notes": "!tag spotlight",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Keening Poet",
@@ -1677,8 +1926,11 @@
             "loyalty": "",
             "artist": "BASTIEN LECOUFFE DEHARME",
             "alias": "",
+            "position": "83",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Clearsight Lecturer",
@@ -1688,7 +1940,7 @@
             "number": 90,
             "color_identity": "R",
             "cost": "{2}{R}",
-            "rules_text": "At the beginning of your upkeep, if you control no Laws, create a Law token. [i](It's an artifact with \u201cWhenever you attack, target creature you control gets +1/+1 until end of turn. When it does, sacrifice this token if you attacked with two or more creatures.\u201d)[/i]",
+            "rules_text": "At the beginning of your upkeep, if you control no Laws, create a Law token. [i](It's an artifact with \u201cWhen you attack, target creature you control gets +1/+1 until end of turn. Sacrifice this token at the next end step if you attacked with two or more creatures.\u201d)[/i]",
             "flavor_text": "[i]She speaks little, but speaks beauty.[/i]",
             "pt": "2/2",
             "special_text": "",
@@ -1697,8 +1949,11 @@
             "loyalty": "",
             "artist": "LikStudiis",
             "alias": "",
+            "position": "84",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Spiritual Sever",
@@ -1717,8 +1972,11 @@
             "loyalty": "",
             "artist": "Ormius",
             "alias": "",
+            "position": "85",
+            "rotated": false,
             "notes": "!tag removal",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Forge In Flames",
@@ -1737,8 +1995,11 @@
             "loyalty": "",
             "artist": "DarKayNess",
             "alias": "",
+            "position": "86",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Keeper of the Faithful",
@@ -1757,8 +2018,11 @@
             "loyalty": "",
             "artist": "Joelin Tan",
             "alias": "",
+            "position": "87",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Visions of a Burnt House",
@@ -1777,8 +2041,11 @@
             "loyalty": "",
             "artist": "Soufiane Idrassi",
             "alias": "",
+            "position": "88",
+            "rotated": false,
             "notes": "!tag spotlight\n!tag cantrip",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Vivacous Meitohu",
@@ -1797,8 +2064,11 @@
             "loyalty": "",
             "artist": "Nekro",
             "alias": "",
+            "position": "89",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Engraver of Form",
@@ -1817,8 +2087,11 @@
             "loyalty": "",
             "artist": "Sansaxix",
             "alias": "",
+            "position": "90",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Valor of Women",
@@ -1828,7 +2101,7 @@
             "number": 54,
             "color_identity": "U",
             "cost": "{2}{U}",
-            "rules_text": "Host [i](When this creature attacks, you may create a 1/1 tapped and attacking token copy of it without host. Sacrifice that token at the beginning of the next end step unless you sacrifice a creature.)[/i]\nFlying\nWhenever you cast a noncreature spell, draw a a card, then discard a card.",
+            "rules_text": "Host [i](When this creature attacks, create a 1/1 tapped and attacking token copy of it with \u201cOnce, at your end step, sacrifice a creature\u201d and without host. )[/i]\nFlying\nWhenever you cast a noncreature spell, draw a a card, then discard a card.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -1837,8 +2110,11 @@
             "loyalty": "",
             "artist": "Roy The Art",
             "alias": "",
+            "position": "91",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Seraphic Girdle",
@@ -1857,8 +2133,11 @@
             "loyalty": "",
             "artist": "Sandara Tang",
             "alias": "",
+            "position": "92",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Deem Forbidden",
@@ -1868,7 +2147,7 @@
             "number": 34,
             "color_identity": "U",
             "cost": "{1}{U}{U}",
-            "rules_text": "Counter target spell. \nCreate a Law token. [i](It's an artifact with \u201cWhenever you attack, target creature you control gets +1/+1 until end of turn. When it does, sacrifice this token if you attacked with two or more creatures.\u201d)[/i]",
+            "rules_text": "Counter target spell. \nCreate a Law token. [i](It's an artifact with \u201cWhen you attack, target creature you control gets +1/+1 until end of turn. Sacrifice this token at the next end step if you attacked with two or more creatures.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1877,8 +2156,11 @@
             "loyalty": "",
             "artist": "Sebastian Horoszko",
             "alias": "",
+            "position": "93",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Clarity Sage",
@@ -1897,8 +2179,11 @@
             "loyalty": "",
             "artist": "Christian Angel",
             "alias": "",
+            "position": "94",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Nefeshef Phial",
@@ -1917,8 +2202,11 @@
             "loyalty": "",
             "artist": "Len Yan",
             "alias": "",
+            "position": "95",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Keter of the Firmament",
@@ -1937,8 +2225,11 @@
             "loyalty": "",
             "artist": "Soufiane Idrassi",
             "alias": "",
+            "position": "96",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Arbiter of Verdicts",
@@ -1957,8 +2248,11 @@
             "loyalty": "",
             "artist": "Carlos Quevedo",
             "alias": "",
+            "position": "97",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Gives-Absolute-Decrees",
@@ -1977,8 +2271,11 @@
             "loyalty": "",
             "artist": "Nino Vecia",
             "alias": "",
+            "position": "98",
+            "rotated": false,
             "notes": "!tag interactive-threat\n!tag counterspell",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Return to Form",
@@ -1997,8 +2294,11 @@
             "loyalty": "",
             "artist": "Carlos Quevedo",
             "alias": "",
+            "position": "99",
+            "rotated": false,
             "notes": "!tag mana-cheating",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Paradisacal Gate",
@@ -2017,8 +2317,11 @@
             "loyalty": "",
             "artist": "Deihasth",
             "alias": "",
+            "position": "100",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Contemplative Silence",
@@ -2037,8 +2340,11 @@
             "loyalty": "",
             "artist": "Deihasth",
             "alias": "",
+            "position": "101",
+            "rotated": false,
             "notes": "!tag spotlight",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Raises-From-the-Pit",
@@ -2048,7 +2354,7 @@
             "number": 26,
             "color_identity": "W",
             "cost": "{3}{W}{W}",
-            "rules_text": "Flying\nHost [i](When this creature attacks, you may create a 1/1 tapped and attacking token copy of it without host. Sacrifice that token at the beginning of the next end step unless you sacrifice a creature.)[/i]\nWhen this creature leaves the battlefield, return up to two creature cards with mana value 2 or less from your graveyard to the battlefield.",
+            "rules_text": "Flying\nHost [i](When this creature attacks, create a 1/1 tapped and attacking token copy of it with \u201cOnce, at your end step, sacrifice a creature\u201d and without host. )[/i]\nWhen this creature leaves the battlefield, return up to two creature cards with mana value 2 or less from your graveyard to the battlefield.",
             "flavor_text": "[i][/i]",
             "pt": "4/3",
             "special_text": "",
@@ -2057,8 +2363,11 @@
             "loyalty": "",
             "artist": "Sygdom",
             "alias": "",
+            "position": "102",
+            "rotated": false,
             "notes": "!tag mana-cheating",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Cite",
@@ -2077,8 +2386,11 @@
             "loyalty": "",
             "artist": "Christian Klement",
             "alias": "",
+            "position": "103",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Test of Paradise",
@@ -2097,8 +2409,11 @@
             "loyalty": "",
             "artist": "Carlos Quevedo",
             "alias": "",
+            "position": "104",
+            "rotated": false,
             "notes": "!tag spotlight",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Cackling Shedata",
@@ -2117,8 +2432,11 @@
             "loyalty": "",
             "artist": "Zuz \"Spikulec\" Gruzlewska",
             "alias": "",
+            "position": "105",
+            "rotated": false,
             "notes": "!tag cheatout-threat",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Hosniyah Behind Me",
@@ -2128,7 +2446,7 @@
             "number": 68,
             "color_identity": "B",
             "cost": "{2}{B}{B}",
-            "rules_text": "Flying, lifelink, menace\nYou may cast Hosniyah from exile if it was put there from your graveyard this turn.\n{B}, Exile Hosniyah[b] [/b]and twelve other cards from your graveyard: Whenever a creature with no +1/+1 counters dies under your control this turn, return it to the battlefield with a +1/+1 counter.",
+            "rules_text": "Flying, lifelink, deathtouch\nYou may cast Hosniyah from exile if it was put there from your graveyard this turn.\n{B}, Exile Hosniyah[b] [/b]and twelve other cards from your graveyard: Whenever a creature with no +1/+1 counters dies under your control this turn, return it to the battlefield with a +1/+1 counter.",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -2137,8 +2455,11 @@
             "loyalty": "",
             "artist": "Isis Sangar\u00e9",
             "alias": "",
+            "position": "106",
+            "rotated": false,
             "notes": "!sort archangels",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Received Griefmage",
@@ -2148,7 +2469,7 @@
             "number": 77,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "Host [i](When this creature attacks, you may create a 1/1 tapped and attacking token copy of it without host. Sacrifice that token at the beginning of the next end step unless you sacrifice a creature.)[/i]\nWhenever another creature you control dies, each opponent loses 1 life and you gain 1 life.",
+            "rules_text": "Host [i](When this creature attacks, create a 1/1 tapped and attacking token copy of it with \u201cOnce, at your end step, sacrifice a creature\u201d and without host. )[/i]\nWhenever another creature you control dies, each opponent loses 1 life and you gain 1 life.",
             "flavor_text": "[i][/i]",
             "pt": "0/1",
             "special_text": "",
@@ -2157,8 +2478,11 @@
             "loyalty": "",
             "artist": "Soufiane Idrassi",
             "alias": "",
+            "position": "107",
+            "rotated": false,
             "notes": "!tag aggro-threat",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Divisor of Welfare",
@@ -2177,8 +2501,11 @@
             "loyalty": "",
             "artist": "John Cho",
             "alias": "",
+            "position": "108",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Bneishachat Rise",
@@ -2197,8 +2524,11 @@
             "loyalty": "",
             "artist": "Gabriel Varz",
             "alias": "",
+            "position": "109",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "A Tree Of Life For Those Who Grasp It",
@@ -2217,8 +2547,11 @@
             "loyalty": "",
             "artist": "Peter Mohrbacher",
             "alias": "",
+            "position": "110",
+            "rotated": false,
             "notes": "!sort archangels\n!exportname A Tree Of Life For Those Who Grasp It",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Lifeseed Addler",
@@ -2237,8 +2570,11 @@
             "loyalty": "",
             "artist": "Kieran Yanner",
             "alias": "",
+            "position": "111",
+            "rotated": false,
             "notes": "brg / gwu bridge",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Weaver of Storms",
@@ -2257,8 +2593,11 @@
             "loyalty": "",
             "artist": "itinogi",
             "alias": "",
+            "position": "112",
+            "rotated": false,
             "notes": "gwu",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Watcher of Consecrations",
@@ -2277,8 +2616,11 @@
             "loyalty": "",
             "artist": "Peter Mohrbacher",
             "alias": "",
+            "position": "113",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Peleyah At My Right",
@@ -2297,8 +2639,11 @@
             "loyalty": "",
             "artist": "Isis Sangar\u00e9",
             "alias": "",
+            "position": "114",
+            "rotated": false,
             "notes": "!sort archangels",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Hail of Brimstone",
@@ -2317,8 +2662,11 @@
             "loyalty": "",
             "artist": "Isis Sangar\u00e9",
             "alias": "",
+            "position": "115",
+            "rotated": false,
             "notes": "!tag spotlight\n!tag sweeper",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Tselmiyah, Quickener",
@@ -2337,8 +2685,11 @@
             "loyalty": "",
             "artist": "Gaihal Aslam",
             "alias": "",
+            "position": "116",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Devises-Galaxies-In-Wisdom",
@@ -2348,7 +2699,7 @@
             "number": 91,
             "color_identity": "R",
             "cost": "{2}{R}{R}",
-            "rules_text": "Host [i](When this creature attacks, you may create a 1/1 tapped and attacking token copy of it without host. Sacrifice that token at the beginning of the next end step unless you sacrifice a creature.)[/i]\nFlying\nWhenever you cast a spell from your hand, exile the top card of your library. If it has lesser mana value, you may cast it without paying its mana cost.",
+            "rules_text": "Host [i](When this creature attacks, create a 1/1 tapped and attacking token copy of it with \u201cOnce, at your end step, sacrifice a creature\u201d and without host. )[/i]\nFlying\nWhenever you cast a spell from your hand, exile the top card of your library. If it has lesser mana value, you may cast it without paying its mana cost.",
             "flavor_text": "[i][/i]",
             "pt": "4/3",
             "special_text": "",
@@ -2357,8 +2708,11 @@
             "loyalty": "",
             "artist": "Saeran Moore",
             "alias": "",
+            "position": "117",
+            "rotated": false,
             "notes": "!tag topend-threat",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Drench",
@@ -2377,8 +2731,11 @@
             "loyalty": "",
             "artist": "Tiziana Federica Ruiu",
             "alias": "",
+            "position": "118",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Firmament Swimmer",
@@ -2388,7 +2745,7 @@
             "number": 39,
             "color_identity": "U",
             "cost": "{U}",
-            "rules_text": "Host [i](When this creature attacks, you may create a 1/1 tapped and attacking token copy of it without host. Sacrifice that token at the beginning of the next end step unless you sacrifice a creature.)[/i]\nThis creature can't be blocked if only tokens are attacking.",
+            "rules_text": "Host [i](When this creature attacks, create a 1/1 tapped and attacking token copy of it with \u201cOnce, at your end step, sacrifice a creature\u201d and without host. )[/i]\nThis creature can't be blocked if only tokens are attacking.",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -2397,8 +2754,11 @@
             "loyalty": "",
             "artist": "Deihasth",
             "alias": "",
+            "position": "119",
+            "rotated": false,
             "notes": "!tag aggro-threat\n!tag wishlist",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Writes-Myriad-Meanings",
@@ -2417,8 +2777,11 @@
             "loyalty": "",
             "artist": "Artur Nakhodkin",
             "alias": "",
+            "position": "120",
+            "rotated": false,
             "notes": "!tag value",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Hammer of Strictures",
@@ -2437,8 +2800,11 @@
             "loyalty": "",
             "artist": "Saarl",
             "alias": "",
+            "position": "121",
+            "rotated": false,
             "notes": "!tag topend-threat",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Kokhiyah At My Left",
@@ -2448,7 +2814,7 @@
             "number": 21,
             "color_identity": "W",
             "cost": "{2}{W}{W}",
-            "rules_text": "Flying, vigilance, double strike\nYou may cast Kokhiyah from exile if it was put there from your graveyard this turn.\n{W}, Exile Kokhiyah and twelve other cards from your graveyard: Create four Law tokens. [i](They're artifacts with \u201cWhenever you attack, target creature you control gets +1/+1 until end of turn. When it does, sacrifice this token if you attacked with two or more creatures.\u201d)[/i]",
+            "rules_text": "Flying, vigilance, double strike\nYou may cast Kokhiyah from exile if it was put there from your graveyard this turn.\n{W}, Exile Kokhiyah and twelve other cards from your graveyard: Create four Law tokens. [i](They're artifacts with \u201cWhen you attack, target creature you control gets +1/+1 until end of turn. Sacrifice this token at the next end step if you attacked with two or more creatures.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/4",
             "special_text": "",
@@ -2457,8 +2823,11 @@
             "loyalty": "",
             "artist": "Isis Sangar\u00e9",
             "alias": "",
+            "position": "122",
+            "rotated": false,
             "notes": "!sort archangels",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Inextensible Doll",
@@ -2477,8 +2846,11 @@
             "loyalty": "",
             "artist": "Carlos Quevedo",
             "alias": "",
+            "position": "123",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Alphabetical Shift",
@@ -2497,8 +2869,11 @@
             "loyalty": "",
             "artist": "Carlos Quevedo",
             "alias": "",
+            "position": "124",
+            "rotated": false,
             "notes": "!tag removal",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Abase",
@@ -2508,7 +2883,7 @@
             "number": 4,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "Exile target creature with power 2 or less.\nCreate a Law token. [i](It's an artifact with \u201cWhenever you attack, target creature you control gets +1/+1 until end of turn. When it does, sacrifice this token if you attacked with two or more creatures.\u201d)[/i]",
+            "rules_text": "Exile target creature with power 2 or less.\nCreate a Law token. [i](It's an artifact with \u201cWhen you attack, target creature you control gets +1/+1 until end of turn. Sacrifice this token at the next end step if you attacked with two or more creatures.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2517,8 +2892,11 @@
             "loyalty": "",
             "artist": "Carlos Quevedo",
             "alias": "",
+            "position": "125",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Seraphic Speech of Secrets",
@@ -2537,8 +2915,11 @@
             "loyalty": "",
             "artist": "Isis Sangar\u00e9",
             "alias": "",
+            "position": "126",
+            "rotated": false,
             "notes": "!tag draw",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Keter-Mother",
@@ -2548,7 +2929,7 @@
             "number": 20,
             "color_identity": "W",
             "cost": "{2}{W}{W}",
-            "rules_text": "Host [i](When this creature attacks, you may create a 1/1 tapped and attacking token copy of it without host. Sacrifice that token at the beginning of the next end step unless you sacrifice a creature.)[/i]\nWhenever this creature deals combat damage to a player, create a token that's a copy of each creature token you control.",
+            "rules_text": "Host [i](When this creature attacks, create a 1/1 tapped and attacking token copy of it with \u201cOnce, at your end step, sacrifice a creature\u201d and without host. )[/i]\nWhenever this creature deals combat damage to a player, create a token that's a copy of each creature token you control.",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -2557,8 +2938,11 @@
             "loyalty": "",
             "artist": "Alex Out",
             "alias": "",
+            "position": "127",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Gives-Wisdom-To-Its-Seekers",
@@ -2577,8 +2961,11 @@
             "loyalty": "",
             "artist": "Christian Klement",
             "alias": "",
+            "position": "128",
+            "rotated": false,
             "notes": "!tag topend-threat",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Herald of the Final Day",
@@ -2597,8 +2984,11 @@
             "loyalty": "",
             "artist": "RedBirdPainte",
             "alias": "",
+            "position": "129",
+            "rotated": false,
             "notes": "!tag cheatout-threat",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Keeper of Meitohu's Force",
@@ -2617,8 +3007,11 @@
             "loyalty": "",
             "artist": "Onihime",
             "alias": "",
+            "position": "130",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Downcast",
@@ -2637,8 +3030,11 @@
             "loyalty": "",
             "artist": "Bill Nuwen",
             "alias": "",
+            "position": "131",
+            "rotated": false,
             "notes": "gwu",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Benshachat Praetorian",
@@ -2657,8 +3053,11 @@
             "loyalty": "",
             "artist": "Maksim Kuznetsov",
             "alias": "",
+            "position": "132",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Sunrise Seraph",
@@ -2677,8 +3076,11 @@
             "loyalty": "",
             "artist": "idV_photographer_blogger",
             "alias": "",
+            "position": "133",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Keter of the Moon",
@@ -2697,8 +3099,11 @@
             "loyalty": "",
             "artist": "Gabriel Varz",
             "alias": "",
+            "position": "134",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Spirit Over the Meitohu",
@@ -2717,8 +3122,11 @@
             "loyalty": "",
             "artist": "Grazia Ferlito",
             "alias": "",
+            "position": "135",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Avta's Cast",
@@ -2727,8 +3135,8 @@
             "type": "Artifact",
             "number": 147,
             "color_identity": "WB",
-            "cost": "{1}{W}{B}",
-            "rules_text": "When this artifact enters, create a Law token. [i](It's an artifact with \u201cWhenever you attack, target creature you control gets +1/+1 until end of turn. When it does, sacrifice this token if you attacked with two or more creatures.\u201d)[/i]\nWhenever a creature you control attacks alone, you may cast a copy of this artifact.",
+            "cost": "{W}{B}",
+            "rules_text": "When this artifact enters, create a Law token. [i](It's an artifact with \u201cWhen you attack, target creature you control gets +1/+1 until end of turn. Sacrifice this token at the next end step if you attacked with two or more creatures.\u201d)[/i]\nWhenever a creature you control attacks alone, you may cast a copy of this artifact.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2737,8 +3145,11 @@
             "loyalty": "",
             "artist": "Jimmy P. Duda",
             "alias": "",
+            "position": "136",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Agents of the Chariot",
@@ -2757,8 +3168,11 @@
             "loyalty": "",
             "artist": "Deihasth",
             "alias": "",
+            "position": "137",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Sanctifier of Bloodgifts",
@@ -2777,8 +3191,11 @@
             "loyalty": "",
             "artist": "Fang Xinyu",
             "alias": "",
+            "position": "138",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Court of Death's Claim",
@@ -2797,8 +3214,11 @@
             "loyalty": "",
             "artist": "Deihasth",
             "alias": "",
+            "position": "139",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Weaver of Harsh Decrees",
@@ -2817,8 +3237,11 @@
             "loyalty": "",
             "artist": "Ga\u00ebl Giudicelli",
             "alias": "",
+            "position": "140",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Noble Keterweaver",
@@ -2837,8 +3260,11 @@
             "loyalty": "",
             "artist": "Klose Wu",
             "alias": "",
+            "position": "141",
+            "rotated": false,
             "notes": "gur",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ram of the Binding",
@@ -2857,8 +3283,11 @@
             "loyalty": "",
             "artist": "Tyler Smith",
             "alias": "",
+            "position": "142",
+            "rotated": false,
             "notes": "brg",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Pulchritude Scribe",
@@ -2877,8 +3306,11 @@
             "loyalty": "",
             "artist": "Thitlipon Decruen",
             "alias": "",
+            "position": "143",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Finishing Stroke",
@@ -2897,8 +3329,11 @@
             "loyalty": "",
             "artist": "Carlos Quevedo",
             "alias": "",
+            "position": "144",
+            "rotated": false,
             "notes": "!tag spotlight",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Preening Hayyah",
@@ -2917,8 +3352,11 @@
             "loyalty": "",
             "artist": "Isis Sangar\u00e9",
             "alias": "",
+            "position": "145",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Bind In Prohibitions",
@@ -2928,7 +3366,7 @@
             "number": 151,
             "color_identity": "WUB",
             "cost": "{1}{W}{U}{B}",
-            "rules_text": "Enchant nonland permanent\nYou control enchanted permanent.\nEnchanted permanent is a Law artifact and gains \u201cWhenever you attack, target creature you control gets +1/+1 until end of turn. When it does, sacrifice this token if you attacked with two or more creatures.\u201d [i](It's no longer a creature.)[/i]",
+            "rules_text": "Enchant nonland permanent\nYou control enchanted permanent.\nEnchanted permanent is a Law artifact and gains \u201cWhenever you attack, target creature you control gets +1/+1 until end of turn. Sacrifice this artifact at the beginning of the next end step if you attacked with two or more creatures.\u201d [i](It's no longer a creature.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2937,8 +3375,11 @@
             "loyalty": "",
             "artist": "Grazia Ferlito",
             "alias": "",
+            "position": "146",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Grants-A-Perfect-Law",
@@ -2947,7 +3388,7 @@
             "type": "Creature \u2013 Archon Cleric",
             "number": 171,
             "color_identity": "WUB",
-            "cost": "{2}{W}{U}{B}",
+            "cost": "{1}{W}{U}{B}",
             "rules_text": "Ward {2}\nIf a creature attacking alone would cause an ability of a permanent you control to trigger, that ability triggers an additional time.",
             "flavor_text": "[i][/i]",
             "pt": "3/5",
@@ -2957,8 +3398,11 @@
             "loyalty": "",
             "artist": "SYK",
             "alias": "",
+            "position": "147",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Keter of Multiplicty",
@@ -2977,8 +3421,11 @@
             "loyalty": "",
             "artist": "Soufiane Idrassi",
             "alias": "",
+            "position": "148",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Multitude Cleaver",
@@ -2997,8 +3444,11 @@
             "loyalty": "",
             "artist": "Gabriel Varz",
             "alias": "",
+            "position": "149",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Blesser of Hearths",
@@ -3008,7 +3458,7 @@
             "number": 152,
             "color_identity": "BRG",
             "cost": "{2}{B}{R}{G}",
-            "rules_text": "Host [i](When this creature attacks, you may create a 1/1 tapped and attacking token copy of it without host. Sacrifice that token at the beginning of the next end step unless you sacrifice a creature.)[/i]\nWhen this creature enters, you draw a card and each player loses 1 life.",
+            "rules_text": "Host [i](When this creature attacks, create a 1/1 tapped and attacking token copy of it with \u201cOnce, at your end step, sacrifice a creature\u201d and without host. )[/i]\nWhen this creature enters, you draw a card and each player loses 1 life.",
             "flavor_text": "[i][/i]",
             "pt": "4/5",
             "special_text": "",
@@ -3017,8 +3467,11 @@
             "loyalty": "",
             "artist": "Sebastian Horoszko",
             "alias": "",
+            "position": "150",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Divvies-Life-For-All-Living",
@@ -3037,8 +3490,11 @@
             "loyalty": "",
             "artist": "Anato Finnstark",
             "alias": "",
+            "position": "151",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Balanced Dayan",
@@ -3047,18 +3503,21 @@
             "type": "Creature \u2013 Angel Advisor",
             "number": 149,
             "color_identity": "WB",
-            "cost": "{1}{W}{B}",
-            "rules_text": "When this creature enters, create two Law tokens. [i](They're artifacts with \u201cWhenever you attack, target creature you control gets +1/+1 until end of turn. When it does, sacrifice this token if you attacked with two or more creatures.\u201d)[/i]\nThis creature can't attack or block. At the beginning of your end step, if two or more nonland permanents died under your control this turn, it loses this ability. [i](Indefinitely,)[/i]",
+            "cost": "{W}{B}",
+            "rules_text": "When this creature enters, create two Law tokens. [i](They're artifacts with \u201cWhen you attack, target creature you control gets +1/+1 until end of turn. Sacrifice this token at the next end step if you attacked with two or more creatures.\u201d)[/i]\nThis creature can't attack or block. At the beginning of your end step, if two or more nonland permanents died under your control this turn, it loses this ability. [i](Indefinitely,)[/i]",
             "flavor_text": "[i][/i]",
-            "pt": "4/2",
+            "pt": "4/3",
             "special_text": "",
             "shape": "normal",
             "set": "M6D",
             "loyalty": "",
             "artist": "SHY",
             "alias": "",
+            "position": "152",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Keter of Balance",
@@ -3077,8 +3536,11 @@
             "loyalty": "",
             "artist": "Darkcloud013",
             "alias": "",
+            "position": "153",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Remembers-Each-Soul",
@@ -3097,8 +3559,11 @@
             "loyalty": "",
             "artist": "Christian Angel",
             "alias": "",
+            "position": "154",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Glory-Cloaked Zealot",
@@ -3117,8 +3582,11 @@
             "loyalty": "",
             "artist": "Olga Sorokina",
             "alias": "",
+            "position": "155",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Solacent Keruv",
@@ -3128,7 +3596,7 @@
             "number": 193,
             "color_identity": "WU",
             "cost": "{2}{W}{U}",
-            "rules_text": "Flying, vigilance\nHost [i](When this creature attacks, you may create a 1/1 tapped and attacking token copy of it without host. Sacrifice that token at the beginning of the next end step unless you sacrifice a creature.)[/i]\nThis creature gets +1/+0 for each token you control.",
+            "rules_text": "Flying, vigilance\nHost [i](When this creature attacks, create a 1/1 tapped and attacking token copy of it with \u201cOnce, at your end step, sacrifice a creature\u201d and without host. )[/i]\nThis creature gets +1/+0 for each token you control.",
             "flavor_text": "[i][/i]",
             "pt": "0/1",
             "special_text": "",
@@ -3137,8 +3605,11 @@
             "loyalty": "",
             "artist": "Deihasth",
             "alias": "",
+            "position": "156",
+            "rotated": false,
             "notes": "gwu/wub",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Sets-The-Sun-To-Rise-Each-Day",
@@ -3157,8 +3628,11 @@
             "loyalty": "",
             "artist": "Emily Downey",
             "alias": "",
+            "position": "157",
+            "rotated": false,
             "notes": "wub",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Root of Insolence",
@@ -3177,8 +3651,11 @@
             "loyalty": "",
             "artist": "Dariusz Kieliszek",
             "alias": "",
+            "position": "158",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Axe of Perlis",
@@ -3188,7 +3665,7 @@
             "number": 148,
             "color_identity": "BR",
             "cost": "{B}{R}",
-            "rules_text": "Host [i](When this creature attacks, you may create a 1/1 tapped and attacking token copy of it without host. Sacrifice that token at the beginning of the next end step unless you sacrifice a creature.)[/i]\nWhen this creature dies, it deals 1 damage to target opponent.",
+            "rules_text": "Host [i](When this creature attacks, create a 1/1 tapped and attacking token copy of it with \u201cOnce, at your end step, sacrifice a creature\u201d and without host. )[/i]\nWhen this creature dies, it deals 1 damage to target opponent.",
             "flavor_text": "[i][/i]",
             "pt": "2/1",
             "special_text": "",
@@ -3197,8 +3674,11 @@
             "loyalty": "",
             "artist": "Onihime",
             "alias": "",
+            "position": "159",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Were It Not Written",
@@ -3217,8 +3697,11 @@
             "loyalty": "",
             "artist": "Carlos Quevedo",
             "alias": "",
+            "position": "160",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Witchcraft Whisperer",
@@ -3237,8 +3720,11 @@
             "loyalty": "",
             "artist": "Joshua Raphael",
             "alias": "",
+            "position": "161",
+            "rotated": false,
             "notes": "brg/gur",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Keter of Libations",
@@ -3257,8 +3743,11 @@
             "loyalty": "",
             "artist": "Oliver Wetter",
             "alias": "",
+            "position": "162",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Court of Life's Variety",
@@ -3277,8 +3766,11 @@
             "loyalty": "",
             "artist": "Deihasth",
             "alias": "",
+            "position": "163",
+            "rotated": false,
             "notes": "gur/gwu",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Armaments of Heaven",
@@ -3297,8 +3789,11 @@
             "loyalty": "",
             "artist": "Gabriel Varz",
             "alias": "",
+            "position": "164",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Agent of Revealed Truth",
@@ -3317,8 +3812,11 @@
             "loyalty": "",
             "artist": "Atanu Ghosh",
             "alias": "",
+            "position": "165",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Reaps-With-Loving-Care",
@@ -3337,8 +3835,11 @@
             "loyalty": "",
             "artist": "Onihime",
             "alias": "",
+            "position": "166",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Nova Alchemist",
@@ -3357,8 +3858,11 @@
             "loyalty": "",
             "artist": "Ruberman Rodriguez",
             "alias": "",
+            "position": "167",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "A World Lacking Nothing",
@@ -3377,8 +3881,11 @@
             "loyalty": "",
             "artist": "Fred Pashe",
             "alias": "",
+            "position": "168",
+            "rotated": false,
             "notes": "gwu",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Keter of Ingenuity",
@@ -3397,8 +3904,11 @@
             "loyalty": "",
             "artist": "Nekro",
             "alias": "",
+            "position": "169",
+            "rotated": false,
             "notes": "gur",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Fraying Chacham",
@@ -3408,7 +3918,7 @@
             "number": 167,
             "color_identity": "WU",
             "cost": "{1}{W}{U}",
-            "rules_text": "Host [i](When this creature attacks, you may create a 1/1 tapped and attacking token copy of it without host. Sacrifice that token at the beginning of the next end step unless you sacrifice a creature.)[/i]\nAs long as this creature is attacking, abilities of tokens you control trigger an additional time.",
+            "rules_text": "Host [i](When this creature attacks, create a 1/1 tapped and attacking token copy of it with \u201cOnce, at your end step, sacrifice a creature\u201d and without host. )[/i]\nAs long as this creature is attacking, abilities of tokens you control trigger an additional time.",
             "flavor_text": "[i]\u201cMerciful One, I have tried to do your will, but it must be sensible to the thirteen methods of exegesis!\u201d[/i]",
             "pt": "3/2",
             "special_text": "",
@@ -3417,8 +3927,11 @@
             "loyalty": "",
             "artist": "Ramses Mendelez",
             "alias": "",
+            "position": "170",
+            "rotated": false,
             "notes": "!tag wishlist",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Sees-All-Secrets",
@@ -3428,7 +3941,7 @@
             "number": 191,
             "color_identity": "WU",
             "cost": "{1}{W}{U}",
-            "rules_text": "Host [i](When this creature attacks, you may create a 1/1 tapped and attacking token copy of it without host. Sacrifice that token at the beginning of the next end step unless you sacrifice a creature.)[/i]\nWhen this creature enters, tap target creature.",
+            "rules_text": "Host [i](When this creature attacks, create a 1/1 tapped and attacking token copy of it with \u201cOnce, at your end step, sacrifice a creature\u201d and without host. )[/i]\nWhen this creature enters, tap target creature.",
             "flavor_text": "[i][/i]",
             "pt": "2/1",
             "special_text": "",
@@ -3437,8 +3950,11 @@
             "loyalty": "",
             "artist": "Gaia Degl'Innocenti",
             "alias": "",
+            "position": "171",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Dumiyah's Sofer",
@@ -3457,8 +3973,11 @@
             "loyalty": "",
             "artist": "KOOka",
             "alias": "",
+            "position": "172",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "The-True-Judge",
@@ -3468,7 +3987,7 @@
             "number": 196,
             "color_identity": "WB",
             "cost": "{3}{W}{B}",
-            "rules_text": "Flying, lifelink, haste\nSacrifice two tokens: This creature gains protection from the color of your choice until end of turn. [i](This creature can't be blocked, targeted, dealt damage, enchanted, or equipped by anything of that color until end of turn..)[/i]",
+            "rules_text": "Flying, lifelink, haste\nSacrifice two tokens: This creature gains protection from the color of your choice until end of turn. [i](This creature can't be blocked, targeted, dealt damage, enchanted, or equipped by anything of that color until end of turn.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -3477,8 +3996,11 @@
             "loyalty": "",
             "artist": "Mason Adams",
             "alias": "",
+            "position": "173",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Chaotic Assemblage",
@@ -3497,8 +4019,11 @@
             "loyalty": "",
             "artist": "Gabriel Varz",
             "alias": "",
+            "position": "174",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Evil Inclination",
@@ -3517,8 +4042,11 @@
             "loyalty": "",
             "artist": "Billy Christian",
             "alias": "",
+            "position": "175",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Moral Nihlist",
@@ -3537,8 +4065,11 @@
             "loyalty": "",
             "artist": "Anastasia Kolesnikova",
             "alias": "",
+            "position": "176",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Destructive Builder",
@@ -3557,8 +4088,11 @@
             "loyalty": "",
             "artist": "Miseriae Amet Dolor",
             "alias": "",
+            "position": "177",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Grandiloquent Teacher",
@@ -3577,8 +4111,11 @@
             "loyalty": "",
             "artist": "Rogelio Olguin",
             "alias": "",
+            "position": "178",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Avenges-In-Envy",
@@ -3588,7 +4125,7 @@
             "number": 145,
             "color_identity": "WUB",
             "cost": "{W}{U}{B}",
-            "rules_text": "Host [i](When this creature attacks, you may create a 1/1 tapped and attacking token copy of it without host. Sacrifice that token at the beginning of the next end step unless you sacrifice a creature.)[/i]\nWhenever a creature you control attacks alone, it gets +3/+0 until end of turn unless defending player sacrifices a creature.",
+            "rules_text": "Host [i](When this creature attacks, create a 1/1 tapped and attacking token copy of it with \u201cOnce, at your end step, sacrifice a creature\u201d and without host. )[/i]\nWhenever a creature you control attacks alone, it gets +3/+0 until end of turn unless defending player sacrifices a creature.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -3597,8 +4134,11 @@
             "loyalty": "",
             "artist": "Gabriel Varz",
             "alias": "",
+            "position": "179",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Vindictive Seir",
@@ -3617,8 +4157,11 @@
             "loyalty": "",
             "artist": "Tom Zarka",
             "alias": "",
+            "position": "180",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Enacts-Signs-And-Wonders",
@@ -3637,8 +4180,11 @@
             "loyalty": "",
             "artist": "itinogi",
             "alias": "",
+            "position": "181",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Generosity",
@@ -3657,8 +4203,11 @@
             "loyalty": "",
             "artist": "Isis Sangar\u00e9",
             "alias": "",
+            "position": "182",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "For Good",
@@ -3677,8 +4226,11 @@
             "loyalty": "",
             "artist": "Carlos Quevedo",
             "alias": "",
+            "position": "183",
+            "rotated": false,
             "notes": "!tag spotlight",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Dreamcast Apprenticeship",
@@ -3697,8 +4249,11 @@
             "loyalty": "",
             "artist": "Jone Yuan",
             "alias": "",
+            "position": "184",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Nameless Keter",
@@ -3717,8 +4272,11 @@
             "loyalty": "",
             "artist": "Patricia Manzarraga",
             "alias": "",
+            "position": "185",
+            "rotated": false,
             "notes": "!tag value threat",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "War In Heaven",
@@ -3737,8 +4295,11 @@
             "loyalty": "",
             "artist": "Florian Herold",
             "alias": "",
+            "position": "186",
+            "rotated": false,
             "notes": "!tag spotlight",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Engineers of Bodily Form",
@@ -3757,8 +4318,11 @@
             "loyalty": "",
             "artist": "Carlos Quevedo",
             "alias": "",
+            "position": "187",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Dumiyah, The Only Certainty",
@@ -3777,8 +4341,11 @@
             "loyalty": "",
             "artist": "DarKayNess",
             "alias": "",
+            "position": "188",
+            "rotated": false,
             "notes": "!tag sideboard",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Avta, Prosecutorial Prince",
@@ -3797,8 +4364,11 @@
             "loyalty": "",
             "artist": "Alex Out",
             "alias": "",
+            "position": "189",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Vine-Fruit Weaver",
@@ -3817,8 +4387,11 @@
             "loyalty": "",
             "artist": "Rapha\u00ebl El Khaddar",
             "alias": "",
+            "position": "190",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ziz, King Under Heaven",
@@ -3837,8 +4410,11 @@
             "loyalty": "",
             "artist": "Aurore Folny",
             "alias": "",
+            "position": "191",
+            "rotated": false,
             "notes": "!tag topend-threat",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Olamiyah, Covenantal Scribe",
@@ -3848,7 +4424,7 @@
             "number": 182,
             "color_identity": "WUG",
             "cost": "{X}{G}{W}{U}",
-            "rules_text": "Flying, vigilance\nWhen Olamiyah enters, create X artifact tokens named First Thing with \u201cWhenever you attack, attacking creatures you control get +1/+0 until end of turn. When you do, if you didn't attack with exactly one creature, sacrifice this token.\u201d\nYou can't sacrifice tokens.",
+            "rules_text": "Flying, vigilance\nWhen Olamiyah enters, create X artifact tokens named First Thing with \u201cWhenever you attack, attacking creatures you control get +1/+0 until end of turn. If you didn't attack with exactly one creature, sacrifice this token at the beginning of the next end step.\u201d\nYou can't sacrifice tokens.",
             "flavor_text": "[i][/i]",
             "pt": "2/3",
             "special_text": "",
@@ -3857,8 +4433,11 @@
             "loyalty": "",
             "artist": "Anato Finnstark",
             "alias": "",
+            "position": "192",
+            "rotated": false,
             "notes": "!tag topend-threat",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "The First Key",
@@ -3877,8 +4456,11 @@
             "loyalty": "",
             "artist": "Tristan Alexander (edited)",
             "alias": "",
+            "position": "193",
+            "rotated": false,
             "notes": "!tag wishlist",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Lilyata, First Benshachat",
@@ -3897,28 +4479,11 @@
             "loyalty": "",
             "artist": "Carlos Quevedo",
             "alias": "",
+            "position": "194",
+            "rotated": false,
             "notes": "!tag wishlist",
-            "image_type": "png"
-        },
-        {
-            "card_name": "Chaytiv, Who Chose To Know",
-            "color": "WR",
-            "rarity": "mythic",
-            "type": "Legendary Planeswalker \u2013 Chaytiv",
-            "number": 155,
-            "color_identity": "WR",
-            "cost": "{1}{R}{W}",
-            "rules_text": "You may activate one of Chaytiv's loyalty abilities two additional times per turn. They cost an additional \u201cSacrifice a nonland permanent\u201d to activate for each time past the first.\n[+1 ]: Discard a card, then draw a card.\n[-2]: Creatures you control get +1/+1 until end of turn.",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "You may activate one of Chaytiv's loyalty abilities two additional times per turn. They cost an additional \u201cSacrifice a nonland permanent\u201d to activate for each time past the first.\n[+1 ]: Discard a card, then draw a card.\n[-2]: Creatures you control get +1/+1 until end of turn.",
-            "shape": "planeswalker",
-            "set": "M6D",
-            "loyalty": "4",
-            "artist": "Carlos Quevedo",
-            "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Bewailing Effigies",
@@ -3937,8 +4502,11 @@
             "loyalty": "",
             "artist": "Isis Sangar\u00e9",
             "alias": "",
+            "position": "195",
+            "rotated": false,
             "notes": "!tag topend-threat",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Peaceblossom",
@@ -3947,7 +4515,7 @@
             "type": "Enchantment",
             "number": 75,
             "color_identity": "B",
-            "cost": "{B}{B}",
+            "cost": "{2}{B}{B}",
             "rules_text": "At the beginning of your upkeep, you lose 1 life and create an Equipment token with \u201cEquipped creature gets +1/+0 as long as it's attacking\u201d, equip {2}, and raiment. [i](When it enters, create a 1/1 Angel token with \u201cAt the beginning of your upkeep, you may pay {2}. When you do, this creature's Equipment gain another instance of their abilities until end of turn\u201d attached to it.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
@@ -3957,8 +4525,11 @@
             "loyalty": "",
             "artist": "Carlos Quevedo",
             "alias": "",
+            "position": "196",
+            "rotated": false,
             "notes": "!tag aggro-threat",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Diluvian Prophecyscape",
@@ -3968,7 +4539,7 @@
             "number": 217,
             "color_identity": "UB",
             "cost": "",
-            "rules_text": "This land enters tapped. When it does, mill a card, then you may pay {1} and discard a card. If you do, the milled card into your hand.\n{T}: Add {U} or {B}.",
+            "rules_text": "This land enters tapped. When it does, mill a card, then you may pay {1} and discard a card. If you do, put the milled card into your hand.\n{T}: Add {U} or {B}.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3977,8 +4548,11 @@
             "loyalty": "",
             "artist": "Riccardo Piovan",
             "alias": "",
+            "position": "197",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Lofty Prophecyscape",
@@ -3988,7 +4562,7 @@
             "number": 227,
             "color_identity": "WU",
             "cost": "",
-            "rules_text": "This land enters tapped. When it does, mill a card, then you may pay {1} and discard a card. If you do, the milled card into your hand.\n{T}: Add {W} or {U}.",
+            "rules_text": "This land enters tapped. When it does, mill a card, then you may pay {1} and discard a card. If you do, put the milled card into your hand.\n{T}: Add {W} or {U}.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3997,8 +4571,11 @@
             "loyalty": "",
             "artist": "hw 6523",
             "alias": "",
+            "position": "198",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Grieving Prophecyscape",
@@ -4008,7 +4585,7 @@
             "number": 222,
             "color_identity": "BR",
             "cost": "",
-            "rules_text": "This land enters tapped. When it does, mill a card, then you may pay {1} and discard a card. If you do, the milled card into your hand.\n{T}: Add {B} or {R}.",
+            "rules_text": "This land enters tapped. When it does, mill a card, then you may pay {1} and discard a card. If you do, put the milled card into your hand.\n{T}: Add {B} or {R}.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4017,8 +4594,11 @@
             "loyalty": "",
             "artist": "Alex Out",
             "alias": "",
+            "position": "199",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Bustling Prophecyscpe",
@@ -4028,7 +4608,7 @@
             "number": 214,
             "color_identity": "WR",
             "cost": "",
-            "rules_text": "This land enters tapped. When it does, mill a card, then you may pay {1} and discard a card. If you do, the milled card into your hand.\n{T}: Add {R} or {W}.",
+            "rules_text": "This land enters tapped. When it does, mill a card, then you may pay {1} and discard a card. If you do, put the milled card into your hand.\n{T}: Add {R} or {W}.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4037,8 +4617,11 @@
             "loyalty": "",
             "artist": "Finnian MacManus",
             "alias": "",
+            "position": "200",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Vibrant Prophecyscape",
@@ -4048,7 +4631,7 @@
             "number": 233,
             "color_identity": "UR",
             "cost": "",
-            "rules_text": "This land enters tapped. When it does, mill a card, then you may pay {1} and discard a card. If you do, the milled card into your hand.\n{T}: Add {U} or {R}.",
+            "rules_text": "This land enters tapped. When it does, mill a card, then you may pay {1} and discard a card. If you do, put the milled card into your hand.\n{T}: Add {U} or {R}.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4057,8 +4640,11 @@
             "loyalty": "",
             "artist": "Luiza R. Tanaka",
             "alias": "",
+            "position": "201",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Cavernous Prophecyscape",
@@ -4068,7 +4654,7 @@
             "number": 215,
             "color_identity": "UG",
             "cost": "",
-            "rules_text": "This land enters tapped. When it does, mill a card, then you may pay {1} and discard a card. If you do, the milled card into your hand.\n{T}: Add {G} or {U}.",
+            "rules_text": "This land enters tapped. When it does, mill a card, then you may pay {1} and discard a card. If you do, put the milled card into your hand.\n{T}: Add {G} or {U}.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4077,8 +4663,11 @@
             "loyalty": "",
             "artist": "Dylan Scher",
             "alias": "",
+            "position": "202",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Slick Prophecyscape",
@@ -4088,7 +4677,7 @@
             "number": 231,
             "color_identity": "BG",
             "cost": "",
-            "rules_text": "This land enters tapped. When it does, mill a card, then you may pay {1} and discard a card. If you do, the milled card into your hand.\n{T}: Add {B} or {G}.",
+            "rules_text": "This land enters tapped. When it does, mill a card, then you may pay {1} and discard a card. If you do, put the milled card into your hand.\n{T}: Add {B} or {G}.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4097,8 +4686,11 @@
             "loyalty": "",
             "artist": "Anthony Avon",
             "alias": "",
+            "position": "203",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Dire Prophecyscape",
@@ -4108,7 +4700,7 @@
             "number": 218,
             "color_identity": "WB",
             "cost": "",
-            "rules_text": "This land enters tapped. When it does, mill a card, then you may pay {1} and discard a card. If you do, the milled card into your hand.\n{T}: Add {W} or {B}.",
+            "rules_text": "This land enters tapped. When it does, mill a card, then you may pay {1} and discard a card. If you do, put the milled card into your hand.\n{T}: Add {W} or {B}.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4117,8 +4709,11 @@
             "loyalty": "",
             "artist": "Kazuki Kashiwagi",
             "alias": "",
+            "position": "204",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Fecund Prophecyscape",
@@ -4128,7 +4723,7 @@
             "number": 221,
             "color_identity": "RG",
             "cost": "",
-            "rules_text": "This land enters tapped. When it does, mill a card, then you may pay {1} and discard a card. If you do, the milled card into your hand.\n{T}: Add {R} or {G}.",
+            "rules_text": "This land enters tapped. When it does, mill a card, then you may pay {1} and discard a card. If you do, put the milled card into your hand.\n{T}: Add {R} or {G}.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4137,8 +4732,11 @@
             "loyalty": "",
             "artist": "Marika Rav",
             "alias": "",
+            "position": "205",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Imperial Prophecyscape",
@@ -4148,7 +4746,7 @@
             "number": 224,
             "color_identity": "WG",
             "cost": "",
-            "rules_text": "This land enters tapped. When it does, mill a card, then you may pay {1} and discard a card. If you do, the milled card into your hand.\n{T}: Add {G} or {W}.",
+            "rules_text": "This land enters tapped. When it does, mill a card, then you may pay {1} and discard a card. If you do, put the milled card into your hand.\n{T}: Add {G} or {W}.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4157,8 +4755,11 @@
             "loyalty": "",
             "artist": "Anato Finstark",
             "alias": "",
+            "position": "206",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Hall of Wisdom",
@@ -4177,8 +4778,11 @@
             "loyalty": "",
             "artist": "Kamila Szutenberg",
             "alias": "",
+            "position": "207",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Wailing Barrens",
@@ -4197,8 +4801,11 @@
             "loyalty": "",
             "artist": "Shahab Alizadeh",
             "alias": "",
+            "position": "208",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Bloodied Altar",
@@ -4217,8 +4824,11 @@
             "loyalty": "",
             "artist": "Panoramik Games",
             "alias": "",
+            "position": "209",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "World Egg",
@@ -4237,8 +4847,11 @@
             "loyalty": "",
             "artist": "Anthony Avon",
             "alias": "",
+            "position": "210",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Conserving Garden",
@@ -4257,8 +4870,11 @@
             "loyalty": "",
             "artist": "Riccardo Piovan",
             "alias": "",
+            "position": "211",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Lesser Throne",
@@ -4277,8 +4893,11 @@
             "loyalty": "",
             "artist": "Alex Out",
             "alias": "",
+            "position": "212",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Pillars of Creation",
@@ -4297,8 +4916,11 @@
             "loyalty": "",
             "artist": "Riccardo Piovan",
             "alias": "",
+            "position": "213",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Blasted Refuse",
@@ -4317,8 +4939,11 @@
             "loyalty": "",
             "artist": "Anthony Avon",
             "alias": "",
+            "position": "214",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Productive Smithy",
@@ -4337,8 +4962,11 @@
             "loyalty": "",
             "artist": "Riccardo Piovan",
             "alias": "",
+            "position": "215",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Water-Drawing Site",
@@ -4357,8 +4985,11 @@
             "loyalty": "",
             "artist": "Benjamin Redekop",
             "alias": "",
+            "position": "216",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Prophetic Prism",
@@ -4377,8 +5008,11 @@
             "loyalty": "",
             "artist": "Ormius",
             "alias": "",
+            "position": "217",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Foundation Scribe",
@@ -4397,8 +5031,11 @@
             "loyalty": "",
             "artist": "Anthony Avon",
             "alias": "",
+            "position": "218",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Molten Keter",
@@ -4417,8 +5054,11 @@
             "loyalty": "",
             "artist": "Bardia Sarshar",
             "alias": "",
+            "position": "219",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Covenant of Truth",
@@ -4428,7 +5068,7 @@
             "number": 205,
             "color_identity": "C",
             "cost": "{2}",
-            "rules_text": "Whenever you attack, target creature gets +2/+2 until end of turn. When it does, if you attacked with two or more creatures, sacrifice this artifact.\nYou may cast this card from your graveyard.",
+            "rules_text": "Whenever you attack, target creature gets +2/+2 until end of turn. Sacrifice this artifact at the beginning of the next end step if you attacked with two or more creatures.\nYou may cast this card from your graveyard.",
             "flavor_text": "[i]A gift that binds the Giver and the recipient in eternal love.[/i]",
             "pt": "",
             "special_text": "",
@@ -4437,8 +5077,11 @@
             "loyalty": "",
             "artist": "Art By Abish",
             "alias": "",
+            "position": "220",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Garden Statuary",
@@ -4457,8 +5100,11 @@
             "loyalty": "",
             "artist": "Kieran Goodson",
             "alias": "",
+            "position": "221",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Foundation Colossus",
@@ -4477,8 +5123,11 @@
             "loyalty": "",
             "artist": "Niko J. Pope",
             "alias": "",
+            "position": "222",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Harp of Sin",
@@ -4497,8 +5146,11 @@
             "loyalty": "",
             "artist": "Isis Sangar\u00e9",
             "alias": "",
+            "position": "223",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Vessel Of Disrespect",
@@ -4517,8 +5169,11 @@
             "loyalty": "",
             "artist": "Tatiana Krstic",
             "alias": "",
+            "position": "224",
+            "rotated": false,
             "notes": "!exportname Vessel Of Disrespect",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Empty One",
@@ -4537,8 +5192,11 @@
             "loyalty": "",
             "artist": "Tatiana Krstic",
             "alias": "",
+            "position": "225",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Almanac of Days",
@@ -4557,8 +5215,11 @@
             "loyalty": "",
             "artist": "Alex Out",
             "alias": "",
+            "position": "226",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "The Boiler",
@@ -4577,8 +5238,11 @@
             "loyalty": "",
             "artist": "MWARTOVA/MAMWART",
             "alias": "",
+            "position": "227",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "The Judicary",
@@ -4597,8 +5261,11 @@
             "loyalty": "",
             "artist": "Anton Fedotov",
             "alias": "",
+            "position": "228",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "The Engine Room",
@@ -4617,8 +5284,11 @@
             "loyalty": "",
             "artist": "Alex Out",
             "alias": "",
+            "position": "229",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "The Orchard",
@@ -4628,7 +5298,7 @@
             "number": 228,
             "color_identity": "URG",
             "cost": "",
-            "rules_text": "This land enters with two depletion counters and enters tapped unless you pay 2 life.\n{T}: Add {U}.\n{T}, Remove a depletion counter from this land: Add {R} or {G}.",
+            "rules_text": "This land enters with two depletion counters and enters tapped unless you pay 2 life.\n{T}: Add {G}.\n{T}, Remove a depletion counter from this land: Add {U} or {R}.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4637,8 +5307,11 @@
             "loyalty": "",
             "artist": "Johfra Bosschart",
             "alias": "",
+            "position": "230",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "The Study Hall",
@@ -4657,8 +5330,11 @@
             "loyalty": "",
             "artist": "Anton Fedotov",
             "alias": "",
+            "position": "231",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Austere Tanna",
@@ -4677,8 +5353,11 @@
             "loyalty": "",
             "artist": "n0vi.1",
             "alias": "",
+            "position": "232",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Evolving Wilds",
@@ -4697,168 +5376,11 @@
             "loyalty": "",
             "artist": "d1eselx",
             "alias": "",
+            "position": "233",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
-        },
-        {
-            "card_name": "Angel",
-            "color": "",
-            "rarity": "common",
-            "type": "Token Creature \u2013 Angel",
-            "number": 2,
-            "color_identity": "C",
-            "cost": "",
-            "rules_text": "At the beginning of your first main phase, you may pay {2}. When you do, this creature's Equipment gain another instance of their abilities until end of turn.",
-            "flavor_text": "[i][/i]",
-            "pt": "1/1",
-            "special_text": "",
-            "shape": "token",
-            "set": "M6D",
-            "loyalty": "",
-            "artist": "Soufiane Idrassi",
-            "alias": "",
-            "notes": "",
-            "image_type": "png"
-        },
-        {
-            "card_name": "Equipment",
-            "color": "",
-            "rarity": "common",
-            "type": "Token Artifact \u2013 Equipment",
-            "number": 11,
-            "color_identity": "C",
-            "cost": "",
-            "rules_text": "Raiment\nEquipped creature gets +1/+0 as long as it's attacking. \nEquip {2}",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "token",
-            "set": "M6D",
-            "loyalty": "",
-            "artist": "Soufiane Idrassu",
-            "alias": "",
-            "notes": "",
-            "image_type": "png"
-        },
-        {
-            "card_name": "Keter of 248 Organs",
-            "color": "",
-            "rarity": "common",
-            "type": "Token Artifact \u2013 Equipment",
-            "number": 13,
-            "color_identity": "C",
-            "cost": "",
-            "rules_text": "Raiment\nEquipped creature gets +1/+0 for each artifact you control.\nEquip {2}",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "token",
-            "set": "M6D",
-            "loyalty": "",
-            "artist": "Carlos Quevedo",
-            "alias": "",
-            "notes": "",
-            "image_type": "png"
-        },
-        {
-            "card_name": "Angel",
-            "color": "U",
-            "rarity": "common",
-            "type": "Token Creature \u2013 Angel",
-            "number": 4,
-            "color_identity": "U",
-            "cost": "",
-            "rules_text": "Flying",
-            "flavor_text": "[i][/i]",
-            "pt": "2/2",
-            "special_text": "",
-            "shape": "token",
-            "set": "M6D",
-            "loyalty": "",
-            "artist": "Carlos Quevedo",
-            "alias": "",
-            "notes": "",
-            "image_type": "png"
-        },
-        {
-            "card_name": "Angel Devil",
-            "color": "B",
-            "rarity": "common",
-            "type": "Token Creature \u2013 Angel Devil",
-            "number": 5,
-            "color_identity": "B",
-            "cost": "",
-            "rules_text": "Deathtouch\nThis creature can't block.",
-            "flavor_text": "[i][/i]",
-            "pt": "1/2",
-            "special_text": "",
-            "shape": "token",
-            "set": "M6D",
-            "loyalty": "",
-            "artist": "Soufiane Idrassi",
-            "alias": "",
-            "notes": "",
-            "image_type": "png"
-        },
-        {
-            "card_name": "Angel",
-            "color": "W",
-            "rarity": "common",
-            "type": "Token Creature \u2013 Angel",
-            "number": 3,
-            "color_identity": "W",
-            "cost": "",
-            "rules_text": "",
-            "flavor_text": "[i][/i]",
-            "pt": "1/1",
-            "special_text": "",
-            "shape": "token",
-            "set": "M6D",
-            "loyalty": "",
-            "artist": "Carlos Quevedo",
-            "alias": "",
-            "notes": "",
-            "image_type": "png"
-        },
-        {
-            "card_name": "Angel Wizard",
-            "color": "R",
-            "rarity": "common",
-            "type": "Token Creature \u2013 Angel Wizard",
-            "number": 7,
-            "color_identity": "R",
-            "cost": "",
-            "rules_text": "Prowess, haste",
-            "flavor_text": "[i][/i]",
-            "pt": "1/2",
-            "special_text": "",
-            "shape": "token",
-            "set": "M6D",
-            "loyalty": "",
-            "artist": "Carlos Quevedo",
-            "alias": "",
-            "notes": "",
-            "image_type": "png"
-        },
-        {
-            "card_name": "Meitohu Sludge",
-            "color": "",
-            "rarity": "common",
-            "type": "Token Artifact",
-            "number": 15,
-            "color_identity": "C",
-            "cost": "",
-            "rules_text": "As this token enters, it becomes a copy of target creature or artifact you control until end of turn.",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "token",
-            "set": "M6D",
-            "loyalty": "",
-            "artist": "John Searcher",
-            "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Swamp",
@@ -4877,8 +5399,11 @@
             "loyalty": "",
             "artist": "Shahab Alizadeh",
             "alias": "",
+            "position": "234",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Plains",
@@ -4897,8 +5422,11 @@
             "loyalty": "",
             "artist": "Anthony Avon",
             "alias": "",
+            "position": "235",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Forest",
@@ -4917,8 +5445,11 @@
             "loyalty": "",
             "artist": "Shahab Alizadeh",
             "alias": "",
+            "position": "236",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Island",
@@ -4937,8 +5468,11 @@
             "loyalty": "",
             "artist": "Anthony Avon",
             "alias": "",
+            "position": "237",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mountain",
@@ -4957,148 +5491,11 @@
             "loyalty": "",
             "artist": "Joon Ahn",
             "alias": "",
+            "position": "238",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
-        },
-        {
-            "card_name": "Demon",
-            "color": "B",
-            "rarity": "common",
-            "type": "Token Creature \u2013 Demon",
-            "number": 6,
-            "color_identity": "B",
-            "cost": "",
-            "rules_text": "",
-            "flavor_text": "[i][/i]",
-            "pt": "0/0",
-            "special_text": "",
-            "shape": "token",
-            "set": "M6D",
-            "loyalty": "",
-            "artist": "Denis Kornev",
-            "alias": "",
-            "notes": "",
-            "image_type": "png"
-        },
-        {
-            "card_name": "Homunculus",
-            "color": "G",
-            "rarity": "common",
-            "type": "Token Creature \u2013 Homunculus",
-            "number": 8,
-            "color_identity": "G",
-            "cost": "",
-            "rules_text": "At the beginning of your end step, if this creature didn't enter this turn, sacrifice it.",
-            "flavor_text": "[i][/i]",
-            "pt": "2/1",
-            "special_text": "",
-            "shape": "token",
-            "set": "M6D",
-            "loyalty": "",
-            "artist": "brushray",
-            "alias": "",
-            "notes": "",
-            "image_type": "png"
-        },
-        {
-            "card_name": "Homunculus Beast",
-            "color": "G",
-            "rarity": "common",
-            "type": "Token Creature \u2013 Homunculus Beast",
-            "number": 9,
-            "color_identity": "G",
-            "cost": "",
-            "rules_text": "",
-            "flavor_text": "[i][/i]",
-            "pt": "2/2",
-            "special_text": "",
-            "shape": "token",
-            "set": "M6D",
-            "loyalty": "",
-            "artist": "Yaroslav Lotmanov",
-            "alias": "",
-            "notes": "",
-            "image_type": "png"
-        },
-        {
-            "card_name": "Law",
-            "color": "",
-            "rarity": "common",
-            "type": "Token Artifact \u2013 Law",
-            "number": 14,
-            "color_identity": "C",
-            "cost": "",
-            "rules_text": "Whenever you attack, target creature you control gets +1/+1 until end of turn. When it does, sacrifice this token if you attacked with two or more creatures.",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "token",
-            "set": "M6D",
-            "loyalty": "",
-            "artist": "Alex Levin",
-            "alias": "",
-            "notes": "",
-            "image_type": "png"
-        },
-        {
-            "card_name": "",
-            "color": "",
-            "rarity": "common",
-            "type": "Token Creature",
-            "number": 1,
-            "color_identity": "C",
-            "cost": "",
-            "rules_text": "",
-            "flavor_text": "[i][/i]",
-            "pt": "2/2",
-            "special_text": "",
-            "shape": "token",
-            "set": "M6D",
-            "loyalty": "",
-            "artist": "J. R. Slattum",
-            "alias": "",
-            "notes": "",
-            "image_type": "png"
-        },
-        {
-            "card_name": "Conch Horn",
-            "color": "",
-            "rarity": "common",
-            "type": "Token Artifact",
-            "number": 10,
-            "color_identity": "C",
-            "cost": "",
-            "rules_text": "{1}, {T}, Sacrifice this artifact: Draw two cards, then put a card from your hand on top of your library.",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "token",
-            "set": "M6D",
-            "loyalty": "",
-            "artist": "The Guardian",
-            "alias": "",
-            "notes": "",
-            "image_type": "png"
-        },
-        {
-            "card_name": "Treasure",
-            "color": "",
-            "rarity": "common",
-            "type": "Token Artifact \u2013 Treasure",
-            "number": 16,
-            "color_identity": "C",
-            "cost": "",
-            "rules_text": "{T}, Sacrifice this token: Add one mana of any color.",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "token",
-            "set": "M6D",
-            "loyalty": "",
-            "artist": "Vladimir Matyukhin",
-            "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Scribe's Keter",
@@ -5117,8 +5514,379 @@
             "loyalty": "",
             "artist": "Magdalena Radziej,",
             "alias": "",
+            "position": "239",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
+        },
+        {
+            "card_name": "Chaytiv, Who Chose To Know",
+            "color": "WR",
+            "rarity": "mythic",
+            "type": "Legendary Planeswalker \u2013 Chaytiv",
+            "number": 155,
+            "color_identity": "WR",
+            "cost": "{1}{R}{W}",
+            "rules_text": "You may activate one of Chaytiv's loyalty abilities two additional times per turn. They cost an additional \u201cSacrifice a nonland permanent\u201d to activate for each time past the first.\n[+1 ]: Discard a card, then draw a card.\n[-2]: Creatures you control get +1/+1 until end of turn.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "You may activate one of Chaytiv's loyalty abilities two additional times per turn. They cost an additional \u201cSacrifice a nonland permanent\u201d to activate for each time past the first.\n[+1 ]: Discard a card, then draw a card.\n[-2]: Creatures you control get +1/+1 until end of turn.",
+            "shape": "planeswalker",
+            "set": "M6D",
+            "loyalty": "4",
+            "artist": "Carlos Quevedo",
+            "alias": "",
+            "position": "240",
+            "rotated": false,
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
+        },
+        {
+            "card_name": "Angel",
+            "color": "",
+            "rarity": "common",
+            "type": "Token Creature \u2013 Angel",
+            "number": 2,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "At the beginning of your first main phase, you may pay {2}. When you do, this creature's Equipment gain another instance of their abilities until end of turn.",
+            "flavor_text": "[i][/i]",
+            "pt": "1/1",
+            "special_text": "",
+            "shape": "token",
+            "set": "M6D",
+            "loyalty": "",
+            "artist": "Soufiane Idrassi",
+            "alias": "",
+            "position": "241",
+            "rotated": false,
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
+        },
+        {
+            "card_name": "Equipment",
+            "color": "",
+            "rarity": "common",
+            "type": "Token Artifact \u2013 Equipment",
+            "number": 11,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "Raiment\nEquipped creature gets +1/+0 as long as it's attacking. \nEquip {2}",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "token",
+            "set": "M6D",
+            "loyalty": "",
+            "artist": "Soufiane Idrassu",
+            "alias": "",
+            "position": "242",
+            "rotated": false,
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
+        },
+        {
+            "card_name": "Keter of 248 Organs",
+            "color": "",
+            "rarity": "common",
+            "type": "Token Artifact \u2013 Equipment",
+            "number": 13,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "Raiment\nEquipped creature gets +1/+0 for each artifact you control.\nEquip {2}",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "token",
+            "set": "M6D",
+            "loyalty": "",
+            "artist": "Carlos Quevedo",
+            "alias": "",
+            "position": "243",
+            "rotated": false,
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
+        },
+        {
+            "card_name": "Angel",
+            "color": "U",
+            "rarity": "common",
+            "type": "Token Creature \u2013 Angel",
+            "number": 4,
+            "color_identity": "U",
+            "cost": "",
+            "rules_text": "Flying",
+            "flavor_text": "[i][/i]",
+            "pt": "2/2",
+            "special_text": "",
+            "shape": "token",
+            "set": "M6D",
+            "loyalty": "",
+            "artist": "Carlos Quevedo",
+            "alias": "",
+            "position": "244",
+            "rotated": false,
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
+        },
+        {
+            "card_name": "Angel Devil",
+            "color": "B",
+            "rarity": "common",
+            "type": "Token Creature \u2013 Angel Devil",
+            "number": 5,
+            "color_identity": "B",
+            "cost": "",
+            "rules_text": "Deathtouch\nThis creature can't block.",
+            "flavor_text": "[i][/i]",
+            "pt": "1/2",
+            "special_text": "",
+            "shape": "token",
+            "set": "M6D",
+            "loyalty": "",
+            "artist": "Soufiane Idrassi",
+            "alias": "",
+            "position": "245",
+            "rotated": false,
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
+        },
+        {
+            "card_name": "Angel",
+            "color": "W",
+            "rarity": "common",
+            "type": "Token Creature \u2013 Angel",
+            "number": 3,
+            "color_identity": "W",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "1/1",
+            "special_text": "",
+            "shape": "token",
+            "set": "M6D",
+            "loyalty": "",
+            "artist": "Carlos Quevedo",
+            "alias": "",
+            "position": "246",
+            "rotated": false,
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
+        },
+        {
+            "card_name": "Angel Wizard",
+            "color": "R",
+            "rarity": "common",
+            "type": "Token Creature \u2013 Angel Wizard",
+            "number": 7,
+            "color_identity": "R",
+            "cost": "",
+            "rules_text": "Prowess, haste",
+            "flavor_text": "[i][/i]",
+            "pt": "1/2",
+            "special_text": "",
+            "shape": "token",
+            "set": "M6D",
+            "loyalty": "",
+            "artist": "Carlos Quevedo",
+            "alias": "",
+            "position": "247",
+            "rotated": false,
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
+        },
+        {
+            "card_name": "Meitohu Sludge",
+            "color": "",
+            "rarity": "common",
+            "type": "Token Artifact",
+            "number": 15,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "As this token enters, it becomes a copy of target creature or artifact you control until end of turn.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "token",
+            "set": "M6D",
+            "loyalty": "",
+            "artist": "John Searcher",
+            "alias": "",
+            "position": "248",
+            "rotated": false,
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
+        },
+        {
+            "card_name": "Demon",
+            "color": "B",
+            "rarity": "common",
+            "type": "Token Creature \u2013 Demon",
+            "number": 6,
+            "color_identity": "B",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "0/0",
+            "special_text": "",
+            "shape": "token",
+            "set": "M6D",
+            "loyalty": "",
+            "artist": "Denis Kornev",
+            "alias": "",
+            "position": "249",
+            "rotated": false,
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
+        },
+        {
+            "card_name": "Homunculus",
+            "color": "G",
+            "rarity": "common",
+            "type": "Token Creature \u2013 Homunculus",
+            "number": 8,
+            "color_identity": "G",
+            "cost": "",
+            "rules_text": "At the beginning of your end step, if this creature didn't enter this turn, sacrifice it.",
+            "flavor_text": "[i][/i]",
+            "pt": "2/1",
+            "special_text": "",
+            "shape": "token",
+            "set": "M6D",
+            "loyalty": "",
+            "artist": "brushray",
+            "alias": "",
+            "position": "250",
+            "rotated": false,
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
+        },
+        {
+            "card_name": "Homunculus Beast",
+            "color": "G",
+            "rarity": "common",
+            "type": "Token Creature \u2013 Homunculus Beast",
+            "number": 9,
+            "color_identity": "G",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "2/2",
+            "special_text": "",
+            "shape": "token",
+            "set": "M6D",
+            "loyalty": "",
+            "artist": "Yaroslav Lotmanov",
+            "alias": "",
+            "position": "251",
+            "rotated": false,
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
+        },
+        {
+            "card_name": "Law",
+            "color": "",
+            "rarity": "common",
+            "type": "Token Artifact \u2013 Law",
+            "number": 14,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "When you attack, target creature you control gets +1/+1 until end of turn. Sacrifice this token at the beginning of the next end step if you attacked with two or more creatures.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "token",
+            "set": "M6D",
+            "loyalty": "",
+            "artist": "Alex Levin",
+            "alias": "",
+            "position": "252",
+            "rotated": false,
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
+        },
+        {
+            "card_name": "",
+            "color": "",
+            "rarity": "common",
+            "type": "Token Creature",
+            "number": 1,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "2/2",
+            "special_text": "",
+            "shape": "token",
+            "set": "M6D",
+            "loyalty": "",
+            "artist": "J. R. Slattum",
+            "alias": "",
+            "position": "253",
+            "rotated": false,
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
+        },
+        {
+            "card_name": "Conch Horn",
+            "color": "",
+            "rarity": "common",
+            "type": "Token Artifact",
+            "number": 10,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "{1}, {T}, Sacrifice this artifact: Draw two cards, then put a card from your hand on top of your library.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "token",
+            "set": "M6D",
+            "loyalty": "",
+            "artist": "The Guardian",
+            "alias": "",
+            "position": "254",
+            "rotated": false,
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
+        },
+        {
+            "card_name": "Treasure",
+            "color": "",
+            "rarity": "common",
+            "type": "Token Artifact \u2013 Treasure",
+            "number": 16,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "{T}, Sacrifice this token: Add one mana of any color.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "token",
+            "set": "M6D",
+            "loyalty": "",
+            "artist": "Vladimir Matyukhin",
+            "alias": "",
+            "position": "255",
+            "rotated": false,
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "First Thing",
@@ -5128,7 +5896,7 @@
             "number": 12,
             "color_identity": "C",
             "cost": "",
-            "rules_text": "Whenever you attack, attacking creatures you control get +1/+0 until end of turn. When you do, if you didn't attack with exactly one creature, sacrifice this token.",
+            "rules_text": "Whenever you attack, attacking creatures you control get +1/+0 until end of turn. If you didn't attack with exactly one creature, sacrifice this token at the beginning of the next end step..",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -5137,8 +5905,11 @@
             "loyalty": "",
             "artist": "Oleksii Chekal",
             "alias": "",
+            "position": "256",
+            "rotated": false,
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "High Fencing",
