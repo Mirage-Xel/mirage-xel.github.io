@@ -3207,7 +3207,7 @@
             "number": 149,
             "color_identity": "WB",
             "cost": "{W}{B}",
-            "rules_text": "When this creature enters, create two Law tokens. [i](They're artifacts with \u201cWhen you attack, target creature you control gets +1/+1 until end of turn. Sacrifice this token at the next end step if you attacked with two or more creatures.\u201d)[/i]\nThis creature can't attack or block. At the beginning of your end step, if two or more nonland permanents died under your control this turn, it loses this ability. [i](Indefinitely,)[/i]",
+            "rules_text": "When this creature enters, create two Law tokens. [i](They're artifacts with \u201cWhen you attack, target creature you control gets +1/+1 until end of turn. Sacrifice this token at the next end step if you attacked with two or more creatures.\u201d)[/i]\nThis creature can't attack or block. At the beginning of your end step, it loses this ability if two or more nonland permanents died under your control this turn. [i](Indefinitely.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "4/3",
             "special_text": "",
@@ -5405,5 +5405,5 @@
             "notes": ""
         }
     ],
-    "version": 21
+    "version": 22
 }

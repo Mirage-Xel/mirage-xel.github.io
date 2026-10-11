@@ -1,4 +1,23 @@
-﻿VERSION 21 CHANGELOG
+﻿VERSION 22 CHANGELOG
+====================
+
+
+
+Balanced Dayan
+rules_text: When this creature enters, create two Law tokens. [i](They're artifacts with “When you attack, target creature you control gets +1/+1 until end of turn. Sacrifice this token at the next end step if you attacked with two or more creatures.”)[/i]
+This creature can't attack or block. At the beginning of your end step, if two or more nonland permanents died under your control this turn, it loses this ability. [i](Indefinitely,)[/i] => When this creature enters, create two Law tokens. [i](They're artifacts with “When you attack, target creature you control gets +1/+1 until end of turn. Sacrifice this token at the next end step if you attacked with two or more creatures.”)[/i]
+This creature can't attack or block. At the beginning of your end step, it loses this ability if two or more nonland permanents died under your control this turn. [i](Indefinitely.)[/i]
+
+
+type: Artifact — Book => Token Creature
+cost: {1}{W} => 
+rules_text: When this artifact enters, exile target creature with mana value 3 or less until this artifact leaves the battlefield.
+{1}{W}: Exile target creature you control until this artifact leaves the battlefield.
+{3}{W}: Exile this artifact, then return it to the battlefield under your control. => 
+pt:  => 2/2
+
+
+VERSION 21 CHANGELOG
 ====================
 
 
