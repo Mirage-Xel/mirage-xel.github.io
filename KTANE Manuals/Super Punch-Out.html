@@ -1,0 +1,62 @@
+﻿html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="initial-scale=1">
+    <title>Super Punch-Out — Keep Talking and Nobody Explodes Module</title>
+    <link rel="stylesheet" type="text/css" href="css/font.css">
+    <link rel="stylesheet" type="text/css" href="css/normalize.css">
+    <link rel="stylesheet" type="text/css" href="css/main.css">
+    <script src="js/ktane-utils.js"></script>
+    <!-- Remove the whole style tag if empty -->
+    <style>
+        /* Remove this if you do not have any tables */
+        table {
+            margin: 1em auto;
+            border: none;
+        }
+
+        /* Remove this if you only have a single page */
+        .page-footer::before { content: 'Page '; }
+        .page-footer::after { content: ' of 2'; }
+    </style>
+</head>
+<body>
+    <div class="section">
+        <div class="page page-bg-01">
+            <div class="page-header">
+                <span class="page-header-doc-title">Keep Talking and Nobody Explodes Mod</span>
+                <span class="page-header-section-title">Super Punch-Out</span>
+            </div>
+            <div class="page-content">
+                <img src="img/Component/Module Name.svg" class="diagram">
+                <h2>On the Subject of Super Punch-Out!!!</h2>
+                <p class="flavour-text">Given the amount these boxers cheat, I wouldn't be suprised if the next game has a bomb defusal minigame.</p>
+
+                <table style="float: right"><tr><td><strong>Ports % 3 = 0</strong></td><td>Weak, Medium, Strong</td></tr><tr><td><strong>Ports % 3 = 1</strong></td><td>Medium, Strong, Weak</td></tr><tr><td><strong>Ports % 3 = 0</strong></td><td>Strong, Weak, Medium</td></tr></table>
+                <p>Each of the boxer portraits on the module will register an interaction punch of one of three different strengths when pressed. Pressing the center of the module will register a medium punch. No boxer is adjacent to multiple boxers with the same strength of interaction punch. <strong>You can only press four boxers to determine this; there will be one correct boxer to challenge, and every boxer pressed after the fourth will be taken as a challenge attempt.</strong></p>
+				<p>Names of boxers can be found on the page below. Of the three categories of interaction punch, all the boxers in one category will have a mystery letter from RLSTNE in their names that none of the boxers in a second category have; the third category is irrelevant. Assign coding numbers to each of the boxers, starting at 0 with the first category in the list obtained from the small table and alternating categories in order, skipping over exhausted categories. The category where the mystery letter is present is sorted by the position of the first appearance of the mystery letter from first to last. All other categories are sorted by alphabetical order. The correct boxer to challenge has a coding number equal to the last digit of the serial number.</p>
+				<p>Once the correct boxer is challenged, the module will register a series of seven interaction punches at points found one of the diagrams below. The center of the module can be pressed to replay the punches. Each punch must be responded to by pressing a boxer with a punch of the same strength as it, determined by the boxer with a coding number equal to that point's number in the diagram.</p>
+                <ul><li>If that boxer is in the middle, the correct boxer is adjacent to that boxer.</li><lI>If that boxer is in a corner, the correct boxer is the closest option to that boxer in the same row.</li></ul>
+								<table style "float: right"><tr><td><img src="img/Super Punch-Out/1.svg"style="width:100%"></td><td><img src="img/Super Punch-Out/2.svg"style="width:100%"></td><td><img src="img/Super Punch-Out/3.svg"style="width:100%"></td><td><img src="img/Super Punch-Out/4.svg"style="width:100%"></td></tr>
+				<tr><td><img src="img/Super Punch-Out/5.svg" style="width:100%"></td><td><img src="img/Super Punch-Out/6.svg"style="width:100%"></td><td><img src="img/Super Punch-Out/7.svg"style="width:100%"></td><td><img src="img/Super Punch-Out/8.svg"style="width:100%"></td></tr></table>
+            </div>
+            <div class="page-footer relative-footer">1</div>
+        </div>
+
+        <div class="page page-bg-02">
+            <div class="page-header">
+                <span class="page-header-doc-title">Keep Talking and Nobody Explodes Mod</span>
+                <span class="page-header-section-title">Super Punch-Out</span>
+            </div>
+            <div class="page-content">
+				<table><tr><td><img src="img/Super Punch-Out/Gabby Jay.png" style="width:50%"><br>Gabby Jay</td><td><img src="img/Super Punch-Out/Bear Hugger.png"style="width:50%"><br>Bear Hugger</td><td><img src="img/Super Punch-Out/Piston Hurricane.png" style="width:50%"><br>Piston Hurricane</td><td><img src="img/Super Punch-Out/Bald Bull.png" style="width:50%"><br>Bald Bull</td></tr>
+			    <tr><td><img src="img/Super Punch-Out/Bob Charlie.png" style="width:50%"><br>Bob Charlie</td><td><img src="img/Super Punch-Out/Dragon Chan.png"style="width:50%"><br>Dragon Chan</td><td><img src="img/Super Punch-Out/Masked Muscle.png" style="width:50%"><br>Masked Muscle</td><td><img src="img/Super Punch-Out/Mr. Sandman.png" style="width:50%"><br>Mr. Sandman.</td></tr>
+			    <tr><td><img src="img/Super Punch-Out/Aran Ryan.png" style="width:50%"><br>Aran Ryan</td><td><img src="img/Super Punch-Out/Heike Kagero.png"style="width:50%"><br>Heike Kagero</td><td><img src="img/Super Punch-Out/Mad Clown.png" style="width:50%"><br>Mad Clown</td><td><img src="img/Super Punch-Out/Super Macho Man.png" style="width:50%"><br>Super Macho Man</td></tr>
+				<tr><td><img src="img/Super Punch-Out/Narcis Prince.png" style="width:50%"><br>Narcis Prince</td><td><img src="img/Super Punch-Out/Hoy Quarlow.png"style="width:50%"><br>Hoy Quarlow</td><td><img src="img/Super Punch-Out/Rick Bruiser.png" style="width:50%"><br>Rick Bruiser</td><td><img src="img/Super Punch-Out/Nick Bruiser.png" style="width:50%"><br>Nick Bruiser</td></tr></table>
+            </div>
+            <div class="page-footer relative-footer">2</div>
+        </div>
+    </div>
+</body>
+</html>
