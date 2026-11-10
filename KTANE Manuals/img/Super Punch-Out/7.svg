@@ -7,34 +7,34 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="7.svg"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   id="svg8"
-   version="1.1"
-   viewBox="0 0 200.2565 88.446426"
+   width="200.2565mm"
    height="88.446426mm"
-   width="200.2565mm">
+   viewBox="0 0 200.2565 88.446426"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="7.svg">
   <defs
      id="defs2" />
   <sodipodi:namedview
-     inkscape:window-maximized="1"
-     inkscape:window-y="-8"
-     inkscape:window-x="-8"
-     inkscape:window-height="1017"
-     inkscape:window-width="1920"
-     showgrid="false"
-     inkscape:document-rotation="0"
-     inkscape:current-layer="layer1"
-     inkscape:document-units="mm"
-     inkscape:cy="41.938278"
-     inkscape:cx="193.59782"
-     inkscape:zoom="0.5"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     borderopacity="1.0"
-     bordercolor="#666666"
+     id="base"
      pagecolor="#ffffff"
-     id="base" />
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.5"
+     inkscape:cx="193.59782"
+     inkscape:cy="41.938278"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -48,241 +48,241 @@
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(-6.0476184,-91.470238)"
-     id="layer1"
+     inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     inkscape:label="Layer 1">
+     id="layer1"
+     transform="translate(-6.0476184,-91.470238)">
     <g
-       transform="translate(14.026599,-1.2277835)"
-       id="g1401">
+       id="g1401"
+       transform="translate(14.026599,-1.2277835)">
       <g
-         id="g1068"
-         transform="translate(168.03912,-1.5653176)">
-        <circle
-           style="opacity:0.998;fill:#000000;fill-opacity:0;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="path853-9"
-           cx="16.7384"
-           cy="102.16102"
-           r="7" />
-        <text
-           xml:space="preserve"
-           style="font-size:14.107px;line-height:1;font-family:'Lucida Math Std';-inkscape-font-specification:'Lucida Math Std, Normal';letter-spacing:0.220421px;word-spacing:0.220421px;stroke-width:0.220421"
-           x="12.402287"
-           y="107.2445"
-           id="text872-0"><tspan
-             sodipodi:role="line"
-             id="tspan870-3"
-             x="12.402287"
-             y="107.2445"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.107px;font-family:'Special Elite';-inkscape-font-specification:'Special Elite, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.220421">0</tspan></text>
-      </g>
-    </g>
-    <g
-       transform="translate(-3.1907811,70.379344)"
-       id="g930-9">
-      <g
-         id="g1058">
-        <circle
-           style="opacity:0.998;fill:#000000;fill-opacity:0;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="path853-8"
-           cx="16.7384"
-           cy="102.16102"
-           r="7" />
-        <text
-           xml:space="preserve"
-           style="font-size:14.107px;line-height:1;font-family:'Lucida Math Std';-inkscape-font-specification:'Lucida Math Std, Normal';letter-spacing:0.220421px;word-spacing:0.220421px;stroke-width:0.220421"
-           x="12.533163"
-           y="107.14513"
-           id="text872-8"><tspan
-             sodipodi:role="line"
-             id="tspan870-8"
-             x="12.533163"
-             y="107.14513"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.107px;font-family:'Special Elite';-inkscape-font-specification:'Special Elite, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.220421">6</tspan></text>
-      </g>
-    </g>
-    <g
-       transform="translate(120.31357,-2.7931011)"
-       id="g930-42">
-      <g
-         id="g1083">
-        <circle
-           style="opacity:0.998;fill:#000000;fill-opacity:0;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="path853-5"
-           cx="16.7384"
-           cy="102.16102"
-           r="7" />
-        <text
-           xml:space="preserve"
-           style="font-size:14.107px;line-height:1;font-family:'Lucida Math Std';-inkscape-font-specification:'Lucida Math Std, Normal';letter-spacing:0.220421px;word-spacing:0.220421px;stroke-width:0.220421"
-           x="12.491835"
-           y="107.25139"
-           id="text872-07"><tspan
-             sodipodi:role="line"
-             id="tspan870-1"
-             x="12.491835"
-             y="107.25139"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.107px;font-family:'Special Elite';-inkscape-font-specification:'Special Elite, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.220421">8</tspan></text>
-      </g>
-    </g>
-    <g
-       transform="translate(96.986492,42.770836)"
-       id="g898">
-      <circle
-         r="7"
-         cy="129.64583"
-         cx="40.065475"
-         id="path853-3"
-         style="opacity:0.998;fill:#000000;fill-opacity:0;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <text
-         id="text872-1"
-         y="134.58121"
-         x="36.087551"
-         style="font-size:14.107px;line-height:1;font-family:'Lucida Math Std';-inkscape-font-specification:'Lucida Math Std, Normal';letter-spacing:0.220421px;word-spacing:0.220421px;stroke-width:0.220421"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.107px;font-family:'Special Elite';-inkscape-font-specification:'Special Elite, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.220421"
-           y="134.58121"
-           x="36.087551"
-           id="tspan870-7"
-           sodipodi:role="line">7</tspan></text>
-    </g>
-    <g
-       transform="translate(83.356751,35.452114)"
-       id="g930-4">
-      <g
-         transform="translate(6.080718,-1.9196812)"
-         id="g1093">
-        <circle
-           style="opacity:0.998;fill:#000000;fill-opacity:0;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="path853-80"
-           cx="16.7384"
-           cy="102.16102"
-           r="7" />
-        <text
-           xml:space="preserve"
-           style="font-size:14.107px;line-height:1;font-family:'Lucida Math Std';-inkscape-font-specification:'Lucida Math Std, Normal';letter-spacing:0.220421px;word-spacing:0.220421px;stroke-width:0.220421"
-           x="12.515943"
-           y="107.17906"
-           id="text872-13"><tspan
-             sodipodi:role="line"
-             id="tspan870-6"
-             x="12.515943"
-             y="107.17906"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.107px;font-family:'Special Elite';-inkscape-font-specification:'Special Elite, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.220421">4</tspan></text>
-      </g>
-    </g>
-    <g
-       transform="translate(182.06572,45.906063)"
-       id="g930-1">
-      <g
-         id="g1078">
-        <circle
-           style="opacity:0.998;fill:#000000;fill-opacity:0;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="path853-0"
-           cx="16.7384"
-           cy="102.16102"
-           r="7" />
-        <text
-           xml:space="preserve"
-           style="font-size:14.107px;line-height:1;font-family:'Lucida Math Std';-inkscape-font-specification:'Lucida Math Std, Normal';letter-spacing:0.220421px;word-spacing:0.220421px;stroke-width:0.220421"
-           x="12.801803"
-           y="106.87943"
-           id="text872-3"><tspan
-             sodipodi:role="line"
-             id="tspan870-37"
-             x="12.801803"
-             y="106.87943"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.107px;font-family:'Special Elite';-inkscape-font-specification:'Special Elite, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.220421">3</tspan></text>
-      </g>
-    </g>
-    <g
-       transform="translate(14.405468,-21.622498)"
-       id="g1395">
-      <circle
-         r="7"
-         cy="145.34"
-         cx="184.39865"
-         id="path853-2"
-         style="opacity:0.998;fill:#000000;fill-opacity:0;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <text
-         id="text872-12"
-         y="150.36838"
-         x="180.2623"
-         style="font-size:14.107px;line-height:1;font-family:'Lucida Math Std';-inkscape-font-specification:'Lucida Math Std, Normal';letter-spacing:0.220421px;word-spacing:0.220421px;stroke-width:0.220421"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.107px;font-family:'Special Elite';-inkscape-font-specification:'Special Elite, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.220421"
-           y="150.36838"
-           x="180.2623"
-           id="tspan870-4"
-           sodipodi:role="line">9</tspan></text>
-    </g>
-    <g
-       id="g930-9-8"
-       transform="translate(-3.1907811,45.906063)">
-      <g
-         id="g1063">
+         transform="translate(168.03912,-1.5653176)"
+         id="g1068">
         <circle
            r="7"
            cy="102.16102"
            cx="16.7384"
-           id="path853-8-3"
+           id="path853-9"
            style="opacity:0.998;fill:#000000;fill-opacity:0;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
         <text
-           id="text872-8-4"
-           y="107.04681"
-           x="12.571049"
+           id="text872-0"
+           y="107.2445"
+           x="12.402287"
            style="font-size:14.107px;line-height:1;font-family:'Lucida Math Std';-inkscape-font-specification:'Lucida Math Std, Normal';letter-spacing:0.220421px;word-spacing:0.220421px;stroke-width:0.220421"
            xml:space="preserve"><tspan
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.107px;font-family:'Special Elite';-inkscape-font-specification:'Special Elite, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.220421"
-             y="107.04681"
-             x="12.571049"
-             id="tspan870-8-8"
-             sodipodi:role="line">2</tspan></text>
+             y="107.2445"
+             x="12.402287"
+             id="tspan870-3"
+             sodipodi:role="line">0</tspan></text>
       </g>
     </g>
     <g
-       transform="translate(-66.788026,65.568491)"
-       id="g1098">
+       id="g930-9"
+       transform="translate(-3.1907811,70.379344)">
+      <g
+         id="g1058">
+        <circle
+           r="7"
+           cy="102.16102"
+           cx="16.7384"
+           id="path853-8"
+           style="opacity:0.998;fill:#000000;fill-opacity:0;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <text
+           id="text872-8"
+           y="107.14513"
+           x="12.533163"
+           style="font-size:14.107px;line-height:1;font-family:'Lucida Math Std';-inkscape-font-specification:'Lucida Math Std, Normal';letter-spacing:0.220421px;word-spacing:0.220421px;stroke-width:0.220421"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.107px;font-family:'Special Elite';-inkscape-font-specification:'Special Elite, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.220421"
+             y="107.14513"
+             x="12.533163"
+             id="tspan870-8"
+             sodipodi:role="line">6</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g930-42"
+       transform="translate(120.31357,-2.7931011)">
+      <g
+         id="g1083">
+        <circle
+           r="7"
+           cy="102.16102"
+           cx="16.7384"
+           id="path853-5"
+           style="opacity:0.998;fill:#000000;fill-opacity:0;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <text
+           id="text872-07"
+           y="107.25139"
+           x="12.491835"
+           style="font-size:14.107px;line-height:1;font-family:'Lucida Math Std';-inkscape-font-specification:'Lucida Math Std, Normal';letter-spacing:0.220421px;word-spacing:0.220421px;stroke-width:0.220421"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.107px;font-family:'Special Elite';-inkscape-font-specification:'Special Elite, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.220421"
+             y="107.25139"
+             x="12.491835"
+             id="tspan870-1"
+             sodipodi:role="line">8</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g898"
+       transform="translate(96.986492,42.770836)">
       <circle
          style="opacity:0.998;fill:#000000;fill-opacity:0;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="path853-8-32"
-         cx="142.08781"
-         cy="106.97187"
+         id="path853-3"
+         cx="40.065475"
+         cy="129.64583"
          r="7" />
       <text
          xml:space="preserve"
          style="font-size:14.107px;line-height:1;font-family:'Lucida Math Std';-inkscape-font-specification:'Lucida Math Std, Normal';letter-spacing:0.220421px;word-spacing:0.220421px;stroke-width:0.220421"
-         x="137.86191"
-         y="111.9107"
-         id="text872-8-2"><tspan
+         x="36.087551"
+         y="134.58121"
+         id="text872-1"><tspan
            sodipodi:role="line"
-           id="tspan870-8-5"
-           x="137.86191"
-           y="111.9107"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.107px;font-family:'Special Elite';-inkscape-font-specification:'Special Elite, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.220421">1</tspan></text>
+           id="tspan870-7"
+           x="36.087551"
+           y="134.58121"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.107px;font-family:'Special Elite';-inkscape-font-specification:'Special Elite, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.220421">7</tspan></text>
     </g>
     <g
-       transform="translate(182.06572,70.255646)"
-       id="g930-07-9">
+       id="g930-4"
+       transform="translate(63.484668,28.442401)">
       <g
-         id="g1073-5-6">
+         id="g1093"
+         transform="translate(6.080718,-1.9196812)">
         <circle
            r="7"
            cy="102.16102"
            cx="16.7384"
-           id="path853-1-8"
+           id="path853-80"
            style="opacity:0.998;fill:#000000;fill-opacity:0;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
         <text
-           id="text872-17-5"
-           y="107.02408"
-           x="12.843132"
+           id="text872-13"
+           y="107.17906"
+           x="12.515943"
            style="font-size:14.107px;line-height:1;font-family:'Lucida Math Std';-inkscape-font-specification:'Lucida Math Std, Normal';letter-spacing:0.220421px;word-spacing:0.220421px;stroke-width:0.220421"
            xml:space="preserve"><tspan
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.107px;font-family:'Special Elite';-inkscape-font-specification:'Special Elite, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.220421"
-             y="107.02408"
-             x="12.843132"
+             y="107.17906"
+             x="12.515943"
+             id="tspan870-6"
+             sodipodi:role="line">4</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g930-1"
+       transform="translate(182.06572,45.906063)">
+      <g
+         id="g1078">
+        <circle
+           r="7"
+           cy="102.16102"
+           cx="16.7384"
+           id="path853-0"
+           style="opacity:0.998;fill:#000000;fill-opacity:0;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <text
+           id="text872-3"
+           y="106.87943"
+           x="12.801803"
+           style="font-size:14.107px;line-height:1;font-family:'Lucida Math Std';-inkscape-font-specification:'Lucida Math Std, Normal';letter-spacing:0.220421px;word-spacing:0.220421px;stroke-width:0.220421"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.107px;font-family:'Special Elite';-inkscape-font-specification:'Special Elite, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.220421"
+             y="106.87943"
+             x="12.801803"
+             id="tspan870-37"
+             sodipodi:role="line">3</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1395"
+       transform="translate(14.405468,-21.622498)">
+      <circle
+         style="opacity:0.998;fill:#000000;fill-opacity:0;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path853-2"
+         cx="184.39865"
+         cy="145.34"
+         r="7" />
+      <text
+         xml:space="preserve"
+         style="font-size:14.107px;line-height:1;font-family:'Lucida Math Std';-inkscape-font-specification:'Lucida Math Std, Normal';letter-spacing:0.220421px;word-spacing:0.220421px;stroke-width:0.220421"
+         x="180.2623"
+         y="150.36838"
+         id="text872-12"><tspan
+           sodipodi:role="line"
+           id="tspan870-4"
+           x="180.2623"
+           y="150.36838"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.107px;font-family:'Special Elite';-inkscape-font-specification:'Special Elite, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.220421">9</tspan></text>
+    </g>
+    <g
+       transform="translate(-3.1907811,45.906063)"
+       id="g930-9-8">
+      <g
+         id="g1063">
+        <circle
+           style="opacity:0.998;fill:#000000;fill-opacity:0;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path853-8-3"
+           cx="16.7384"
+           cy="102.16102"
+           r="7" />
+        <text
+           xml:space="preserve"
+           style="font-size:14.107px;line-height:1;font-family:'Lucida Math Std';-inkscape-font-specification:'Lucida Math Std, Normal';letter-spacing:0.220421px;word-spacing:0.220421px;stroke-width:0.220421"
+           x="12.571049"
+           y="107.04681"
+           id="text872-8-4"><tspan
+             sodipodi:role="line"
+             id="tspan870-8-8"
+             x="12.571049"
+             y="107.04681"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.107px;font-family:'Special Elite';-inkscape-font-specification:'Special Elite, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.220421">2</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1098"
+       transform="translate(-66.788026,65.568491)">
+      <circle
+         r="7"
+         cy="106.97187"
+         cx="142.08781"
+         id="path853-8-32"
+         style="opacity:0.998;fill:#000000;fill-opacity:0;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text872-8-2"
+         y="111.9107"
+         x="137.86191"
+         style="font-size:14.107px;line-height:1;font-family:'Lucida Math Std';-inkscape-font-specification:'Lucida Math Std, Normal';letter-spacing:0.220421px;word-spacing:0.220421px;stroke-width:0.220421"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.107px;font-family:'Special Elite';-inkscape-font-specification:'Special Elite, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.220421"
+           y="111.9107"
+           x="137.86191"
+           id="tspan870-8-5"
+           sodipodi:role="line">1</tspan></text>
+    </g>
+    <g
+       id="g930-07-9"
+       transform="translate(182.06572,70.255646)">
+      <g
+         id="g1073-5-6">
+        <circle
+           style="opacity:0.998;fill:#000000;fill-opacity:0;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path853-1-8"
+           cx="16.7384"
+           cy="102.16102"
+           r="7" />
+        <text
+           xml:space="preserve"
+           style="font-size:14.107px;line-height:1;font-family:'Lucida Math Std';-inkscape-font-specification:'Lucida Math Std, Normal';letter-spacing:0.220421px;word-spacing:0.220421px;stroke-width:0.220421"
+           x="12.843132"
+           y="107.02408"
+           id="text872-17-5"><tspan
+             sodipodi:role="line"
              id="tspan870-0-1"
-             sodipodi:role="line">5</tspan></text>
+             x="12.843132"
+             y="107.02408"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.107px;font-family:'Special Elite';-inkscape-font-specification:'Special Elite, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.220421">5</tspan></text>
       </g>
     </g>
   </g>
