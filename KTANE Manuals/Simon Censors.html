@@ -1,0 +1,46 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="initial-scale=1">
+    <title>Simon Censors — Keep Talking and Nobody Explodes Module</title>
+    <link rel="stylesheet" type="text/css" href="css/font.css">
+    <link rel="stylesheet" type="text/css" href="css/normalize.css">
+    <link rel="stylesheet" type="text/css" href="css/main.css">
+    <script src="js/ktane-utils.js"></script>
+    <!-- Remove the whole style tag if empty -->
+    <style>
+        /* Remove this if you do not have any tables */
+        table {
+            margin: 1em auto;
+            border: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="section">
+        <div class="page page-bg-01">
+            <div class="page-header">
+                <span class="page-header-doc-title">Keep Talking and Nobody Explodes Mod</span>
+                <span class="page-header-section-title">Simon Censors</span>
+            </div>
+            <div class="page-content">
+                <img src="img/Component/Module Name.svg" class="diagram">
+                <h2>On the Subject of Simon Censors</h2>
+                <p class="flavour-text">So you say there's a race of men in the trees? Speak on that for a moment.</p>
+				<table style="float:right"><tr><td class="corner"></td><td style="background-color:#c36445"></td><td style="background-color:#c8d122"></td><td style="background-color:#31c019"></td><td style="background-color:#6359f4"></td></tr>
+				<tr><td style="background-color:#c36445"></td><td style="background-color:#c8d122">1</td><td style="background-color:#6359f4">3</td><td style="background-color:#c36445">4</td><td style="background-color:#31c019">5</td></tr>
+				<tr><td style="background-color:#c8d122"></td><td style="background-color:#c36445">2</td><td style="background-color:#31c019">4</td><td style="background-color:#6359f4">4</td><td style="background-color:#c8d122">3</td></tr>
+			    <tr><td style="background-color:#31c019"></td><td style="background-color:#31c019">3</td><td style="background-color:#c36445">5</td><td style="background-color:#c8d122">1</td><td style="background-color:#6359f4">4</td></tr>
+				<tr><td style="background-color:#6359f4"></td><td style="background-color:#6359f4">5</td><td style="background-color:#c8d122">1</td><td style="background-color:#31c019">3</td><td style="background-color:#c36445">2</td></tr></table>
+                <p>Press the circular button in the center of the directional pad to begin broadcasting an excerpt of Bleak House by Charles Dickens narrated by Cynthia Lyons. The live broadcast is on a seven-second delay compared to the version you hear; you will need to bleep out certain words in the live version by using the directional pad. Each bleep lasts 0.5 seconds and cuts off already-playing bleeps; pressing the central button cuts off bleeps with silence. The whole word and no more than a full second before it and a full second after it must be bleeped out; failure to bleep out a word or bleeping out more than is necessary will incur a strike.</p>
+                <p>Take the first digit and the last digit of the serial number modulo 6 to generate two indices, which will be referred to as index A and index B respectfuly. The words that must be bleeped out are the words whose row and column numbers are each of the two indices in the table of words.</p>
+				<table style="float:left"><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>
+                <p>Before the broadcast is started, three pairs of colors will flash, one slightly after another. Using the color that flashed first as the row and the color that flashed second as the column, obtain a sequence of three bleeps. This sequence must be used in order when bleeps are called for. When it is exhausted, a new pair of colors will immediately flash. The sequence of bleeps will then loop, with the bleep obtained from the new pair of colors appended to the end. The number in that table cell will shift one of the indices, starting with index A and alternating; this does not change whether words already heard need to be bleeped out.  If no input is being made, the complete sequence of flashes will play on a loop.</p>
+                <p>When the sequence of bleeps reaches eight total elements,  it will keep looping at that size and the module wll solve seven seconds after the fact. The broadcast can be paused by holding the circular button for a full second; the live version will only be paused after seven seconds.</p>
+            </div>
+            <div class="page-footer relative-footer">Page 1 of 1</div>
+        </div>
+    </div>
+</body>
+</html>
